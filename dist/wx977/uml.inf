@@ -1,0 +1,10 @@
+:uml:wx977:0.031743:111112240:6109:6223-3FFE:
+
+./:
+latex
+
+./latex:
+uml
+
+./latex/uml:
+uml.sty

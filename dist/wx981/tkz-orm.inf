@@ -1,0 +1,13 @@
+:tkz-orm:wx981:0.022581:112031840:4878:F6E1-66FC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tkz-orm
+
+./tex/latex/tkz-orm:
+tkz-orm.sty

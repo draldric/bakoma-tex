@@ -1,0 +1,15 @@
+:tikz-qtree.doc:wx981:0.117163:112031840:104630:3FCF-B680:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tikz-qtree
+
+./doc/latex/tikz-qtree:
+README
+tikz-qtree-manual.pdf
+tikz-qtree-manual.tex

@@ -1,0 +1,13 @@
+:tikzpagenodes:wx981:0.003349:112031840:671:F6D-E168:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tikzpagenodes
+
+./tex/latex/tikzpagenodes:
+tikzpagenodes.sty

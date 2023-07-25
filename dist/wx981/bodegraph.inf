@@ -1,0 +1,13 @@
+:bodegraph:wx981:0.07132:112031840:15575:D54C-2686:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bodegraph
+
+./tex/latex/bodegraph:
+bodegraph.sty

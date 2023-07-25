@@ -1,0 +1,13 @@
+:comicsans.doc:wx943:0.322949:111022772:229461:29A4-CA45:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+comicsans
+
+./doc/latex/comicsans:
+comicsans.pdf

@@ -1,0 +1,10 @@
+:font-conf:wx980:0.059522:112012948:5416:F617-34BA:
+
+./:
+Encoding
+
+./encoding:
+fpl
+
+./encoding/fpl:
+fpl1000.enc

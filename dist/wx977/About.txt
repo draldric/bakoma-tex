@@ -1,0 +1,3 @@
+BaKoMa TeX 9.77 
+handles corretcly PostScript headers whose have unclosed dictionaries.
+One example is pst-solides3d package. Also, we update all another sources ...

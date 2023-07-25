@@ -1,0 +1,13 @@
+:braids:wx981:0.01326:112031840:2921:5D55-F8C1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+braids
+
+./tex/latex/braids:
+braids.sty

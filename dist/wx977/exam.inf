@@ -1,0 +1,13 @@
+:exam:wx977:0.224349:111121260:39172:4643-56C9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+exam
+
+./tex/latex/exam:
+exam.cls

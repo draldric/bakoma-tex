@@ -1,0 +1,15 @@
+:grafcet.doc:wx981:0.478974:112031840:293910:3F13-2622:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+grafcet
+
+./doc/latex/grafcet:
+grafcet.pdf
+grafcet.tex
+README

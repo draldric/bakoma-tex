@@ -1,0 +1,13 @@
+:docmute:wx977:0.000978:111121400:461:12EF-8DE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+docmute
+
+./tex/latex/docmute:
+docmute.sty

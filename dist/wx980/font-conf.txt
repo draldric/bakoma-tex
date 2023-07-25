@@ -1,0 +1,20 @@
+This module is intended to link together fonts distributed in several modules:
+
+TFM		PFB		MAP 		Fonts
+--------	---------	--------	-------
+esint		esint-type1	esint-type1	esint10
+palatino	fpl		psnfss		pplbj8r, pplbij8r, pplrc8r, pplrij8r
+
+
+Dependencies.ini [Trusted]
+; 1012/01/27
+esint=esint-type1
+esint-type1=font-conf
+;esint-type1=esint ; it was wrong code ...
+palatino=fpl
+fpl=font-conf
+
+NOTE: palatino and fpl are already included into bakoma-tex-...exe
+      such that we must also include font-conf.
+
+      Autodownload under linux and Mac we must test separatelly.

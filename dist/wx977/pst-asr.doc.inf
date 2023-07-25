@@ -1,0 +1,17 @@
+:pst-asr.doc:wx977:0.328801:111112240:271096:596F-BBF7:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-asr
+
+./doc/generic/pst-asr:
+pst-asr-doc-source.zip
+pst-asr-doc.pdf
+pst-asr-examples.pdf
+pst-asr-examples.tex
+README

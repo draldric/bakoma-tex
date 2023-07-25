@@ -1,0 +1,17 @@
+:pst-fr3d.doc:wx977:0.225625:111112240:178043:7D66-7A1E:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-fr3d
+
+./doc/generic/pst-fr3d:
+Changes
+pst-fr3d.dtx
+pst-fr3d.ins
+pst-fr3d.pdf
+README

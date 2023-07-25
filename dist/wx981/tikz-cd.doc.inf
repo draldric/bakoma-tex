@@ -1,0 +1,15 @@
+:tikz-cd.doc:wx981:0.307608:112031840:248154:4D71-FC01:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tikz-cd
+
+./doc/latex/tikz-cd:
+README
+tikz-cd-doc.pdf
+tikz-cd-doc.tex

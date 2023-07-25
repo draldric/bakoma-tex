@@ -1,0 +1,15 @@
+:bloques.doc:wx981:0.139829:112031840:124341:7E48-D6C9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bloques
+
+./doc/latex/bloques:
+example.pdf
+example.tex
+README

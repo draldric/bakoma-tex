@@ -1,0 +1,13 @@
+:docmute.doc:wx977:0.092855:111121400:48471:643-D035:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+docmute
+
+./doc/latex/docmute:
+docmute.pdf

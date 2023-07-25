@@ -1,0 +1,13 @@
+:grafcet:wx981:0.020044:112031840:3210:5D19-396B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+grafcet
+
+./tex/latex/grafcet:
+grafcet.sty

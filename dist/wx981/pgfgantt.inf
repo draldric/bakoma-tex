@@ -1,0 +1,13 @@
+:pgfgantt:wx981:0.029223:112031840:4465:705B-B493:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pgfgantt
+
+./tex/latex/pgfgantt:
+pgfgantt.sty

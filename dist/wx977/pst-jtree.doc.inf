@@ -1,0 +1,17 @@
+:pst-jtree.doc:wx977:0.354229:111112240:303563:90BD-9985:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-jtree
+
+./doc/generic/pst-jtree:
+Doc-source.zip
+pst-jtree-doc-add.pdf
+pst-jtree-doc.pdf
+pst-jtree-examples.tex
+README

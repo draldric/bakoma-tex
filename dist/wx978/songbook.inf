@@ -1,0 +1,14 @@
+:songbook:wx978:0.051541:112010200:8993:F138-208C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+songbook
+
+./tex/latex/songbook:
+conditionals.sty
+songbook.sty

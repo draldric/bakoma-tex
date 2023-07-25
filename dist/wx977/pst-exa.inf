@@ -1,0 +1,13 @@
+:pst-exa:wx977:0.00332:111112240:1155:46F-A475:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-exa
+
+./tex/latex/pst-exa:
+pst-exa.sty

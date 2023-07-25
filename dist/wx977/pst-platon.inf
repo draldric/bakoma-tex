@@ -1,0 +1,13 @@
+:pst-platon:wx977:0.011276:111112240:2391:334B-727B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-platon
+
+./tex/latex/pst-platon:
+pst-platon.sty

@@ -1,0 +1,15 @@
+:pst-bspline.doc:wx977:0.183342:111112240:136496:DD6F-FB70:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-bspline
+
+./doc/generic/pst-bspline:
+pst-bspline-doc.pdf
+pst-bspline-doc.tex
+README

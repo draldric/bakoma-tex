@@ -1,0 +1,15 @@
+:pst-eucl.doc:wx977:0.362719:111112240:311374:2251-7654:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-eucl
+
+./doc/generic/pst-eucl:
+Changes
+pst-eucl-doc.pdf
+README

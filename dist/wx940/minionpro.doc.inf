@@ -1,0 +1,16 @@
+:minionpro.doc:wx940:0.432688:110112788:325247:5A0D-B9B6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+minionpro
+
+./doc/latex/minionpro:
+fontaxes.pdf
+minionpro.pdf
+otfontdef.pdf
+tabfigures.pdf

@@ -1,0 +1,13 @@
+:tikz-cd:wx981:0.018189:112031840:3220:1A34-BE2F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tikz-cd
+
+./tex/latex/tikz-cd:
+tikz-cd.sty

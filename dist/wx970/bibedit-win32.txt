@@ -1,0 +1,14 @@
+
+BaKoMa TeX 9.70 includes new version of BibEdit.
+
+This version has new features:
+
+	1) Search feature (just enter desired string in search control)
+	2) Auto save of modified BIB-files more consistent with TeXWord and Centaur.
+	3) Faster load of long BIB-files
+	4) Improved appearance: resizable subwindows, consistent buttons, etc.
+	5) Finally, it is portable and work also under Mac and Linux.
+
+So, in case if users will found bugs in new program 
+we will provide ZIP file with old version.
+

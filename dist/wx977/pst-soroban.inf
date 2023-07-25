@@ -1,0 +1,13 @@
+:pst-soroban:wx977:0.004689:111112240:1267:E93E-24B8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-soroban
+
+./tex/latex/pst-soroban:
+pst-soroban.sty

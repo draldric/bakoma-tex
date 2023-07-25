@@ -1,0 +1,17 @@
+:pst-sigsys.doc:wx977:0.577964:111112240:286478:592C-D1ED:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-sigsys
+
+./doc/generic/pst-sigsys:
+Changes
+pst-sigsys-doc.bib
+pst-sigsys-doc.pdf
+pst-sigsys-doc.tex
+README

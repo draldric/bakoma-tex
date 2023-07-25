@@ -1,0 +1,15 @@
+:reotex.doc:wx981:0.153823:112031840:109464:6F5E-911A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+reotex
+
+./doc/latex/reotex:
+README
+reotex.pdf
+reotex.tex

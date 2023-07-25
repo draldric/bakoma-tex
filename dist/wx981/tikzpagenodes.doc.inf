@@ -1,0 +1,14 @@
+:tikzpagenodes.doc:wx981:0.142329:112031840:141972:D3AD-9659:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tikzpagenodes
+
+./doc/latex/tikzpagenodes:
+README
+tikzpagenodes.pdf

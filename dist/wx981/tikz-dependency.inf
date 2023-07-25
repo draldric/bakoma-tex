@@ -1,0 +1,13 @@
+:tikz-dependency:wx981:0.012236:112031840:3300:6279-845E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tikz-dependency
+
+./tex/latex/tikz-dependency:
+tikz-dependency.sty

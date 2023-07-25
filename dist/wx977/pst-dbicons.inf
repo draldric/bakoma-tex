@@ -1,0 +1,13 @@
+:pst-dbicons:wx977:0.01227:111112240:2756:2EAF-9C1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-dbicons
+
+./tex/latex/pst-dbicons:
+pst-dbicons.sty

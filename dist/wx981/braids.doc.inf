@@ -1,0 +1,16 @@
+:braids.doc:wx981:0.321983:112031840:292716:58A1-8694:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+braids
+
+./doc/latex/braids:
+braids.dtx
+braids_doc.pdf
+braids_doc.tex
+README

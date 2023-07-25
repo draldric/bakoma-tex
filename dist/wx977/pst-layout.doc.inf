@@ -1,0 +1,15 @@
+:pst-layout.doc:wx977:0.111903:111112240:82279:CB92-8D5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pst-layout
+
+./doc/latex/pst-layout:
+pst-layout-doc.pdf
+pst-layout-doc.tex
+README

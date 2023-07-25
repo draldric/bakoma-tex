@@ -1,0 +1,17 @@
+:pst-dbicons.doc:wx977:0.194903:111112240:141914:69BA-CCD2:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-dbicons
+
+./doc/generic/pst-dbicons:
+mondial-ER.tex
+pst-dbicons.dtx
+pst-dbicons.ins
+pst-dbicons.pdf
+README

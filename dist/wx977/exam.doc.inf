@@ -1,0 +1,16 @@
+:exam.doc:wx977:1.02106:111121260:514877:315F-2091:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+exam
+
+./doc/latex/exam:
+exam-2.4.md5
+examdoc.pdf
+examdoc.tex
+README

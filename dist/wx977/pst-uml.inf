@@ -1,0 +1,13 @@
+:pst-uml:wx977:0.027361:111112240:6914:B4CF-63BE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-uml
+
+./tex/latex/pst-uml:
+pst-uml.sty

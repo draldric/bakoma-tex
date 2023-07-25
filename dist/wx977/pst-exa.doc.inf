@@ -1,0 +1,16 @@
+:pst-exa.doc:wx977:0.220259:111112240:219985:77EB-3A45:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-exa
+
+./doc/generic/pst-exa:
+Changes
+pst-exa-doc.pdf
+pst-exa-doc.tex
+README

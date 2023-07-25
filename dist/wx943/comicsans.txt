@@ -1,0 +1,8 @@
+
+NOTE: This package may be used only with BaKoMa TeX build after 2011/02/27
+      It may be available as version 9.44 or 9.45
+
+      It is becasue of error of handling TeXMathSymbolEncoding.
+      Error fixed 2011/02/07 in ProcSet/MakeMap.pro::.MakeMapping
+      Error is raised at attempt of conversion of 'univers' name
+      into unicode value. 

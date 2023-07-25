@@ -1,0 +1,13 @@
+:pst-layout:wx977:0.011398:111112240:3320:ED78-736D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-layout
+
+./tex/latex/pst-layout:
+pst-layout.sty

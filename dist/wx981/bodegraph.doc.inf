@@ -1,0 +1,15 @@
+:bodegraph.doc:wx981:0.424672:112031840:321064:7B32-4DB2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bodegraph
+
+./doc/latex/bodegraph:
+bodegraph.pdf
+bodegraph.tex
+README

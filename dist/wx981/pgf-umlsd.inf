@@ -1,0 +1,13 @@
+:pgf-umlsd:wx981:0.010041:112031840:2878:D432-FD55:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pgf-umlsd
+
+./tex/latex/pgf-umlsd:
+pgf-umlsd.sty

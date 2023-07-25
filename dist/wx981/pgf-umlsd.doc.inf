@@ -1,0 +1,17 @@
+:pgf-umlsd.doc:wx981:0.094963:112031840:88345:FD05-35F3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pgf-umlsd
+
+./doc/latex/pgf-umlsd:
+pgf-umlsd-demo.pdf
+pgf-umlsd-demo.tex
+pgf-umlsd-demo2.pdf
+pgf-umlsd-demo2.tex
+README

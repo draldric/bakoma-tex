@@ -1,0 +1,13 @@
+:reotex:wx981:0.021285:112031840:3463:C8DE-1EC4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+reotex
+
+./tex/latex/reotex:
+reotex.sty

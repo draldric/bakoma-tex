@@ -1,0 +1,13 @@
+:pst-am:wx977:0.011:111112240:2603:D6B8-F90F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-am
+
+./tex/latex/pst-am:
+pst-am.sty

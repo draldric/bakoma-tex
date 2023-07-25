@@ -1,0 +1,15 @@
+:pst-solides3d.doc:wx977:5.01018:111112240:4528975:9EFC-966B:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-solides3d
+
+./doc/generic/pst-solides3d:
+Changes
+pst-solides3d-doc.pdf
+README

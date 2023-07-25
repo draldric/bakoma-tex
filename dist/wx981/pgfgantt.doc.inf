@@ -1,0 +1,14 @@
+:pgfgantt.doc:wx981:0.786699:112031840:781851:1F99-CD85:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pgfgantt
+
+./doc/latex/pgfgantt:
+pgfgantt.pdf
+README

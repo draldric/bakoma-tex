@@ -1,0 +1,21 @@
+
+psfonts.bkz
+   removed files already included in ctan modules:
+	 psnfss, times, helvetic, courier, avantgar, bookman, ncntrsbk, palatino,
+	 symbol, zapfchan, zapfding, 
+
+   Also, we preserve previous font configuration.
+
+   Note, that all mentioned CTAn modules must be processed at once,
+   because in them fonts and MAp files are distributed between each other.
+
+NOTE: SymbolEncoding (symbol.enc) has been moved from Winfonts.bkz 
+	to psfonts.bkz
+
+2011/03/11 - All PostScript fonts are substituted by default by Nimbus fonts.
+	     In such way I hope to have less surprises with system fonts.
+
+	However, I make two sections: [PSAliases-WinCore] with old records.
+	and [PSAliases-Nimbus] with new records.
+	The idea for future is that some tool will help user to move 
+	these sections to [PSAliases] section ...

@@ -1,0 +1,13 @@
+:bloques:wx981:0.009096:112031840:1361:324E-431:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bloques
+
+./tex/latex/bloques:
+bloques.sty

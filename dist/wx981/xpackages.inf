@@ -1,0 +1,13 @@
+:xpackages:wx981:0.000113:112033168:109:FF04-4EFD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xpackages
+
+./tex/latex/xpackages:
+readme.txt
