@@ -1,0 +1,13 @@
+:parallel:ctan:0.02048:109070284:3285:33F5-A17D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+parallel
+
+./tex/latex/parallel:
+parallel.sty

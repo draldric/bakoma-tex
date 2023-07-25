@@ -1,0 +1,15 @@
+:lps.doc:ctan:0.45056:109070284:416386:2741-F44D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lps
+
+./doc/latex/lps:
+lps.pdf
+lpstemplate.tex
+readme

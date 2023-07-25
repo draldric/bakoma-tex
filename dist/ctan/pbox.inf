@@ -1,0 +1,13 @@
+:pbox:ctan:0.01024:109070284:968:1F7F-6595:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pbox
+
+./tex/latex/pbox:
+pbox.sty

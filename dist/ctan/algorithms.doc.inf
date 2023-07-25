@@ -1,0 +1,17 @@
+:algorithms.doc:ctan:0.4608:109070284:378009:8F6D-19B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+algorithms
+
+./doc/latex/algorithms:
+algorithms.pdf
+algorithms.tex
+copying
+readme
+thanks

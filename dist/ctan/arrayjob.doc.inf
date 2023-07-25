@@ -1,0 +1,15 @@
+:arrayjob.doc:ctan:0.54272:109070284:382151:EC32-7CDF:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+arrayjob
+
+./doc/generic/arrayjob:
+arrayjob.doc
+arrayjob.pdf
+readme

@@ -1,0 +1,16 @@
+:varindex.doc:ctan:0.4096:109070284:328897:D50C-7867:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+varindex
+
+./doc/latex/varindex:
+readme
+varindex.pdf
+varindex.tex
+varindex.txt

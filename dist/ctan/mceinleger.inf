@@ -1,0 +1,13 @@
+:mceinleger:ctan:0.01024:109070284:635:1678-73FA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mceinleger
+
+./tex/latex/mceinleger:
+mceinleger.sty

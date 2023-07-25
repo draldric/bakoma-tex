@@ -1,0 +1,17 @@
+:frenchle:ctan:0.1024:109070284:20163:3E22-9A33:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+frenchle
+
+./tex/latex/frenchle:
+babelfr.sty
+french.ldf
+frenchle.cfg
+frenchle.ldf
+frenchle.sty

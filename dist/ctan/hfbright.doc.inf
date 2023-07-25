@@ -1,0 +1,13 @@
+:hfbright.doc:ctan:0.01024:109070284:1491:3E8-366E:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+hfbright
+
+./doc/fonts/hfbright:
+readme

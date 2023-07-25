@@ -1,0 +1,14 @@
+:nomentbl.source:ctan:0.03072:109070284:5777:65F7-574:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+nomentbl
+
+./source/latex/nomentbl:
+nomentbl.dtx
+nomentbl.ins

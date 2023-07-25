@@ -1,0 +1,13 @@
+:robustcommand:ctan:0.01024:109070284:770:1BC3-A353:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+robustcommand
+
+./tex/latex/robustcommand:
+robustcommand.sty

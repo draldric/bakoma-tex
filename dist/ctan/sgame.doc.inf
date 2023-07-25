@@ -1,0 +1,15 @@
+:sgame.doc:ctan:0.11264:109070284:76264:A40B-9F11:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sgame
+
+./doc/latex/sgame:
+readme
+sgame.pdf
+sgame.tex

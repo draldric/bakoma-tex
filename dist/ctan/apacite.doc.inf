@@ -1,0 +1,15 @@
+:apacite.doc:ctan:0.59392:109070284:473505:AF8F-253F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+apacite
+
+./doc/latex/apacite:
+apa5ex.bib
+apacite.pdf
+readme

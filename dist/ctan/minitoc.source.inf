@@ -1,0 +1,15 @@
+:minitoc.source:ctan:2.88768:109070284:396316:E15D-95DB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+minitoc
+
+./source/latex/minitoc:
+minitoc-fr.dtx
+minitoc.dtx
+minitoc.ins

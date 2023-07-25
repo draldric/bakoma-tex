@@ -1,0 +1,14 @@
+:etoolbox:ctan:0.04096:109070284:5776:333-FACF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+etoolbox
+
+./tex/latex/etoolbox:
+etoolbox.def
+etoolbox.sty

@@ -1,0 +1,15 @@
+:glyphlist:ctan:0.09216:109070284:22456:F088-97E5:
+
+./:
+fonts
+
+./fonts:
+map
+
+./fonts/map:
+glyphlist
+
+./fonts/map/glyphlist:
+glyphlist.txt
+pdfglyphlist.txt
+texglyphlist.txt

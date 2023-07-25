@@ -1,0 +1,13 @@
+:fn2end:ctan:0.01024:109070284:1123:676E-AD2F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fn2end
+
+./tex/latex/fn2end:
+fn2end.sty

@@ -1,0 +1,14 @@
+:ulsy.doc:ctan:0.08192:109070284:60821:95D5-FC9A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ulsy
+
+./doc/latex/ulsy:
+readme
+ulsy.pdf

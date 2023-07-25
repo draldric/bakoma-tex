@@ -1,0 +1,14 @@
+:sagetex.source:ctan:0.07168:109070284:18601:4093-39C3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sagetex
+
+./source/latex/sagetex:
+sagetexpackage.dtx
+sagetexpackage.ins

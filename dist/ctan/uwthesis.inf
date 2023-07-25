@@ -1,0 +1,13 @@
+:uwthesis:ctan:0.04096:109070284:7777:6A40-61F9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+uwthesis
+
+./tex/latex/uwthesis:
+uwthesis.cls

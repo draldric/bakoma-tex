@@ -1,0 +1,14 @@
+:perltex.doc:ctan:0.33792:109070284:257111:9FE8-40C6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+perltex
+
+./doc/latex/perltex:
+perltex.pdf
+readme

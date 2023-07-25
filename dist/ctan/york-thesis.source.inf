@@ -1,0 +1,14 @@
+:york-thesis.source:ctan:0.0512:109070284:12275:B9CD-B45F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+york-thesis
+
+./source/latex/york-thesis:
+york-thesis.dtx
+york-thesis.ins

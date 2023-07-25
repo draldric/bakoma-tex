@@ -1,0 +1,17 @@
+:timing.doc:ctan:0.04096:109070284:9452:1D17-5C1C:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+timing
+
+./doc/fonts/timing:
+prozt1.tex
+read.me
+tim0594.upl
+timing.dvi
+timing.tex

@@ -1,0 +1,16 @@
+:chemscheme.doc:ctan2:0.26453:109082536:179435:A1F3-A54:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+chemscheme
+
+./doc/latex/chemscheme:
+chemscheme.pdf
+readme
+scheme-one.eps
+scheme-two.eps

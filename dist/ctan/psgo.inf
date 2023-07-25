@@ -1,0 +1,13 @@
+:psgo:ctan:0.02048:109070284:2697:F372-6CFA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+psgo
+
+./tex/latex/psgo:
+psgo.sty

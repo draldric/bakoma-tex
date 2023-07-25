@@ -1,0 +1,14 @@
+:hyperref-docsrc.doc:ctan:0.256:109070284:247575:195-96C2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hyperref-docsrc
+
+./doc/latex/hyperref-docsrc:
+paperslides99.zip
+readme

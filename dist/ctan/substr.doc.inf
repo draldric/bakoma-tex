@@ -1,0 +1,16 @@
+:substr.doc:ctan:0.03072:109070284:17059:11EA-8FD9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+substr
+
+./doc/latex/substr:
+changelog
+readme
+testsubstr.pdf
+testsubstr.tex

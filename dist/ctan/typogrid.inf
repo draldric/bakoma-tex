@@ -1,0 +1,13 @@
+:typogrid:ctan:0.01024:109070284:1090:A64A-AE50:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+typogrid
+
+./tex/latex/typogrid:
+typogrid.sty

@@ -1,0 +1,16 @@
+:pracjourn.doc:ctan:0.44032:109070284:385821:FDF3-5DC9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pracjourn
+
+./doc/latex/pracjourn:
+pjsample.ltx
+pjsample.pdf
+pracjourn.pdf
+readme

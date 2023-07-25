@@ -1,0 +1,13 @@
+:ushort:ctan:0.01024:109070284:1238:EF25-B418:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ushort
+
+./tex/latex/ushort:
+ushort.sty

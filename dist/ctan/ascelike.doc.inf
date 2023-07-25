@@ -1,0 +1,16 @@
+:ascelike.doc:ctan:0.3072:109070284:113469:DD72-6F70:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ascelike
+
+./doc/latex/ascelike:
+ascexmpl.pdf
+ascexmpl.ps
+ascexmpl.tex
+readme

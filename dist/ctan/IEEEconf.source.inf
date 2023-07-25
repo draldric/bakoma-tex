@@ -1,0 +1,14 @@
+:IEEEconf.source:ctan:0.0512:109070284:12276:91BC-EC5B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ieeeconf
+
+./source/latex/ieeeconf:
+ieeeconf.dtx
+ieeeconf.ins

@@ -1,0 +1,14 @@
+:epiolmec.source:ctan:0.04096:109070284:6273:BE6B-879F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+epiolmec
+
+./source/latex/epiolmec:
+epiolmec.dtx
+epiolmec.ins

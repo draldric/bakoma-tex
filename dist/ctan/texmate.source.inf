@@ -1,0 +1,14 @@
+:texmate.source:ctan:0.04096:109070284:6372:CB5C-6B05:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+texmate
+
+./source/latex/texmate:
+texmate.dtx
+texmate.ins

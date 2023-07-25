@@ -1,0 +1,14 @@
+:tocbibind.source:ctan:0.0512:109070284:12629:31D5-D560:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tocbibind
+
+./source/latex/tocbibind:
+tocbibind.dtx
+tocbibind.ins

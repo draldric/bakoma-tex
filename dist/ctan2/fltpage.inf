@@ -1,0 +1,13 @@
+:fltpage:ctan2:0.007375:109070768:2113:448F-61F9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fltpage
+
+./tex/latex/fltpage:
+fltpage.sty

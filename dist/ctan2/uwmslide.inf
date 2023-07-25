@@ -1,0 +1,13 @@
+:uwmslide:ctan2:0.014209:109070768:3337:5570-5010:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+uwmslide
+
+./tex/latex/uwmslide:
+uwmslide.cls

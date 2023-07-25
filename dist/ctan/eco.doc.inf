@@ -1,0 +1,17 @@
+:eco.doc:ctan:0.03072:109070284:8066:2F1D-B975:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+eco
+
+./doc/fonts/eco:
+changes
+copying
+install
+readme
+version

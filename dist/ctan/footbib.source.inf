@@ -1,0 +1,14 @@
+:footbib.source:ctan:0.1024:109070284:22064:4AEE-1E3A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+footbib
+
+./source/latex/footbib:
+footbib.dtx
+footbib.ins

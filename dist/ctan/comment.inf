@@ -1,0 +1,13 @@
+:comment:ctan:0.02048:109070284:3219:497F-84E6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+comment
+
+./tex/latex/comment:
+comment.sty

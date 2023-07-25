@@ -1,0 +1,15 @@
+:plari.source:ctan:0.02048:109070284:3284:9856-DE2B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+plari
+
+./source/latex/plari:
+makefile
+plari.dtx
+plari.ins

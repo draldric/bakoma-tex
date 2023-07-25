@@ -1,0 +1,14 @@
+:eCards:ctan:0.02048:109070284:3708:DB17-7109:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ecards
+
+./tex/latex/ecards:
+ecards.sty
+ecardslist.def

@@ -1,0 +1,14 @@
+:pst-gr3d.source:ctan:0.04096:109070284:8535:69FD-2264:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pst-gr3d
+
+./source/latex/pst-gr3d:
+pst-gr3d.dtx
+pst-gr3d.ins

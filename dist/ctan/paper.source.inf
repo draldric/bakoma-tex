@@ -1,0 +1,14 @@
+:paper.source:ctan:0.08192:109070284:16373:9F12-EB2F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+paper
+
+./source/latex/paper:
+paper.drv
+paper.dtx

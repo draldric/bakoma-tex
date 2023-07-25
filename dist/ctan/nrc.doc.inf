@@ -1,0 +1,16 @@
+:nrc.doc:ctan:0.3072:109070284:207296:5032-380A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+nrc
+
+./doc/latex/nrc:
+authors.txt
+readme
+userguide.pdf
+userguide.tex

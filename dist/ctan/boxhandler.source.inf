@@ -1,0 +1,14 @@
+:boxhandler.source:ctan:0.1024:109070284:21846:EE2-A388:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+boxhandler
+
+./source/latex/boxhandler:
+boxhandler.dtx
+boxhandler.ins

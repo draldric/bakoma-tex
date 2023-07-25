@@ -1,0 +1,17 @@
+:auncial-new.source:ctan:0.256:109070284:33286:6269-D546:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+auncial-new
+
+./source/fonts/auncial-new:
+auncial.dtx
+auncial.ins
+aunclmfb.dtx
+aunclmfc.dtx
+aunclmft.dtx

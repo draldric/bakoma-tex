@@ -1,0 +1,14 @@
+:forloop.source:ctan:0.01024:109070284:2328:B9FD-E25A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+forloop
+
+./source/latex/forloop:
+forloop.dtx
+forloop.ins

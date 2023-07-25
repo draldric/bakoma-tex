@@ -1,0 +1,14 @@
+:refstyle:ctan:0.03072:109070284:4455:4026-2BFC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+refstyle
+
+./tex/latex/refstyle:
+refstyle.cfg
+refstyle.sty

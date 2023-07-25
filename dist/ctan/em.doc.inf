@@ -1,0 +1,13 @@
+:em.doc:ctan:0.02048:109070284:4357:38B7-5BB2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+em
+
+./doc/latex/em:
+em.txt

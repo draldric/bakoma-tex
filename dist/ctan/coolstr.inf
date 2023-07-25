@@ -1,0 +1,13 @@
+:coolstr:ctan:0.02048:109070284:1864:7545-5CDD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+coolstr
+
+./tex/latex/coolstr:
+coolstr.sty

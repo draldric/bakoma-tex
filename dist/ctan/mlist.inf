@@ -1,0 +1,14 @@
+:mlist:ctan:0.02048:109070284:2582:810F-75D6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mlist
+
+./tex/latex/mlist:
+mlist.cfg
+mlist.sty

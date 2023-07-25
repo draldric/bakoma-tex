@@ -1,0 +1,15 @@
+:showlabels.source:ctan:0.0512:109070284:11459:527B-29AE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+showlabels
+
+./source/latex/showlabels:
+showlabels.drv
+showlabels.dtx
+showlabels.ins

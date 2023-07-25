@@ -1,0 +1,15 @@
+:plweb:ctan:0.02048:109070284:3231:B4E2-5EF5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+plweb
+
+./tex/latex/plweb:
+pcode.sty
+pl.cfg
+pl.sty

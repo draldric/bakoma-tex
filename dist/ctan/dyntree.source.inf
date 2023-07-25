@@ -1,0 +1,14 @@
+:dyntree.source:ctan:0.0512:109070284:8481:7E03-9FA4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dyntree
+
+./source/latex/dyntree:
+dyntree.dtx
+dyntree.ins

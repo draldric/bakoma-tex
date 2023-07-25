@@ -1,0 +1,14 @@
+:ppr-prv:ctan:0.03072:109070284:5195:24DD-DDFB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ppr-prv
+
+./tex/latex/ppr-prv:
+hap-ppr-prv.def
+ppr-prv.cls

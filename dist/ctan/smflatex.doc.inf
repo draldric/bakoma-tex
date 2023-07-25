@@ -1,0 +1,16 @@
+:smflatex.doc:ctan:0.06144:109070284:15519:7655-95C4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+smflatex
+
+./doc/latex/smflatex:
+alire
+e-doc.tex
+f-doc.tex
+readme

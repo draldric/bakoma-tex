@@ -1,0 +1,14 @@
+:bidi.source:ctan:0.04096:109070284:10123:52C6-B1B0:
+
+./:
+source
+
+./source:
+xelatex
+
+./source/xelatex:
+bidi
+
+./source/xelatex/bidi:
+bidi.dtx
+bidi.ins

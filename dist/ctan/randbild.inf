@@ -1,0 +1,13 @@
+:randbild:ctan:0.01024:109070284:1140:6543-6E5E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+randbild
+
+./tex/latex/randbild:
+randbild.sty

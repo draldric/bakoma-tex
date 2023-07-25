@@ -1,0 +1,13 @@
+:treesvr:ctan2:0.004019:109070768:773:3BA8-E0D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+treesvr
+
+./tex/latex/treesvr:
+trees.sty

@@ -1,0 +1,13 @@
+:bibunits:ctan:0.02048:109070284:2452:F53C-52EF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bibunits
+
+./tex/latex/bibunits:
+bibunits.sty

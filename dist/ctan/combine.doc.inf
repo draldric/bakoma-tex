@@ -1,0 +1,14 @@
+:combine.doc:ctan:0.36864:109070284:307510:A986-47EE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+combine
+
+./doc/latex/combine:
+combine.pdf
+readme

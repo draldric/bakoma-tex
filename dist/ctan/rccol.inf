@@ -1,0 +1,13 @@
+:rccol:ctan:0.01024:109070284:1701:586C-8CCB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+rccol
+
+./tex/latex/rccol:
+rccol.sty

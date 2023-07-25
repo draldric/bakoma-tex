@@ -1,0 +1,14 @@
+:listliketab.doc:ctan:0.1536:109070284:120616:32FB-592E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+listliketab
+
+./doc/latex/listliketab:
+listliketab.pdf
+readme

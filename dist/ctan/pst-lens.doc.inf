@@ -1,0 +1,15 @@
+:pst-lens.doc:ctan:0.50176:109070284:454073:4A1D-D025:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-lens
+
+./doc/generic/pst-lens:
+changes
+pst-lens.pdf
+readme

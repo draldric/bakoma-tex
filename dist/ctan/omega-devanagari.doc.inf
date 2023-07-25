@@ -1,0 +1,13 @@
+:omega-devanagari.doc:ctan:0.59392:109070284:583901:96B9-ED00:
+
+./:
+doc
+
+./doc:
+omega
+
+./doc/omega:
+omega-devanagari
+
+./doc/omega/omega-devanagari:
+india.ps.gz

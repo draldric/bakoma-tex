@@ -1,0 +1,15 @@
+:dictsym.doc:ctan:0.04096:109070284:19439:7258-6431:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+dictsym
+
+./doc/fonts/dictsym:
+dictsym.pdf
+dictsym.tex
+readme

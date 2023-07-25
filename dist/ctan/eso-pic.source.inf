@@ -1,0 +1,15 @@
+:eso-pic.source:ctan:0.03072:109070284:6425:C899-532B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+eso-pic
+
+./source/latex/eso-pic:
+eso-pic.dtx
+eso-pic.ins
+makefile

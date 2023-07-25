@@ -1,0 +1,13 @@
+:tdclock:ctan:0.02048:109070284:2430:8B3F-F9E8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tdclock
+
+./tex/latex/tdclock:
+tdclock.sty

@@ -1,0 +1,14 @@
+:ibycus-babel.source:ctan:0.03072:109070284:7563:D2C8-C69F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ibycus-babel
+
+./source/latex/ibycus-babel:
+ibycus-babel.dtx
+ibycus-babel.ins

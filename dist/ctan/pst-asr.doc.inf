@@ -1,0 +1,17 @@
+:pst-asr.doc:ctan:0.33792:109070284:271094:E4B7-7445:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-asr
+
+./doc/generic/pst-asr:
+pst-asr-doc-source.zip
+pst-asr-doc.pdf
+pst-asr-examples.pdf
+pst-asr-examples.tex
+readme

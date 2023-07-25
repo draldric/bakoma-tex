@@ -1,0 +1,14 @@
+:jeopardy:ctan:0.03072:109070284:5566:3F55-1EC6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+jeopardy
+
+./tex/latex/jeopardy:
+jeopardy.cfg
+jeopardy.sty

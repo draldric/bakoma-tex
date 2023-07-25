@@ -1,0 +1,13 @@
+:cclicenses:ctan:0.01024:109070284:1199:B0AA-3F45:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cclicenses
+
+./tex/latex/cclicenses:
+cclicenses.sty

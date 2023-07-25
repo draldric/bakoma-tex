@@ -1,0 +1,14 @@
+:esint.source:ctan:0.06144:109070284:6106:170-EE2C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+esint
+
+./source/latex/esint:
+esint.dtx
+esint.ins

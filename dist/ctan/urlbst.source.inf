@@ -1,0 +1,15 @@
+:urlbst.source:ctan:0.09216:109070284:19651:7768-3A66:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+urlbst
+
+./source/latex/urlbst:
+configure
+configure.ac
+makefile.in

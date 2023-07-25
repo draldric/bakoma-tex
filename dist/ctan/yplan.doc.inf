@@ -1,0 +1,17 @@
+:yplan.doc:ctan:0.04096:109070284:7467:F3CE-E528:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+yplan
+
+./doc/latex/yplan:
+yplan
+yplan.doc
+yplan00.doc
+yplan00a.tex
+yplan00b.tex

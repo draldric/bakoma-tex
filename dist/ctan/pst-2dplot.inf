@@ -1,0 +1,13 @@
+:pst-2dplot:ctan:0.01024:109070284:1444:33C8-502E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-2dplot
+
+./tex/latex/pst-2dplot:
+pst-2dplot.sty

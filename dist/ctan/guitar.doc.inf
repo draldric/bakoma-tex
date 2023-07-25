@@ -1,0 +1,14 @@
+:guitar.doc:ctan:0.02048:109070284:4713:74F0-34FE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+guitar
+
+./doc/latex/guitar:
+guitar.tex
+guitar.txt

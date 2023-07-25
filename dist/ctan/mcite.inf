@@ -1,0 +1,13 @@
+:mcite:ctan:0.01024:109070284:2219:5A2F-1C9E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mcite
+
+./tex/latex/mcite:
+mcite.sty

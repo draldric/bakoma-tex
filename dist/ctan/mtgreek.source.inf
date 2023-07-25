@@ -1,0 +1,14 @@
+:mtgreek.source:ctan:0.01024:109070284:2558:5856-5D83:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mtgreek
+
+./source/latex/mtgreek:
+mtgreek.dtx
+mtgreek.ins

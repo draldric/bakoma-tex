@@ -1,0 +1,13 @@
+:flagderiv:ctan:0.01024:109070284:1645:D882-D19:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+flagderiv
+
+./tex/latex/flagderiv:
+flagderiv.sty

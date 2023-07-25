@@ -1,0 +1,15 @@
+:pst-3d.doc:ctan:0.256:109070284:205420:5234-7770:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-3d
+
+./doc/generic/pst-3d:
+changes
+pst-3d.pdf
+readme

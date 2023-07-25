@@ -1,0 +1,13 @@
+:layouts:ctan:0.11264:109070284:13038:33CD-761D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+layouts
+
+./tex/latex/layouts:
+layouts.sty

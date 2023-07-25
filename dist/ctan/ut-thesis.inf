@@ -1,0 +1,13 @@
+:ut-thesis:ctan:0.04096:109070284:8069:C967-2E95:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ut-thesis
+
+./tex/latex/ut-thesis:
+ut-thesis.cls

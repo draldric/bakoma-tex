@@ -1,0 +1,15 @@
+:grverb.source:ctan:0.03072:109070284:5568:425F-8E43:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+grverb
+
+./source/latex/grverb:
+grcour7t.vpl
+grverb.dtx
+grverb.ins

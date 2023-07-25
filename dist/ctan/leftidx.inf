@@ -1,0 +1,13 @@
+:leftidx:ctan:0.01024:109070284:563:DAFA-5968:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+leftidx
+
+./tex/latex/leftidx:
+leftidx.sty

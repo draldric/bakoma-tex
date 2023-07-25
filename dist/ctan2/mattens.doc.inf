@@ -1,0 +1,15 @@
+:mattens.doc:ctan2:0.648954:109073044:461906:C292-642F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mattens
+
+./doc/latex/mattens:
+mattens.pdf
+mtsample.pdf
+mtsample_src.zip

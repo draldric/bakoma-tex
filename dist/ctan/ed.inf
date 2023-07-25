@@ -1,0 +1,13 @@
+:ed:ctan:0.01024:109070284:1657:8499-5734:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ed
+
+./tex/latex/ed:
+ed.sty

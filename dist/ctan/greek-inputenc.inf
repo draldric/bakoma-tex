@@ -1,0 +1,14 @@
+:greek-inputenc:ctan:0.02048:109070284:1437:99BD-2300:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+greek-inputenc
+
+./tex/latex/greek-inputenc:
+iso-8859-7.def
+macgreek.def

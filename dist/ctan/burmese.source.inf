@@ -1,0 +1,13 @@
+:burmese.source:ctan:0.02048:109070284:3183:7963-2EC7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+burmese
+
+./source/latex/burmese:
+birm.pl

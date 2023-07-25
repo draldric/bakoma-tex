@@ -1,0 +1,15 @@
+:tikz-timing.source:ctan:0.11264:109070284:22596:41EE-BF01:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tikz-timing
+
+./source/latex/tikz-timing:
+makefile
+tikz-timing.dtx
+tikz-timing.ins

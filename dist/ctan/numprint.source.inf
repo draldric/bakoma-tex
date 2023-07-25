@@ -1,0 +1,17 @@
+:numprint.source:ctan:0.256:109070284:43177:ABD4-9499:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+numprint
+
+./source/latex/numprint:
+makefile
+nbaseprt.dtx
+numprint.dtx
+numprint.ins
+numprint032.dtx

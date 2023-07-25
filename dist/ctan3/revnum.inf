@@ -1,0 +1,13 @@
+:revnum:ctan3:0.002005:109070768:809:A14A-8034:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+revnum
+
+./tex/latex/revnum:
+revnum.sty

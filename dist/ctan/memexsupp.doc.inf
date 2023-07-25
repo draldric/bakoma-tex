@@ -1,0 +1,15 @@
+:memexsupp.doc:ctan:0.14336:109070284:121201:ADA6-6431:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+memexsupp
+
+./doc/latex/memexsupp:
+memexsupp.pdf
+memexsupp.tex
+readme

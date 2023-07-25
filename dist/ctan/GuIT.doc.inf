@@ -1,0 +1,16 @@
+:GuIT.doc:ctan:0.34816:109070284:261939:8DA0-24F3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+guit
+
+./doc/latex/guit:
+guit.pdf
+guittest.pdf
+guittest.tex
+readme

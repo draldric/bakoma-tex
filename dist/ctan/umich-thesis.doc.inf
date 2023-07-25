@@ -1,0 +1,13 @@
+:umich-thesis.doc:ctan:0.01024:109070284:652:C4CA-5290:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+umich-thesis
+
+./doc/latex/umich-thesis:
+readme

@@ -1,0 +1,14 @@
+:coolstr.source:ctan:0.04096:109070284:5902:8FB1-DF21:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+coolstr
+
+./source/latex/coolstr:
+coolstr.dtx
+coolstr.ins

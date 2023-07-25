@@ -1,0 +1,13 @@
+:showlabels:ctan:0.02048:109070284:2552:11FB-97A9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+showlabels
+
+./tex/latex/showlabels:
+showlabels.sty

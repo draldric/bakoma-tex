@@ -1,0 +1,13 @@
+:ted:ctan:0.02048:109070284:2456:B199-BF36:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ted
+
+./tex/latex/ted:
+ted.sty

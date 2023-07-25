@@ -1,0 +1,14 @@
+:shuffle.doc:ctan:0.3072:109070284:279375:C647-7F01:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+shuffle
+
+./doc/latex/shuffle:
+readme
+shuffle.pdf

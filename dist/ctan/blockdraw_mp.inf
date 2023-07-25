@@ -1,0 +1,15 @@
+:blockdraw_mp:ctan:0.03072:109070284:4328:CA92-C087:
+
+./:
+metapost
+
+./metapost:
+blockdraw_mp
+
+./metapost/blockdraw_mp:
+blockdraw.mp
+bonddemo.mp
+bondgraph.mp
+cascadedemo.mp
+docblockprefs.mp
+shiftoff.mp

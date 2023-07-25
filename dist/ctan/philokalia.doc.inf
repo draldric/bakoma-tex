@@ -1,0 +1,13 @@
+:philokalia.doc:ctan:0.11264:109070284:88593:FCC0-4A7A:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+philokalia
+
+./doc/xelatex/philokalia:
+philokalia.pdf

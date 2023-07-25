@@ -1,0 +1,15 @@
+:maybemath.doc:ctan:0.08192:109070284:59845:6A4C-4A28:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+maybemath
+
+./doc/latex/maybemath:
+maybemath.pdf
+maybemath.tex
+readme

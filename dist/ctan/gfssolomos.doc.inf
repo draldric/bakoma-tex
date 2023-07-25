@@ -1,0 +1,17 @@
+:gfssolomos.doc:ctan:0.09216:109070284:52320:2A7D-A31:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+gfssolomos
+
+./doc/fonts/gfssolomos:
+gfssolomos.pdf
+gfssolomos.tex
+ofl-faq.txt
+ofl.txt
+readme

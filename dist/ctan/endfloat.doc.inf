@@ -1,0 +1,16 @@
+:endfloat.doc:ctan:0.38912:109070284:338760:921B-9836:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+endfloat
+
+./doc/latex/endfloat:
+copying
+endfloat.asc
+endfloat.pdf
+readme.enf

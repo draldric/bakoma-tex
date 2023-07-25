@@ -1,0 +1,15 @@
+:egameps.doc:ctan:0.21504:109070284:137060:212D-3176:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+egameps
+
+./doc/latex/egameps:
+egameps.pdf
+egameps.tex
+readme

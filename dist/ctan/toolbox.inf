@@ -1,0 +1,13 @@
+:toolbox:ctan:0.02048:109070284:2548:D99C-F84B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+toolbox
+
+./tex/latex/toolbox:
+toolbox.sty

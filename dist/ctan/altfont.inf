@@ -1,0 +1,16 @@
+:altfont:ctan:0.03072:109070284:3077:C9D5-156:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+altfont
+
+./tex/latex/altfont:
+altfont.cfg
+altfont.sty
+psfont.cfg
+psfont.sty

@@ -1,0 +1,17 @@
+:uwthesis.doc:ctan:0.2048:109070284:137227:B438-2E5C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+uwthesis
+
+./doc/latex/uwthesis:
+license
+readme
+uwthesis.bib
+uwthesis.pdf
+uwthesis.tex

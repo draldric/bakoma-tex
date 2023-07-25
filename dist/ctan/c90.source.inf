@@ -1,0 +1,17 @@
+:c90.source:ctan:0.07168:109070284:9567:46AF-73F6:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+enc
+
+./source/fonts/enc:
+c90
+
+./source/fonts/enc/c90:
+c90.etx
+c90.mtx

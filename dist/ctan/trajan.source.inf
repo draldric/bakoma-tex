@@ -1,0 +1,14 @@
+:trajan.source:ctan:0.09216:109070284:19987:3859-203:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+trajan
+
+./source/latex/trajan:
+trajan.dtx
+trajan.ins

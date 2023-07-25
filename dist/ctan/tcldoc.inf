@@ -1,0 +1,16 @@
+:tcldoc:ctan:0.04096:109070284:6469:5FFC-DA33:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tcldoc
+
+./tex/latex/tcldoc:
+tcldoc.cls
+tcldoc.sty
+tclldoc.cls
+tclldoc.sty

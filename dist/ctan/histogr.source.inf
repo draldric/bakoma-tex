@@ -1,0 +1,14 @@
+:histogr.source:ctan:0.02048:109070284:2936:3002-74E1:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+histogr
+
+./source/latex/histogr:
+histogr.dtx
+histogr.ins

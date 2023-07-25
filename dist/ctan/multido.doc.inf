@@ -1,0 +1,16 @@
+:multido.doc:ctan:0.08192:109070284:56046:DA90-B888:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+multido
+
+./doc/generic/multido:
+changes
+multido-test.tex
+multido.doc
+multido.pdf

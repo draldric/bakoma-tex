@@ -1,0 +1,15 @@
+:show2e.doc:ctan:0.09216:109070284:60843:B807-83B3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+show2e
+
+./doc/latex/show2e:
+readme
+show2e-fr.pdf
+show2e.pdf

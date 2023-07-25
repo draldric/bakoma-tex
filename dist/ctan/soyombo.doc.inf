@@ -1,0 +1,14 @@
+:soyombo.doc:ctan:0.0512:109070284:11675:8546-9DC4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+soyombo
+
+./doc/latex/soyombo:
+soyo4tex.dvi
+soyo4tex.tex

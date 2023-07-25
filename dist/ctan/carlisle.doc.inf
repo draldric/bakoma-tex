@@ -1,0 +1,17 @@
+:carlisle.doc:ctan:0.41984:109070284:337045:4E2F-47FD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+carlisle
+
+./doc/latex/carlisle:
+fix2col.pdf
+ltx1.tex
+ltxtable.pdf
+readme
+typehtml.pdf

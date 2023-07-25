@@ -1,0 +1,14 @@
+:mwcls.source:ctan:0.1536:109070284:33442:C9A1-BBCC:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mwcls
+
+./source/latex/mwcls:
+mwcls.dtx
+mwcls.ins

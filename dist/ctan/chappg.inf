@@ -1,0 +1,13 @@
+:chappg:ctan:0.01024:109070284:1476:5D17-620:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+chappg
+
+./tex/latex/chappg:
+chappg.sty

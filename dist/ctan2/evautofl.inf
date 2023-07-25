@@ -1,0 +1,13 @@
+:evautofl:ctan2:0.01146:109070768:2716:D340-A6E5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+evautofl
+
+./tex/latex/evautofl:
+evautofl.sty

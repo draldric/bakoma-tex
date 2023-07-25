@@ -1,0 +1,13 @@
+:inlinedef:ctan:0.02048:109070284:3115:1408-CC85:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+inlinedef
+
+./tex/latex/inlinedef:
+inlinedef.sty

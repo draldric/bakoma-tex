@@ -1,0 +1,14 @@
+:nassflow.doc:ctan3:0.142407:109073044:121384:12E2-569D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+nassflow
+
+./doc/latex/nassflow:
+flow_man.pdf
+nass_man.pdf

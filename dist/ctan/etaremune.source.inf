@@ -1,0 +1,13 @@
+:etaremune.source:ctan:0.03072:109070284:6468:29DE-3F8C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+etaremune
+
+./source/latex/etaremune:
+etaremune.dtx

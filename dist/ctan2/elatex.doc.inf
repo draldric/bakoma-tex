@@ -1,0 +1,14 @@
+:elatex.doc:ctan2:0.149052:109082536:122826:3370-934E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+elatex
+
+./doc/latex/elatex:
+elatex.pdf
+readme

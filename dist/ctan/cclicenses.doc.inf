@@ -1,0 +1,14 @@
+:cclicenses.doc:ctan:0.1024:109070284:80800:8CDC-18E2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cclicenses
+
+./doc/latex/cclicenses:
+cclicenses_short.pdf
+readme

@@ -1,0 +1,13 @@
+:easylist:ctan:0.04096:109070284:5405:941F-E5A7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+easylist
+
+./tex/latex/easylist:
+easylist.sty

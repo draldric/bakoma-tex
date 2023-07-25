@@ -1,0 +1,14 @@
+:appendix.doc:ctan:0.2048:109070284:166271:B649-1074:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+appendix
+
+./doc/latex/appendix:
+appendix.pdf
+readme

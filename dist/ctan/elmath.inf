@@ -1,0 +1,13 @@
+:elmath:ctan:0.02048:109070284:1682:F611-C940:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+elmath
+
+./tex/latex/elmath:
+elmath.sty

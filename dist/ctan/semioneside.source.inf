@@ -1,0 +1,14 @@
+:semioneside.source:ctan:0.03072:109070284:6034:A560-399A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+semioneside
+
+./source/latex/semioneside:
+semioneside.dtx
+semioneside.ins

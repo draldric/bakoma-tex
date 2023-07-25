@@ -1,0 +1,14 @@
+:egplot.doc:ctan:0.16384:109070284:151676:4ABA-7714:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+egplot
+
+./doc/latex/egplot:
+egplot.readme
+manual.ps.gz

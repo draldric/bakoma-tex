@@ -1,0 +1,13 @@
+:pstricks-add.source:ctan:0.01024:109070284:697:1B65-2C53:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pstricks-add
+
+./source/generic/pstricks-add:
+makefile

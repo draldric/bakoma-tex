@@ -1,0 +1,13 @@
+:ltabptch:ctan:0.02048:109070284:4356:CB23-D10B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ltabptch
+
+./tex/latex/ltabptch:
+ltabptch.sty

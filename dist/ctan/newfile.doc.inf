@@ -1,0 +1,14 @@
+:newfile.doc:ctan:0.19456:109070284:154521:35D4-7123:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+newfile
+
+./doc/latex/newfile:
+newfile.pdf
+readme

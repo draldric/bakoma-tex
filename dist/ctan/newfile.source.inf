@@ -1,0 +1,14 @@
+:newfile.source:ctan:0.04096:109070284:9027:BA21-2A01:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+newfile
+
+./source/latex/newfile:
+newfile.dtx
+newfile.ins

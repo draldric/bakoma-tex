@@ -1,0 +1,14 @@
+:breakurl.doc:ctan:0.13312:109070284:105276:A181-12D2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+breakurl
+
+./doc/latex/breakurl:
+breakurl.pdf
+readme

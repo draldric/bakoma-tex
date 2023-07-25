@@ -1,0 +1,14 @@
+:labels:ctan:0.03072:109070284:2973:F2EE-8350:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+labels
+
+./tex/latex/labels:
+labels.sty
+olabels.sty

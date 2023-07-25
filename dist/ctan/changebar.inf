@@ -1,0 +1,13 @@
+:changebar:ctan:0.04096:109070284:6303:E06D-D9F3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+changebar
+
+./tex/latex/changebar:
+changebar.sty

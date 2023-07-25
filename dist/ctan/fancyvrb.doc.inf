@@ -1,0 +1,17 @@
+:fancyvrb.doc:ctan:0.21504:109070284:151422:6C27-FA49:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fancyvrb
+
+./doc/latex/fancyvrb:
+artistic2.txt
+fancyvrb.pdf
+readme
+readme.contrib
+t-fvrbex.tex

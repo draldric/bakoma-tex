@@ -1,0 +1,13 @@
+:gcite:ctan:0.01024:109070284:1288:781B-B3E3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gcite
+
+./tex/latex/gcite:
+gcite.sty

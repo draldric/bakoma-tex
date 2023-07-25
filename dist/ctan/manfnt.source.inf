@@ -1,0 +1,14 @@
+:manfnt.source:ctan:0.03072:109070284:6387:FC56-E4CF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+manfnt
+
+./source/latex/manfnt:
+manfnt.dtx
+manfnt.ins

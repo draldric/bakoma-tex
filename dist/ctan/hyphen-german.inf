@@ -1,0 +1,16 @@
+:hyphen-german:ctan:0.23552:109080360:46005:8303-8152:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+hyphen
+
+./tex/generic/hyphen:
+dehyphn.tex
+dehypht.tex
+dehyphtex.tex
+ghyphen.readme

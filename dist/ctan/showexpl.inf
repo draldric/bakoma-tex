@@ -1,0 +1,13 @@
+:showexpl:ctan:0.02048:109070284:3528:6901-C13D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+showexpl
+
+./tex/latex/showexpl:
+showexpl.sty

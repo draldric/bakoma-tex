@@ -1,0 +1,14 @@
+:cool.source:ctan:0.19456:109070284:22119:961F-3227:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cool
+
+./source/latex/cool:
+cool.dtx
+cool.ins

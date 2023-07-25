@@ -1,0 +1,13 @@
+:yplan:ctan:0.02048:109070284:1760:CF0C-CE98:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+yplan
+
+./tex/latex/yplan:
+yplan.sty

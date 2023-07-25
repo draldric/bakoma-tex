@@ -1,0 +1,13 @@
+:colortbl:ctan:0.02048:109070284:2781:A705-EBB5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+colortbl
+
+./tex/latex/colortbl:
+colortbl.sty

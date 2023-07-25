@@ -1,0 +1,13 @@
+:mwrite:ctan2:0.004892:109070768:2166:5B59-1AE5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mwrite
+
+./tex/latex/mwrite:
+mwrite.sty

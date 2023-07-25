@@ -1,0 +1,15 @@
+:hfoldsty.source:ctan:0.03072:109070284:6073:2B15-13D8:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+hfoldsty
+
+./source/fonts/hfoldsty:
+hfoldsty.dtx
+hfoldsty.ins
+makefile

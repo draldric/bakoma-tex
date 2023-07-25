@@ -1,0 +1,13 @@
+:changepage:ctan:0.02048:109070284:4363:678A-1C77:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+changepage
+
+./tex/latex/changepage:
+changepage.sty

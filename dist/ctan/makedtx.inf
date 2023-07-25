@@ -1,0 +1,13 @@
+:makedtx:ctan:0.01024:109070284:1036:A895-F7C1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+makedtx
+
+./tex/latex/makedtx:
+creatdtx.sty

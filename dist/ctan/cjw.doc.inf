@@ -1,0 +1,16 @@
+:cjw.doc:ctan:0.5632:109070284:444557:F9C1-4335:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cjw
+
+./doc/latex/cjw:
+cjw-latex.pdf
+cjw-ltr.pdf
+cjwoutl.pdf
+cjwplain.pdf

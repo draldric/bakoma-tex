@@ -1,0 +1,13 @@
+:newalg:ctan2:0.004245:109070768:1559:4FC6-4C3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+newalg
+
+./tex/latex/newalg:
+newalg.sty

@@ -1,0 +1,13 @@
+:dyntree:ctan:0.02048:109070284:2593:C85-6D9F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dyntree
+
+./tex/latex/dyntree:
+dyntree.sty

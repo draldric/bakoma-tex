@@ -1,0 +1,14 @@
+:coollist.doc:ctan:0.13312:109070284:104260:4467-A487:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+coollist
+
+./doc/latex/coollist:
+coollist.pdf
+readme

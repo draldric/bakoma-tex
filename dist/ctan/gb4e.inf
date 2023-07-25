@@ -1,0 +1,14 @@
+:gb4e:ctan:0.03072:109070284:5651:D55A-364C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gb4e
+
+./tex/latex/gb4e:
+cgloss4e.sty
+gb4e.sty

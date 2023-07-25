@@ -1,0 +1,16 @@
+:gloss.doc:ctan:0.1536:109070284:102321:C7D-7D14:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gloss
+
+./doc/latex/gloss:
+gloss.pdf
+gloss.tex
+readme
+sample.tex

@@ -1,0 +1,14 @@
+:pst-lens.source:ctan:0.0512:109070284:10303:60B3-7F98:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-lens
+
+./source/generic/pst-lens:
+pst-lens.dtx
+pst-lens.ins

@@ -1,0 +1,13 @@
+:pst-circ.source:ctan:0.01024:109070284:686:CA5A-5512:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-circ
+
+./source/generic/pst-circ:
+makefile

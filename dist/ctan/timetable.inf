@@ -1,0 +1,13 @@
+:timetable:ctan:0.04096:109070284:7040:2C08-EF9E:
+
+./:
+tex
+
+./tex:
+plain
+
+./tex/plain:
+timetable
+
+./tex/plain/timetable:
+timetable.tex

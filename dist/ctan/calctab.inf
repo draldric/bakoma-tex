@@ -1,0 +1,13 @@
+:calctab:ctan:0.03072:109070284:4428:F341-FF38:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+calctab
+
+./tex/latex/calctab:
+calctab.sty

@@ -1,0 +1,10 @@
+:pkfix-helper:ctan:0.0512:109070284:13919:F259-35A2:
+
+./:
+scripts
+
+./scripts:
+pkfix-helper
+
+./scripts/pkfix-helper:
+pkfix-helper

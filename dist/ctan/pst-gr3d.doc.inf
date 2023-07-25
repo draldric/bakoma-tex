@@ -1,0 +1,15 @@
+:pst-gr3d.doc:ctan:0.19456:109070284:157059:224A-31F1:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-gr3d
+
+./doc/generic/pst-gr3d:
+changes
+pst-gr3d.pdf
+readme

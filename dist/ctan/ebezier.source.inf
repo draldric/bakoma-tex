@@ -1,0 +1,14 @@
+:ebezier.source:ctan:0.08192:109070284:17919:F834-7520:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ebezier
+
+./source/latex/ebezier:
+ebezier.dtx
+ebezier.ins

@@ -1,0 +1,16 @@
+:auncial-new.doc:ctan:0.36864:109070284:318539:BC01-C206:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+auncial-new
+
+./doc/fonts/auncial-new:
+auncial.pdf
+readme
+tryauncial.pdf
+tryauncial.tex

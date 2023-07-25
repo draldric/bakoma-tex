@@ -1,0 +1,16 @@
+:german.doc:ctan:0.16384:109070284:50627:C804-3E38:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+german
+
+./doc/generic/german:
+00readme.1st
+gerdoc.dvi
+gerdoc.tex
+hyphxmpl.cfg

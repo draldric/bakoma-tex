@@ -1,0 +1,13 @@
+:synproof:ctan:0.01024:109070284:1838:D5C8-37D4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+synproof
+
+./tex/latex/synproof:
+synproof.sty

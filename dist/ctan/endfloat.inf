@@ -1,0 +1,14 @@
+:endfloat:ctan:0.02048:109070284:3185:E8BC-5134:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+endfloat
+
+./tex/latex/endfloat:
+efxmpl.cfg
+endfloat.sty

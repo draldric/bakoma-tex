@@ -1,0 +1,16 @@
+:hc.doc:ctan:0.1536:109070284:43259:2388-71EC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hc
+
+./doc/latex/hc:
+copying
+files
+hc.ps
+readme

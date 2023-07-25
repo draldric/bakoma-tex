@@ -1,0 +1,14 @@
+:pracjourn.source:ctan:0.06144:109070284:14989:526F-3A64:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pracjourn
+
+./source/latex/pracjourn:
+pracjourn.dtx
+pracjourn.ins

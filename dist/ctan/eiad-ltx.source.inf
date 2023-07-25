@@ -1,0 +1,14 @@
+:eiad-ltx.source:ctan:0.02048:109070284:3966:D086-D785:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+eiad-ltx
+
+./source/latex/eiad-ltx:
+eiad.dtx
+eiad.ins

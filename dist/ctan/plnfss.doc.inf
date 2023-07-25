@@ -1,0 +1,15 @@
+:plnfss.doc:ctan:0.03072:109070284:7415:43BA-9E3F:
+
+./:
+doc
+
+./doc:
+plain
+
+./doc/plain:
+plnfss
+
+./doc/plain/plnfss:
+lppl.txt
+plnfss.txt
+test-plnfss.tex

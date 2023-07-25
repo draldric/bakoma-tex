@@ -1,0 +1,14 @@
+:export:ctan:0.03072:109070284:5922:F222-7375:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+export
+
+./tex/latex/export:
+dvipaste.sty
+export.sty

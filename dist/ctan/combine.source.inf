@@ -1,0 +1,14 @@
+:combine.source:ctan:0.1536:109070284:31038:D610-55ED:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+combine
+
+./source/latex/combine:
+combine.dtx
+combine.ins

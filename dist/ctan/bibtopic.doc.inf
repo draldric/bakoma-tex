@@ -1,0 +1,17 @@
+:bibtopic.doc:ctan:0.26624:109070284:221686:6630-C26C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bibtopic
+
+./doc/latex/bibtopic:
+articles.bib
+bibtopic.pdf
+books.bib
+readme
+sample.tex

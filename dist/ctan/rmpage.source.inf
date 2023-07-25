@@ -1,0 +1,14 @@
+:rmpage.source:ctan:0.06144:109070284:14073:6A5-B187:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+rmpage
+
+./source/latex/rmpage:
+readme
+rmplocal.gfc

@@ -1,0 +1,14 @@
+:dirtree:ctan:0.02048:109070284:2008:B538-D1F1:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+dirtree
+
+./tex/generic/dirtree:
+dirtree.sty
+dirtree.tex

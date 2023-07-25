@@ -1,0 +1,14 @@
+:adrconv.source:ctan:0.03072:109070284:7940:539B-3EBD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+adrconv
+
+./source/latex/adrconv:
+adrconv.dtx
+adrconv.ins

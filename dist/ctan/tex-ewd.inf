@@ -1,0 +1,13 @@
+:tex-ewd:ctan:0.02048:109070284:2975:2A0C-BC76:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+tex-ewd
+
+./tex/generic/tex-ewd:
+dotnot.tex

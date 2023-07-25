@@ -1,0 +1,13 @@
+:etaremune:ctan:0.01024:109070284:1381:2EEF-1D59:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+etaremune
+
+./tex/latex/etaremune:
+etaremune.sty

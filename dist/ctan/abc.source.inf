@@ -1,0 +1,14 @@
+:abc.source:ctan:0.04096:109070284:9102:CE86-F9BF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+abc
+
+./source/latex/abc:
+abc.dtx
+abc.ins

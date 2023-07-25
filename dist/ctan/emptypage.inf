@@ -1,0 +1,13 @@
+:emptypage:ctan:0.01024:109070284:364:7B57-B74D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+emptypage
+
+./tex/latex/emptypage:
+emptypage.sty

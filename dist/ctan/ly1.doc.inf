@@ -1,0 +1,15 @@
+:ly1.doc:ctan:0.03072:109070284:7216:D0B-18F4:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+ly1
+
+./doc/fonts/ly1:
+ly1.txt
+texnansi.txt
+texnansi.vec

@@ -1,0 +1,14 @@
+:chessfss.doc:ctan:0.01024:109070284:1066:FE46-AC85:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+chessfss
+
+./doc/latex/chessfss:
+readme
+readme.texlive

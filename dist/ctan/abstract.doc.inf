@@ -1,0 +1,14 @@
+:abstract.doc:ctan:0.18432:109070284:147872:E5FA-F6E4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+abstract
+
+./doc/latex/abstract:
+abstract.pdf
+readme

@@ -1,0 +1,15 @@
+:xytree.doc:ctan:0.32768:109070284:230411:F467-C61C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xytree
+
+./doc/latex/xytree:
+readme
+xytree-doc-en.pdf
+xytree-doc-en.tex

@@ -1,0 +1,13 @@
+:sseq.doc:ctan:0.14336:109070284:122602:5EB1-98F9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sseq
+
+./doc/latex/sseq:
+sseq.pdf

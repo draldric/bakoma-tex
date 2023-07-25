@@ -1,0 +1,14 @@
+:timesht.doc:ctan:0.01024:109070284:759:D7B4-C303:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+timesht
+
+./doc/latex/timesht:
+readme
+timesheet.tex

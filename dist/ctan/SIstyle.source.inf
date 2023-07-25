@@ -1,0 +1,14 @@
+:SIstyle.source:ctan:0.08192:109070284:17945:F99D-6E92:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sistyle
+
+./source/latex/sistyle:
+sistyle.dtx
+sistyle.ins

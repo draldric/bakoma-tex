@@ -1,0 +1,14 @@
+:texments.source:ctan:0.02048:109070284:4608:3202-C796:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+texments
+
+./source/latex/texments:
+texments.dtx
+texments.ins

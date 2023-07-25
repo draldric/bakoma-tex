@@ -1,0 +1,16 @@
+:notes.source:ctan:0.03072:109070284:5471:93DF-B4E4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+notes
+
+./source/latex/notes:
+makefile
+notes.drv
+notes.dtx
+notes.ins

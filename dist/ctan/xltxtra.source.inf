@@ -1,0 +1,14 @@
+:xltxtra.source:ctan:0.04096:109070284:9498:4C41-91D3:
+
+./:
+source
+
+./source:
+xelatex
+
+./source/xelatex:
+xltxtra
+
+./source/xelatex/xltxtra:
+xltxtra.dtx
+xltxtra.ins

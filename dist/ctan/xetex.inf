@@ -1,0 +1,7 @@
+:xetex:ctan:0.22528:109070284:45365:C542-E194:xetexconfig,xetex.ARCH
+
+./:
+fmtutil
+
+./fmtutil:
+format.xetex.cnf

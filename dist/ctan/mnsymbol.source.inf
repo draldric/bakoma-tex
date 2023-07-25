@@ -1,0 +1,15 @@
+:mnsymbol.source:ctan:0.14336:109070284:13803:31EE-E030:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mnsymbol
+
+./source/latex/mnsymbol:
+mnsymbol.drv
+mnsymbol.dtx
+mnsymbol.ins

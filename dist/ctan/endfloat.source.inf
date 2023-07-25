@@ -1,0 +1,15 @@
+:endfloat.source:ctan:0.09216:109070284:22944:FB2E-7FB7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+endfloat
+
+./source/latex/endfloat:
+endfloat.drv
+endfloat.dtx
+endfloat.ins

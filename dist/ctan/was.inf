@@ -1,0 +1,16 @@
+:was:ctan:0.02048:109070284:2597:EEEB-D3EE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+was
+
+./tex/latex/was:
+fixmath.sty
+gensymb.sty
+icomma.sty
+upgreek.sty

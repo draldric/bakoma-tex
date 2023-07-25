@@ -1,0 +1,13 @@
+:crop:ctan:0.03072:109070284:3977:C24A-D1E8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+crop
+
+./tex/latex/crop:
+crop.sty

@@ -1,0 +1,13 @@
+:xunicode:ctan:0.13312:109070284:15426:9D9D-E5C9:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+xunicode
+
+./tex/xelatex/xunicode:
+xunicode.sty

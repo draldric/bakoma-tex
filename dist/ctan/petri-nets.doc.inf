@@ -1,0 +1,15 @@
+:petri-nets.doc:ctan:0.256:109070284:176936:A6B6-6196:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+petri-nets
+
+./doc/latex/petri-nets:
+pndoc.pdf
+pndoc.tex
+readme

@@ -1,0 +1,13 @@
+:memexsupp:ctan:0.01024:109070284:1420:559B-146F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+memexsupp
+
+./tex/latex/memexsupp:
+memexsupp.sty

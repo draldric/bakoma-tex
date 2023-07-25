@@ -1,0 +1,15 @@
+:photo.doc:ctan:0.17408:109070284:141362:CEBF-E95A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+photo
+
+./doc/latex/photo:
+photo.pdf
+photo_test.lop
+photo_test.tex

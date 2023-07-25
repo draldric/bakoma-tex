@@ -1,0 +1,14 @@
+:rcsinfo:ctan:0.02048:109070284:2720:29A1-CE17:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+rcsinfo
+
+./tex/latex/rcsinfo:
+rcsinfo.cfg
+rcsinfo.sty

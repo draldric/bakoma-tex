@@ -1,0 +1,13 @@
+:pax.doc:ctan:0.01024:109070284:2571:C053-88C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pax
+
+./doc/latex/pax:
+readme

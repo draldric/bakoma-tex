@@ -1,0 +1,14 @@
+:ntabbing.doc:ctan:0.02048:109070284:2994:510D-331E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ntabbing
+
+./doc/latex/ntabbing:
+ntabbing.dvi
+ntabbing.tex

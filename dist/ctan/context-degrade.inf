@@ -1,0 +1,16 @@
+:context-degrade:ctan:0.01024:109070284:2018:2555-1FBA:
+
+./:
+tex
+
+./tex:
+context
+
+./tex/context:
+third
+
+./tex/context/third:
+degrade
+
+./tex/context/third/degrade:
+t-degrade.tex

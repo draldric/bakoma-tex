@@ -1,0 +1,14 @@
+:variations:ctan:0.01024:109070284:887:DF17-D4E9:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+variations
+
+./tex/generic/variations:
+variations.sty
+variations.tex

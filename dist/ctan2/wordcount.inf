@@ -1,0 +1,13 @@
+:wordcount:ctan2:0.007296:109070768:3286:9F95-138:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+wordcount
+
+./tex/latex/wordcount:
+wordcount.tex

@@ -1,0 +1,13 @@
+:fac:ctan3:0.034256:109070768:8261:1874-BB55:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fac
+
+./tex/latex/fac:
+fac.cls

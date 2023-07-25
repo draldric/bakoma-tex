@@ -1,0 +1,13 @@
+:lhelp.doc:ctan:0.26624:109070284:224838:E83A-235E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lhelp
+
+./doc/latex/lhelp:
+lhelp.pdf

@@ -1,0 +1,15 @@
+:algorithmicx.doc:ctan:0.256:109070284:169645:4807-4CAC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+algorithmicx
+
+./doc/latex/algorithmicx:
+algorithmicx.pdf
+algorithmicx.tex
+readme

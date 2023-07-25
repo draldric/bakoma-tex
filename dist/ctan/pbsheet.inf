@@ -1,0 +1,13 @@
+:pbsheet:ctan:0.03072:109070284:4818:DAF2-2230:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pbsheet
+
+./tex/latex/pbsheet:
+pbsheet.cls

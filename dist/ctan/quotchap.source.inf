@@ -1,0 +1,15 @@
+:quotchap.source:ctan:0.03072:109070284:7150:325D-D0D6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+quotchap
+
+./source/latex/quotchap:
+00readme.txt
+quotchap.dtx
+quotchap.ins

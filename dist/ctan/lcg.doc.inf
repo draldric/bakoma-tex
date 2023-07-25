@@ -1,0 +1,13 @@
+:lcg.doc:ctan:0.1536:109070284:125717:3911-9944:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lcg
+
+./doc/latex/lcg:
+lcg.pdf

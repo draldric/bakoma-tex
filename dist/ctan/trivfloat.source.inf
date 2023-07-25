@@ -1,0 +1,14 @@
+:trivfloat.source:ctan:0.03072:109070284:7233:2F54-99A4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+trivfloat
+
+./source/latex/trivfloat:
+trivfloat.dtx
+trivfloat.ins

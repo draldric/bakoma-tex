@@ -1,0 +1,13 @@
+:unswthesis:ctan3:0.009683:109070768:3061:8054-4044:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+unswthesis
+
+./tex/latex/unswthesis:
+unswthesis.cls

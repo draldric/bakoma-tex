@@ -1,0 +1,14 @@
+:juraabbrev.source:ctan:0.0512:109070284:15269:3369-699B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+juraabbrev
+
+./source/latex/juraabbrev:
+juraabbrev.dtx
+juraabbrev.ins

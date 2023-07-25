@@ -1,0 +1,17 @@
+:slideshow.doc:ctan:0.17408:109070284:104543:1885-38ED:
+
+./:
+doc
+
+./doc:
+metapost
+
+./doc/metapost:
+slideshow
+
+./doc/metapost/slideshow:
+slideshow.txt
+sshowex.pdf
+sshowex2.pdf
+sshowex3.pdf
+sshowintro.pdf

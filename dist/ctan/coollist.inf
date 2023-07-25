@@ -1,0 +1,13 @@
+:coollist:ctan:0.02048:109070284:1652:B56A-2BCC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+coollist
+
+./tex/latex/coollist:
+coollist.sty

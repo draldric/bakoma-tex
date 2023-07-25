@@ -1,0 +1,14 @@
+:ed.source:ctan:0.02048:109070284:5397:8BC3-7594:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ed
+
+./source/latex/ed:
+ed.dtx
+ed.ins

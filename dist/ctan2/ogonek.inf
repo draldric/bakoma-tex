@@ -1,0 +1,13 @@
+:ogonek:ctan2:0.003966:109070768:1455:4658-ED6E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ogonek
+
+./tex/latex/ogonek:
+ogonek.sty

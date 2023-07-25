@@ -1,0 +1,14 @@
+:makeindex.doc:ctan:0.22528:109070284:183685:2B71-AF9E:
+
+./:
+doc
+
+./doc:
+makeindex
+
+./doc/makeindex:
+base
+
+./doc/makeindex/base:
+ind.pdf
+makeindex.pdf

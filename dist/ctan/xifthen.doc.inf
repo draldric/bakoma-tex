@@ -1,0 +1,15 @@
+:xifthen.doc:ctan:0.54272:109070284:494130:5B0B-690D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xifthen
+
+./doc/latex/xifthen:
+readme
+xifthen.pdf
+xifthen.tex

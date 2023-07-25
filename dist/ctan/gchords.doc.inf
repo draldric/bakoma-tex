@@ -1,0 +1,17 @@
+:gchords.doc:ctan:0.09216:109070284:49786:8EF0-4B78:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gchords
+
+./doc/latex/gchords:
+chordbox.tcl
+gchords_doc.pdf
+gchords_doc.tex
+get2knowu.tex
+readme

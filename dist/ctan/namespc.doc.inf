@@ -1,0 +1,14 @@
+:namespc.doc:ctan:0.14336:109070284:82461:F23E-3F68:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+namespc
+
+./doc/latex/namespc:
+namespc.pdf
+readme

@@ -1,0 +1,17 @@
+:pst-coil.doc:ctan:0.2048:109070284:137699:548E-4161:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-coil
+
+./doc/generic/pst-coil:
+changes
+pst-coil-doc.bib
+pst-coil-doc.pdf
+pst-coil-doc.tex
+readme

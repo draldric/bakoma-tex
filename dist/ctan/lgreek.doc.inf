@@ -1,0 +1,14 @@
+:lgreek.doc:ctan:0.02048:109070284:3813:432D-2038:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lgreek
+
+./doc/latex/lgreek:
+lgreekuse.tex
+readme

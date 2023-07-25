@@ -1,0 +1,14 @@
+:pst-poly.source:ctan:0.06144:109070284:12444:1259-5463:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pst-poly
+
+./source/latex/pst-poly:
+pst-poly.dtx
+pst-poly.ins

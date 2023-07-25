@@ -1,0 +1,15 @@
+:arcs.doc:ctan:0.09216:109070284:51836:4AA7-F3C9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+arcs
+
+./doc/latex/arcs:
+arcs.pdf
+arcstest.tex
+readme

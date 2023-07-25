@@ -1,0 +1,15 @@
+:linguex:ctan:0.03072:109070284:5462:48BB-4BDA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+linguex
+
+./tex/latex/linguex:
+linguex.sty
+linguho.sty
+ps-trees.sty

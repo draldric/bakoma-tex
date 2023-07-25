@@ -1,0 +1,15 @@
+:register.doc:ctan:0.18432:109070284:137258:F412-5E26:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+register
+
+./doc/latex/register:
+register.pdf
+reg_list.pl
+reg_macro.pm

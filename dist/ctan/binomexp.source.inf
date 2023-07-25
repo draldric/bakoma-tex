@@ -1,0 +1,14 @@
+:binomexp.source:ctan:0.02048:109070284:4354:6038-116:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+binomexp
+
+./source/latex/binomexp:
+binomexp.dtx
+binomexp.ins

@@ -1,0 +1,13 @@
+:mhequ:ctan:0.02048:109070284:3616:8A02-B7B9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mhequ
+
+./tex/latex/mhequ:
+mhequ.sty

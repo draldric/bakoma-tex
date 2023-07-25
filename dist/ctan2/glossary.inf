@@ -1,0 +1,13 @@
+:glossary:ctan2:0.037125:109070768:6961:F651-38F4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+glossary
+
+./tex/latex/glossary:
+glossary.sty

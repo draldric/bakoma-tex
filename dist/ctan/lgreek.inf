@@ -1,0 +1,16 @@
+:lgreek:ctan:0.01024:109070284:1305:F741-E49B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lgreek
+
+./tex/latex/lgreek:
+lgcmr.fd
+lgcmtt.fd
+lgenc.def
+lgreek.sty

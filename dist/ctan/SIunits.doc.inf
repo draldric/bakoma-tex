@@ -1,0 +1,14 @@
+:SIunits.doc:ctan:0.33792:109070284:249831:AA21-32E1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+siunits
+
+./doc/latex/siunits:
+readme
+siunits.pdf

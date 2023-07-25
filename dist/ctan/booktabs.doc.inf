@@ -1,0 +1,15 @@
+:booktabs.doc:ctan:0.22528:109070284:176530:8D3E-B384:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+booktabs
+
+./doc/latex/booktabs:
+booktabs.pdf
+copying
+readme

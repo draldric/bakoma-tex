@@ -1,0 +1,14 @@
+:xkeyval.doc:ctan:0.48128:109070284:429320:11BE-1A3C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xkeyval
+
+./doc/latex/xkeyval:
+readme
+xkeyval.pdf

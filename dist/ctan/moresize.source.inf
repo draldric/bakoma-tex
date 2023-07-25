@@ -1,0 +1,15 @@
+:moresize.source:ctan:0.04096:109070284:9685:946D-BD12:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+moresize
+
+./source/latex/moresize:
+moresize.dtx
+moresize.ins
+moresize.upl

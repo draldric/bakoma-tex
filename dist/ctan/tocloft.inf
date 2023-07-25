@@ -1,0 +1,13 @@
+:tocloft:ctan:0.04096:109070284:5356:C94B-7EE2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tocloft
+
+./tex/latex/tocloft:
+tocloft.sty

@@ -1,0 +1,14 @@
+:ulsy.source:ctan:0.01024:109070284:1050:E2A0-22A5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ulsy
+
+./source/latex/ulsy:
+ulsy.dtx
+ulsy.ins

@@ -1,0 +1,17 @@
+:codepage.doc:ctan:0.32768:109070284:256687:D597-A9D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+codepage
+
+./doc/latex/codepage:
+codepage.pdf
+demo.zip
+frintro.pdf
+lisezmoi
+readme

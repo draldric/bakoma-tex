@@ -1,0 +1,16 @@
+:subfloat.doc:ctan:0.12288:109070284:89020:5919-6CD6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+subfloat
+
+./doc/latex/subfloat:
+changelog
+install.sh
+readme
+subfloat.pdf

@@ -1,0 +1,15 @@
+:acmconf.source:ctan:0.08192:109070284:18369:A54-4F5E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+acmconf
+
+./source/latex/acmconf:
+acmconf.dtx
+acmconf.ins
+makefile

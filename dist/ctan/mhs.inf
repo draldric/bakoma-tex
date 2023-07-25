@@ -1,0 +1,13 @@
+:mhs:ctan:0.14336:109070284:26578:E94B-55D6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mhs
+
+./tex/latex/mhs:
+mhs.sty

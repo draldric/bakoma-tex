@@ -1,0 +1,14 @@
+:animate:ctan:0.13312:109070284:19527:E1FD-EFB1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+animate
+
+./tex/latex/animate:
+animate.sty
+animfp.sty

@@ -1,0 +1,16 @@
+:philosophersimprint.doc:ctan:0.38912:109070284:302449:BC27-22E2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+philosophersimprint
+
+./doc/latex/philosophersimprint:
+philosophersimprint.pdf
+readme
+sample.pdf
+sample.tex

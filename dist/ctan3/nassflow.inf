@@ -1,0 +1,14 @@
+:nassflow:ctan3:0.0173:109070768:3584:80A2-AB13:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nassflow
+
+./tex/latex/nassflow:
+flow.sty
+nassi.sty

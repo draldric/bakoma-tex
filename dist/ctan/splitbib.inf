@@ -1,0 +1,13 @@
+:splitbib:ctan:0.03072:109070284:4425:4F6A-4FCC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+splitbib
+
+./tex/latex/splitbib:
+splitbib.sty

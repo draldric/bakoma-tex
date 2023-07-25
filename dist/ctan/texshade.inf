@@ -1,0 +1,14 @@
+:texshade:ctan:0.53248:109070284:49870:178A-F6FF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+texshade
+
+./tex/latex/texshade:
+texshade.def
+texshade.sty

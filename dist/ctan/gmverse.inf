@@ -1,0 +1,13 @@
+:gmverse:ctan:0.04096:109070284:10369:AE47-32BE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gmverse
+
+./tex/latex/gmverse:
+gmverse.sty

@@ -1,0 +1,15 @@
+:datatool.doc:ctan:1.47456:109070284:1076624:9195-4634:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+datatool
+
+./doc/latex/datatool:
+changes
+datatool.pdf
+readme

@@ -1,0 +1,16 @@
+:pdfx.source:ctan:0.04096:109070284:10068:DE65-BC2B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pdfx
+
+./source/latex/pdfx:
+makefile
+pdfx.dtx
+pdfx.ins
+rvdtx.sty

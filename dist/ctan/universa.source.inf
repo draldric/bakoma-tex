@@ -1,0 +1,14 @@
+:universa.source:ctan:0.24576:109070284:55550:C902-322:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+universa
+
+./source/fonts/universa:
+uni.dtx
+uni.ins

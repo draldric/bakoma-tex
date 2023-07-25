@@ -1,0 +1,15 @@
+:engrec.doc:ctan:0.29696:109070284:270094:F048-22FD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+engrec
+
+./doc/latex/engrec:
+engrec.pdf
+lisezmoi
+readme

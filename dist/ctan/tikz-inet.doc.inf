@@ -1,0 +1,15 @@
+:tikz-inet.doc:ctan:0.1536:109070284:115460:4E64-DBF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tikz-inet
+
+./doc/latex/tikz-inet:
+readme
+tikz-inet-doc.pdf
+tikz-inet-doc.tex

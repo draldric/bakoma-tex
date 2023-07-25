@@ -1,0 +1,13 @@
+:pdftricks:ctan:0.02048:109070284:3745:E144-F736:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pdftricks
+
+./tex/latex/pdftricks:
+pdftricks.sty

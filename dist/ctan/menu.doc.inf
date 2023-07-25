@@ -1,0 +1,14 @@
+:menu.doc:ctan:0.14336:109070284:115062:6364-2B88:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+menu
+
+./doc/latex/menu:
+menu.pdf
+readme

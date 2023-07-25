@@ -1,0 +1,14 @@
+:newvbtm.source:ctan:0.0512:109070284:12691:4922-441E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+newvbtm
+
+./source/latex/newvbtm:
+newvbtm.dtx
+newvbtm.ins

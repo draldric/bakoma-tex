@@ -1,0 +1,13 @@
+:subfloat:ctan:0.01024:109070284:1574:2D66-3F03:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+subfloat
+
+./tex/latex/subfloat:
+subfloat.sty

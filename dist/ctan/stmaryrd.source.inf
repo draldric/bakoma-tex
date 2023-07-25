@@ -1,0 +1,16 @@
+:stmaryrd.source:ctan:0.04096:109070284:6599:104F-3A96:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+stmaryrd
+
+./source/fonts/stmaryrd:
+00description
+install
+stmaryrd.dtx
+stmaryrd.ins

@@ -1,0 +1,14 @@
+:eskd.source:ctan:0.04096:109070284:7328:9BFB-D471:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+eskd
+
+./source/latex/eskd:
+eskd.dtx
+eskd.ins

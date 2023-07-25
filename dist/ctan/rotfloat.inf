@@ -1,0 +1,13 @@
+:rotfloat:ctan:0.01024:109070284:986:3619-3864:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+rotfloat
+
+./tex/latex/rotfloat:
+rotfloat.sty

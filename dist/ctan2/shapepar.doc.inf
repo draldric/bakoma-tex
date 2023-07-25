@@ -1,0 +1,14 @@
+:shapepar.doc:ctan2:0.179766:109073048:152856:5FEF-D5EE:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+shapepar
+
+./doc/generic/shapepar:
+readme.shapepar
+shapepar.pdf

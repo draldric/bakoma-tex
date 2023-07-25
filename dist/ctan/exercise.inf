@@ -1,0 +1,13 @@
+:exercise:ctan:0.03072:109070284:5663:CA2-E4A4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+exercise
+
+./tex/latex/exercise:
+exercise.sty

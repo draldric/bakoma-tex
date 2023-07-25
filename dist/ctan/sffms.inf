@@ -1,0 +1,15 @@
+:sffms:ctan:0.02048:109070284:2909:EC48-FAF4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sffms
+
+./tex/latex/sffms:
+sffdumb.sty
+sffms.cls
+sffsmart.sty

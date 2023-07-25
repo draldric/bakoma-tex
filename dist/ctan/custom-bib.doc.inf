@@ -1,0 +1,15 @@
+:custom-bib.doc:ctan:0.48128:109070284:374232:461B-CF8D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+custom-bib
+
+./doc/latex/custom-bib:
+makebst.pdf
+merlin.pdf
+readme.420

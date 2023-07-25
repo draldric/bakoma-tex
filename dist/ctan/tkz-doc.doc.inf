@@ -1,0 +1,14 @@
+:tkz-doc.doc:ctan:0.02048:109070284:2331:2419-668B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tkz-doc
+
+./doc/latex/tkz-doc:
+readme
+tkzexample.sty

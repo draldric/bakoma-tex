@@ -1,0 +1,16 @@
+:pst-pdgr.doc:ctan:0.2048:109070284:163073:229F-F121:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-pdgr
+
+./doc/generic/pst-pdgr:
+news
+pst-pdgr.bib
+pst-pdgr.pdf
+readme

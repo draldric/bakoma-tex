@@ -1,0 +1,14 @@
+:tocbibind.doc:ctan:0.21504:109070284:173432:73D0-FEA0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tocbibind
+
+./doc/latex/tocbibind:
+readme
+tocbibind.pdf

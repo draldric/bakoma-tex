@@ -1,0 +1,15 @@
+:tdsfrmath.doc:ctan:0.78848:109070284:683121:32EE-AE4A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tdsfrmath
+
+./doc/latex/tdsfrmath:
+lisezmoi
+readme
+tdsfrmath.pdf

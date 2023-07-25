@@ -1,0 +1,14 @@
+:calrsfs:ctan:0.01024:109070284:474:420E-54E1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+calrsfs
+
+./tex/latex/calrsfs:
+calrsfs.sty
+omsrsfs.fd

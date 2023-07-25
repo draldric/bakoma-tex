@@ -1,0 +1,16 @@
+:cbfonts.doc:ctan:0.6144:109070284:428897:B6-D66:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+cbfonts
+
+./doc/fonts/cbfonts:
+cbgreek.pdf
+cbgreek.tex
+grmn1000table.pdf
+readme

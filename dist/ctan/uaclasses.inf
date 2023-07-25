@@ -1,0 +1,16 @@
+:uaclasses:ctan:0.03072:109070284:5421:8BF4-6C1D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+uaclasses
+
+./tex/latex/uaclasses:
+my-thesis.cls
+my-title.sty
+ua-thesis.cls
+ua-title.sty

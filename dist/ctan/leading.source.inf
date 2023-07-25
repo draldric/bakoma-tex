@@ -1,0 +1,14 @@
+:leading.source:ctan:0.02048:109070284:3304:6C4A-6ACC:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+leading
+
+./source/latex/leading:
+leading.dtx
+leading.ins

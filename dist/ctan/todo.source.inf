@@ -1,0 +1,14 @@
+:todo.source:ctan:0.02048:109070284:4117:8113-D7AA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+todo
+
+./source/latex/todo:
+todo.dtx
+todo.ins

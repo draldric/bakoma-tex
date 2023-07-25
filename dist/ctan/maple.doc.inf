@@ -1,0 +1,14 @@
+:maple.doc:ctan:0.03072:109070284:8234:FC89-9897:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+maple
+
+./doc/latex/maple:
+mtnarticle.tex
+readme

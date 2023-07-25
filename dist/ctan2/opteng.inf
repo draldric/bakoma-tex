@@ -1,0 +1,13 @@
+:opteng:ctan2:0.018177:109070768:5303:9150-33F4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+opteng
+
+./tex/latex/opteng:
+opteng.sty

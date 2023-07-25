@@ -1,0 +1,13 @@
+:makecmds.doc:ctan:0.01024:109070284:547:54A0-2657:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+makecmds
+
+./doc/latex/makecmds:
+readme

@@ -1,0 +1,14 @@
+:noitcrul.source:ctan:0.02048:109070284:3482:1058-EEEB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+noitcrul
+
+./source/latex/noitcrul:
+noitcrul.dtx
+noitcrul.ins

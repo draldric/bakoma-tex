@@ -1,0 +1,16 @@
+:tugboat.doc:ctan:0.53248:109070284:440512:DA12-F2DD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tugboat
+
+./doc/latex/tugboat:
+ltubguid.pdf
+manifest.txt
+readme
+tugboat.pdf

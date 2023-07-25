@@ -1,0 +1,14 @@
+:ltabptch.doc:ctan:0.01024:109070284:807:E5E0-84F6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ltabptch
+
+./doc/latex/ltabptch:
+ltabtest.tex
+readme

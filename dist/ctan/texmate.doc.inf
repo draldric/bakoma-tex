@@ -1,0 +1,15 @@
+:texmate.doc:ctan:0.33792:109070284:233233:4B70-5A1C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+texmate
+
+./doc/latex/texmate:
+readme
+texmate2manual.pdf
+texmate2manual.tex

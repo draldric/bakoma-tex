@@ -1,0 +1,15 @@
+:accfonts.doc:ctan:0.06144:109070284:15309:82F7-8682:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+accfonts
+
+./doc/fonts/accfonts:
+changes
+copying
+readme

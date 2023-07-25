@@ -1,0 +1,14 @@
+:lps.source:ctan:0.03072:109070284:7032:B739-504D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+lps
+
+./source/latex/lps:
+lps.dtx
+lps.ins

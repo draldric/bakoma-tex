@@ -1,0 +1,16 @@
+:iso.source:ctan:0.256:109070284:48260:8193-74F2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+iso
+
+./source/latex/iso:
+iso4ht.dtx
+iso4ht.ins
+isoe.dtx
+isoe.ins

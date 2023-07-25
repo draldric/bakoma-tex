@@ -1,0 +1,14 @@
+:bbding.source:ctan:0.04096:109070284:9901:F203-FCB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+bbding
+
+./source/latex/bbding:
+bbding.dtx
+bbding.ins

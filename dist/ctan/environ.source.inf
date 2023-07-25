@@ -1,0 +1,14 @@
+:environ.source:ctan:0.03072:109070284:7206:F2CB-9586:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+environ
+
+./source/latex/environ:
+environ.dtx
+environ.ins

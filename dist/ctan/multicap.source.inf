@@ -1,0 +1,13 @@
+:multicap.source:ctan:0.03072:109070284:6661:5DD5-5150:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+multicap
+
+./source/latex/multicap:
+multicap.dtx

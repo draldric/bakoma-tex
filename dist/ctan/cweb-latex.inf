@@ -1,0 +1,17 @@
+:cweb-latex:ctan:0.07168:109070284:17829:2924-1D20:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cweb-latex
+
+./tex/latex/cweb-latex:
+cwbl-german.sty
+cweb.cls
+cweb.cls.patch
+cwebarray.sty
+keyvald.sty

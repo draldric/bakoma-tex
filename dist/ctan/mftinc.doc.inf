@@ -1,0 +1,14 @@
+:mftinc.doc:ctan:0.29696:109070284:250706:59E3-7915:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mftinc
+
+./doc/latex/mftinc:
+mftinc.pdf
+readme

@@ -1,0 +1,13 @@
+:mathcomp:ctan:0.01024:109070284:772:597D-8B4A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mathcomp
+
+./tex/latex/mathcomp:
+mathcomp.sty

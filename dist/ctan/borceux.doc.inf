@@ -1,0 +1,14 @@
+:borceux.doc:ctan:0.06144:109070284:13397:99E7-45CA:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+borceux
+
+./doc/generic/borceux:
+diagram_mode_d_emploi
+diagram_read_me

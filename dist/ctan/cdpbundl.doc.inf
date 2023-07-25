@@ -1,0 +1,16 @@
+:cdpbundl.doc:ctan:0.70656:109070284:666170:85E-136C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cdpbundl
+
+./doc/latex/cdpbundl:
+00readme.txt
+manifest.txt
+overview.pdf
+readme

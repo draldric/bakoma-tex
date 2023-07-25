@@ -1,0 +1,14 @@
+:coordsys:ctan:0.04096:109070284:4022:5E81-DDF7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+coordsys
+
+./tex/latex/coordsys:
+coordsys.sty
+logsys.sty

@@ -1,0 +1,14 @@
+:cm.doc:ctan:0.01024:109070284:2251:D5C7-C535:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+cm
+
+./doc/fonts/cm:
+readme
+readme-cmps.txt

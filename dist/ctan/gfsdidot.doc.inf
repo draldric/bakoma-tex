@@ -1,0 +1,17 @@
+:gfsdidot.doc:ctan:0.1536:109070284:96505:F9B0-D1A0:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+gfsdidot
+
+./doc/fonts/gfsdidot:
+gfsdidot.pdf
+gfsdidot.tex
+ofl-faq.txt
+ofl.txt
+readme

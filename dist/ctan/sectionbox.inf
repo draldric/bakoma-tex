@@ -1,0 +1,13 @@
+:sectionbox:ctan:0.02048:109070284:1374:35EC-53BF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sectionbox
+
+./tex/latex/sectionbox:
+sectionbox.sty

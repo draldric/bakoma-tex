@@ -1,0 +1,17 @@
+:pst-poly.doc:ctan:0.21504:109070284:159667:E91A-4938:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-poly
+
+./doc/generic/pst-poly:
+changes
+pst-poly.pdf
+readme
+tst-poly.pdf
+tst-poly.tex

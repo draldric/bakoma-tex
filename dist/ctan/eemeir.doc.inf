@@ -1,0 +1,14 @@
+:eemeir.doc:ctan:0.17408:109070284:135317:511A-4B97:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+eemeir
+
+./doc/latex/eemeir:
+eemeir.pdf
+readme

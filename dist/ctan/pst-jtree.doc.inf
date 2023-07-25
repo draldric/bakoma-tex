@@ -1,0 +1,17 @@
+:pst-jtree.doc:ctan:0.4096:109070284:329602:1BA8-FB38:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-jtree
+
+./doc/generic/pst-jtree:
+pst-jtree-doc-source.zip
+pst-jtree-doc.pdf
+pst-jtree-examples.pdf
+pst-jtree-examples.tex
+readme

@@ -1,0 +1,13 @@
+:mpfnmark:ctan2:0.003102:109070768:1457:77BA-6255:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mpfnmark
+
+./tex/latex/mpfnmark:
+mpfnmark.sty

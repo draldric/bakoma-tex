@@ -1,0 +1,14 @@
+:epigrafica.doc:ctan:0.09216:109070284:63815:C5B6-4D00:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+epigrafica
+
+./doc/fonts/epigrafica:
+epigrafica.pdf
+readme

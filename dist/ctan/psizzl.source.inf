@@ -1,0 +1,13 @@
+:psizzl.source:ctan:0.01024:109070284:383:EA25-DEC7:
+
+./:
+source
+
+./source:
+psizzl
+
+./source/psizzl:
+base
+
+./source/psizzl/base:
+aaaread.me

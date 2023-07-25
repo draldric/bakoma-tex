@@ -1,0 +1,14 @@
+:cclicenses.source:ctan:0.02048:109070284:3796:A5D8-3AAC:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cclicenses
+
+./source/latex/cclicenses:
+cclicenses.dtx
+cclicenses.ins

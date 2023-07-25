@@ -1,0 +1,14 @@
+:changes.source:ctan:0.0512:109070284:10286:2712-DFBD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+changes
+
+./source/latex/changes:
+changes.dtx
+changes.ins

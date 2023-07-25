@@ -1,0 +1,14 @@
+:pst-3d.source:ctan:0.06144:109070284:14680:2AA-33C3:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-3d
+
+./source/generic/pst-3d:
+pst-3d.dtx
+pst-3d.ins

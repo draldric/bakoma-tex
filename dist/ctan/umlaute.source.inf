@@ -1,0 +1,14 @@
+:umlaute.source:ctan:0.03072:109070284:5464:B95D-B603:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+umlaute
+
+./source/latex/umlaute:
+umlaute.dtx
+umlaute.ins

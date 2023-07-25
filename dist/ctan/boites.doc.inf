@@ -1,0 +1,16 @@
+:boites.doc:ctan:0.04096:109070284:18779:987F-87F9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+boites
+
+./doc/latex/boites:
+boites_exemples.pdf
+boites_exemples.tex
+ligne_qui_ondule_sur_la_gauche.eps
+readme

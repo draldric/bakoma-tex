@@ -1,0 +1,14 @@
+:hpsdiss.source:ctan:0.0512:109070284:11137:CCFA-9604:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+hpsdiss
+
+./source/latex/hpsdiss:
+hpsdiss.dtx
+hpsdiss.ins

@@ -1,0 +1,13 @@
+:polytable.doc:ctan:0.01024:109070284:286:DB9B-D855:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+polytable
+
+./doc/latex/polytable:
+readme

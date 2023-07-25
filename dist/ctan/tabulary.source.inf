@@ -1,0 +1,14 @@
+:tabulary.source:ctan:0.04096:109070284:8031:965F-EF80:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tabulary
+
+./source/latex/tabulary:
+tabulary.dtx
+tabulary.ins

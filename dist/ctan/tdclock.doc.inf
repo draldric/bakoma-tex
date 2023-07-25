@@ -1,0 +1,17 @@
+:tdclock.doc:ctan:0.26624:109070284:120365:D861-EC21:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tdclock
+
+./doc/latex/tdclock:
+readme
+tdclock-beamer-example.pdf
+tdclock-beamer-example.tex
+tdclock-doc.pdf
+tdclock-doc.tex

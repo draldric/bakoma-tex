@@ -1,0 +1,13 @@
+:hilowres:ctan2:0.001123:109070768:641:84EF-683:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hilowres
+
+./tex/latex/hilowres:
+hilowres.sty

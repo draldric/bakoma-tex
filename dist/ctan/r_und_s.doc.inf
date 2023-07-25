@@ -1,0 +1,13 @@
+:r_und_s.doc:ctan:0.02048:109070284:3335:3DB6-EF0A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+r_und_s
+
+./doc/latex/r_und_s:
+readme

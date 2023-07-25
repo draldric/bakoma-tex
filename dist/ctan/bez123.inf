@@ -1,0 +1,14 @@
+:bez123:ctan:0.02048:109070284:2218:3421-2A7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bez123
+
+./tex/latex/bez123:
+bez123.sty
+multiply.sty

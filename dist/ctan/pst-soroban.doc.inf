@@ -1,0 +1,17 @@
+:pst-soroban.doc:ctan:0.11264:109070284:84189:C625-222:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-soroban
+
+./doc/generic/pst-soroban:
+changes
+pst-soroban-doc.bib
+pst-soroban-doc.pdf
+pst-soroban-doc.tex
+readme

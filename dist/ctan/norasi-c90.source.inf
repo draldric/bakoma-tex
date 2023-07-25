@@ -1,0 +1,13 @@
+:norasi-c90.source:ctan:0.01024:109070284:1199:ECF-7874:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+norasi-c90
+
+./source/fonts/norasi-c90:
+norasi-c90.fontinst

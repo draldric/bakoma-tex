@@ -1,0 +1,14 @@
+:listliketab.source:ctan:0.03072:109070284:6431:EC8E-5FDB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+listliketab
+
+./source/latex/listliketab:
+listliketab.dtx
+listliketab.ins

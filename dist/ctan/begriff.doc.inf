@@ -1,0 +1,16 @@
+:begriff.doc:ctan:0.08192:109070284:39905:852D-51C8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+begriff
+
+./doc/latex/begriff:
+copying
+examples.pdf
+examples.tex
+readme

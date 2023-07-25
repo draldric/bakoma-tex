@@ -1,0 +1,13 @@
+:twoup:ctan:0.01024:109070284:1778:E785-E5C3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+twoup
+
+./tex/latex/twoup:
+twoup.sty

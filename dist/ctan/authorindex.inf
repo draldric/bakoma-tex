@@ -1,0 +1,13 @@
+:authorindex:ctan:0.01024:109070284:2118:1423-39E8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+authorindex
+
+./tex/latex/authorindex:
+authorindex.sty

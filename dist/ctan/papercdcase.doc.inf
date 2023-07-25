@@ -1,0 +1,15 @@
+:papercdcase.doc:ctan:0.16384:109070284:130940:5CCF-11C3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+papercdcase
+
+./doc/latex/papercdcase:
+example.tex
+interactive.tex
+papercdcase.pdf

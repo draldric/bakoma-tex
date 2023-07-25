@@ -1,0 +1,13 @@
+:parrun:ctan:0.02048:109070284:2481:AEA5-8D14:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+parrun
+
+./tex/latex/parrun:
+parrun.sty

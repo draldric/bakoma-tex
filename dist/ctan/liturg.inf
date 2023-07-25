@@ -1,0 +1,13 @@
+:liturg:ctan:0.02048:109070284:6162:2319-70EA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+liturg
+
+./tex/latex/liturg:
+liturg.sty

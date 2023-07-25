@@ -1,0 +1,14 @@
+:fge.source:ctan:0.02048:109070284:3342:841F-1B3E:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+fge
+
+./source/fonts/fge:
+fge.dtx
+fge.ins

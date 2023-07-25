@@ -1,0 +1,13 @@
+:recipecard:ctan:0.01024:109070284:2213:F713-72AC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+recipecard
+
+./tex/latex/recipecard:
+recipecard.cls

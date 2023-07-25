@@ -1,0 +1,14 @@
+:boxhandler.doc:ctan:0.24576:109070284:209008:E5B0-4EDF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+boxhandler
+
+./doc/latex/boxhandler:
+boxhandler.pdf
+readme

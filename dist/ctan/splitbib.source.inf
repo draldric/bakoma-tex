@@ -1,0 +1,14 @@
+:splitbib.source:ctan:0.06144:109070284:10830:4B29-7E3E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+splitbib
+
+./source/latex/splitbib:
+splitbib.dtx
+splitbib.ins

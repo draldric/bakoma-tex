@@ -1,0 +1,16 @@
+:ecv:ctan:0.02048:109070284:3286:C2B9-BCB2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ecv
+
+./tex/latex/ecv:
+ecv.cls
+ecvenglish.ldf
+ecvgerman.ldf
+ecvnls.sty

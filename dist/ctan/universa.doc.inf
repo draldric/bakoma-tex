@@ -1,0 +1,15 @@
+:universa.doc:ctan:0.04096:109070284:10437:1ACD-FBEF:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+universa
+
+./doc/fonts/universa:
+copyright.tex
+readme.uni
+unidoc.sty

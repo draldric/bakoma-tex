@@ -1,0 +1,13 @@
+:texloganalyser.doc:ctan:0.01024:109070284:257:3E94-FDE:
+
+./:
+doc
+
+./doc:
+support
+
+./doc/support:
+texloganalyser
+
+./doc/support/texloganalyser:
+readme

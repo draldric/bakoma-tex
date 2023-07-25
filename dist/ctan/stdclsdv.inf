@@ -1,0 +1,13 @@
+:stdclsdv:ctan:0.01024:109070284:914:F503-2586:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+stdclsdv
+
+./tex/latex/stdclsdv:
+stdclsdv.sty

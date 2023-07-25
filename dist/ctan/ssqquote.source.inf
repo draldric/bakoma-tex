@@ -1,0 +1,15 @@
+:ssqquote.source:ctan:0.03072:109070284:6909:C034-4636:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ssqquote
+
+./source/latex/ssqquote:
+ssqquote.drv
+ssqquote.dtx
+ssqquote.ins

@@ -1,0 +1,15 @@
+:pst-ob3d.source:ctan:0.0512:109070284:9892:CA60-B030:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-ob3d
+
+./source/generic/pst-ob3d:
+makefile
+pst-ob3d.dtx
+pst-ob3d.ins

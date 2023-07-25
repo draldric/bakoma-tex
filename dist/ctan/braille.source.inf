@@ -1,0 +1,14 @@
+:braille.source:ctan:0.02048:109070284:2558:F2A7-E3CB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+braille
+
+./source/latex/braille:
+grade1.py
+grade2.py

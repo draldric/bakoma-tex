@@ -1,0 +1,14 @@
+:parrun.doc:ctan:0.16384:109070284:104768:9B5B-81E5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+parrun
+
+./doc/latex/parrun:
+parrun.pdf
+readme

@@ -1,0 +1,17 @@
+:mflogo.source:ctan:0.03072:109070284:8092:47E3-ACE3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mflogo
+
+./source/latex/mflogo:
+catalogue
+makefile
+mflogo.dtx
+mflogo.ins
+readme

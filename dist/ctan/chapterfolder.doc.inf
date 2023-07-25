@@ -1,0 +1,13 @@
+:chapterfolder.doc:ctan:0.2048:109070284:186435:CE87-993A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+chapterfolder
+
+./doc/latex/chapterfolder:
+chapterfolder.pdf

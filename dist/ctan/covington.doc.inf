@@ -1,0 +1,14 @@
+:covington.doc:ctan:0.0512:109070284:13906:81A5-5055:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+covington
+
+./doc/latex/covington:
+covington.dvi
+covington.tex

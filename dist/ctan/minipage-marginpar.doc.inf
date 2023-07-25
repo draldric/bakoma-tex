@@ -1,0 +1,14 @@
+:minipage-marginpar.doc:ctan:0.21504:109070284:71757:193-9B4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+minipage-marginpar
+
+./doc/latex/minipage-marginpar:
+minipage-marginpar.pdf
+readme

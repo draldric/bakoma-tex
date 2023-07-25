@@ -1,0 +1,13 @@
+:logic.doc:ctan:0.01024:109070284:387:605A-CE01:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+logic
+
+./doc/latex/logic:
+milstd.tex

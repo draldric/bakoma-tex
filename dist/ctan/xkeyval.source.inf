@@ -1,0 +1,13 @@
+:xkeyval.source:ctan:0.22528:109070284:46917:520C-6FCD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xkeyval
+
+./source/latex/xkeyval:
+xkeyval.dtx

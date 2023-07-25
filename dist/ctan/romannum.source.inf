@@ -1,0 +1,14 @@
+:romannum.source:ctan:0.03072:109070284:5270:81F4-7E04:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+romannum
+
+./source/latex/romannum:
+romannum.dtx
+romannum.ins

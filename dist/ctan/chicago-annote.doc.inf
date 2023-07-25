@@ -1,0 +1,13 @@
+:chicago-annote.doc:ctan:0.01024:109070284:151:5A48-5CA5:
+
+./:
+doc
+
+./doc:
+bibtex
+
+./doc/bibtex:
+chicago-annote
+
+./doc/bibtex/chicago-annote:
+readme

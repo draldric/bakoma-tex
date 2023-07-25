@@ -1,0 +1,13 @@
+:gene-logic:ctan:0.01024:109070284:1606:9A58-7943:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gene-logic
+
+./tex/latex/gene-logic:
+gn-logic14.sty

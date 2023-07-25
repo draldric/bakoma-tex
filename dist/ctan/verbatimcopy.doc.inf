@@ -1,0 +1,15 @@
+:verbatimcopy.doc:ctan:0.18432:109070284:164181:528C-D97E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+verbatimcopy
+
+./doc/latex/verbatimcopy:
+readme
+verbatimcopy.pdf
+verbatimcopy.tex

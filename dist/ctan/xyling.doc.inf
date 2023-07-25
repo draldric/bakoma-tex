@@ -1,0 +1,15 @@
+:xyling.doc:ctan:0.21504:109070284:147977:A274-5EE6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xyling
+
+./doc/latex/xyling:
+readme
+xyli-doc.pdf
+xyli-doc.tex

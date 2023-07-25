@@ -1,0 +1,14 @@
+:multibib.source:ctan:0.0512:109070284:12739:7EA8-8C20:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+multibib
+
+./source/latex/multibib:
+multibib.dtx
+multibib.ins

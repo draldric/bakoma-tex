@@ -1,0 +1,13 @@
+:modroman:ctan:0.01024:109070284:913:9E6C-85F7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+modroman
+
+./tex/latex/modroman:
+modroman.sty

@@ -1,0 +1,10 @@
+:colorsep:ctan:0.01024:109070284:1564:8126-8AB5:
+
+./:
+dvips
+
+./dvips:
+colorsep
+
+./dvips/colorsep:
+colorsep.pro

@@ -1,0 +1,14 @@
+:hyphen-ancientgreek:ctan:0.07168:109080360:16842:C063-4DA3:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+hyphen
+
+./tex/generic/hyphen:
+grahyph5.tex
+ibyhyph.tex

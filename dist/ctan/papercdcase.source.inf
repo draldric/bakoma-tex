@@ -1,0 +1,14 @@
+:papercdcase.source:ctan:0.0512:109070284:10219:CA9-CD2E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+papercdcase
+
+./source/latex/papercdcase:
+papercdcase.dtx
+papercdcase.ins

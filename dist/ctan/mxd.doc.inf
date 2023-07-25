@@ -1,0 +1,15 @@
+:mxd.doc:ctan:0.04096:109070284:9573:366A-870A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mxd
+
+./doc/latex/mxd:
+mxd4tex.dvi
+mxd4tex.tex
+readme

@@ -1,0 +1,14 @@
+:wasysym.source:ctan:0.04096:109070284:7952:AB12-1B2B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+wasysym
+
+./source/latex/wasysym:
+wasysym.dtx
+wasysym.ins

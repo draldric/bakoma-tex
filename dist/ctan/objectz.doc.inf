@@ -1,0 +1,16 @@
+:objectz.doc:ctan:0.14336:109070284:33948:E573-9881:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+objectz
+
+./doc/latex/objectz:
+ozguide.dvi
+ozguide.tex
+oztest.dvi
+oztest.tex

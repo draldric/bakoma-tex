@@ -1,0 +1,16 @@
+:polynom.doc:ctan:0.28672:109070284:193227:54CC-8AB2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+polynom
+
+./doc/latex/polynom:
+polydemo.pdf
+polydemo.tex
+polynom.pdf
+readme

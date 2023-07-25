@@ -1,0 +1,15 @@
+:microtype.doc:ctan:1.15712:109070284:795875:7AFE-1328:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+microtype
+
+./doc/latex/microtype:
+microtype.pdf
+readme
+test-microtype.tex

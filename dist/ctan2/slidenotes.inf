@@ -1,0 +1,15 @@
+:slidenotes:ctan2:0.016651:109070768:4278:6E96-7EA3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+slidenotes
+
+./tex/latex/slidenotes:
+obox.sty
+slidenotes.cfg
+slidenotes.cls

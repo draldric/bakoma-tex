@@ -1,0 +1,13 @@
+:filecontents:ctan:0.01024:109070284:1250:6699-1E5B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+filecontents
+
+./tex/latex/filecontents:
+filecontents.sty

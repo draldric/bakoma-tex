@@ -1,0 +1,16 @@
+:context-construction-plan:ctan:0.01024:109070284:1949:E33A-68FD:
+
+./:
+tex
+
+./tex:
+context
+
+./tex/context:
+third
+
+./tex/context/third:
+construction-plan
+
+./tex/context/third/construction-plan:
+t-construction-plan.tex

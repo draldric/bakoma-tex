@@ -1,0 +1,14 @@
+:labels.source:ctan:0.06144:109070284:14609:60BC-1BC2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+labels
+
+./source/latex/labels:
+labels.dtx
+labels.ins

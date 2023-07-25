@@ -1,0 +1,14 @@
+:arcs.source:ctan:0.01024:109070284:2232:7BEA-92AC:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+arcs
+
+./source/latex/arcs:
+arcs.dtx
+arcs.ins

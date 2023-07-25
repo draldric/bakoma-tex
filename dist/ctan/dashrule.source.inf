@@ -1,0 +1,14 @@
+:dashrule.source:ctan:0.03072:109070284:5489:1B39-1623:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dashrule
+
+./source/latex/dashrule:
+dashrule.dtx
+dashrule.ins

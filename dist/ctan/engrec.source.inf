@@ -1,0 +1,15 @@
+:engrec.source:ctan:0.03072:109070284:7082:C13B-CA0A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+engrec
+
+./source/latex/engrec:
+engrec.dtx
+engrec.ins
+makefile

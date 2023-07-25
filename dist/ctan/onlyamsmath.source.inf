@@ -1,0 +1,15 @@
+:onlyamsmath.source:ctan:0.02048:109070284:3763:1FA5-2404:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+onlyamsmath
+
+./source/latex/onlyamsmath:
+makefile
+onlyamsmath.dtx
+onlyamsmath.ins

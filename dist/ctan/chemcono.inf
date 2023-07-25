@@ -1,0 +1,15 @@
+:chemcono:ctan:0.03072:109070284:7739:921C-AC71:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+chemcono
+
+./tex/latex/chemcono:
+chemcono.sty
+drftcono.sty
+showkeysff.sty

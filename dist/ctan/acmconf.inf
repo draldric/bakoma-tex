@@ -1,0 +1,13 @@
+:acmconf:ctan:0.02048:109070284:3808:7D51-CE88:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+acmconf
+
+./tex/latex/acmconf:
+acmconf.cls

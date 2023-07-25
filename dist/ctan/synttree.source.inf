@@ -1,0 +1,14 @@
+:synttree.source:ctan:0.04096:109070284:9811:27FE-DAB5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+synttree
+
+./source/latex/synttree:
+synttree.dtx
+synttree.ins

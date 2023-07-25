@@ -1,0 +1,14 @@
+:pauldoc.doc:ctan:0.16384:109070284:128408:5DF4-3868:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pauldoc
+
+./doc/latex/pauldoc:
+pauldoc.pdf
+readme

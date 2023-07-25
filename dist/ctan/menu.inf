@@ -1,0 +1,13 @@
+:menu:ctan:0.01024:109070284:1771:351F-341:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+menu
+
+./tex/latex/menu:
+menu.sty

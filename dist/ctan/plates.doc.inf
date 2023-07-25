@@ -1,0 +1,15 @@
+:plates.doc:ctan:0.11264:109070284:80729:E616-103:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+plates
+
+./doc/latex/plates:
+plates.pdf
+plates.tex
+readme

@@ -1,0 +1,10 @@
+:eplain.source:ctan:0.39936:109070284:375608:F091-333F:
+
+./:
+source
+
+./source:
+eplain
+
+./source/eplain:
+eplain-source-3.2.zip

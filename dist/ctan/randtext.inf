@@ -1,0 +1,13 @@
+:randtext:ctan:0.01024:109070284:2319:4D64-2B2D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+randtext
+
+./tex/latex/randtext:
+randtext.sty

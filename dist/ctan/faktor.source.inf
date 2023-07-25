@@ -1,0 +1,14 @@
+:faktor.source:ctan:0.02048:109070284:4028:115C-69BE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+faktor
+
+./source/latex/faktor:
+faktor.dtx
+faktor.ins

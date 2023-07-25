@@ -1,0 +1,15 @@
+:examplep:ctan:0.14336:109070284:32901:C6F-45AC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+examplep
+
+./tex/latex/examplep:
+codep.sty
+examplep.sty
+verbfwr.sty

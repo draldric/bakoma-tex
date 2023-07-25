@@ -1,0 +1,14 @@
+:ebsthesis.doc:ctan:0.27648:109070284:250916:66B7-45A0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ebsthesis
+
+./doc/latex/ebsthesis:
+ebsthesis.pdf
+readme

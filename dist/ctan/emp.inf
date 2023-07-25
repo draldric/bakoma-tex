@@ -1,0 +1,13 @@
+:emp:ctan:0.01024:109070284:2684:AF65-9ECE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+emp
+
+./tex/latex/emp:
+emp.sty

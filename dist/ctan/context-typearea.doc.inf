@@ -1,0 +1,17 @@
+:context-typearea.doc:ctan:0.09216:109070284:77039:6482-F1BB:
+
+./:
+doc
+
+./doc:
+context
+
+./doc/context:
+third
+
+./doc/context/third:
+typearea
+
+./doc/context/third/typearea:
+typearea-demo.pdf
+typearea-doc.pdf

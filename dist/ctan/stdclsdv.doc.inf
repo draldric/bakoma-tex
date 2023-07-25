@@ -1,0 +1,14 @@
+:stdclsdv.doc:ctan:0.24576:109070284:227177:443D-5811:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+stdclsdv
+
+./doc/latex/stdclsdv:
+readme
+stdclsdv.pdf

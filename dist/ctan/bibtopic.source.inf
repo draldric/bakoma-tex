@@ -1,0 +1,14 @@
+:bibtopic.source:ctan:0.17408:109070284:40197:CD8E-81B0:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+bibtopic
+
+./source/latex/bibtopic:
+bibtopic.dtx
+bibtopic.ins

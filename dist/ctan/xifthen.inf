@@ -1,0 +1,13 @@
+:xifthen:ctan:0.01024:109070284:1587:6D64-ED52:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xifthen
+
+./tex/latex/xifthen:
+xifthen.sty

@@ -1,0 +1,14 @@
+:cuisine.doc:ctan:0.1024:109070284:66997:4556-BDF0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cuisine
+
+./doc/latex/cuisine:
+cuisine.pdf
+readme

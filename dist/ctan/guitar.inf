@@ -1,0 +1,13 @@
+:guitar:ctan:0.01024:109070284:1932:1FB7-A0FD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+guitar
+
+./tex/latex/guitar:
+guitar.sty

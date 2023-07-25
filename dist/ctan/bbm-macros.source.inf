@@ -1,0 +1,15 @@
+:bbm-macros.source:ctan:0.02048:109070284:3653:F1E3-CEC5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+bbm-macros
+
+./source/latex/bbm-macros:
+bbm.drv
+bbm.dtx
+bbm.ins

@@ -1,0 +1,14 @@
+:tocloft.doc:ctan:0.32768:109070284:277136:2911-B592:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tocloft
+
+./doc/latex/tocloft:
+readme
+tocloft.pdf

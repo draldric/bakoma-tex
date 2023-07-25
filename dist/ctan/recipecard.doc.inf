@@ -1,0 +1,16 @@
+:recipecard.doc:ctan:0.23552:109070284:186142:A6A9-A73:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+recipecard
+
+./doc/latex/recipecard:
+readme
+recipecard.pdf
+test2.pdf
+test2.tex

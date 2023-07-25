@@ -1,0 +1,14 @@
+:floatrow.source:ctan:0.43008:109070284:85901:DB1B-B14E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+floatrow
+
+./source/latex/floatrow:
+floatrow.dtx
+floatrow.ins

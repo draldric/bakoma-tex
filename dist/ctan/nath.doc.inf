@@ -1,0 +1,15 @@
+:nath.doc:ctan:0.19456:109070284:132929:EC08-E3DB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+nath
+
+./doc/latex/nath:
+nathguide.pdf
+nathguide.tex
+readme

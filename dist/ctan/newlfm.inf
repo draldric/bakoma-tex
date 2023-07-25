@@ -1,0 +1,15 @@
+:newlfm:ctan:0.13312:109070284:19596:7F5D-6018:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+newlfm
+
+./tex/latex/newlfm:
+addrset.sty
+newlfm.cls
+setdim.sty

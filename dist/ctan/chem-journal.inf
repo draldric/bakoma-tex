@@ -1,0 +1,16 @@
+:chem-journal:ctan:0.08192:109070284:4586:5F41-2C72:
+
+./:
+bibtex
+
+./bibtex:
+bst
+
+./bibtex/bst:
+chem-journal
+
+./bibtex/bst/chem-journal:
+jcc.bst
+jpc.bst
+pccp.bst
+revcompchem.bst

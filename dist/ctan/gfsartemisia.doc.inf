@@ -1,0 +1,17 @@
+:gfsartemisia.doc:ctan:0.18432:109070284:116520:4DA0-10F:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+gfsartemisia
+
+./doc/fonts/gfsartemisia:
+gfsartemisia.pdf
+gfsartemisia.tex
+ofl-faq.txt
+ofl.txt
+readme

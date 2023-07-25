@@ -1,0 +1,13 @@
+:moresize:ctan:0.01024:109070284:1027:6C73-3CA5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+moresize
+
+./tex/latex/moresize:
+moresize.sty

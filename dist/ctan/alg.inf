@@ -1,0 +1,13 @@
+:alg:ctan:0.02048:109070284:2082:8172-D4C0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+alg
+
+./tex/latex/alg:
+alg.sty

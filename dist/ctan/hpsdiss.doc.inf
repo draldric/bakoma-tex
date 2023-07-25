@@ -1,0 +1,13 @@
+:hpsdiss.doc:ctan:0.22528:109070284:109715:6F42-426D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hpsdiss
+
+./doc/latex/hpsdiss:
+hpsdiss.pdf

@@ -1,0 +1,13 @@
+:chemcompounds:ctan:0.01024:109070284:1509:4DA5-340C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+chemcompounds
+
+./tex/latex/chemcompounds:
+chemcompounds.sty

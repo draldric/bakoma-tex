@@ -1,0 +1,15 @@
+:functan.source:ctan:0.0512:109070284:9344:231C-FF52:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+functan
+
+./source/latex/functan:
+functan.drv
+functan.dtx
+functan.ins

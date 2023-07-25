@@ -1,0 +1,15 @@
+:inlinedef.doc:ctan:0.17408:109070284:134654:A096-E3CF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+inlinedef
+
+./doc/latex/inlinedef:
+inlinedef.pdf
+inlinetest.tex
+readme

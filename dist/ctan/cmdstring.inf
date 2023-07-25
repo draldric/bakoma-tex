@@ -1,0 +1,13 @@
+:cmdstring:ctan:0.01024:109070284:488:234A-AC00:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cmdstring
+
+./tex/latex/cmdstring:
+cmdstring.sty

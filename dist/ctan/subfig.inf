@@ -1,0 +1,14 @@
+:subfig:ctan:0.04096:109070284:6092:F5EE-8556:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+subfig
+
+./tex/latex/subfig:
+altsf.cfg
+subfig.sty

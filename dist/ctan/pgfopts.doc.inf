@@ -1,0 +1,15 @@
+:pgfopts.doc:ctan:0.23552:109070284:168100:3E5C-E0F9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pgfopts
+
+./doc/latex/pgfopts:
+pgfopts-manual.pdf
+pgfopts.pdf
+readme

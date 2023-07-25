@@ -1,0 +1,10 @@
+:dviasm:ctan:0.04096:109070284:7774:C919-F05C:dviasm.ARCH
+
+./:
+scripts
+
+./scripts:
+dviasm
+
+./scripts/dviasm:
+dviasm.py

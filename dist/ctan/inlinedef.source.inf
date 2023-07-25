@@ -1,0 +1,14 @@
+:inlinedef.source:ctan:0.0512:109070284:12102:3492-519D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+inlinedef
+
+./source/latex/inlinedef:
+inlinedef.dtx
+inlinedef.ins

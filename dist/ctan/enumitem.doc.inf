@@ -1,0 +1,15 @@
+:enumitem.doc:ctan:0.2048:109070284:148271:ABC2-BD45:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+enumitem
+
+./doc/latex/enumitem:
+enumitem.pdf
+enumitem.tex
+readme

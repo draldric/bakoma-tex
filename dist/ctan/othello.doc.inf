@@ -1,0 +1,16 @@
+:othello.doc:ctan:0.0512:109070284:11753:F963-E22:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+othello
+
+./doc/latex/othello:
+boards.tex
+ot.bat
+ot1.bat.bat
+othello.tex

@@ -1,0 +1,14 @@
+:tocloft.source:ctan:0.14336:109070284:27289:CAF9-9D6E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tocloft
+
+./source/latex/tocloft:
+tocloft.dtx
+tocloft.ins

@@ -1,0 +1,15 @@
+:cryst.doc:ctan:0.0512:109070284:31091:3BB2-2422:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cryst
+
+./doc/latex/cryst:
+cryst1.pdf
+cryst1.tex
+readme

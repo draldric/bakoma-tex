@@ -1,0 +1,13 @@
+:fixfoot:ctan:0.02048:109070284:2800:E6A1-D5F5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fixfoot
+
+./tex/latex/fixfoot:
+fixfoot.sty

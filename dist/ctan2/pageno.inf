@@ -1,0 +1,13 @@
+:pageno:ctan2:0.004187:109070768:1129:770D-DED7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pageno
+
+./tex/latex/pageno:
+pageno.sty

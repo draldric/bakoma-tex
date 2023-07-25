@@ -1,0 +1,16 @@
+:euenc.doc:ctan:0.23552:109070284:171524:1D0D-6A81:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+euenc
+
+./doc/xelatex/euenc:
+euenc.pdf
+readme
+test-eu1lm.ltx
+test-eu1lm.pdf

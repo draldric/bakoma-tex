@@ -1,0 +1,14 @@
+:pdfwin:ctan:0.08192:109070284:15566:67A-3CC7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pdfwin
+
+./tex/latex/pdfwin:
+pdfwin.cfg
+pdfwin.sty

@@ -1,0 +1,15 @@
+:startex.doc:ctan:0.74752:109070284:508562:9F3B-B41C:
+
+./:
+doc
+
+./doc:
+startex
+
+./doc/startex:
+base
+
+./doc/startex/base:
+guide.pdf
+ideas.pdf
+startex.pdf

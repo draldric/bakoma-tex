@@ -1,0 +1,13 @@
+:egameps:ctan:0.0512:109070284:5987:EE02-26B0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+egameps
+
+./tex/latex/egameps:
+egameps.sty

@@ -1,0 +1,14 @@
+:sauterfonts.source:ctan:0.03072:109070284:4637:5657-48D4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sauterfonts
+
+./source/latex/sauterfonts:
+sauterfonts.fdd
+sauterfonts.ins

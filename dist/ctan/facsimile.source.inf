@@ -1,0 +1,14 @@
+:facsimile.source:ctan:0.0512:109070284:10710:80C0-93B4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+facsimile
+
+./source/latex/facsimile:
+facsimile.dtx
+facsimile.ins

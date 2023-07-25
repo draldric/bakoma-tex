@@ -1,0 +1,14 @@
+:formular.doc:ctan:0.16384:109070284:129057:9B92-3059:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+formular
+
+./doc/latex/formular:
+formular.pdf
+readme

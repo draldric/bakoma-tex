@@ -1,0 +1,14 @@
+:phaistos.source:ctan:0.02048:109070284:3109:2CD-F0F7:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+phaistos
+
+./source/fonts/phaistos:
+phaistos.dtx
+phaistos.ins

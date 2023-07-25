@@ -1,0 +1,14 @@
+:brushscr.source:ctan:0.01024:109070284:718:5E70-422A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+brushscr
+
+./source/latex/brushscr:
+makefile
+pbsi.mtx

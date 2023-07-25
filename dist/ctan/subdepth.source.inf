@@ -1,0 +1,14 @@
+:subdepth.source:ctan:0.02048:109070284:3370:F439-CF70:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+subdepth
+
+./source/latex/subdepth:
+subdepth.dtx
+subdepth.ins

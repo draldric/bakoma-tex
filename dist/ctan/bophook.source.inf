@@ -1,0 +1,14 @@
+:bophook.source:ctan:0.02048:109070284:3825:E092-C73C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+bophook
+
+./source/latex/bophook:
+bophook.dtx
+bophook.ins

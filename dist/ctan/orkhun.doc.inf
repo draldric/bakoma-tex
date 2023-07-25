@@ -1,0 +1,15 @@
+:orkhun.doc:ctan:0.17408:109070284:105659:FDA1-5337:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+orkhun
+
+./doc/fonts/orkhun:
+rakhimov.pdf
+rakhimov.tex
+readme_orkhun.txt

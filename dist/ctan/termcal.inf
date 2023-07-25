@@ -1,0 +1,13 @@
+:termcal:ctan:0.01024:109070284:2079:D05A-5B16:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+termcal
+
+./tex/latex/termcal:
+termcal.sty

@@ -1,0 +1,15 @@
+:flowfram.source:ctan:0.27648:109070284:37951:3D17-E95B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+flowfram
+
+./source/latex/flowfram:
+flowfram.dtx
+flowfram.ins
+flowfram.perl

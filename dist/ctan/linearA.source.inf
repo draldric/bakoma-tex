@@ -1,0 +1,14 @@
+:linearA.source:ctan:0.04096:109070284:3533:9C86-462B:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+lineara
+
+./source/fonts/lineara:
+lineara.dtx
+lineara.ins

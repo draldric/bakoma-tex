@@ -1,0 +1,16 @@
+:invoice.doc:ctan2:0.118865:109073044:62422:EE2B-4B5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+invoice
+
+./doc/latex/invoice:
+copying
+history
+invoice.pdf
+invoice.tex

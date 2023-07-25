@@ -1,0 +1,13 @@
+:silence:ctan:0.03072:109070284:3133:A6D2-9672:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+silence
+
+./tex/latex/silence:
+silence.sty

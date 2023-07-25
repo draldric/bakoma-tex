@@ -1,0 +1,14 @@
+:din1505.doc:ctan:0.01024:109070284:667:B69A-FCCE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+din1505
+
+./doc/latex/din1505:
+natbib.cfg
+readme.texlive

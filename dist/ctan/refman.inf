@@ -1,0 +1,15 @@
+:refman:ctan:0.08192:109070284:8910:E7EA-A5D1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+refman
+
+./tex/latex/refman:
+pagepc.sty
+refart.cls
+refrep.cls

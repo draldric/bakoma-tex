@@ -1,0 +1,14 @@
+:labelcas.source:ctan:0.08192:109070284:16936:3E05-41AA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+labelcas
+
+./source/latex/labelcas:
+labelcas.dtx
+labelcas.ins

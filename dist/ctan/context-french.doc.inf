@@ -1,0 +1,17 @@
+:context-french.doc:ctan:0.09216:109070284:77895:D4ED-CBB0:
+
+./:
+doc
+
+./doc:
+context
+
+./doc/context:
+third
+
+./doc/context/third:
+french
+
+./doc/context/third/french:
+french-demo.pdf
+french-doc.pdf

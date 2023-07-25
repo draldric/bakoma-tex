@@ -1,0 +1,16 @@
+:jurarsp.doc:ctan:0.23552:109070284:120955:4B5C-D5B0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+jurarsp
+
+./doc/latex/jurarsp:
+jurarsp.pdf
+readme
+rsptest.bib
+rsptest.tex

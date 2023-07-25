@@ -1,0 +1,13 @@
+:alg.doc:ctan:0.01024:109070284:871:AAFA-766E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+alg
+
+./doc/latex/alg:
+readme.txt

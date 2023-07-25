@@ -1,0 +1,14 @@
+:endheads.doc:ctan:0.1536:109070284:126699:46B7-8A7A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+endheads
+
+./doc/latex/endheads:
+endheads.pdf
+readme

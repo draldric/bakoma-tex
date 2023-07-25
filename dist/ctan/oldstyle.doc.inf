@@ -1,0 +1,13 @@
+:oldstyle.doc:ctan:0.08192:109070284:51251:F89F-4B6A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+oldstyle
+
+./doc/latex/oldstyle:
+oldstyle.pdf

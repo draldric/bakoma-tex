@@ -1,0 +1,15 @@
+:svn-prov.source:ctan:0.04096:109070284:7919:96E6-63CC:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+svn-prov
+
+./source/latex/svn-prov:
+makefile
+svn-prov.dtx
+svn-prov.ins

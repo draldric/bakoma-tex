@@ -1,0 +1,14 @@
+:gmeometric.doc:ctan:0.09216:109070284:53028:3C1C-3B2A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gmeometric
+
+./doc/latex/gmeometric:
+gmeometric.pdf
+readme

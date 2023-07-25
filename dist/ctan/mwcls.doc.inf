@@ -1,0 +1,16 @@
+:mwcls.doc:ctan:0.18432:109070284:96595:4AEF-FE9C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mwcls
+
+./doc/latex/mwcls:
+changelog
+czytaj
+mwclsdoc.pdf
+readme

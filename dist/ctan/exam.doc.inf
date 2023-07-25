@@ -1,0 +1,16 @@
+:exam.doc:ctan:0.60416:109070284:299543:B2AE-69BE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+exam
+
+./doc/latex/exam:
+exam-2.3.md5
+examdoc.pdf
+examdoc.tex
+readme

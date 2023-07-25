@@ -1,0 +1,14 @@
+:dashbox.source:ctan:0.02048:109070284:3716:52B8-C1D5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dashbox
+
+./source/latex/dashbox:
+dashbox.dtx
+dashbox.ins

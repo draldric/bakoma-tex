@@ -1,0 +1,14 @@
+:gnuplottex.source:ctan:0.02048:109070284:4472:EB81-DC7F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+gnuplottex
+
+./source/latex/gnuplottex:
+gnuplottex.dtx
+gnuplottex.ins

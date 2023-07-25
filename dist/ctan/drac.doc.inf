@@ -1,0 +1,14 @@
+:drac.doc:ctan:0.75776:109070284:588477:F883-F61D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+drac
+
+./doc/latex/drac:
+drac-fr.pdf
+drac.pdf

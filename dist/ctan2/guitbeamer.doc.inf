@@ -1,0 +1,16 @@
+:guitbeamer.doc:ctan2:0.783441:109073044:571837:881A-5B25:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+guitbeamer
+
+./doc/latex/guitbeamer:
+guitbeamer-de.pdf
+guitbeamer.pdf
+readme
+readme.it

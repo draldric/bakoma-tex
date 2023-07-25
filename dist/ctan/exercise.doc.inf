@@ -1,0 +1,14 @@
+:exercise.doc:ctan:0.21504:109070284:178824:4BB-711E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+exercise
+
+./doc/latex/exercise:
+exercise.pdf
+readme

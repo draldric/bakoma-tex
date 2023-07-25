@@ -1,0 +1,16 @@
+:exteps.doc:ctan:0.21504:109070284:104065:6616-B17C:
+
+./:
+doc
+
+./doc:
+metapost
+
+./doc/metapost:
+exteps
+
+./doc/metapost/exteps:
+delfin
+exteps.pdf
+license
+readme

@@ -1,0 +1,16 @@
+:altfont.source:ctan:0.0512:109070284:8895:844D-F195:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+altfont
+
+./source/latex/altfont:
+altfont.dtx
+altfont.ins
+psfont.dtx
+psfont.ins

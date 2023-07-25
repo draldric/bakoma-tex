@@ -1,0 +1,15 @@
+:babelbib.source:ctan:0.28672:109070284:34399:E6E-D679:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+babelbib
+
+./source/latex/babelbib:
+babelbib.dtx
+babelbib.ins
+makefile

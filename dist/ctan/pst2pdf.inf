@@ -1,0 +1,10 @@
+:pst2pdf:ctan:0.02048:109070284:4264:8C4E-9EAB:pst2pdf.ARCH
+
+./:
+scripts
+
+./scripts:
+pst2pdf
+
+./scripts/pst2pdf:
+pst2pdf.pl

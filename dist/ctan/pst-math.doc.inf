@@ -1,0 +1,17 @@
+:pst-math.doc:ctan:0.22528:109070284:160406:BC5-CC5A:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-math
+
+./doc/generic/pst-math:
+changes
+pst-math-doc.bib
+pst-math-doc.pdf
+pst-math-doc.tex
+readme

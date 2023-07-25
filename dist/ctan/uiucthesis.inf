@@ -1,0 +1,14 @@
+:uiucthesis:ctan:0.04096:109070284:4733:1E77-10D3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+uiucthesis
+
+./tex/latex/uiucthesis:
+uiucthesis.cls
+uiucthesis.sty

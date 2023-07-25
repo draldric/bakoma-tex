@@ -1,0 +1,13 @@
+:pst-tree.source:ctan:0.01024:109070284:689:580E-A2F:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-tree
+
+./source/generic/pst-tree:
+makefile

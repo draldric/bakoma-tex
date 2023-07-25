@@ -1,0 +1,17 @@
+:xpackages.doc:ctan:0.91136:109070284:780665:AD62-C682:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xpackages
+
+./doc/latex/xpackages:
+ldcsetup.pdf
+readme-ctan.txt
+template.pdf
+xparse.pdf
+xtheorem.pdf

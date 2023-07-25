@@ -1,0 +1,13 @@
+:manuscript:ctan:0.01024:109070284:1268:226A-9168:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+manuscript
+
+./tex/latex/manuscript:
+manuscript.sty

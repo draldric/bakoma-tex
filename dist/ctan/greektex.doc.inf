@@ -1,0 +1,17 @@
+:greektex.doc:ctan:0.73728:109070284:310398:53EC-3A6D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+greektex
+
+./doc/latex/greektex:
+gehyphw.gr
+greektexdoc.pdf
+greektexdoc.tex
+readme
+ywcl.zip

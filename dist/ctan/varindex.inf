@@ -1,0 +1,13 @@
+:varindex:ctan:0.04096:109070284:6050:314A-376D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+varindex
+
+./tex/latex/varindex:
+varindex.sty

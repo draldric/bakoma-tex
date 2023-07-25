@@ -1,0 +1,13 @@
+:hep:ctan:0.01024:109070284:1762:1FF9-F8C8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hep
+
+./tex/latex/hep:
+hep.sty

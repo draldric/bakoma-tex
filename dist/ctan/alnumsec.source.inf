@@ -1,0 +1,14 @@
+:alnumsec.source:ctan:0.03072:109070284:7272:1445-DC5A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+alnumsec
+
+./source/latex/alnumsec:
+alnumsec.dtx
+alnumsec.ins

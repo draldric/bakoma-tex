@@ -1,0 +1,13 @@
+:itnumpar:ctan:0.02048:109070284:1792:4EE4-F584:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+itnumpar
+
+./tex/latex/itnumpar:
+itnumpar.sty

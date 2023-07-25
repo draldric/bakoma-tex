@@ -1,0 +1,16 @@
+:chessboard:ctan:0.2048:109070284:19785:2863-976E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+chessboard
+
+./tex/latex/chessboard:
+chessboard-keys-main.sty
+chessboard-keys-pgf.sty
+chessboard-pgf.sty
+chessboard.sty

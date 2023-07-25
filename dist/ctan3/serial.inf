@@ -1,0 +1,13 @@
+:serial:ctan3:0.008857:109070768:2730:BAF-AA4C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+serial
+
+./tex/latex/serial:
+serial.cls

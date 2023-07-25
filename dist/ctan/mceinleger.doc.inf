@@ -1,0 +1,14 @@
+:mceinleger.doc:ctan:0.06144:109070284:43110:95B6-BD21:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mceinleger
+
+./doc/latex/mceinleger:
+mceinleger.pdf
+mceinleger.tex

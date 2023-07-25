@@ -1,0 +1,14 @@
+:ushort.source:ctan:0.04096:109070284:8664:DA47-B9A7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ushort
+
+./source/latex/ushort:
+ushort.dtx
+ushort.ins

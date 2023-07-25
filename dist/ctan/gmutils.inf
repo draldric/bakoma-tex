@@ -1,0 +1,13 @@
+:gmutils:ctan:0.1536:109070284:44213:C3F7-1C8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gmutils
+
+./tex/latex/gmutils:
+gmutils.sty

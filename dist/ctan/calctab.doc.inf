@@ -1,0 +1,15 @@
+:calctab.doc:ctan:0.50176:109070284:444884:CCC8-583A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+calctab
+
+./doc/latex/calctab:
+calctab_manual.pdf
+calctab_manual.tex
+readme

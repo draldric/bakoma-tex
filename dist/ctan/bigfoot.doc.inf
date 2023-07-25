@@ -1,0 +1,16 @@
+:bigfoot.doc:ctan:0.26624:109070284:206615:574D-DD32:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bigfoot
+
+./doc/latex/bigfoot:
+bigfoot.pdf
+perpage.pdf
+readme
+suffix.pdf

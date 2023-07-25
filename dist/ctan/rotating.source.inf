@@ -1,0 +1,14 @@
+:rotating.source:ctan:0.03072:109070284:6821:B40-6108:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+rotating
+
+./source/latex/rotating:
+rotating.dtx
+rotating.ins

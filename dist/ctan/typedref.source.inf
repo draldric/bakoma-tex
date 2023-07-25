@@ -1,0 +1,15 @@
+:typedref.source:ctan:0.03072:109070284:6440:3FFF-AEB6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+typedref
+
+./source/latex/typedref:
+typedref.drv
+typedref.dtx
+typedref.ins

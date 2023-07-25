@@ -1,0 +1,14 @@
+:csvtools.source:ctan:0.09216:109070284:18227:F493-4876:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+csvtools
+
+./source/latex/csvtools:
+csvtools.dtx
+csvtools.ins

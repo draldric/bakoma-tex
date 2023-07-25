@@ -1,0 +1,17 @@
+:variations.doc:ctan:0.11264:109070284:75459:EB71-9597:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+variations
+
+./doc/generic/variations:
+alire
+copying
+docvariations.pdf
+docvariations.tex
+readme

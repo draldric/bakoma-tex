@@ -1,0 +1,13 @@
+:papercdcase:ctan:0.03072:109070284:3453:D5C7-BB21:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+papercdcase
+
+./tex/latex/papercdcase:
+papercdcase.sty

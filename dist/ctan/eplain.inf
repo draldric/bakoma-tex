@@ -1,0 +1,14 @@
+:eplain:ctan:0.2048:109070284:39854:E6F1-B32F:bin-eplain
+
+./:
+tex
+
+./tex:
+eplain
+
+./tex/eplain:
+arrow.tex
+btxmac.tex
+eplain.aux
+eplain.ini
+eplain.tex

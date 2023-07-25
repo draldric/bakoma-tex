@@ -1,0 +1,13 @@
+:arrayjob:ctan:0.02048:109070284:2278:10CF-F60C:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+arrayjob
+
+./tex/generic/arrayjob:
+arrayjob.sty

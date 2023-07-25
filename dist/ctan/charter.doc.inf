@@ -1,0 +1,13 @@
+:charter.doc:ctan:0.01024:109080360:607:91F7-C930:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+charter
+
+./doc/fonts/charter:
+readme.charter

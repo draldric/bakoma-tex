@@ -1,0 +1,14 @@
+:thmbox.doc:ctan:0.12288:109070284:93653:A8A9-ACBF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+thmbox
+
+./doc/latex/thmbox:
+readme
+thmbox.pdf

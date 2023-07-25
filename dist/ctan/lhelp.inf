@@ -1,0 +1,13 @@
+:lhelp:ctan:0.02048:109070284:5419:E1AB-AEED:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lhelp
+
+./tex/latex/lhelp:
+lhelp.sty

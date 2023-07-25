@@ -1,0 +1,17 @@
+:elsarticle.doc:ctan:1.46432:109070284:1175831:B753-363B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+elsarticle
+
+./doc/latex/elsarticle:
+elsarticle-template-harv.tex
+elsarticle-template-num.tex
+elsdoc.pdf
+manifest.txt
+readme

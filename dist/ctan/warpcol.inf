@@ -1,0 +1,13 @@
+:warpcol:ctan:0.01024:109070284:758:4FCE-E3FD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+warpcol
+
+./tex/latex/warpcol:
+warpcol.sty

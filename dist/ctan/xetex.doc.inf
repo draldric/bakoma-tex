@@ -1,0 +1,14 @@
+:xetex.doc:ctan:0.63488:109070284:579627:BC0C-8FEA:
+
+./:
+doc
+
+./doc:
+xetex
+
+./doc/xetex:
+base
+
+./doc/xetex/base:
+xetex-notes.pdf
+xetex-notes.tex

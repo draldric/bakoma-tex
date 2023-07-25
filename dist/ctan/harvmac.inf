@@ -1,0 +1,13 @@
+:harvmac:ctan:0.02048:109070284:5281:C07B-C0CC:
+
+./:
+tex
+
+./tex:
+plain
+
+./tex/plain:
+harvmac
+
+./tex/plain/harvmac:
+harvmac.tex

@@ -1,0 +1,15 @@
+:pst-ob3d.doc:ctan:0.2048:109070284:167262:4426-F707:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-ob3d
+
+./doc/generic/pst-ob3d:
+changes
+pst-ob3d.pdf
+readme

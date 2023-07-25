@@ -1,0 +1,17 @@
+:ltxdockit:ctan:0.03072:109070284:5195:A248-3E0A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ltxdockit
+
+./tex/latex/ltxdockit:
+btxdockit.sty
+ltxdockit.cfg
+ltxdockit.cls
+ltxdockit.def
+ltxdockit.sty

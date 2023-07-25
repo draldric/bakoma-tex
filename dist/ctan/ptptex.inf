@@ -1,0 +1,15 @@
+:ptptex:ctan:0.0512:109070284:9027:E2BE-191C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ptptex
+
+./tex/latex/ptptex:
+ptp-prep.clo
+ptptex.cls
+wrapft.sty

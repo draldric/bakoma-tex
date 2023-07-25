@@ -1,0 +1,10 @@
+:latexmk:ctan:0.24576:109070284:57451:59FC-6524:latexmk.ARCH
+
+./:
+scripts
+
+./scripts:
+latexmk
+
+./scripts/latexmk:
+latexmk.pl

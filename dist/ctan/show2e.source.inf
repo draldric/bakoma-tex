@@ -1,0 +1,13 @@
+:show2e.source:ctan:0.02048:109070284:4086:273B-376A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+show2e
+
+./source/latex/show2e:
+show2e.dtx

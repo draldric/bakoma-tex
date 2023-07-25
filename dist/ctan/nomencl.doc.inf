@@ -1,0 +1,14 @@
+:nomencl.doc:ctan:0.21504:109070284:161706:CB3F-76A8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+nomencl
+
+./doc/latex/nomencl:
+nomencl.pdf
+readme

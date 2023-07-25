@@ -1,0 +1,14 @@
+:a2ping.doc:ctan:0.04096:109070284:17258:A26D-E9FA:
+
+./:
+doc
+
+./doc:
+man
+
+./doc/man:
+man1
+
+./doc/man/man1:
+a2ping.1
+a2ping.pdf

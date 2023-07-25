@@ -1,0 +1,13 @@
+:fac.doc:ctan3:0.14362:109073044:101393:6E90-9311:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fac
+
+./doc/latex/fac:
+fac2egui.pdf

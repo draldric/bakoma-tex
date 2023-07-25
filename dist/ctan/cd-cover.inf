@@ -1,0 +1,14 @@
+:cd-cover:ctan:0.03072:109070284:4003:4D4D-28E8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cd-cover
+
+./tex/latex/cd-cover:
+cd-cover.cls
+cd-cover.sty

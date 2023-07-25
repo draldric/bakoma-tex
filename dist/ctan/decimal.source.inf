@@ -1,0 +1,14 @@
+:decimal.source:ctan:0.02048:109070284:4108:DA6C-6B08:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+decimal
+
+./source/latex/decimal:
+decimal.dtx
+decimal.ins

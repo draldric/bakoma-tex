@@ -1,0 +1,17 @@
+:piff:ctan3:0.007424:109070768:2787:9282-AAEF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+piff
+
+./tex/latex/piff:
+ams.sty
+duplicat.sty
+newproof.sty
+onepagem.sty
+time.sty

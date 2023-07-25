@@ -1,0 +1,15 @@
+:ltxindex.doc:ctan:0.11264:109070284:75817:27D9-6A06:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ltxindex
+
+./doc/latex/ltxindex:
+copying.txt
+ltxindex.pdf
+readme

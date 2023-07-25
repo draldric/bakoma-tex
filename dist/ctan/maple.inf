@@ -1,0 +1,13 @@
+:maple:ctan:0.01024:109070284:1837:C23F-1C97:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+maple
+
+./tex/latex/maple:
+mtn.cls

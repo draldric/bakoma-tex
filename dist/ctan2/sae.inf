@@ -1,0 +1,14 @@
+:sae:ctan2:0.011478:109070768:2520:856D-7941:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sae
+
+./tex/latex/sae:
+sae.cls
+saeold.cls

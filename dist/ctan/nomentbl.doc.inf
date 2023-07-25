@@ -1,0 +1,16 @@
+:nomentbl.doc:ctan:0.21504:109070284:174232:C20D-3D6C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+nomentbl
+
+./doc/latex/nomentbl:
+example.pdf
+example.tex
+nomentbl.pdf
+readme

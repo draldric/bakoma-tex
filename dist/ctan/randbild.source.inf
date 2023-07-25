@@ -1,0 +1,14 @@
+:randbild.source:ctan:0.02048:109070284:5067:E2CF-5B69:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+randbild
+
+./source/latex/randbild:
+randbild.dtx
+randbild.ins

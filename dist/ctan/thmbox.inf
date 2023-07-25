@@ -1,0 +1,13 @@
+:thmbox:ctan:0.02048:109070284:1946:D7DC-8B0C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+thmbox
+
+./tex/latex/thmbox:
+thmbox.sty

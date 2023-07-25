@@ -1,0 +1,14 @@
+:stringstrings.doc:ctan:0.31744:109070284:262309:BD21-7694:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+stringstrings
+
+./doc/latex/stringstrings:
+readme
+stringstrings.pdf

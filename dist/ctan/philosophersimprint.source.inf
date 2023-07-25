@@ -1,0 +1,15 @@
+:philosophersimprint.source:ctan:0.0512:109070284:12126:3D51-F9E9:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+philosophersimprint
+
+./source/latex/philosophersimprint:
+makefile
+philosophersimprint.dtx
+philosophersimprint.ins

@@ -1,0 +1,14 @@
+:everypage.doc:ctan:0.03072:109070284:14012:9D44-145:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+everypage
+
+./doc/latex/everypage:
+everypage.pdf
+readme

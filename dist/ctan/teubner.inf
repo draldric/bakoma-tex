@@ -1,0 +1,13 @@
+:teubner:ctan:0.0512:109070284:8263:2D7C-956C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+teubner
+
+./tex/latex/teubner:
+teubner.sty

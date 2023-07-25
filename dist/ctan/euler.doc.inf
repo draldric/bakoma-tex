@@ -1,0 +1,13 @@
+:euler.doc:ctan:0.0512:109070284:13217:3D28-864B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+euler
+
+./doc/latex/euler:
+euler.dvi

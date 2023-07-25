@@ -1,0 +1,13 @@
+:xmpincl:ctan:0.01024:109070284:1223:FE2C-D9F3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xmpincl
+
+./tex/latex/xmpincl:
+xmpincl.sty

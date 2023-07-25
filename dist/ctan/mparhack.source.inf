@@ -1,0 +1,14 @@
+:mparhack.source:ctan:0.04096:109070284:10353:7AC7-CCDB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mparhack
+
+./source/latex/mparhack:
+mparhack.dtx
+mparhack.ins

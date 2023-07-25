@@ -1,0 +1,13 @@
+:varsfromjobname:ctan:0.01024:109070284:787:36FA-2911:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+varsfromjobname
+
+./tex/latex/varsfromjobname:
+varsfromjobname.sty

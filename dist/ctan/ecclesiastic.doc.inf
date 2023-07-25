@@ -1,0 +1,16 @@
+:ecclesiastic.doc:ctan:0.1536:109070284:122955:4387-EB04:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ecclesiastic
+
+./doc/latex/ecclesiastic:
+ecclesiastic.pdf
+manifest.txt
+readme
+readme.texlive

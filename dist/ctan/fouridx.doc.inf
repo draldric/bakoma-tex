@@ -1,0 +1,14 @@
+:fouridx.doc:ctan:0.12288:109070284:94081:9E37-A310:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fouridx
+
+./doc/latex/fouridx:
+fouridx.pdf
+readme

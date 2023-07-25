@@ -1,0 +1,13 @@
+:chicago-annote:ctan:0.04096:109070284:8570:2F75-5C2A:
+
+./:
+bibtex
+
+./bibtex:
+bst
+
+./bibtex/bst:
+chicago-annote
+
+./bibtex/bst/chicago-annote:
+chicago-annote.bst

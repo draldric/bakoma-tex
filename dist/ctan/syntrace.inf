@@ -1,0 +1,13 @@
+:syntrace:ctan:0.01024:109070284:1095:FB54-9836:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+syntrace
+
+./tex/latex/syntrace:
+syntrace.sty

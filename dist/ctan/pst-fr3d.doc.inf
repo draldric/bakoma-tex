@@ -1,0 +1,15 @@
+:pst-fr3d.doc:ctan:0.2048:109070284:170930:5A45-6198:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-fr3d
+
+./doc/generic/pst-fr3d:
+changes
+pst-fr3d.pdf
+readme

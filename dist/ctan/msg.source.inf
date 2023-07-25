@@ -1,0 +1,16 @@
+:msg.source:ctan:0.08192:109070284:18355:5953-6668:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+msg
+
+./source/latex/msg:
+makefile
+msg.dtx
+msg.ins
+msgfiles.dtx

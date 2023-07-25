@@ -1,0 +1,13 @@
+:newsletr:ctan:0.06144:109070284:16470:3540-CA1B:
+
+./:
+tex
+
+./tex:
+plain
+
+./tex/plain:
+newsletr
+
+./tex/plain/newsletr:
+newsletr.tex

@@ -1,0 +1,15 @@
+:figsize.doc:ctan:0.1536:109070284:85552:B2A8-E105:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+figsize
+
+./doc/latex/figsize:
+figsize.pdf
+figsize.tex
+readme

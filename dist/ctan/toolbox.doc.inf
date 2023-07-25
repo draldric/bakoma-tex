@@ -1,0 +1,15 @@
+:toolbox.doc:ctan:0.04096:109070284:10644:3271-9399:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+toolbox
+
+./doc/latex/toolbox:
+readme
+toolbox.tex
+toolbox.txt

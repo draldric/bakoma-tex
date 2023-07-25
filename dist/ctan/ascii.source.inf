@@ -1,0 +1,14 @@
+:ascii.source:ctan:0.02048:109070284:4182:83B2-2C78:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ascii
+
+./source/latex/ascii:
+ascii.dtx
+ascii.ins

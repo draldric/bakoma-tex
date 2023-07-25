@@ -1,0 +1,13 @@
+:pst-3dplot.source:ctan:0.01024:109070284:691:799A-2E72:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-3dplot
+
+./source/generic/pst-3dplot:
+makefile

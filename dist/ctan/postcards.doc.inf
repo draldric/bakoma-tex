@@ -1,0 +1,16 @@
+:postcards.doc:ctan:0.01024:109070284:1950:8017-5AE7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+postcards
+
+./doc/latex/postcards:
+datasmp.txt
+pcardsmp.dvi
+pcardsmp.tex
+readme

@@ -1,0 +1,13 @@
+:tikz-inet:ctan:0.02048:109070284:2477:681E-139B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tikz-inet
+
+./tex/latex/tikz-inet:
+tikz-inet.sty

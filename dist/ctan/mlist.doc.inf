@@ -1,0 +1,14 @@
+:mlist.doc:ctan:0.21504:109070284:184873:C4AA-E43:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mlist
+
+./doc/latex/mlist:
+mlist.pdf
+readme

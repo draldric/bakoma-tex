@@ -1,0 +1,13 @@
+:coursepaper.doc:ctan:0.01024:109070284:1667:BCB2-3887:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+coursepaper
+
+./doc/latex/coursepaper:
+coursepaper.tex

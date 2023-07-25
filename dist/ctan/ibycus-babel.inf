@@ -1,0 +1,15 @@
+:ibycus-babel:ctan:0.01024:109070284:1598:2CF6-CA4A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ibycus-babel
+
+./tex/latex/ibycus-babel:
+ibycus.ldf
+lgienc.def
+lgifib.fd

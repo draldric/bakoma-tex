@@ -1,0 +1,13 @@
+:nonfloat:ctan:0.01024:109070284:1072:152E-29AE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nonfloat
+
+./tex/latex/nonfloat:
+nonfloat.sty

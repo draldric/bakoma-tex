@@ -1,0 +1,13 @@
+:syntax:ctan:0.02048:109070284:2242:7C3C-C993:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+syntax
+
+./tex/latex/syntax:
+syntax.tex

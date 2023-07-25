@@ -1,0 +1,13 @@
+:switcheml:ctan2:0.002529:109070768:1196:785-D4A8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+switcheml
+
+./tex/latex/switcheml:
+switcheml.sty

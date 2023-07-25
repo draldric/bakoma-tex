@@ -1,0 +1,15 @@
+:bibunits.doc:ctan:0.28672:109070284:193529:68C2-E55C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bibunits
+
+./doc/latex/bibunits:
+bibtexall
+bibunits.pdf
+readme

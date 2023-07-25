@@ -1,0 +1,17 @@
+:cyklop.doc:ctan:0.49152:109070284:405450:761D-3262:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+cyklop
+
+./doc/fonts/cyklop:
+00readme
+00readme-pl
+cyklop-info.pdf
+gust-font-license.txt
+manifest.txt

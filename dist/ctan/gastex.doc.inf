@@ -1,0 +1,15 @@
+:gastex.doc:ctan:0.03072:109070284:5727:4A1-C15:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gastex
+
+./doc/latex/gastex:
+ex-beamer-gastex.tex
+ex-gastex.tex
+readme

@@ -1,0 +1,14 @@
+:bez123.doc:ctan:0.27648:109070284:234633:94E5-8EE8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bez123
+
+./doc/latex/bez123:
+bez123.pdf
+readme

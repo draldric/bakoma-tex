@@ -1,0 +1,14 @@
+:forloop.doc:ctan:0.09216:109070284:70201:741F-937F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+forloop
+
+./doc/latex/forloop:
+forloop.pdf
+readme

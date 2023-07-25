@@ -1,0 +1,17 @@
+:technics.source:ctan:0.0512:109070284:26247:2BEB-6B4F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+technics
+
+./source/latex/technics:
+png2eps.sh
+rf-logo.zip
+view-dvi.sh
+vmlinux.eps
+vmlinux.png

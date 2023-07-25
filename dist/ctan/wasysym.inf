@@ -1,0 +1,15 @@
+:wasysym:ctan:0.02048:109070284:3091:67BD-42C1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+wasysym
+
+./tex/latex/wasysym:
+uwasy.fd
+uwasyvar.fd
+wasysym.sty

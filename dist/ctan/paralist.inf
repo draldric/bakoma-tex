@@ -1,0 +1,13 @@
+:paralist:ctan:0.02048:109070284:3238:47BB-8B3F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+paralist
+
+./tex/latex/paralist:
+paralist.sty

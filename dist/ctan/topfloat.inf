@@ -1,0 +1,13 @@
+:topfloat:ctan:0.01024:109070284:1078:61C-7F23:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+topfloat
+
+./tex/latex/topfloat:
+topfloat.sty

@@ -1,0 +1,16 @@
+:octavo:ctan:0.0512:109070284:5852:7882-67AB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+octavo
+
+./tex/latex/octavo:
+oct10.clo
+oct11.clo
+oct12.clo
+octavo.cls

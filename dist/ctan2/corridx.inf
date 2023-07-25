@@ -1,0 +1,13 @@
+:corridx:ctan2:0.005391:109070768:1399:229E-B09E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+corridx
+
+./tex/latex/corridx:
+corridx.sty

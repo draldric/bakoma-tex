@@ -1,0 +1,14 @@
+:mparhack.doc:ctan:0.09216:109070284:58668:974C-D6A6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mparhack
+
+./doc/latex/mparhack:
+mparhack.pdf
+readme

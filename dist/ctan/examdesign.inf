@@ -1,0 +1,13 @@
+:examdesign:ctan:0.0512:109070284:10115:19DE-6390:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+examdesign
+
+./tex/latex/examdesign:
+examdesign.cls

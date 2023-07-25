@@ -1,0 +1,16 @@
+:pst-qtree.doc:ctan:0.0512:109070284:24292:EFFB-187D:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-qtree
+
+./doc/generic/pst-qtree:
+changes
+license
+pst-qtree-manual.pdf
+pst-qtree-manual.tex

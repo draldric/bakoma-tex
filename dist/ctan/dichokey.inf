@@ -1,0 +1,13 @@
+:dichokey:ctan:0.01024:109070284:1535:2D43-7171:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dichokey
+
+./tex/latex/dichokey:
+dichokey.sty

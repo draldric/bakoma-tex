@@ -1,0 +1,16 @@
+:todonotes.doc:ctan:0.23552:109070284:180753:5642-C93:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+todonotes
+
+./doc/latex/todonotes:
+readme
+todonotes.pdf
+todonotesexample.pdf
+todonotesexample.tex

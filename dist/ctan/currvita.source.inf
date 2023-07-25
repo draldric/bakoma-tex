@@ -1,0 +1,14 @@
+:currvita.source:ctan:0.06144:109070284:15884:8717-5A92:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+currvita
+
+./source/latex/currvita:
+currvita.dtx
+currvita.ins

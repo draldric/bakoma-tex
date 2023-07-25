@@ -1,0 +1,13 @@
+:utthesis:ctan2:0.025333:109070768:6262:A52F-B549:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+utthesis
+
+./tex/latex/utthesis:
+utthesis.sty

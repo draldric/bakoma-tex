@@ -1,0 +1,13 @@
+:wrapfig:ctan:0.03072:109070284:8970:588C-351F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+wrapfig
+
+./tex/latex/wrapfig:
+wrapfig.sty

@@ -1,0 +1,14 @@
+:endheads.source:ctan:0.03072:109070284:7251:6CB-9E35:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+endheads
+
+./source/latex/endheads:
+endheads.dtx
+endheads.ins

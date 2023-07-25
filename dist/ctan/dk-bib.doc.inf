@@ -1,0 +1,16 @@
+:dk-bib.doc:ctan:0.47104:109070284:403994:1213-CD45:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dk-bib
+
+./doc/latex/dk-bib:
+copyright
+dk-bib.ltx
+dk-bib.pdf
+readme

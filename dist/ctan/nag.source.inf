@@ -1,0 +1,14 @@
+:nag.source:ctan:0.06144:109070284:15692:1EEA-822C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+nag
+
+./source/latex/nag:
+nag.dtx
+nag.ins

@@ -1,0 +1,14 @@
+:sanskrit.doc:ctan:0.70656:109070284:244819:7E18-DFAB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sanskrit
+
+./doc/latex/sanskrit:
+readme.txt
+sktdoc.pdf

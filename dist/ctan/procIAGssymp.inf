@@ -1,0 +1,13 @@
+:procIAGssymp:ctan:0.01024:109070284:2087:4F9C-5C81:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+prociagssymp
+
+./tex/latex/prociagssymp:
+prociagssymp.sty

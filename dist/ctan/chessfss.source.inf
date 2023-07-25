@@ -1,0 +1,14 @@
+:chessfss.source:ctan:0.1024:109070284:10570:57FD-1D4A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+chessfss
+
+./source/latex/chessfss:
+chessfss-src.dtx
+chessfss.ins

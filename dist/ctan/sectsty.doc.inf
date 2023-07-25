@@ -1,0 +1,13 @@
+:sectsty.doc:ctan:0.23552:109070284:216517:957C-42C4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sectsty
+
+./doc/latex/sectsty:
+sectsty.pdf

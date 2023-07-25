@@ -1,0 +1,13 @@
+:mla-paper:ctan:0.01024:109070284:1860:4515-884C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mla-paper
+
+./tex/latex/mla-paper:
+mla.sty

@@ -1,0 +1,13 @@
+:iopart-num:ctan:0.04096:109070284:7523:AA56-1D5D:
+
+./:
+bibtex
+
+./bibtex:
+bst
+
+./bibtex/bst:
+iopart-num
+
+./bibtex/bst/iopart-num:
+iopart-num.bst

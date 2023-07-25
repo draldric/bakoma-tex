@@ -1,0 +1,14 @@
+:uaclasses.source:ctan:0.06144:109070284:13608:5C75-A927:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+uaclasses
+
+./source/latex/uaclasses:
+ua-classes.dtx
+ua-classes.ins

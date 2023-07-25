@@ -1,0 +1,17 @@
+:supertabular.doc:ctan:0.18432:109070284:141322:479B-FB76:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+supertabular
+
+./doc/latex/supertabular:
+catalog
+changelog
+manifest
+readme
+supertabular.pdf

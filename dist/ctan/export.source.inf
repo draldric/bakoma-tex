@@ -1,0 +1,15 @@
+:export.source:ctan:0.04096:109070284:8776:756A-3B74:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+export
+
+./source/latex/export:
+export.dtx
+export.ins
+export.l

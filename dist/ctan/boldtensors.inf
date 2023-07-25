@@ -1,0 +1,13 @@
+:boldtensors:ctan:0.02048:109070284:2235:53D4-150D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+boldtensors
+
+./tex/latex/boldtensors:
+boldtensors.sty

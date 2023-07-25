@@ -1,0 +1,13 @@
+:blindtext:ctan:0.02048:109070284:3922:7E9C-748F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+blindtext
+
+./tex/latex/blindtext:
+blindtext.sty

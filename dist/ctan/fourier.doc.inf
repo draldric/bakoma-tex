@@ -1,0 +1,17 @@
+:fourier.doc:ctan:0.2048:109070284:137944:70B6-6ACE:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+fourier
+
+./doc/fonts/fourier:
+fourier-doc-en.pdf
+fourier-doc-en.tex
+fourier-orns.pdf
+fourier-orns.tex
+readme

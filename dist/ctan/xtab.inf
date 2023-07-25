@@ -1,0 +1,13 @@
+:xtab:ctan:0.03072:109070284:4297:1AF0-D5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xtab
+
+./tex/latex/xtab:
+xtab.sty

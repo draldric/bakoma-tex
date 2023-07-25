@@ -1,0 +1,16 @@
+:lxfonts.doc:ctan:0.32768:109070284:196541:D892-B638:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+lxfonts
+
+./doc/fonts/lxfonts:
+lxfonts-demo.pdf
+lxfonts-demo.tex
+lxfonts.readme
+manifest

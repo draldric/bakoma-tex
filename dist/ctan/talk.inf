@@ -1,0 +1,14 @@
+:talk:ctan:0.03072:109070284:3809:B756-9C4C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+talk
+
+./tex/latex/talk:
+sidebars.sty
+talk.cls

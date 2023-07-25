@@ -1,0 +1,13 @@
+:fontch.doc:ctan:0.02048:109070284:3941:48B2-2762:
+
+./:
+doc
+
+./doc:
+plain
+
+./doc/plain:
+fontch
+
+./doc/plain/fontch:
+readme

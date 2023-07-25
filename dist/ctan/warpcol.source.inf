@@ -1,0 +1,14 @@
+:warpcol.source:ctan:0.02048:109070284:3154:23D2-4098:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+warpcol
+
+./source/latex/warpcol:
+warpcol.dtx
+warpcol.ins

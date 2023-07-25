@@ -1,0 +1,17 @@
+:pgf-soroban.doc:ctan:0.38912:109070284:362275:86BD-10E1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pgf-soroban
+
+./doc/latex/pgf-soroban:
+changes
+pgf-soroban-doc.bib
+pgf-soroban-doc.pdf
+pgf-soroban-doc.tex
+readme

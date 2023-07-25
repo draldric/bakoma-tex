@@ -1,0 +1,14 @@
+:float.source:ctan:0.0512:109070284:12300:DF1B-5867:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+float
+
+./source/latex/float:
+float.dtx
+float.ins

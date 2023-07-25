@@ -1,0 +1,13 @@
+:bibtopic:ctan:0.04096:109070284:8013:D20C-7336:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bibtopic
+
+./tex/latex/bibtopic:
+bibtopic.sty

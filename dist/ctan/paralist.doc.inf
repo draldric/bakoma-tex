@@ -1,0 +1,14 @@
+:paralist.doc:ctan:0.256:109070284:221626:594D-6D4D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+paralist
+
+./doc/latex/paralist:
+paralist.pdf
+readme

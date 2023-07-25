@@ -1,0 +1,13 @@
+:dramatist:ctan:0.02048:109070284:3470:8E2F-8DB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dramatist
+
+./tex/latex/dramatist:
+dramatist.sty

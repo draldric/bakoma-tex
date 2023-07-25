@@ -1,0 +1,15 @@
+:currvita.doc:ctan:0.12288:109070284:88657:B23-24C8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+currvita
+
+./doc/latex/currvita:
+currvita.pdf
+cvtest.tex
+readme

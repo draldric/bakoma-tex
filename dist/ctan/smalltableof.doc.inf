@@ -1,0 +1,13 @@
+:smalltableof.doc:ctan:0.01024:109070284:729:C1AC-94:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+smalltableof
+
+./doc/latex/smalltableof:
+readme

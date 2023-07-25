@@ -1,0 +1,17 @@
+:g-brief.doc:ctan:0.18432:109070284:129105:7466-D1B4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+g-brief
+
+./doc/latex/g-brief:
+beispiel.pdf
+beispiel.tex
+beispiel2.pdf
+beispiel2.tex
+g-brief.pdf

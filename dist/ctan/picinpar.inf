@@ -1,0 +1,13 @@
+:picinpar:ctan:0.02048:109070284:4765:302D-8F15:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+picinpar
+
+./tex/latex/picinpar:
+picinpar.sty

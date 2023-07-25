@@ -1,0 +1,15 @@
+:ucthesis.doc:ctan:0.02048:109070284:6026:72C-A531:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ucthesis
+
+./doc/latex/ucthesis:
+readme
+uctest.bib
+uctest.tex

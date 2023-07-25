@@ -1,0 +1,13 @@
+:lexikon:ctan:0.01024:109070284:1895:5C67-1827:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lexikon
+
+./tex/latex/lexikon:
+lexikon.sty

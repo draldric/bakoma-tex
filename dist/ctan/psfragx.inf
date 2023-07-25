@@ -1,0 +1,14 @@
+:psfragx:ctan:0.02048:109070284:3028:EFB2-5CAD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+psfragx
+
+./tex/latex/psfragx:
+psfragx.cfg
+psfragx.sty

@@ -1,0 +1,17 @@
+:dtxgallery.doc:ctan:0.38912:109070284:349028:9E28-8043:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dtxgallery
+
+./doc/latex/dtxgallery:
+conditional-code.pdf
+dtxgallery.pdf
+readme
+rearrange.pdf
+single-source.pdf

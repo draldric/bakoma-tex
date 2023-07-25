@@ -1,0 +1,14 @@
+:confproc.source:ctan:0.31744:109070284:62352:D89D-6111:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+confproc
+
+./source/latex/confproc:
+confproc.dtx
+confproc.ins

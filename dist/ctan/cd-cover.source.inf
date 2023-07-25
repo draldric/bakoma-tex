@@ -1,0 +1,14 @@
+:cd-cover.source:ctan:0.0512:109070284:12719:B379-AEE0:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cd-cover
+
+./source/latex/cd-cover:
+cd-cover.dtx
+cd-cover.ins

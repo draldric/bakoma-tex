@@ -1,0 +1,14 @@
+:pst-fr3d.source:ctan:0.04096:109070284:7330:4BF1-6497:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-fr3d
+
+./source/generic/pst-fr3d:
+pst-fr3d.dtx
+pst-fr3d.ins

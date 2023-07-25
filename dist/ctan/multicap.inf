@@ -1,0 +1,13 @@
+:multicap:ctan:0.01024:109070284:1268:44A9-55BC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+multicap
+
+./tex/latex/multicap:
+multicap.sty

@@ -1,0 +1,14 @@
+:harvmac.doc:ctan:0.02048:109070284:5637:59FE-F980:
+
+./:
+doc
+
+./doc:
+plain
+
+./doc/plain:
+harvmac
+
+./doc/plain/harvmac:
+harvsamp.tex
+readme

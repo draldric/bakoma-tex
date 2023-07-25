@@ -1,0 +1,13 @@
+:nfssext-cfr:ctan:0.03072:109070284:4334:1F34-17D4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nfssext-cfr
+
+./tex/latex/nfssext-cfr:
+nfssext-cfr.sty

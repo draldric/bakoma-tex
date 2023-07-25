@@ -1,0 +1,15 @@
+:pawpict.source:ctan:0.0512:109070284:10174:AF98-A22D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pawpict
+
+./source/latex/pawpict:
+pawpict.dtx
+pawpict.ins
+readme

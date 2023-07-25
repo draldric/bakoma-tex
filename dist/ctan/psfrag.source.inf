@@ -1,0 +1,14 @@
+:psfrag.source:ctan:0.0512:109070284:13562:4DF8-6DB8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+psfrag
+
+./source/latex/psfrag:
+psfrag.dtx
+psfrag.ins

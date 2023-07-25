@@ -1,0 +1,13 @@
+:courseoutline.doc:ctan:0.01024:109070284:2325:7DD7-A9B8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+courseoutline
+
+./doc/latex/courseoutline:
+outline.tex

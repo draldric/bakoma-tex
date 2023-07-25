@@ -1,0 +1,16 @@
+:fancyvrb:ctan:0.07168:109070284:11735:B553-D2CD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fancyvrb
+
+./tex/latex/fancyvrb:
+fancyvrb.sty
+fvrb-ex.sty
+hbaw.sty
+hcolor.sty

@@ -1,0 +1,17 @@
+:pst-support.doc:ctan:0.04096:109070284:6189:7B1A-51BC:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-support
+
+./doc/generic/pst-support:
+latex-ps-pdf.tco
+latex-pstpdf-pdf.tco
+pdflatex-autopstpdf.tco
+readme
+standard_transparency.joboptions

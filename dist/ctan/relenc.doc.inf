@@ -1,0 +1,16 @@
+:relenc.doc:ctan:0.39936:109070284:94644:F74A-D6E4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+relenc
+
+./doc/latex/relenc:
+reldemo.dvi
+reldemo.tex
+relenc.dvi
+relenc.tex

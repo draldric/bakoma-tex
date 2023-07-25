@@ -1,0 +1,11 @@
+:wordlike.source:ctan:0.03072:109070284:6251:7C2-E697:
+
+./:
+source
+
+./source:
+wordlike
+
+./source/wordlike:
+wordlike.dtx
+wordlike.ins

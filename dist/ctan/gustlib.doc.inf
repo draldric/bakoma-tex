@@ -1,0 +1,16 @@
+:gustlib.doc:ctan:0.02048:109070284:4004:F207-C036:
+
+./:
+doc
+
+./doc:
+plain
+
+./doc/plain:
+gustlib
+
+./doc/plain/gustlib:
+readme
+readme.biblotex
+readme.plbtx993
+readme.plmac218

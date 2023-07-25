@@ -1,0 +1,14 @@
+:dice.doc:ctan:0.01024:109070284:2084:32FF-6DEC:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+dice
+
+./doc/fonts/dice:
+dice3d.dvi
+dice3d.tex

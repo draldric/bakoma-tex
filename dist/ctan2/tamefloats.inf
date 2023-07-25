@@ -1,0 +1,13 @@
+:tamefloats:ctan2:0.009519:109070768:3868:D5F7-544E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tamefloats
+
+./tex/latex/tamefloats:
+tameflts.sty

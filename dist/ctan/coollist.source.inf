@@ -1,0 +1,14 @@
+:coollist.source:ctan:0.04096:109070284:6122:FF96-9A6D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+coollist
+
+./source/latex/coollist:
+coollist.dtx
+coollist.ins

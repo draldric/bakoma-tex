@@ -1,0 +1,13 @@
+:bbcard:ctan:0.03072:109070284:6383:CDB2-D16E:
+
+./:
+metapost
+
+./metapost:
+bbcard
+
+./metapost/bbcard:
+bbcard.mp
+breakwidth.mp
+calendar.mp
+scorecard.mp

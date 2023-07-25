@@ -1,0 +1,14 @@
+:smartref:ctan:0.02048:109070284:2485:8042-205B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+smartref
+
+./tex/latex/smartref:
+byname.sty
+smartref.sty

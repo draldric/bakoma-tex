@@ -1,0 +1,16 @@
+:bibhtml.doc:ctan:0.06144:109070284:17258:B858-D13C:
+
+./:
+doc
+
+./doc:
+bibtex
+
+./doc/bibtex:
+bibhtml
+
+./doc/bibtex/bibhtml:
+bibhtml
+bibhtml.html
+bibhtml.xslt
+licence

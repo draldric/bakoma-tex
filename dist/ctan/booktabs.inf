@@ -1,0 +1,13 @@
+:booktabs:ctan:0.01024:109070284:1966:9B35-F923:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+booktabs
+
+./tex/latex/booktabs:
+booktabs.sty

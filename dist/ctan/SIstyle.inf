@@ -1,0 +1,13 @@
+:SIstyle:ctan:0.02048:109070284:3089:23DA-85BA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sistyle
+
+./tex/latex/sistyle:
+sistyle.sty

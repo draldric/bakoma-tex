@@ -1,0 +1,13 @@
+:mapcodes:ctan:0.02048:109070284:3481:6075-440:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mapcodes
+
+./tex/latex/mapcodes:
+mapcodes.sty

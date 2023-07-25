@@ -1,0 +1,15 @@
+:rcs-multi.source:ctan:0.06144:109070284:13130:C318-DE4C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+rcs-multi
+
+./source/latex/rcs-multi:
+makefile
+rcs-multi.dtx
+rcs-multi.ins

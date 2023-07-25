@@ -1,0 +1,14 @@
+:tocvsec2.doc:ctan:0.17408:109070284:140375:422D-2019:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tocvsec2
+
+./doc/latex/tocvsec2:
+readme
+tocvsec2.pdf

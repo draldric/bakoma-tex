@@ -1,0 +1,15 @@
+:pseudocode.doc:ctan:0.17408:109070284:133632:474C-6F81:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pseudocode
+
+./doc/latex/pseudocode:
+pseudocode.pdf
+pseudocode.tex
+readme

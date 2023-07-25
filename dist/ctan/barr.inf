@@ -1,0 +1,13 @@
+:barr:ctan:0.0512:109070284:7348:9B23-6104:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+barr
+
+./tex/generic/barr:
+diagxy.tex

@@ -1,0 +1,16 @@
+:cite:ctan:0.08192:109070284:20195:79DC-277E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cite
+
+./tex/latex/cite:
+chapterbib.sty
+cite.sty
+drftcite.sty
+overcite.sty

@@ -1,0 +1,17 @@
+:geometry.doc:ctan:0.3584:109070284:277707:4257-63C9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+geometry
+
+./doc/latex/geometry:
+changes.txt
+geometry-samples.tex
+geometry.cfg
+geometry.pdf
+readme

@@ -1,0 +1,13 @@
+:authoraftertitle:ctan:0.01024:109070284:327:F650-ADA6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+authoraftertitle
+
+./tex/latex/authoraftertitle:
+authoraftertitle.sty

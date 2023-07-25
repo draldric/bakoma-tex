@@ -1,0 +1,16 @@
+:pst-dbicons.source:ctan:0.0512:109070284:10992:8F88-9789:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-dbicons
+
+./source/generic/pst-dbicons:
+makefile
+pst-dbicons.drv
+pst-dbicons.dtx
+pst-dbicons.ins

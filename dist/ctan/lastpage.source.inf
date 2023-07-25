@@ -1,0 +1,15 @@
+:lastpage.source:ctan:0.02048:109070284:4458:EF17-C03E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+lastpage
+
+./source/latex/lastpage:
+lastpage.drv
+lastpage.dtx
+lastpage.ins

@@ -1,0 +1,15 @@
+:euro.source:ctan:0.06144:109070284:14795:E825-144D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+euro
+
+./source/latex/euro:
+euro.dtx
+euro.ins
+makefile

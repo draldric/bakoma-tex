@@ -1,0 +1,13 @@
+:xetexfontinfo.doc:ctan:0.01024:109070284:371:814-4098:
+
+./:
+doc
+
+./doc:
+xetex
+
+./doc/xetex:
+xetexfontinfo
+
+./doc/xetex/xetexfontinfo:
+readme

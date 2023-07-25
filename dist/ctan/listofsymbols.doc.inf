@@ -1,0 +1,14 @@
+:listofsymbols.doc:ctan:0.03072:109070284:8279:61CE-659F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+listofsymbols
+
+./doc/latex/listofsymbols:
+listofsymbols.dvi
+readme

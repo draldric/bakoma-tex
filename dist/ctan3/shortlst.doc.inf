@@ -1,0 +1,13 @@
+:shortlst.doc:ctan3:0.294154:109073048:275469:7C89-D1D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+shortlst
+
+./doc/latex/shortlst:
+shortlst.pdf

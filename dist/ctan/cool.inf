@@ -1,0 +1,13 @@
+:cool:ctan:0.08192:109070284:9655:1D06-D7BB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cool
+
+./tex/latex/cool:
+cool.sty

@@ -1,0 +1,13 @@
+:marginnote.doc:ctan:0.16384:109070284:132790:16E7-6A92:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+marginnote
+
+./doc/latex/marginnote:
+marginnote.pdf

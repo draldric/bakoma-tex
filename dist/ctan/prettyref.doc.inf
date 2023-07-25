@@ -1,0 +1,14 @@
+:prettyref.doc:ctan:0.0512:109070284:32433:95B4-94E8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+prettyref
+
+./doc/latex/prettyref:
+prettyref.pdf
+readme

@@ -1,0 +1,16 @@
+:tex-ewd.doc:ctan:0.03072:109070284:7373:CB45-27AE:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+tex-ewd
+
+./doc/generic/tex-ewd:
+bsdlic.txt
+p0.tex
+readme
+t1.tex

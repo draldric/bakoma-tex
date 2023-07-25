@@ -1,0 +1,13 @@
+:fmp:ctan:0.01024:109070284:1439:53A5-96A3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fmp
+
+./tex/latex/fmp:
+fmp.sty

@@ -1,0 +1,15 @@
+:hitec.doc:ctan:0.03072:109070284:15722:EBCF-6AB3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hitec
+
+./doc/latex/hitec:
+hitec_doc.pdf
+hitec_doc.tex
+readme

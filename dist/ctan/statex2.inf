@@ -1,0 +1,13 @@
+:statex2:ctan:0.02048:109070284:4850:FCD1-5575:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+statex2
+
+./tex/latex/statex2:
+statex2.sty

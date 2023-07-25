@@ -1,0 +1,13 @@
+:dashbox:ctan:0.01024:109070284:1216:337E-6A1E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dashbox
+
+./tex/latex/dashbox:
+dashbox.sty

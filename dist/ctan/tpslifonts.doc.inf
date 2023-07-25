@@ -1,0 +1,16 @@
+:tpslifonts.doc:ctan:0.08192:109070284:15076:7956-475A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tpslifonts
+
+./doc/latex/tpslifonts:
+00readme.txt
+0install.txt
+slifontsexample.tex
+__tpslifonts.tex

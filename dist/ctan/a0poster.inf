@@ -1,0 +1,14 @@
+:a0poster:ctan:0.02048:109070284:2836:2812-F005:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+a0poster
+
+./tex/latex/a0poster:
+a0poster.cls
+a0size.sty

@@ -1,0 +1,15 @@
+:pigpen.doc:ctan:0.06144:109070284:48848:F9F9-94A6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pigpen
+
+./doc/latex/pigpen:
+pigpendoc.pdf
+pigpendoc.tex
+readme

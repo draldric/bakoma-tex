@@ -1,0 +1,13 @@
+:fixfoot.doc:ctan:0.01024:109070284:304:4FAE-E6CC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fixfoot
+
+./doc/latex/fixfoot:
+testfix.tex

@@ -1,0 +1,17 @@
+:pst-bar.doc:ctan:0.17408:109070284:88612:9471-5B69:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-bar
+
+./doc/generic/pst-bar:
+pst-bar-doc.bib
+pst-bar-doc.pdf
+pst-bar-doc.tex
+pst-bar.orig
+readme

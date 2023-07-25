@@ -1,0 +1,15 @@
+:kastrup.source:ctan:0.03072:109070284:7119:C75E-7F8E:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+kastrup
+
+./source/generic/kastrup:
+binhex.drv
+binhex.dtx
+binhex.ins

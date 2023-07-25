@@ -1,0 +1,17 @@
+:vxu:ctan:0.06144:109070284:10064:D8F5-6E0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+vxu
+
+./tex/latex/vxu:
+actawex.cls
+awcollection.clo
+awmonograph.clo
+vxulicentiate.cls
+vxutentamen.sty

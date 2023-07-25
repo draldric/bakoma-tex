@@ -1,0 +1,13 @@
+:blowup:ctan:0.01024:109070284:2116:61FC-333B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+blowup
+
+./tex/latex/blowup:
+blowup.sty

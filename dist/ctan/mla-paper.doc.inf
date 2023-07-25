@@ -1,0 +1,13 @@
+:mla-paper.doc:ctan:0.01024:109070284:1740:B69A-CAA8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mla-paper
+
+./doc/latex/mla-paper:
+readme

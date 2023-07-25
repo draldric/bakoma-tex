@@ -1,0 +1,14 @@
+:regcount.source:ctan:0.02048:109070284:3530:E02-E51F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+regcount
+
+./source/latex/regcount:
+regcount.dtx
+regcount.ins

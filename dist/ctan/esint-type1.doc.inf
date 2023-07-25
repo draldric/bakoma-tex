@@ -1,0 +1,16 @@
+:esint-type1.doc:ctan:0.06144:109070284:40941:C589-B7ED:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+esint-type1
+
+./doc/fonts/esint-type1:
+readme
+readme.plaintex
+table.pdf
+table.tex

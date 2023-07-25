@@ -1,0 +1,15 @@
+:totpages.source:ctan:0.04096:109070284:9559:A104-74FC:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+totpages
+
+./source/latex/totpages:
+totpages.drv
+totpages.dtx
+totpages.ins

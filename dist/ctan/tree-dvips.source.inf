@@ -1,0 +1,13 @@
+:tree-dvips.source:ctan:0.01024:109070284:202:B49F-188F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tree-dvips
+
+./source/latex/tree-dvips:
+makefile

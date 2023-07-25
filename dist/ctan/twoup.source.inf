@@ -1,0 +1,14 @@
+:twoup.source:ctan:0.04096:109070284:9467:D675-B52A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+twoup
+
+./source/latex/twoup:
+twoup.dtx
+twoup.ins

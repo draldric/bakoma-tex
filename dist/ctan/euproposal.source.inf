@@ -1,0 +1,14 @@
+:euproposal.source:ctan:0.04096:109070284:9081:67CA-C109:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+euproposal
+
+./source/latex/euproposal:
+euproposal.dtx
+euproposal.ins

@@ -1,0 +1,15 @@
+:method.source:ctan:0.04096:109070284:7275:C7C7-CDCF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+method
+
+./source/latex/method:
+method.dtx
+method.ins
+readme

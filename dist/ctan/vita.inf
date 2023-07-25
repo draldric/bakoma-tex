@@ -1,0 +1,17 @@
+:vita:ctan:0.04096:109070284:5813:3681-5334:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+vita
+
+./tex/latex/vita:
+vita.cls
+vitacomputerscience.clo
+vitaracunalnistvo.clo
+vitasolopetje.clo
+vitavoice.clo

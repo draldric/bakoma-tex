@@ -1,0 +1,16 @@
+:g-brief:ctan:0.0512:109070284:4525:4750-32E5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+g-brief
+
+./tex/latex/g-brief:
+g-brief.cls
+g-brief.sty
+g-brief2.cls
+g-brief2.sty

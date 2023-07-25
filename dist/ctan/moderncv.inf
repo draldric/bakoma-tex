@@ -1,0 +1,17 @@
+:moderncv:ctan:0.04096:109070284:5893:C80D-19FF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+moderncv
+
+./tex/latex/moderncv:
+moderncv.cls
+moderncvcompatibility.sty
+moderncvthemecasual.sty
+moderncvthemeclassic.sty
+moderncvthemeempty.sty

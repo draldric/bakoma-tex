@@ -1,0 +1,13 @@
+:forarray:ctan:0.03072:109070284:4521:B72D-62ED:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+forarray
+
+./tex/latex/forarray:
+forarray.sty

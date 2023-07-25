@@ -1,0 +1,13 @@
+:burmese.doc:ctan:0.08192:109070284:28455:C5D6-871A:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+burmese
+
+./doc/fonts/burmese:
+burmguide.pdf

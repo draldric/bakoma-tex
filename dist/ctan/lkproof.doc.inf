@@ -1,0 +1,13 @@
+:lkproof.doc:ctan:0.01024:109070284:709:6BE1-44D9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lkproof
+
+./doc/latex/lkproof:
+proofeg.tex

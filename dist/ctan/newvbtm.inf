@@ -1,0 +1,14 @@
+:newvbtm:ctan:0.02048:109070284:2955:E65-A50E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+newvbtm
+
+./tex/latex/newvbtm:
+newvbtm.sty
+varvbtm.sty

@@ -1,0 +1,14 @@
+:extpfeil.doc:ctan:0.21504:109070284:78183:D3F3-F056:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+extpfeil
+
+./doc/latex/extpfeil:
+extpfeil.pdf
+readme

@@ -1,0 +1,13 @@
+:texemplar:ctan3:0.023408:109070768:6557:89F6-64F1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+texemplar
+
+./tex/latex/texemplar:
+texemplar.cls

@@ -1,0 +1,16 @@
+:evautofl.doc:ctan2:0.170446:109073044:88227:ACD0-B901:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+evautofl
+
+./doc/latex/evautofl:
+evautofl.dvi
+evautofl.pdf
+evautoflexample.pdf
+readme

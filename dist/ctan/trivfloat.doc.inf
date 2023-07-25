@@ -1,0 +1,14 @@
+:trivfloat.doc:ctan:0.1536:109070284:128579:1D8C-396B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+trivfloat
+
+./doc/latex/trivfloat:
+readme
+trivfloat.pdf

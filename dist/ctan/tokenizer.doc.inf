@@ -1,0 +1,14 @@
+:tokenizer.doc:ctan:0.1024:109070284:73600:3941-A9A3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tokenizer
+
+./doc/latex/tokenizer:
+tokenizer.pdf
+tokenizer.tex

@@ -1,0 +1,13 @@
+:photo:ctan:0.01024:109070284:2225:EE65-E634:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+photo
+
+./tex/latex/photo:
+photo.sty

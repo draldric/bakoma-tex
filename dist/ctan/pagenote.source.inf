@@ -1,0 +1,14 @@
+:pagenote.source:ctan:0.03072:109070284:7617:B57F-FFE2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pagenote
+
+./source/latex/pagenote:
+pagenote.dtx
+pagenote.ins

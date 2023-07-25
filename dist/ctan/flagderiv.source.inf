@@ -1,0 +1,14 @@
+:flagderiv.source:ctan:0.06144:109070284:11978:54F9-46A6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+flagderiv
+
+./source/latex/flagderiv:
+flagderiv.dtx
+flagderiv.ins

@@ -1,0 +1,14 @@
+:lipsum.source:ctan:0.11264:109070284:25585:C36A-E56C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+lipsum
+
+./source/latex/lipsum:
+lipsum.dtx
+lipsum.ins

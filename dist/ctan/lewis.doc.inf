@@ -1,0 +1,14 @@
+:lewis.doc:ctan:0.0512:109070284:40589:D40C-7648:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lewis
+
+./doc/latex/lewis:
+lewis.pdf
+readme

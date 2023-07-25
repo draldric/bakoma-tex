@@ -1,0 +1,16 @@
+:mp3d:ctan:0.1024:109070284:22636:3CBE-643C:
+
+./:
+metapost
+
+./metapost:
+mp3d
+
+./metapost/mp3d:
+3d.mp
+3danim.mp
+3dgeom.mp
+3dpoly.mp
+3dutil.mp
+animpoly.mp
+create_animation.sh

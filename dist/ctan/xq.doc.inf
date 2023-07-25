@@ -1,0 +1,15 @@
+:xq.doc:ctan:0.09216:109070284:51476:5198-FEBA:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+xq
+
+./doc/fonts/xq:
+readme
+xqexample.pdf
+xqexample.tex

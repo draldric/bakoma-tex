@@ -1,0 +1,17 @@
+:elpres.doc:ctan:0.49152:109070284:471818:42B0-C32:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+elpres
+
+./doc/latex/elpres:
+elpres-example.tex
+elpres-manual.pdf
+elpres-manual.tex
+gradient1.png
+gradient2.png

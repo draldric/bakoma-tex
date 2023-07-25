@@ -1,0 +1,14 @@
+:icsv.source:ctan:0.04096:109070284:10062:D4D2-64AD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+icsv
+
+./source/latex/icsv:
+icsv.dtx
+icsv.ins

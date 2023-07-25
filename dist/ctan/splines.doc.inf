@@ -1,0 +1,14 @@
+:splines.doc:ctan:0.11264:109070284:87604:F34B-865A:
+
+./:
+doc
+
+./doc:
+metapost
+
+./doc/metapost:
+splines
+
+./doc/metapost/splines:
+readme
+splines.pdf

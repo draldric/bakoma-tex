@@ -1,0 +1,17 @@
+:wasy.doc:ctan:0.21504:109070284:149299:36F6-A321:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+wasy
+
+./doc/fonts/wasy:
+legal.txt
+readme
+wasydoc.pdf
+wasydoc.tex
+wasyfont.2

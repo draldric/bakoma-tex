@@ -1,0 +1,16 @@
+:akletter:ctan:0.04096:109070284:9105:FE99-37BB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+akletter
+
+./tex/latex/akletter:
+akfax.cfg
+akletter.cfg
+akletter.cls
+myletter.cls

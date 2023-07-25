@@ -1,0 +1,13 @@
+:graphicx-psmin.source:ctan:0.03072:109070284:7874:44EC-F58C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+graphicx-psmin
+
+./source/latex/graphicx-psmin:
+graphicx-psmin.dtx

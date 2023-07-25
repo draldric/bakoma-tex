@@ -1,0 +1,15 @@
+:csquotes:ctan:0.08192:109070284:13678:EDD1-651F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+csquotes
+
+./tex/latex/csquotes:
+csquotes.cfg
+csquotes.def
+csquotes.sty

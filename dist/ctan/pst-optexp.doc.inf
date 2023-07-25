@@ -1,0 +1,17 @@
+:pst-optexp.doc:ctan:0.5632:109070284:367498:7821-9AB7:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-optexp
+
+./doc/generic/pst-optexp:
+changes
+parque-nacional.eps
+pst-optexp-doc.pdf
+pst-optexp-doc.tex
+readme

@@ -1,0 +1,13 @@
+:musixps.doc:ctan:0.01024:109070284:903:FCEB-AEE9:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+musixps
+
+./doc/generic/musixps:
+readme.txt

@@ -1,0 +1,16 @@
+:trfsigns.doc:ctan:0.24576:109070284:202552:C0EB-A9FB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+trfsigns
+
+./doc/latex/trfsigns:
+copying
+readme
+trfexamp.tex
+trfsigns.pdf

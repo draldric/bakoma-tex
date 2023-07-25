@@ -1,0 +1,13 @@
+:dpfloat:ctan:0.01024:109070284:1450:5790-24CF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dpfloat
+
+./tex/latex/dpfloat:
+dpfloat.sty

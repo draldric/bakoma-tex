@@ -1,0 +1,14 @@
+:lcd.source:ctan:0.0512:109070284:10541:B5BD-85BE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+lcd
+
+./source/latex/lcd:
+lcd.dtx
+lcd.ins

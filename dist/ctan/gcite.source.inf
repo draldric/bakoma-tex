@@ -1,0 +1,14 @@
+:gcite.source:ctan:0.03072:109070284:7231:508C-D076:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+gcite
+
+./source/latex/gcite:
+gcite.dtx
+gcite.ins

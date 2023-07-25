@@ -1,0 +1,14 @@
+:fenixpar:ctan:0.02048:109070284:3217:B226-11ED:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+fenixpar
+
+./tex/generic/fenixpar:
+fenixpar.sty
+fenixtok.sty

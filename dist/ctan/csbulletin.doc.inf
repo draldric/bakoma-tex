@@ -1,0 +1,16 @@
+:csbulletin.doc:ctan:0.28672:109070284:243191:B2F3-8DBD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+csbulletin
+
+./doc/latex/csbulletin:
+csbulletin.pdf
+csbulletin.tex
+license.txt
+readme

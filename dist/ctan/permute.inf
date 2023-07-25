@@ -1,0 +1,13 @@
+:permute:ctan:0.02048:109070284:2372:2CF8-CBD2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+permute
+
+./tex/latex/permute:
+permute.sty

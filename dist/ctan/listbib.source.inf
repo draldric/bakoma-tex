@@ -1,0 +1,16 @@
+:listbib.source:ctan:0.06144:109070284:15665:A96-F668:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+listbib
+
+./source/latex/listbib:
+listbib
+listbib.drv
+listbib.dtx
+listbib.ins

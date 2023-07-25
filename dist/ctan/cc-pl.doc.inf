@@ -1,0 +1,13 @@
+:cc-pl.doc:ctan:0.01024:109070284:1348:2436-AAD9:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+cc-pl
+
+./doc/fonts/cc-pl:
+readme.cc-pl

@@ -1,0 +1,16 @@
+:arydshln.doc:ctan:0.64512:109070284:529258:B59E-7B6E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+arydshln
+
+./doc/latex/arydshln:
+arydshln-man.pdf
+arydshln-man.tex
+arydshln.pdf
+readme

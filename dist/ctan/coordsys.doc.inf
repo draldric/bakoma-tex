@@ -1,0 +1,15 @@
+:coordsys.doc:ctan:0.3584:109070284:250697:885D-D46D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+coordsys
+
+./doc/latex/coordsys:
+coordsys.pdf
+putfile.maple
+readme

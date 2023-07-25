@@ -1,0 +1,16 @@
+:uaclasses.doc:ctan:0.28672:109070284:201173:B99-461A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+uaclasses
+
+./doc/latex/uaclasses:
+my-example.pdf
+readme
+ua-example.pdf
+ua-example.tex

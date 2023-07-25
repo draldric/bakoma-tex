@@ -1,0 +1,15 @@
+:ntheorem.source:ctan:0.18432:109070284:40849:9A30-D4ED:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ntheorem
+
+./source/latex/ntheorem:
+ntheorem.drv
+ntheorem.dtx
+ntheorem.ins

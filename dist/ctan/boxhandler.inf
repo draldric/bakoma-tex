@@ -1,0 +1,13 @@
+:boxhandler:ctan:0.03072:109070284:4593:ADAB-8BA0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+boxhandler
+
+./tex/latex/boxhandler:
+boxhandler.sty

@@ -1,0 +1,14 @@
+:patchcmd.source:ctan:0.02048:109070284:3035:67CB-591D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+patchcmd
+
+./source/latex/patchcmd:
+patchcmd.dtx
+patchcmd.ins

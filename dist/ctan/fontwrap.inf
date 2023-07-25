@@ -1,0 +1,13 @@
+:fontwrap:ctan:0.08192:109070284:12294:CA08-C241:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+fontwrap
+
+./tex/xelatex/fontwrap:
+fontwrap.sty

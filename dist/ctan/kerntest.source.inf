@@ -1,0 +1,15 @@
+:kerntest.source:ctan:0.18432:109070284:32002:1E3F-8726:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+kerntest
+
+./source/latex/kerntest:
+kerntest.dtx
+kerntest.ins
+makefile

@@ -1,0 +1,14 @@
+:everypage.source:ctan:0.02048:109070284:4422:9EEE-1932:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+everypage
+
+./source/latex/everypage:
+everypage.dtx
+everypage.ins

@@ -1,0 +1,15 @@
+:pdfpages.source:ctan:0.1536:109070284:28746:4007-3C00:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pdfpages
+
+./source/latex/pdfpages:
+pdfpages.dtx
+pdfpages.ins
+readme

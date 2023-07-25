@@ -1,0 +1,14 @@
+:betababel.doc:ctan:0.2048:109070284:151558:397E-4389:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+betababel
+
+./doc/latex/betababel:
+betatest.pdf
+betatest.tex

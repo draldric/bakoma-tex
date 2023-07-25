@@ -1,0 +1,13 @@
+:tracking:ctan:0.01024:109070284:1172:A90B-C34D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tracking
+
+./tex/latex/tracking:
+tracking.sty

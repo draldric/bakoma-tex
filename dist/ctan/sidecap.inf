@@ -1,0 +1,13 @@
+:sidecap:ctan:0.02048:109070284:3041:5592-478F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sidecap
+
+./tex/latex/sidecap:
+sidecap.sty

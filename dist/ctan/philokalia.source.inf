@@ -1,0 +1,14 @@
+:philokalia.source:ctan:0.03072:109070284:6491:2867-DD9E:
+
+./:
+source
+
+./source:
+xelatex
+
+./source/xelatex:
+philokalia
+
+./source/xelatex/philokalia:
+philokalia.dtx
+philokalia.ins

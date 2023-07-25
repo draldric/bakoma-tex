@@ -1,0 +1,15 @@
+:lcyw.source:ctan:0.04096:109070284:7138:623A-C3FB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+lcyw
+
+./source/latex/lcyw:
+lcyw.dtx
+lcyw.ins
+lcywfd.fdd

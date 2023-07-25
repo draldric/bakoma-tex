@@ -1,0 +1,14 @@
+:xtcapts.source:ctan:0.04096:109070284:7988:BE7D-90E6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xtcapts
+
+./source/latex/xtcapts:
+xt_capts.dtx
+xt_capts.ins

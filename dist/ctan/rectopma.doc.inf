@@ -1,0 +1,14 @@
+:rectopma.doc:ctan:0.01024:109070284:2295:E4B1-FE1A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+rectopma
+
+./doc/latex/rectopma:
+testtitle.dvi
+testtitle.tex

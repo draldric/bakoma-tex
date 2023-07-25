@@ -1,0 +1,14 @@
+:xskak.source:ctan:0.09216:109070284:13460:F0FD-4CC7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xskak
+
+./source/latex/xskak:
+xskak-src.dtx
+xskak.ins

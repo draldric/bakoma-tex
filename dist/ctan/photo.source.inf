@@ -1,0 +1,16 @@
+:photo.source:ctan:0.04096:109070284:9198:7D52-183:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+photo
+
+./source/latex/photo:
+makefile
+photo.drv
+photo.dtx
+photo.ins

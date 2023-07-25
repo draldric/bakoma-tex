@@ -1,0 +1,14 @@
+:flagderiv.doc:ctan:0.21504:109070284:183395:816A-381B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+flagderiv
+
+./doc/latex/flagderiv:
+flagderiv.pdf
+readme

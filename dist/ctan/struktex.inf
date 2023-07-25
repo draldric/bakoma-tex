@@ -1,0 +1,16 @@
+:struktex:ctan:0.0512:109070284:7945:40B7-CD94:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+struktex
+
+./tex/latex/struktex:
+strukdoc.sty
+struktex.sty
+struktxf.sty
+struktxp.sty

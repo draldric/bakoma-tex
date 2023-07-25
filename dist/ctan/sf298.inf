@@ -1,0 +1,13 @@
+:sf298:ctan:0.03072:109070284:4744:5F6-BCDA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sf298
+
+./tex/latex/sf298:
+sf298.sty

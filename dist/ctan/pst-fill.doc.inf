@@ -1,0 +1,15 @@
+:pst-fill.doc:ctan:1.23904:109070284:1121237:CD23-A4CE:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-fill
+
+./doc/generic/pst-fill:
+changes
+pst-fill.pdf
+readme

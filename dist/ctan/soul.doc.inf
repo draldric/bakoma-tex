@@ -1,0 +1,14 @@
+:soul.doc:ctan:0.39936:109070284:307820:7E9D-B6D0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+soul
+
+./doc/latex/soul:
+soul.pdf
+soul.txt

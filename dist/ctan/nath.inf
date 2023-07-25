@@ -1,0 +1,13 @@
+:nath:ctan:0.09216:109070284:21608:7294-C31C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nath
+
+./tex/latex/nath:
+nath.sty

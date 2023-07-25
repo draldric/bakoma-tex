@@ -1,0 +1,16 @@
+:mkpattern.doc:ctan:0.11264:109070284:82620:985B-FFA8:
+
+./:
+doc
+
+./doc:
+plain
+
+./doc/plain:
+mkpattern
+
+./doc/plain/mkpattern:
+mkpatdoc.tex
+mkpatter.pdf
+mkpattern-exmpl.tex
+readme

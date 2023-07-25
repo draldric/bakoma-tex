@@ -1,0 +1,17 @@
+:HA-prosper.doc:ctan:0.256:109070284:204657:8835-BB2F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ha-prosper
+
+./doc/latex/ha-prosper:
+ha-prosper.pdf
+hapbigtest.tex
+hapdualslide.tex
+hapintroduction.tex
+readme

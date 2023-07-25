@@ -1,0 +1,13 @@
+:nestquot:ctan3:0.003479:109070768:1544:F6A3-F4F6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nestquot
+
+./tex/latex/nestquot:
+nestquot.sty

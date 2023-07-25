@@ -1,0 +1,13 @@
+:tabulary:ctan:0.02048:109070284:3498:AC2D-7C9C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tabulary
+
+./tex/latex/tabulary:
+tabulary.sty

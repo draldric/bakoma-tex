@@ -1,0 +1,14 @@
+:aastex:ctan:0.11264:109070284:16994:264C-3C46:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+aastex
+
+./tex/latex/aastex:
+aastex.cls
+aastex.sty

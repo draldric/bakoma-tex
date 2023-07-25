@@ -1,0 +1,13 @@
+:labbook:ctan:0.03072:109070284:3710:DFBA-AF86:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+labbook
+
+./tex/latex/labbook:
+labbook.cls

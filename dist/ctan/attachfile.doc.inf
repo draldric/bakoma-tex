@@ -1,0 +1,15 @@
+:attachfile.doc:ctan:0.27648:109070284:215059:4C34-7A61:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+attachfile
+
+./doc/latex/attachfile:
+attachfile.bib
+attachfile.pdf
+readme

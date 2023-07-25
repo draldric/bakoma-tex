@@ -1,0 +1,13 @@
+:showdim:ctan:0.01024:109070284:965:AC36-2E96:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+showdim
+
+./tex/latex/showdim:
+showdim.sty

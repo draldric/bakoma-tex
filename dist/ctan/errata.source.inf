@@ -1,0 +1,14 @@
+:errata.source:ctan:0.03072:109070284:6154:4A23-B648:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+errata
+
+./source/latex/errata:
+errata.dtx
+errata.ins

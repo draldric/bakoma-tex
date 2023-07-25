@@ -1,0 +1,14 @@
+:volumes.source:ctan:0.04096:109070284:9971:2221-6B9D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+volumes
+
+./source/latex/volumes:
+volumes.dtx
+volumes.ins

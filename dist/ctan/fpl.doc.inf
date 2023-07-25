@@ -1,0 +1,14 @@
+:fpl.doc:ctan:0.03072:109070284:7520:9114-DC2D:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+fpl
+
+./doc/fonts/fpl:
+copying
+readme

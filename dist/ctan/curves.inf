@@ -1,0 +1,14 @@
+:curves:ctan:0.03072:109070284:4664:C0A8-766A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+curves
+
+./tex/latex/curves:
+curves.sty
+curvesls.sty

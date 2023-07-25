@@ -1,0 +1,16 @@
+:progkeys:ctan2:0.021816:109070768:5202:F63D-C55A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+progkeys
+
+./tex/latex/progkeys:
+keywords.ist
+keywords.sty
+programs.ist
+programs.sty

@@ -1,0 +1,14 @@
+:ifxetex.doc:ctan:0.08192:109070284:56426:EDA5-314C:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+ifxetex
+
+./doc/generic/ifxetex:
+ifxetex.pdf
+readme

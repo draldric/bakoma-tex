@@ -1,0 +1,16 @@
+:psgo.doc:ctan:0.12288:109070284:86163:B9E2-5C9E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+psgo
+
+./doc/latex/psgo:
+changes
+psgomanual.pdf
+psgomanual.tex
+readme

@@ -1,0 +1,16 @@
+:rsc.doc:ctan:0.18432:109070284:149436:7947-8C4F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+rsc
+
+./doc/latex/rsc:
+readme
+rsc-demo.tex
+rsc.bib
+rsc.pdf

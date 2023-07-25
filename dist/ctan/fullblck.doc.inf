@@ -1,0 +1,14 @@
+:fullblck.doc:ctan:0.06144:109070284:38607:D5C8-A5C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fullblck
+
+./doc/latex/fullblck:
+fullblck.pdf
+readme

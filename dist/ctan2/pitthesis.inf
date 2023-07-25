@@ -1,0 +1,15 @@
+:pitthesis:ctan2:0.050572:109070768:11970:2FD7-6B00:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pitthesis
+
+./tex/latex/pitthesis:
+pitteng.clo
+pitthesis.cls
+pittstd.clo

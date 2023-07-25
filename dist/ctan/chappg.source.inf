@@ -1,0 +1,14 @@
+:chappg.source:ctan:0.03072:109070284:6100:A0CC-D517:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+chappg
+
+./source/latex/chappg:
+chappg.dtx
+chappg.ins

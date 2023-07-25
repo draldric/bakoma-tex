@@ -1,0 +1,13 @@
+:resumemac:ctan:0.01024:109070284:2701:F81-28F2:
+
+./:
+tex
+
+./tex:
+plain
+
+./tex/plain:
+resumemac
+
+./tex/plain/resumemac:
+resumemac.tex

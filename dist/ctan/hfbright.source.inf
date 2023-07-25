@@ -1,0 +1,15 @@
+:hfbright.source:ctan:0.02048:109070284:3457:5717-C232:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+hfbright
+
+./source/fonts/hfbright:
+generate.sh
+install.sh
+simplify-rename.pe

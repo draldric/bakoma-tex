@@ -1,0 +1,15 @@
+:anysize.doc:ctan:0.06144:109070284:34112:473F-3863:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+anysize
+
+./doc/latex/anysize:
+anysize.pdf
+anysize.tex
+readme

@@ -1,0 +1,17 @@
+:pst-func.doc:ctan:2.93888:109070284:2551477:A56F-2BA8:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-func
+
+./doc/generic/pst-func:
+changes
+pst-func-doc.bib
+pst-func-doc.pdf
+pst-func-doc.tex
+readme

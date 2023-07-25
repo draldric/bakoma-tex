@@ -1,0 +1,16 @@
+:mcaption.doc:ctan:0.1536:109070284:121140:77BF-95BD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mcaption
+
+./doc/latex/mcaption:
+changes
+example.tex
+mcaption.pdf
+readme

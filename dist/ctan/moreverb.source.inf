@@ -1,0 +1,14 @@
+:moreverb.source:ctan:0.03072:109070284:6708:AB66-AD86:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+moreverb
+
+./source/latex/moreverb:
+moreverb.dtx
+moreverb.ins

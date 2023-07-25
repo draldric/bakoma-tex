@@ -1,0 +1,13 @@
+:xecolour:ctan:0.02048:109070284:1934:EFBB-610A:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+xecolour
+
+./tex/xelatex/xecolour:
+xecolour.sty

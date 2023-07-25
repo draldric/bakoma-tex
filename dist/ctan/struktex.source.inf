@@ -1,0 +1,14 @@
+:struktex.source:ctan:0.26624:109070284:55879:8DB4-BF0F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+struktex
+
+./source/latex/struktex:
+struktex.dtx
+struktex.ins

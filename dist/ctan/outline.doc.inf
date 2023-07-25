@@ -1,0 +1,14 @@
+:outline.doc:ctan:0.01024:109070284:1497:EAEB-1D4C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+outline
+
+./doc/latex/outline:
+outline-sample.tex
+readme

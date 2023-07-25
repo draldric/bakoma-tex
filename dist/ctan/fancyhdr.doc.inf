@@ -1,0 +1,15 @@
+:fancyhdr.doc:ctan:0.38912:109070284:246508:9436-D27A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fancyhdr
+
+./doc/latex/fancyhdr:
+fancyhdr.pdf
+fancyhdr.tex
+readme

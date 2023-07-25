@@ -1,0 +1,13 @@
+:endheads:ctan:0.02048:109070284:2210:D6E2-5708:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+endheads
+
+./tex/latex/endheads:
+endheads.sty

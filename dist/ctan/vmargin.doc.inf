@@ -1,0 +1,13 @@
+:vmargin.doc:ctan:0.18432:109070284:155044:7C8-29A1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+vmargin
+
+./doc/latex/vmargin:
+vmargin.pdf

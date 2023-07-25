@@ -1,0 +1,13 @@
+:svn-prov:ctan:0.01024:109070284:1561:F675-11AF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+svn-prov
+
+./tex/latex/svn-prov:
+svn-prov.sty

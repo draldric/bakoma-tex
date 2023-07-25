@@ -1,0 +1,14 @@
+:vhistory:ctan:0.04096:109070284:7414:376E-C223:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+vhistory
+
+./tex/latex/vhistory:
+sets.sty
+vhistory.sty

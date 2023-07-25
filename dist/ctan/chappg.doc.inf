@@ -1,0 +1,13 @@
+:chappg.doc:ctan:0.21504:109070284:189099:9A46-C6E7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+chappg
+
+./doc/latex/chappg:
+chappg.pdf

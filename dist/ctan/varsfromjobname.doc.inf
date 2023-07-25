@@ -1,0 +1,15 @@
+:varsfromjobname.doc:ctan:0.0512:109070284:32966:9BDF-8BD3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+varsfromjobname
+
+./doc/latex/varsfromjobname:
+readme
+varsfromjobname.pdf
+varsfromjobname.tex

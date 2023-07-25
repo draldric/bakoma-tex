@@ -1,0 +1,16 @@
+:zwgetfdate.doc:ctan:0.27648:109070284:245834:814B-B676:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+zwgetfdate
+
+./doc/latex/zwgetfdate:
+license.txt
+readme
+zwgetfdate.pdf
+zwgetfdate.tex

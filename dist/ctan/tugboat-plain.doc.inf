@@ -1,0 +1,15 @@
+:tugboat-plain.doc:ctan:0.16384:109070284:109116:B9D-D27E:
+
+./:
+doc
+
+./doc:
+plain
+
+./doc/plain:
+tugboat-plain
+
+./doc/plain/tugboat-plain:
+readme
+tubguide.pdf
+tubguide.tex

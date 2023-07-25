@@ -1,0 +1,14 @@
+:theoremref.doc:ctan:0.03072:109070284:6749:BC46-8D65:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+theoremref
+
+./doc/latex/theoremref:
+copying
+readme

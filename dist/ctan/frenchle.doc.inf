@@ -1,0 +1,15 @@
+:frenchle.doc:ctan:0.64512:109070284:483444:E58E-5BEA:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+frenchle
+
+./doc/latex/frenchle:
+faq.pdf
+frenchle.pdf
+readme.le

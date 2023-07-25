@@ -1,0 +1,14 @@
+:aurical.doc:ctan:0.11264:109070284:68760:DDE2-F65:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+aurical
+
+./doc/latex/aurical:
+aurical.pdf
+aurical.tex

@@ -1,0 +1,15 @@
+:textmerg.source:ctan:0.04096:109070284:9722:9A4A-E8C6:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+textmerg
+
+./source/generic/textmerg:
+textmerg.drv
+textmerg.dtx
+textmerg.ins

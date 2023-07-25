@@ -1,0 +1,17 @@
+:qsymbols.source:ctan:0.03072:109070284:8124:9672-9D5A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+qsymbols
+
+./source/latex/qsymbols:
+catalog
+copying
+makefile
+manifest
+readme

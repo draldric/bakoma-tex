@@ -1,0 +1,14 @@
+:texments.doc:ctan:0.11264:109070284:86710:C715-8D9C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+texments
+
+./doc/latex/texments:
+readme
+texments.pdf

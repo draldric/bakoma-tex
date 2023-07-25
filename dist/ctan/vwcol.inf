@@ -1,0 +1,13 @@
+:vwcol:ctan:0.02048:109070284:2704:F5AA-5266:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+vwcol
+
+./tex/latex/vwcol:
+vwcol.sty

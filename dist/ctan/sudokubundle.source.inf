@@ -1,0 +1,14 @@
+:sudokubundle.source:ctan:0.1536:109070284:26913:677-12D7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sudokubundle
+
+./source/latex/sudokubundle:
+sudokubundle.dtx
+sudokubundle.ins

@@ -1,0 +1,13 @@
+:12many:ctan:0.003995:109071452:1555:7451-7A0F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+12many
+
+./tex/latex/12many:
+12many.sty

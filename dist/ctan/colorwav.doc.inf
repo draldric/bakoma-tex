@@ -1,0 +1,14 @@
+:colorwav.doc:ctan:0.12288:109070284:98604:DB23-1D2E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+colorwav
+
+./doc/latex/colorwav:
+colorwav.pdf
+readme

@@ -1,0 +1,14 @@
+:proba.doc:ctan:0.1024:109070284:72791:30F0-3F96:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+proba
+
+./doc/latex/proba:
+proba.pdf
+readme

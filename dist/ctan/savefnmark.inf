@@ -1,0 +1,13 @@
+:savefnmark:ctan:0.01024:109070284:918:5A9D-17CC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+savefnmark
+
+./tex/latex/savefnmark:
+savefnmark.sty

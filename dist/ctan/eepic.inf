@@ -1,0 +1,15 @@
+:eepic:ctan:0.0512:109070284:11254:D8B3-339D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+eepic
+
+./tex/latex/eepic:
+eepic.sty
+eepicemu.sty
+epic.sty

@@ -1,0 +1,16 @@
+:dtxgallery.source:ctan:0.02048:109070284:3664:2505-83C0:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dtxgallery
+
+./source/latex/dtxgallery:
+conditional-code.dtx
+dtxgallery.dtx
+rearrange.dtx
+single-source.dtx

@@ -1,0 +1,14 @@
+:subeqnarray.source:ctan:0.02048:109070284:4817:A890-1F88:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+subeqnarray
+
+./source/latex/subeqnarray:
+subeqnarray.dtx
+subeqnarray.ins

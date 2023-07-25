@@ -1,0 +1,14 @@
+:register.source:ctan:0.0512:109070284:12731:9B49-A549:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+register
+
+./source/latex/register:
+register.dtx
+register.ins

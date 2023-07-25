@@ -1,0 +1,15 @@
+:catechis.doc:ctan:0.18432:109070284:152179:15EB-FB4C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+catechis
+
+./doc/latex/catechis:
+catechis.pdf
+readme
+test.tex

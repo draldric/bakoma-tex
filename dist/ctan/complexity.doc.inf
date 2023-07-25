@@ -1,0 +1,16 @@
+:complexity.doc:ctan:0.24576:109070284:174408:EA52-562B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+complexity
+
+./doc/latex/complexity:
+complexity.pdf
+complexity.tex
+readme
+tableofclasses.tex

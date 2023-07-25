@@ -1,0 +1,17 @@
+:metaobj:ctan:0.33792:109070284:56917:552C-43BD:
+
+./:
+metapost
+
+./metapost:
+metaobj
+
+./metapost/metaobj:
+connections.mp
+metaobj.mp
+mobjstandard.mp
+proofex.mp
+pstricksex1.mp
+pstricksex2.mp
+pstricksex3.mp
+pstricksex4.mp

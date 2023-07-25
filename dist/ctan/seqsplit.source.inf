@@ -1,0 +1,15 @@
+:seqsplit.source:ctan:0.03072:109070284:5110:28A1-B01C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+seqsplit
+
+./source/latex/seqsplit:
+makefile
+seqsplit.dtx
+seqsplit.ins

@@ -1,0 +1,10 @@
+:roex:ctan:0.08192:109070284:19450:42BC-1FBD:
+
+./:
+metafont
+
+./metafont:
+roex
+
+./metafont/roex:
+roex.mf

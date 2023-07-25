@@ -1,0 +1,15 @@
+:isorot.doc:ctan:0.2048:109070284:121884:98DE-3E0A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+isorot
+
+./doc/latex/isorot:
+readme
+rotman.pdf
+rotman.tex

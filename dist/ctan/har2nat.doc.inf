@@ -1,0 +1,13 @@
+:har2nat.doc:ctan:0.01024:109070284:474:5A4-2743:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+har2nat
+
+./doc/latex/har2nat:
+readme

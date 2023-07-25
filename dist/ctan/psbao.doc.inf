@@ -1,0 +1,16 @@
+:psbao.doc:ctan:0.12288:109070284:92613:7B4D-A6B3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+psbao
+
+./doc/latex/psbao:
+changes
+psbaomanual.pdf
+psbaomanual.tex
+readme

@@ -1,0 +1,16 @@
+:fancynum.source:ctan:0.02048:109070284:5116:AA9-D212:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fancynum
+
+./source/latex/fancynum:
+fancynum.dtx
+fancynum.ins
+makefile
+tables.c

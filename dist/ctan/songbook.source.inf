@@ -1,0 +1,14 @@
+:songbook.source:ctan:0.2048:109070284:41249:8F54-2F51:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+songbook
+
+./source/latex/songbook:
+songbook.dtx
+songbook.ins

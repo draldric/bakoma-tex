@@ -1,0 +1,14 @@
+:blindtext.source:ctan:0.04096:109070284:7402:8954-DCA4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+blindtext
+
+./source/latex/blindtext:
+blindtext.dtx
+blindtext.ins

@@ -1,0 +1,16 @@
+:pst-grad.doc:ctan:0.28672:109070284:214824:1702-A785:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-grad
+
+./doc/generic/pst-grad:
+changes
+pst-grad-doc.bib
+pst-grad-doc.pdf
+pst-grad-doc.tex

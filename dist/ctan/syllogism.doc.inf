@@ -1,0 +1,17 @@
+:syllogism.doc:ctan:0.38912:109070284:310112:1CB7-BF1C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+syllogism
+
+./doc/latex/syllogism:
+examples.pdf
+examples.tex
+readme
+syllogism.pdf
+syllogism.tex

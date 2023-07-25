@@ -1,0 +1,13 @@
+:bibleref:ctan:0.03072:109070284:4100:BE84-D5BE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bibleref
+
+./tex/latex/bibleref:
+bibleref.sty

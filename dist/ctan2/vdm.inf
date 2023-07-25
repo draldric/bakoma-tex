@@ -1,0 +1,13 @@
+:vdm:ctan2:0.039396:109070768:10306:1E79-D363:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+vdm
+
+./tex/latex/vdm:
+vdm.sty

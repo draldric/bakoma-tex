@@ -1,0 +1,14 @@
+:cmsd.source:ctan:0.01024:109070284:2046:C1BF-E3E2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cmsd
+
+./source/latex/cmsd:
+liesmich
+readme

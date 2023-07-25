@@ -1,0 +1,13 @@
+:marginnote:ctan:0.02048:109070284:2857:D62-E8BB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+marginnote
+
+./tex/latex/marginnote:
+marginnote.sty

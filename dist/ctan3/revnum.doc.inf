@@ -1,0 +1,13 @@
+:revnum.doc:ctan3:0.070958:109073048:54510:C0D6-E94C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+revnum
+
+./doc/latex/revnum:
+revnum.pdf

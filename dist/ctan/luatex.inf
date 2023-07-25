@@ -1,0 +1,17 @@
+:luatex:ctan:0.01024:109070284:396:5DD2-83D8:luatex.ARCH
+
+./:
+fmtutil
+tex
+
+./fmtutil:
+format.luatex.cnf
+
+./tex:
+generic
+
+./tex/generic:
+config
+
+./tex/generic/config:
+luatexiniconfig.tex

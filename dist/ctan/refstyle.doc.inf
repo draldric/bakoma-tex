@@ -1,0 +1,14 @@
+:refstyle.doc:ctan:0.47104:109070284:364508:1721-E3B9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+refstyle
+
+./doc/latex/refstyle:
+refconfig.pdf
+refstyle.pdf

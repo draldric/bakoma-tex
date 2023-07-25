@@ -1,0 +1,13 @@
+:vrb:ctan:0.01024:109070284:1701:C500-D3CD:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+vrb
+
+./tex/generic/vrb:
+vrb.tex

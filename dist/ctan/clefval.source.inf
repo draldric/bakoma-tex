@@ -1,0 +1,16 @@
+:clefval.source:ctan:0.03072:109070284:7922:B098-F326:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+clefval
+
+./source/latex/clefval:
+clefval.dtx
+clefval.ins
+fra-clefval.ins
+makefile

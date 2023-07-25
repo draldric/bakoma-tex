@@ -1,0 +1,16 @@
+:bbm.doc:ctan:0.02048:109070284:2002:F7BE-C74B:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+bbm
+
+./doc/fonts/bbm:
+gfbatch.batch
+mfbatch.batch
+readme
+test.tex

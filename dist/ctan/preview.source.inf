@@ -1,0 +1,15 @@
+:preview.source:ctan:0.09216:109070284:21939:3364-836D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+preview
+
+./source/latex/preview:
+preview.drv
+preview.dtx
+preview.ins

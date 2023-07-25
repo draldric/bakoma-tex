@@ -1,0 +1,13 @@
+:chemsym:ctan2:0.006366:109070768:1488:F456-826D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+chemsym
+
+./tex/latex/chemsym:
+chemsym.sty

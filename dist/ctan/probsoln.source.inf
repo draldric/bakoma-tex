@@ -1,0 +1,14 @@
+:probsoln.source:ctan:0.09216:109070284:17180:9B38-2083:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+probsoln
+
+./source/latex/probsoln:
+probsoln.dtx
+probsoln.ins

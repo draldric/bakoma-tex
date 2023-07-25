@@ -1,0 +1,14 @@
+:dichokey.doc:ctan:0.02048:109070284:3329:C54-D001:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dichokey
+
+./doc/latex/dichokey:
+rhodocyb.dvi
+rhodocyb.tex

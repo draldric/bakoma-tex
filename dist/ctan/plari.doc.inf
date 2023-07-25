@@ -1,0 +1,15 @@
+:plari.doc:ctan:0.16384:109070284:136436:3F5-8FC0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+plari
+
+./doc/latex/plari:
+copying
+plari.pdf
+readme

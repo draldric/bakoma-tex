@@ -1,0 +1,14 @@
+:phaistos.doc:ctan:0.19456:109070284:175126:2CF2-D748:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+phaistos
+
+./doc/fonts/phaistos:
+getglyphs
+glyphtable.pdf

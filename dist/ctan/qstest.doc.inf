@@ -1,0 +1,17 @@
+:qstest.doc:ctan:0.28672:109070284:218216:FDB4-7FEB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+qstest
+
+./doc/latex/qstest:
+makematch-qs.tex
+makematch.pdf
+qstest-qs.tex
+qstest.pdf
+readme

@@ -1,0 +1,13 @@
+:addlines:ctan:0.01024:109070284:898:E5F8-6662:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+addlines
+
+./tex/latex/addlines:
+addlines.sty

@@ -1,0 +1,17 @@
+:makeplot.doc:ctan:0.19456:109070284:148443:9E4B-4CAE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+makeplot
+
+./doc/latex/makeplot:
+data1.mat
+data2.mat
+makeplot.pdf
+mptest.tex
+readme

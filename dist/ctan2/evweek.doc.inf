@@ -1,0 +1,16 @@
+:evweek.doc:ctan2:0.162706:109073044:91970:3349-1FB7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+evweek
+
+./doc/latex/evweek:
+evweek.dvi
+evweek.pdf
+evweekexample.pdf
+readme

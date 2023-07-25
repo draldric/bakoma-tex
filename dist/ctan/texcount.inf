@@ -1,0 +1,10 @@
+:texcount:ctan:0.0512:109070284:12644:AB6F-2E13:texcount.ARCH
+
+./:
+scripts
+
+./scripts:
+texcount
+
+./scripts/texcount:
+texcount.pl

@@ -1,0 +1,15 @@
+:sffms.doc:ctan:0.21504:109070284:155908:6274-9724:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sffms
+
+./doc/latex/sffms:
+blind.tex
+readme
+sffms_manual.pdf

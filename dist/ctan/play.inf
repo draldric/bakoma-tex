@@ -1,0 +1,14 @@
+:play:ctan:0.02048:109070284:1811:A180-82E9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+play
+
+./tex/latex/play:
+play.cls
+play.sty

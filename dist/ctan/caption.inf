@@ -1,0 +1,17 @@
+:caption:ctan:0.16384:109070284:25663:C40F-9BAE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+caption
+
+./tex/latex/caption:
+caption.sty
+caption2.sty
+caption3.sty
+ltcaption.sty
+subcaption.sty

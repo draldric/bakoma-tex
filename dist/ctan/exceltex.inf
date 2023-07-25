@@ -1,0 +1,13 @@
+:exceltex:ctan:0.01024:109070284:751:A385-8A82:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+exceltex
+
+./tex/latex/exceltex:
+exceltex.sty

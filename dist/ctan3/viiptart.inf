@@ -1,0 +1,13 @@
+:viiptart:ctan3:0.025558:109070768:5405:A677-2C98:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+viiptart
+
+./tex/latex/viiptart:
+viiptart.cls

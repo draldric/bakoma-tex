@@ -1,0 +1,16 @@
+:iopart-num.doc:ctan:0.09216:109070284:62703:2EDB-2F78:
+
+./:
+doc
+
+./doc:
+bibtex
+
+./doc/bibtex:
+iopart-num
+
+./doc/bibtex/iopart-num:
+iopart-num.bib
+iopart-num.pdf
+iopart-num.tex
+readme

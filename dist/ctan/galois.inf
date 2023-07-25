@@ -1,0 +1,13 @@
+:galois:ctan:0.01024:109070284:1991:9D2D-3AD3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+galois
+
+./tex/latex/galois:
+galois.sty

@@ -1,0 +1,13 @@
+:seqsplit:ctan:0.01024:109070284:695:AACA-40AB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+seqsplit
+
+./tex/latex/seqsplit:
+seqsplit.sty

@@ -1,0 +1,14 @@
+:mfpic4ode.source:ctan:0.03072:109070284:5278:FFDD-186C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mfpic4ode
+
+./source/latex/mfpic4ode:
+mfpic4ode.dtx
+mfpic4ode.ins

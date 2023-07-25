@@ -1,0 +1,13 @@
+:exp-testopt:ctan:0.01024:109070284:1311:31DC-8411:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+exp-testopt
+
+./tex/latex/exp-testopt:
+exp-testopt.sty

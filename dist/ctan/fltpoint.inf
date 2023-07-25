@@ -1,0 +1,15 @@
+:fltpoint:ctan:0.03072:109070284:3310:A3EB-69F4:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+fltpoint
+
+./tex/generic/fltpoint:
+deccomma.sty
+fltpoint.sty
+fltpoint.tex

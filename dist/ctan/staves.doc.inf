@@ -1,0 +1,15 @@
+:staves.doc:ctan:0.3072:109070284:230907:F840-3392:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+staves
+
+./doc/fonts/staves:
+readme
+staves.pdf
+symbols.pdf

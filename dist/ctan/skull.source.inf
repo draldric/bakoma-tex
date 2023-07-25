@@ -1,0 +1,14 @@
+:skull.source:ctan:0.01024:109070284:2008:D158-938B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+skull
+
+./source/latex/skull:
+skull.dtx
+skull.ins

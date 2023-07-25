@@ -1,0 +1,13 @@
+:extract.source:ctan:0.08192:109070284:17094:4A76-C81D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+extract
+
+./source/latex/extract:
+extract.dtx

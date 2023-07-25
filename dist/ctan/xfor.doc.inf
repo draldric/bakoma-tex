@@ -1,0 +1,16 @@
+:xfor.doc:ctan:0.13312:109070284:101875:2C45-8CCA:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xfor
+
+./doc/latex/xfor:
+changes
+readme
+sample.tex
+xfor.pdf

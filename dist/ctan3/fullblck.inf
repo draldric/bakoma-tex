@@ -1,0 +1,13 @@
+:fullblck:ctan3:0.001394:109070772:747:7D6A-B42F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fullblck
+
+./tex/latex/fullblck:
+fullblck.sty

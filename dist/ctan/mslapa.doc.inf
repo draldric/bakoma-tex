@@ -1,0 +1,15 @@
+:mslapa.doc:ctan:0.01024:109070284:1853:5A9B-A018:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mslapa
+
+./doc/latex/mslapa:
+bibfile.bib
+examp.tex
+readme

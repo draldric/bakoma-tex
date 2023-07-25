@@ -1,0 +1,13 @@
+:vrsion:ctan:0.02048:109070284:2160:8F9-4B7F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+vrsion
+
+./tex/latex/vrsion:
+vrsion.sty

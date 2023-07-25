@@ -1,0 +1,15 @@
+:pst-spectra.doc:ctan:0.22528:109070284:185160:5AB5-E6C3:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-spectra
+
+./doc/generic/pst-spectra:
+pst-spectra.pdf
+pst-spectraen.pdf
+readme

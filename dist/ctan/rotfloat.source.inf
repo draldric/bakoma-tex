@@ -1,0 +1,14 @@
+:rotfloat.source:ctan:0.03072:109070284:5832:816F-3B7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+rotfloat
+
+./source/latex/rotfloat:
+rotfloat.dtx
+rotfloat.ins

@@ -1,0 +1,13 @@
+:philex:ctan:0.02048:109070284:1766:5642-C79E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+philex
+
+./tex/latex/philex:
+philex.sty

@@ -1,0 +1,17 @@
+:csvtools.doc:ctan:0.32768:109070284:191518:66F2-34D4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+csvtools
+
+./doc/latex/csvtools:
+changes
+csvtools.pdf
+csvtools.pl
+manual.html
+readme

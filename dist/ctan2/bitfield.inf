@@ -1,0 +1,13 @@
+:bitfield:ctan2:0.004735:109070768:1440:F48-1FB8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bitfield
+
+./tex/latex/bitfield:
+bitfield.sty

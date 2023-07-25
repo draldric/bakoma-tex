@@ -1,0 +1,14 @@
+:esvect.doc:ctan:0.08192:109070284:50897:7B11-70F0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+esvect
+
+./doc/latex/esvect:
+esvect.pdf
+readme

@@ -1,0 +1,17 @@
+:fontwrap.doc:ctan:0.31744:109070284:270400:AE44-A1A1:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+fontwrap
+
+./doc/xelatex/fontwrap:
+fontwrap.pdf
+fontwrap.tex
+fontwrap_example.pdf
+fontwrap_example.tex
+readme

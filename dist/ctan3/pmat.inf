@@ -1,0 +1,13 @@
+:pmat:ctan3:0.00694:109070768:2315:D818-36ED:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pmat
+
+./tex/latex/pmat:
+pmat.sty

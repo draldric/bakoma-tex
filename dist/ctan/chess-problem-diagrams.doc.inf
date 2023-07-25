@@ -1,0 +1,15 @@
+:chess-problem-diagrams.doc:ctan:0.39936:109070284:325243:DAA1-F3EB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+chess-problem-diagrams
+
+./doc/latex/chess-problem-diagrams:
+diagram.pdf
+fonts.zip
+readme

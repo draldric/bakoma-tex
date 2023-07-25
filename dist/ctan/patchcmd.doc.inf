@@ -1,0 +1,13 @@
+:patchcmd.doc:ctan:0.08192:109070284:64911:B3C2-4106:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+patchcmd
+
+./doc/latex/patchcmd:
+patchcmd.pdf

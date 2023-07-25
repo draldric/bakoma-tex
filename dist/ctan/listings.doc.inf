@@ -1,0 +1,14 @@
+:listings.doc:ctan:0.72704:109070284:475734:BF9B-DD54:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+listings
+
+./doc/latex/listings:
+listings.pdf
+readme

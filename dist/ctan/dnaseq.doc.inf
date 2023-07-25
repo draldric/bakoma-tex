@@ -1,0 +1,15 @@
+:dnaseq.doc:ctan:0.06144:109070284:1327:FADE-F5FB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dnaseq
+
+./doc/latex/dnaseq:
+dnatest.dvi
+dnatest.tex
+readme

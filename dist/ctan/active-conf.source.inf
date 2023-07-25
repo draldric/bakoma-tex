@@ -1,0 +1,14 @@
+:active-conf.source:ctan:0.06144:109070284:14473:D0FC-ED04:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+active-conf
+
+./source/latex/active-conf:
+active-conf.dtx
+active-conf.ins

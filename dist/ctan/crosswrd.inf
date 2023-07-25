@@ -1,0 +1,13 @@
+:crosswrd:ctan:0.02048:109070284:2770:5323-10CC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+crosswrd
+
+./tex/latex/crosswrd:
+crosswrd.sty

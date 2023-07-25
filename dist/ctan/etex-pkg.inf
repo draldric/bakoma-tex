@@ -1,0 +1,13 @@
+:etex-pkg:ctan:0.02048:109070284:4589:2DB7-AC09:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+etex-pkg
+
+./tex/latex/etex-pkg:
+etex.sty

@@ -1,0 +1,17 @@
+:allrunes.doc:ctan:1.06496:109070284:725996:C94E-E66D:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+allrunes
+
+./doc/fonts/allrunes:
+allrunes.pdf
+allrunes.ps
+ar_demo.pdf
+ar_demo.tex
+readme

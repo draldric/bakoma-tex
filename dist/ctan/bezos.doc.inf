@@ -1,0 +1,17 @@
+:bezos.doc:ctan:0.11264:109070284:83122:F827-B421:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bezos
+
+./doc/latex/bezos:
+accents.tex
+bezos.pdf
+esindex.tex
+readme
+tensind.tex

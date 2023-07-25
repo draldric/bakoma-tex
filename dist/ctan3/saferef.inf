@@ -1,0 +1,13 @@
+:saferef:ctan3:0.003642:109070768:1292:3B2C-E14B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+saferef
+
+./tex/latex/saferef:
+saferef.sty

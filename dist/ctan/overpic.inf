@@ -1,0 +1,13 @@
+:overpic:ctan:0.01024:109070284:1151:E243-1BCD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+overpic
+
+./tex/latex/overpic:
+overpic.sty

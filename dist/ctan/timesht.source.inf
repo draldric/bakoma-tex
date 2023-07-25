@@ -1,0 +1,14 @@
+:timesht.source:ctan:0.02048:109070284:4977:7D3A-BB09:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+timesht
+
+./source/latex/timesht:
+timesht.dtx
+timesht.ins

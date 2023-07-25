@@ -1,0 +1,13 @@
+:savefnmark.doc:ctan:0.19456:109070284:173391:29E4-2B6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+savefnmark
+
+./doc/latex/savefnmark:
+savefnmark.pdf

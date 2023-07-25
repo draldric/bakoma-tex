@@ -1,0 +1,14 @@
+:splitbib.doc:ctan:0.17408:109070284:143162:D30-3042:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+splitbib
+
+./doc/latex/splitbib:
+readme
+splitbib.pdf

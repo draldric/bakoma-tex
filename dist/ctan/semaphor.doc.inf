@@ -1,0 +1,17 @@
+:semaphor.doc:ctan:0.3072:109070284:266865:7C7C-807B:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+semaphor
+
+./doc/fonts/semaphor:
+example.pdf
+example.tex
+readme
+test-context.pdf
+test-context.tex

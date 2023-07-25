@@ -1,0 +1,10 @@
+:mkjobtexmf:ctan:0.03072:109070284:6008:5CA4-14AA:mkjobtexmf.ARCH
+
+./:
+scripts
+
+./scripts:
+mkjobtexmf
+
+./scripts/mkjobtexmf:
+mkjobtexmf.pl

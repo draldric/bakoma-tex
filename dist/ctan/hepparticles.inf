@@ -1,0 +1,13 @@
+:hepparticles:ctan:0.02048:109070284:3965:7B7A-D7DA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hepparticles
+
+./tex/latex/hepparticles:
+hepparticles.sty

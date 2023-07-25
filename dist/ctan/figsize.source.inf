@@ -1,0 +1,13 @@
+:figsize.source:ctan:0.02048:109070284:2728:E8E8-C1B0:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+figsize
+
+./source/latex/figsize:
+epsfig.eps

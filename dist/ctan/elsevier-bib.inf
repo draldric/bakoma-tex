@@ -1,0 +1,16 @@
+:elsevier-bib:ctan:0.12288:109070284:7596:81D0-66EE:
+
+./:
+bibtex
+
+./bibtex:
+bst
+
+./bibtex/bst:
+elsevier-bib
+
+./bibtex/bst/elsevier-bib:
+elsart-harv.bst
+elsart-num-names.bst
+elsart-num-sort.bst
+elsart-num.bst

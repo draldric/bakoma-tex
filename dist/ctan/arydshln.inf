@@ -1,0 +1,13 @@
+:arydshln:ctan:0.0512:109070284:8705:9B1D-CC5C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+arydshln
+
+./tex/latex/arydshln:
+arydshln.sty

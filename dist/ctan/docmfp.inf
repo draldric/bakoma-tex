@@ -1,0 +1,13 @@
+:docmfp:ctan:0.01024:109070284:1594:C015-8CD5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+docmfp
+
+./tex/latex/docmfp:
+docmfp.sty

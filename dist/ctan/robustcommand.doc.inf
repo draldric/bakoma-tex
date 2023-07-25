@@ -1,0 +1,14 @@
+:robustcommand.doc:ctan:0.08192:109070284:57565:EBE7-1399:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+robustcommand
+
+./doc/latex/robustcommand:
+readme
+robustcommand.pdf

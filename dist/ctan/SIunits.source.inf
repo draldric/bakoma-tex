@@ -1,0 +1,15 @@
+:SIunits.source:ctan:0.16384:109070284:34278:76F8-CD00:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+siunits
+
+./source/latex/siunits:
+siunits.drv
+siunits.dtx
+siunits.ins

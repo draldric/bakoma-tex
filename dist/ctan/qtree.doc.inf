@@ -1,0 +1,17 @@
+:qtree.doc:ctan:0.3072:109070284:209143:6CE2-79E8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+qtree
+
+./doc/latex/qtree:
+qarrows.pdf
+qarrows.tex
+qtreenotes.pdf
+qtreenotes.tex
+readme

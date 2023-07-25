@@ -1,0 +1,14 @@
+:ut-thesis.doc:ctan:0.02048:109070284:3259:CDE9-1B0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ut-thesis
+
+./doc/latex/ut-thesis:
+readme
+ut-thesis.tex

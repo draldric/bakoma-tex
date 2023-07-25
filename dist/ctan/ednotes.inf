@@ -1,0 +1,17 @@
+:ednotes:ctan:0.12288:109070284:31449:7E0C-AB57:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ednotes
+
+./tex/latex/ednotes:
+edcntwd0.sty
+ednotes.sty
+lblchng1.sty
+mfparptc.sty
+mfparxsp.sty

@@ -1,0 +1,14 @@
+:multiobjective.source:ctan:0.02048:109070284:2703:B75-442D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+multiobjective
+
+./source/latex/multiobjective:
+multiobjective.dtx
+multiobjective.ins

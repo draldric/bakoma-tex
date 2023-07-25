@@ -1,0 +1,15 @@
+:euro-ce.doc:ctan:0.02048:109070284:4449:34A7-DEC0:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+euro-ce
+
+./doc/fonts/euro-ce:
+euro-ce.doc
+euro-ce.dvi
+euro-ce.tex

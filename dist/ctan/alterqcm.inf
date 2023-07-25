@@ -1,0 +1,13 @@
+:alterqcm:ctan:0.03072:109070284:4507:4666-A5D1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+alterqcm
+
+./tex/latex/alterqcm:
+alterqcm.sty

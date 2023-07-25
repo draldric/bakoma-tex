@@ -1,0 +1,14 @@
+:verse.doc:ctan:0.28672:109070284:218910:C8C8-439A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+verse
+
+./doc/latex/verse:
+readme
+verse.pdf

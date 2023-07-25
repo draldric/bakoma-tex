@@ -1,0 +1,14 @@
+:volumes.doc:ctan:0.17408:109070284:145858:57CD-DBE3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+volumes
+
+./doc/latex/volumes:
+readme
+volumes.pdf

@@ -1,0 +1,14 @@
+:sseq.source:ctan:0.07168:109070284:15787:B6A6-77AA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sseq
+
+./source/latex/sseq:
+sseq.dtx
+sseq.ins

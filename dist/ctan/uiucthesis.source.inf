@@ -1,0 +1,14 @@
+:uiucthesis.source:ctan:0.06144:109070284:15925:89FD-4595:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+uiucthesis
+
+./source/latex/uiucthesis:
+uiucthesis.dtx
+uiucthesis.ins

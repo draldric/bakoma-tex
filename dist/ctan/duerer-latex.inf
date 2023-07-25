@@ -1,0 +1,17 @@
+:duerer-latex:ctan:0.01024:109070284:719:E7FA-D271:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+duerer-latex
+
+./tex/latex/duerer-latex:
+duerer.sty
+ot1cdin.fd
+ot1cdr.fd
+ot1cdss.fd
+ot1cdtt.fd

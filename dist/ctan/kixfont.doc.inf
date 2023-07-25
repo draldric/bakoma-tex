@@ -1,0 +1,14 @@
+:kixfont.doc:ctan:0.03072:109070284:15459:7DEA-5469:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+kixfont
+
+./doc/fonts/kixfont:
+kixtable.pdf
+kixtable.tex

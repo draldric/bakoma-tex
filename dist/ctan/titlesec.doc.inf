@@ -1,0 +1,15 @@
+:titlesec.doc:ctan:0.31744:109070284:201429:E0E-5D4B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+titlesec
+
+./doc/latex/titlesec:
+readme
+titlesec.pdf
+titlesec.tex

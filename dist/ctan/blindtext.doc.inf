@@ -1,0 +1,14 @@
+:blindtext.doc:ctan:0.13312:109070284:99855:C972-22BC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+blindtext
+
+./doc/latex/blindtext:
+blindtext.pdf
+readme

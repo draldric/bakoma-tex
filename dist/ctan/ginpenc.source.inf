@@ -1,0 +1,15 @@
+:ginpenc.source:ctan:0.03072:109070284:4077:8BE6-224:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ginpenc
+
+./source/latex/ginpenc:
+ginpenc.dtx
+ginpenc.ins
+makefile

@@ -1,0 +1,14 @@
+:poemscol.source:ctan:0.29696:109070284:62749:58FC-DA93:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+poemscol
+
+./source/latex/poemscol:
+poemscol.dtx
+poemscol.ins

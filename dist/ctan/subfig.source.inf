@@ -1,0 +1,15 @@
+:subfig.source:ctan:0.2048:109070284:42809:DD7B-435E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+subfig
+
+./source/latex/subfig:
+makefile
+subfig.dtx
+subfig.ins

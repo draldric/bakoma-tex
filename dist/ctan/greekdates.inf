@@ -1,0 +1,13 @@
+:greekdates:ctan:0.03072:109070284:3288:248-58A9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+greekdates
+
+./tex/latex/greekdates:
+greekdates.sty

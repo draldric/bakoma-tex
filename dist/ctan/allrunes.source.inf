@@ -1,0 +1,14 @@
+:allrunes.source:ctan:0.39936:109070284:41454:91FB-1404:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+allrunes
+
+./source/fonts/allrunes:
+allrunes.dtx
+allrunes.ins

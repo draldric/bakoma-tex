@@ -1,0 +1,15 @@
+:cmarrows.doc:ctan:0.19456:109070284:184869:7A92-4053:
+
+./:
+doc
+
+./doc:
+metapost
+
+./doc/metapost:
+cmarrows
+
+./doc/metapost/cmarrows:
+cmarrows.pdf
+cmmanual.zip
+readme

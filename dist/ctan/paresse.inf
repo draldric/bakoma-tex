@@ -1,0 +1,13 @@
+:paresse:ctan:0.01024:109070284:1512:C301-6FA9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+paresse
+
+./tex/latex/paresse:
+paresse.sty

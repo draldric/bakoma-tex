@@ -1,0 +1,14 @@
+:xgreek.doc:ctan:0.08192:109070284:57283:D107-423B:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+xgreek
+
+./doc/xelatex/xgreek:
+readme.1st
+xgreek.pdf

@@ -1,0 +1,14 @@
+:opcit.doc:ctan:0.31744:109070284:254965:AE22-3CFB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+opcit
+
+./doc/latex/opcit:
+opcit.pdf
+readme

@@ -1,0 +1,13 @@
+:soul:ctan:0.03072:109070284:5436:F572-C5EC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+soul
+
+./tex/latex/soul:
+soul.sty

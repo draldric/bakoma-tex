@@ -1,0 +1,16 @@
+:iso10303.source:ctan:0.19456:109070284:35916:FA08-4D9A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+iso10303
+
+./source/latex/iso10303:
+step4ht.dtx
+step4ht.ins
+stepe.dtx
+stepe.ins

@@ -1,0 +1,16 @@
+:nicetext:ctan:0.08192:109070284:22123:6040-583E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nicetext
+
+./tex/latex/nicetext:
+fifinddo.sty
+makedoc.sty
+niceverb.sty
+wiki.sty

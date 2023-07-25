@@ -1,0 +1,15 @@
+:yagusylo.source:ctan:0.1536:109070284:36329:3747-A92E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+yagusylo
+
+./source/latex/yagusylo:
+makefile
+yagusylo.dtx
+yagusylo.ins

@@ -1,0 +1,13 @@
+:trfsigns:ctan:0.01024:109070284:1111:B0AC-33D7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+trfsigns
+
+./tex/latex/trfsigns:
+trfsigns.sty

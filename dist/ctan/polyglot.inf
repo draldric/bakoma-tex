@@ -1,0 +1,15 @@
+:polyglot:ctan:0.0512:109070284:5367:93D3-2C16:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+polyglot
+
+./tex/latex/polyglot:
+polyglot.cfg
+polyglot.def
+polyglot.sty

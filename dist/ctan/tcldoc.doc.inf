@@ -1,0 +1,13 @@
+:tcldoc.doc:ctan:0.01024:109070284:871:B3F3-50AC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tcldoc
+
+./doc/latex/tcldoc:
+readme.txt

@@ -1,0 +1,15 @@
+:poemscol.doc:ctan:0.52224:109070284:448265:1737-5BCA:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+poemscol
+
+./doc/latex/poemscol:
+poemscol.pdf
+poemscolcheatsheet.pdf
+readme

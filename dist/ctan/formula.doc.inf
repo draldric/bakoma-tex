@@ -1,0 +1,14 @@
+:formula.doc:ctan:0.01024:109070284:2897:5419-1E52:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+formula
+
+./doc/latex/formula:
+formpel.dvi
+formpel.tex

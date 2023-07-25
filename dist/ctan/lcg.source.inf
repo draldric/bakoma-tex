@@ -1,0 +1,14 @@
+:lcg.source:ctan:0.03072:109070284:6164:77F4-D894:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+lcg
+
+./source/latex/lcg:
+lcg.dtx
+lcg.ins

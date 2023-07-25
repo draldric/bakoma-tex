@@ -1,0 +1,14 @@
+:acronym.source:ctan:0.06144:109070284:12618:F81C-C94F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+acronym
+
+./source/latex/acronym:
+acronym.dtx
+acronym.ins

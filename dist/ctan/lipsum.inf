@@ -1,0 +1,13 @@
+:lipsum:ctan:0.11264:109070284:24178:C83D-2031:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lipsum
+
+./tex/latex/lipsum:
+lipsum.sty

@@ -1,0 +1,13 @@
+:pst-soroban:ctan:0.01024:109070284:1267:EC96-176F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-soroban
+
+./tex/latex/pst-soroban:
+pst-soroban.sty

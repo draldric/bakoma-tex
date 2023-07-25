@@ -1,0 +1,13 @@
+:cd:ctan:0.03072:109070284:3680:261B-8CD2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cd
+
+./tex/latex/cd:
+cd.cls

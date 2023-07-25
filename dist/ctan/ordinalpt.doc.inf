@@ -1,0 +1,14 @@
+:ordinalpt.doc:ctan:0.27648:109070284:258662:466C-74D0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ordinalpt
+
+./doc/latex/ordinalpt:
+ordinalpt.pdf
+readme

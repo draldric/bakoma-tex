@@ -1,0 +1,13 @@
+:ebezier:ctan:0.03072:109070284:3535:E57D-4AB3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ebezier
+
+./tex/latex/ebezier:
+ebezier.sty

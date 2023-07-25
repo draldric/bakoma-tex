@@ -1,0 +1,15 @@
+:facsimile:ctan:0.03072:109070284:3883:79F8-5D5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+facsimile
+
+./tex/latex/facsimile:
+fac-de.cfg
+fac-en.cfg
+facsimile.cls

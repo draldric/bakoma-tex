@@ -1,0 +1,13 @@
+:pst-vowel:ctan:0.01024:109070284:1607:4D5E-DED7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-vowel
+
+./tex/latex/pst-vowel:
+pst-vowel.sty

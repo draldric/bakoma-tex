@@ -1,0 +1,13 @@
+:ar.doc:ctan:0.01024:109070284:2146:D30D-2B6C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ar
+
+./doc/latex/ar:
+ar.txt

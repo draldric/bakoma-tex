@@ -1,0 +1,14 @@
+:adfathesis.doc:ctan2:0.193993:109073044:133639:FDEB-5487:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+adfathesis
+
+./doc/latex/adfathesis:
+adfathesis.pdf
+readme

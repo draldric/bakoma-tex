@@ -1,0 +1,15 @@
+:doublestroke.doc:ctan:0.12288:109070284:93654:E066-FD0B:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+doublestroke
+
+./doc/fonts/doublestroke:
+dsdoc.pdf
+dsdoc.tex
+readme

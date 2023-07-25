@@ -1,0 +1,15 @@
+:pst-blur.source:ctan:0.03072:109070284:6858:4B88-19C2:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-blur
+
+./source/generic/pst-blur:
+makefile
+pst-blur.dtx
+pst-blur.ins

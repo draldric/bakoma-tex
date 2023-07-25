@@ -1,0 +1,13 @@
+:miniplot:ctan:0.0512:109070284:4894:B95-7E34:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+miniplot
+
+./tex/latex/miniplot:
+miniplot.sty

@@ -1,0 +1,15 @@
+:gcite.doc:ctan:0.21504:109070284:164180:924A-BCAC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gcite
+
+./doc/latex/gcite:
+gcite.bib
+gcite.pdf
+readme

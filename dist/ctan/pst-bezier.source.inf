@@ -1,0 +1,13 @@
+:pst-bezier.source:ctan:0.01024:109070284:690:F3A8-9C28:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-bezier
+
+./source/generic/pst-bezier:
+makefile

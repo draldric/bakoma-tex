@@ -1,0 +1,14 @@
+:dotarrow.source:ctan:0.02048:109070284:2574:43DD-9AA7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dotarrow
+
+./source/latex/dotarrow:
+dotarrow.dtx
+dotarrow.ins

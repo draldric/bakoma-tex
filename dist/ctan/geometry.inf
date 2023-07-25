@@ -1,0 +1,13 @@
+:geometry:ctan:0.04096:109070284:6787:6144-806:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+geometry
+
+./tex/latex/geometry:
+geometry.sty

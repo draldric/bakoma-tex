@@ -1,0 +1,13 @@
+:gmdoc-enhance:ctan:0.02048:109070284:3164:DA4C-529C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gmdoc-enhance
+
+./tex/latex/gmdoc-enhance:
+gmdoc-enhance.sty

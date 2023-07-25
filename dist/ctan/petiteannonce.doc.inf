@@ -1,0 +1,17 @@
+:petiteannonce.doc:ctan:0.22528:109070284:110753:30A6-99A9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+petiteannonce
+
+./doc/latex/petiteannonce:
+baignoire.jpg
+petiteannonce.doc.pdf
+petiteannonce.doc.tex
+petiteannonceexample.pdf
+petiteannonceexample.tex

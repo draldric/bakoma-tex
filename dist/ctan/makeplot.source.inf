@@ -1,0 +1,14 @@
+:makeplot.source:ctan:0.0512:109070284:11411:DE9B-5678:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+makeplot
+
+./source/latex/makeplot:
+makeplot.dtx
+makeplot.ins

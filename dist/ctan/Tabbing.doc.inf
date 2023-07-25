@@ -1,0 +1,13 @@
+:Tabbing.doc:ctan:0.01024:109070284:185:5C7B-C769:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tabbing
+
+./doc/latex/tabbing:
+00readme

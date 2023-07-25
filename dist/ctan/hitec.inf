@@ -1,0 +1,13 @@
+:hitec:ctan:0.03072:109070284:5579:BD0B-7301:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hitec
+
+./tex/latex/hitec:
+hitec.cls

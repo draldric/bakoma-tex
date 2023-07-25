@@ -1,0 +1,15 @@
+:mfpic.source:ctan:0.59392:109070284:149473:4B55-B5ED:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+mfpic
+
+./source/generic/mfpic:
+grafbase.dtx
+mfpic.dtx
+mfpic.ins

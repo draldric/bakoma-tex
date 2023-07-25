@@ -1,0 +1,17 @@
+:assignment.doc:ctan:0.12288:109070284:81420:D0EA-B681:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+assignment
+
+./doc/latex/assignment:
+assignment.pdf
+assignment.tex
+changelog
+license
+readme

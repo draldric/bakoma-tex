@@ -1,0 +1,14 @@
+:fbithesis:ctan2:0.017389:109070768:4347:D4BB-F8E6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fbithesis
+
+./tex/latex/fbithesis:
+fbithesis.cfg
+fbithesis.cls

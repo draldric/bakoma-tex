@@ -1,0 +1,13 @@
+:zwpagelayout:ctan:0.03072:109070284:4597:CE26-989B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+zwpagelayout
+
+./tex/latex/zwpagelayout:
+zwpagelayout.sty

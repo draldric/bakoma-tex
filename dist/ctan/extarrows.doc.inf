@@ -1,0 +1,15 @@
+:extarrows.doc:ctan:0.04096:109070284:28180:8B5-DEEB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+extarrows
+
+./doc/latex/extarrows:
+extarrows-test.pdf
+extarrows-test.tex
+readme

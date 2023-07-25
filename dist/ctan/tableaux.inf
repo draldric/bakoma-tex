@@ -1,0 +1,14 @@
+:tableaux:ctan:0.02048:109070284:2401:7670-B7D8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tableaux
+
+./tex/latex/tableaux:
+minimum.sty
+tableau.sty

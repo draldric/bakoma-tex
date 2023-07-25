@@ -1,0 +1,17 @@
+:context-construction-plan.doc:ctan:0.49152:109070284:461906:B09E-4FEB:
+
+./:
+doc
+
+./doc:
+context
+
+./doc/context:
+third
+
+./doc/context/third:
+construction-plan
+
+./doc/context/third/construction-plan:
+construction-plan-demo.pdf
+construction-plan-doc.pdf

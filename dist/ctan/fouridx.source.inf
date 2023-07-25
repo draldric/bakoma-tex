@@ -1,0 +1,14 @@
+:fouridx.source:ctan:0.01024:109070284:2348:2F4-1C23:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fouridx
+
+./source/latex/fouridx:
+fouridx.dtx
+fouridx.ins

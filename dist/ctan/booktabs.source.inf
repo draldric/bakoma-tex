@@ -1,0 +1,14 @@
+:booktabs.source:ctan:0.0512:109070284:14344:CC0F-81E4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+booktabs
+
+./source/latex/booktabs:
+booktabs.dtx
+booktabs.ins

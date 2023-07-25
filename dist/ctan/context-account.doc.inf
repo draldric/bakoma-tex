@@ -1,0 +1,17 @@
+:context-account.doc:ctan:0.12288:109070284:113576:9274-8DD8:
+
+./:
+doc
+
+./doc:
+context
+
+./doc/context:
+third
+
+./doc/context/third:
+account
+
+./doc/context/third/account:
+account-doc.pdf
+readme

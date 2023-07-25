@@ -1,0 +1,15 @@
+:recipe.doc:ctan:0.04096:109070284:23346:311C-2CD9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+recipe
+
+./doc/latex/recipe:
+readme
+sample.pdf
+sample.tex

@@ -1,0 +1,13 @@
+:mxd.source:ctan:0.01024:109070284:366:2BB6-DA00:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mxd
+
+./source/latex/mxd:
+install

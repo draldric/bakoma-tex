@@ -1,0 +1,13 @@
+:viiptart.doc:ctan3:0.053681:109073048:32439:2801-73F1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+viiptart
+
+./doc/latex/viiptart:
+viiptart.pdf

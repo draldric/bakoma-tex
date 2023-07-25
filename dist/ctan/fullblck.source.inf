@@ -1,0 +1,14 @@
+:fullblck.source:ctan:0.01024:109070284:2473:1FA-CE6C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fullblck
+
+./source/latex/fullblck:
+fullblck.dtx
+fullblck.dtx.asc

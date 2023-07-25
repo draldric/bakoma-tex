@@ -1,0 +1,13 @@
+:ziffer:ctan:0.01024:109070284:1404:E2F-3053:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ziffer
+
+./tex/latex/ziffer:
+ziffer.sty

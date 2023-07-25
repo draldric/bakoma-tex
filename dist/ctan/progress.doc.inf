@@ -1,0 +1,17 @@
+:progress.doc:ctan:0.2048:109070284:14105:A96B-B2AC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+progress
+
+./doc/latex/progress:
+progress.dvi
+progress.tex
+progress20030701.html
+progress20030714.html
+readme

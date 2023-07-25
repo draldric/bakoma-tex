@@ -1,0 +1,14 @@
+:courier-scaled.doc:ctan:0.06144:109070284:51787:775-F321:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+courier-scaled
+
+./doc/latex/courier-scaled:
+couriers.pdf
+readme

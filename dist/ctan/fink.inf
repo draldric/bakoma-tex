@@ -1,0 +1,13 @@
+:fink:ctan:0.01024:109070284:1624:1243-2787:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fink
+
+./tex/latex/fink:
+fink.sty

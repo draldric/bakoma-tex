@@ -1,0 +1,13 @@
+:karnaugh.doc:ctan:0.04096:109070284:7800:2C6F-9DBB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+karnaugh
+
+./doc/latex/karnaugh:
+kvdoc.tex

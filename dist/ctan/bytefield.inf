@@ -1,0 +1,13 @@
+:bytefield:ctan:0.02048:109070284:2454:DBAD-508F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bytefield
+
+./tex/latex/bytefield:
+bytefield.sty

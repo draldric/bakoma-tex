@@ -1,0 +1,13 @@
+:statistik:ctan:0.01024:109070284:1784:CF12-B437:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+statistik
+
+./tex/latex/statistik:
+statistik.sty

@@ -1,0 +1,14 @@
+:curve2e.source:ctan:0.08192:109070284:20751:2913-1DD5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+curve2e
+
+./source/latex/curve2e:
+curve2e.dtx
+curve2e.ins

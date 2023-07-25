@@ -1,0 +1,14 @@
+:subfigure:ctan:0.03072:109070284:4237:E014-F34A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+subfigure
+
+./tex/latex/subfigure:
+subfigure.cfg
+subfigure.sty

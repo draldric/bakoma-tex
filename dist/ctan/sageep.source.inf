@@ -1,0 +1,15 @@
+:sageep.source:ctan:0.03072:109070284:6652:CD0A-EFED:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sageep
+
+./source/latex/sageep:
+makefile
+sageep.dtx
+sageep.ins

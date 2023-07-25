@@ -1,0 +1,15 @@
+:glossaries.source:ctan:0.73728:109070284:99712:410C-FAAA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+glossaries
+
+./source/latex/glossaries:
+glossaries.dtx
+glossaries.ins
+glossaries.perl

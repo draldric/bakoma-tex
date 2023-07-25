@@ -1,0 +1,14 @@
+:beton.doc:ctan:0.11264:109070284:58942:BBDC-11EF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+beton
+
+./doc/latex/beton:
+beton.pdf
+legal.txt

@@ -1,0 +1,14 @@
+:examdesign.source:ctan:0.14336:109070284:29645:A456-D418:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+examdesign
+
+./source/latex/examdesign:
+examdesign.dtx
+examdesign.ins

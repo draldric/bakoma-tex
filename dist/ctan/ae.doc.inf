@@ -1,0 +1,15 @@
+:ae.doc:ctan:0.03072:109070284:7464:A755-AB93:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+ae
+
+./doc/fonts/ae:
+copying
+manifest
+readme

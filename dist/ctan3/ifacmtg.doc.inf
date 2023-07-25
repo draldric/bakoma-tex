@@ -1,0 +1,13 @@
+:ifacmtg.doc:ctan3:0.310639:109073044:166994:BA60-AC06:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ifacmtg
+
+./doc/latex/ifacmtg:
+instraut.pdf

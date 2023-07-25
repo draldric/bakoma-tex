@@ -1,0 +1,16 @@
+:eijkhout:ctan:0.03072:109070284:6522:907A-7CBE:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+eijkhout
+
+./tex/generic/eijkhout:
+cd_labeler.tex
+cd_labeler_test.tex
+db_process.tex
+repeat.tex

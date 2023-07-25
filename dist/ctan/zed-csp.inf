@@ -1,0 +1,13 @@
+:zed-csp:ctan:0.04096:109070284:7634:E228-41E5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+zed-csp
+
+./tex/latex/zed-csp:
+zed-csp.sty

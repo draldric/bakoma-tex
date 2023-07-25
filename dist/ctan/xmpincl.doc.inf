@@ -1,0 +1,15 @@
+:xmpincl.doc:ctan:0.13312:109070284:98090:CD67-1870:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xmpincl
+
+./doc/latex/xmpincl:
+license.xmp
+readme
+xmpincl.pdf

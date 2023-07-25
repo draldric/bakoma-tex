@@ -1,0 +1,16 @@
+:textfit.doc:ctan:0.01024:109070284:502:3A33-BCE0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+textfit
+
+./doc/latex/textfit:
+catalog
+makefile
+manifest
+readme

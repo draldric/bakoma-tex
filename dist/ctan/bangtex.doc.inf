@@ -1,0 +1,16 @@
+:bangtex.doc:ctan:0.06144:109070284:15363:4216-E6E3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bangtex
+
+./doc/latex/bangtex:
+manual.tex
+readme.bangtex
+samplett.tex
+samptex.tex

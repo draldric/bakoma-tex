@@ -1,0 +1,14 @@
+:purifyeps.doc:ctan:0.04096:109070284:14780:F598-CA8C:
+
+./:
+doc
+
+./doc:
+man
+
+./doc/man:
+man1
+
+./doc/man/man1:
+purifyeps.1
+purifyeps.pdf

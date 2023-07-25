@@ -1,0 +1,14 @@
+:minibox.source:ctan:0.01024:109070284:1983:7DE9-5474:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+minibox
+
+./source/latex/minibox:
+minibox.ins
+minibox.tex

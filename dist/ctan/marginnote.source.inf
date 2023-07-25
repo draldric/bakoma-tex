@@ -1,0 +1,15 @@
+:marginnote.source:ctan:0.04096:109070284:8365:2B4D-E3D6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+marginnote
+
+./source/latex/marginnote:
+marginnote.dtx
+marginnote.ins
+readme

@@ -1,0 +1,13 @@
+:attachfile:ctan:0.02048:109070284:3396:1500-27F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+attachfile
+
+./tex/latex/attachfile:
+attachfile.sty

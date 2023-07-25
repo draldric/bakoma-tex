@@ -1,0 +1,13 @@
+:xunicode.doc:ctan:0.01024:109070284:329:EACA-78F9:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+xunicode
+
+./doc/xelatex/xunicode:
+readme

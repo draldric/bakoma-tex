@@ -1,0 +1,15 @@
+:cmbright.doc:ctan:0.02048:109070284:3759:8314-ABB6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cmbright
+
+./doc/latex/cmbright:
+copyrite.txt
+manifest.txt
+readme

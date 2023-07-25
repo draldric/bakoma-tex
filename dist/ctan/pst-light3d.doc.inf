@@ -1,0 +1,17 @@
+:pst-light3d.doc:ctan:0.88064:109070284:835902:2DD4-5A4A:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-light3d
+
+./doc/generic/pst-light3d:
+changes
+pst-light3d-doc.bib
+pst-light3d-doc.pdf
+pst-light3d-doc.tex
+readme

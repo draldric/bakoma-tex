@@ -1,0 +1,14 @@
+:mtgreek.doc:ctan:0.01024:109070284:325:2B50-882B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mtgreek
+
+./doc/latex/mtgreek:
+mtgtest.dvi
+mtgtest.tex

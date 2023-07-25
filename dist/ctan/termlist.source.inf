@@ -1,0 +1,13 @@
+:termlist.source:ctan:0.02048:109070284:3876:C222-A022:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+termlist
+
+./source/latex/termlist:
+termlist.dtx

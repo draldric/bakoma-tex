@@ -1,0 +1,16 @@
+:gnuplottex.doc:ctan:0.12288:109070284:88070:2EC7-81AB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gnuplottex
+
+./doc/latex/gnuplottex:
+example-pdf.tex
+gnuplottex.pdf
+gpl.txt
+readme

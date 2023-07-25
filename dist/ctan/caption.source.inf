@@ -1,0 +1,17 @@
+:caption.source:ctan:0.39936:109070284:68362:2EDE-C9D5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+caption
+
+./source/latex/caption:
+caption.dtx
+caption.ins
+caption2.dtx
+ltcaption.dtx
+subcaption.dtx

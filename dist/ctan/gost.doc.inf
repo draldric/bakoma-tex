@@ -1,0 +1,15 @@
+:gost.doc:ctan:0.4608:109070284:294702:DA27-3A68:
+
+./:
+doc
+
+./doc:
+bibtex
+
+./doc/bibtex:
+gost
+
+./doc/bibtex/gost:
+gost71.pdf
+gost780.pdf
+readme

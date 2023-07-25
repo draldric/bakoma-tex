@@ -1,0 +1,13 @@
+:titling:ctan:0.02048:109070284:2057:9DAE-3CD6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+titling
+
+./tex/latex/titling:
+titling.sty

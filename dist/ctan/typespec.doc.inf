@@ -1,0 +1,14 @@
+:typespec.doc:ctan:0.6656:109070284:553996:262C-DCB3:
+
+./:
+doc
+
+./doc:
+plain
+
+./doc/plain:
+typespec
+
+./doc/plain/typespec:
+typespec.pdf
+typespec.tex

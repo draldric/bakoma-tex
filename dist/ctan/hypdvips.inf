@@ -1,0 +1,13 @@
+:hypdvips:ctan:0.12288:109070284:22599:680D-6559:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hypdvips
+
+./tex/latex/hypdvips:
+hypdvips.sty

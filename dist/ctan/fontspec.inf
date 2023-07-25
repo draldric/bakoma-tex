@@ -1,0 +1,14 @@
+:fontspec:ctan:0.06144:109070284:11534:A902-E7B6:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+fontspec
+
+./tex/xelatex/fontspec:
+fontspec.cfg
+fontspec.sty

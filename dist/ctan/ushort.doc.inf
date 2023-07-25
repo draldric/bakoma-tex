@@ -1,0 +1,16 @@
+:ushort.doc:ctan:0.23552:109070284:201583:C4CC-3CF0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ushort
+
+./doc/latex/ushort:
+readme
+ushort.pdf
+ushort.tex
+ushort.txt

@@ -1,0 +1,16 @@
+:xdoc.source:ctan:0.31744:109070284:69738:DDA7-E7CA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xdoc
+
+./source/latex/xdoc:
+docindex.dtx
+docindex.ins
+xdoc2.dtx
+xdoc2.ins

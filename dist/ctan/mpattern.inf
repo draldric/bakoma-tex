@@ -1,0 +1,10 @@
+:mpattern:ctan:0.01024:109070284:2404:C044-86A9:
+
+./:
+metapost
+
+./metapost:
+mpattern
+
+./metapost/mpattern:
+mpattern.mp

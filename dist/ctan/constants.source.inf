@@ -1,0 +1,14 @@
+:constants.source:ctan:0.03072:109070284:6828:7561-68DA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+constants
+
+./source/latex/constants:
+constants.dtx
+constants.ins

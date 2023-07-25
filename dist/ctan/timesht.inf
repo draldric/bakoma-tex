@@ -1,0 +1,13 @@
+:timesht:ctan:0.01024:109070284:1664:1D34-1FFD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+timesht
+
+./tex/latex/timesht:
+timesht.cls

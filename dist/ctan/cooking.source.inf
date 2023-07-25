@@ -1,0 +1,14 @@
+:cooking.source:ctan:0.03072:109070284:7331:2D6C-81F5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cooking
+
+./source/latex/cooking:
+cooking.dtx
+cooking.ins

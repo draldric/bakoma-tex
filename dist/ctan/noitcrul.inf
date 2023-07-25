@@ -1,0 +1,13 @@
+:noitcrul:ctan:0.01024:109070284:890:4B54-742D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+noitcrul
+
+./tex/latex/noitcrul:
+noitcrul.sty

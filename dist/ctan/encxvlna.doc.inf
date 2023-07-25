@@ -1,0 +1,17 @@
+:encxvlna.doc:ctan:0.29696:109070284:246116:6038-6247:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+encxvlna
+
+./doc/generic/encxvlna:
+encxvlna.pdf
+encxvlna.tex
+license.txt
+readme
+vlna-inc.tex

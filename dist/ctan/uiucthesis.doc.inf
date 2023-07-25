@@ -1,0 +1,16 @@
+:uiucthesis.doc:ctan:0.28672:109070284:226265:8C0-B0E6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+uiucthesis
+
+./doc/latex/uiucthesis:
+readme
+thesis-ex.pdf
+thesis-ex.tex
+uiucthesis.pdf

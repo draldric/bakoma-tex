@@ -1,0 +1,13 @@
+:pst-optic.source:ctan:0.01024:109070284:693:664F-30CB:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-optic
+
+./source/generic/pst-optic:
+makefile

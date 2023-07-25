@@ -1,0 +1,13 @@
+:ted.source:ctan:0.06144:109070284:14962:9FB4-6B7E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ted
+
+./source/latex/ted:
+ted.dtx

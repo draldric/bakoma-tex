@@ -1,0 +1,13 @@
+:streetex.doc:ctan3:0.147625:109073048:125622:CA4B-2AB3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+streetex
+
+./doc/latex/streetex:
+stree_en.pdf

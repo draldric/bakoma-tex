@@ -1,0 +1,14 @@
+:filecontents.doc:ctan:0.13312:109070284:107825:D9A2-6AFD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+filecontents
+
+./doc/latex/filecontents:
+filecontents.pdf
+readme

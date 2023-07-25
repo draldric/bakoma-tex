@@ -1,0 +1,14 @@
+:arydshln.source:ctan:0.24576:109070284:50402:1C82-4F29:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+arydshln
+
+./source/latex/arydshln:
+arydshln.dtx
+arydshln.ins

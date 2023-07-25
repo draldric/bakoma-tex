@@ -1,0 +1,13 @@
+:verse:ctan:0.02048:109070284:2778:786B-FBB1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+verse
+
+./tex/latex/verse:
+verse.sty

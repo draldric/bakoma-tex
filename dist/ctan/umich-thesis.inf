@@ -1,0 +1,13 @@
+:umich-thesis:ctan:0.03072:109070284:5352:6BF4-EC2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+umich-thesis
+
+./tex/latex/umich-thesis:
+umich-thesis.cls

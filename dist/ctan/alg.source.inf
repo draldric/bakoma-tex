@@ -1,0 +1,14 @@
+:alg.source:ctan:0.03072:109070284:5497:23C5-2345:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+alg
+
+./source/latex/alg:
+alg.dtx
+alg.ins

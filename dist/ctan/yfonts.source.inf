@@ -1,0 +1,14 @@
+:yfonts.source:ctan:0.03072:109070284:7761:9DFF-2F1B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+yfonts
+
+./source/latex/yfonts:
+yfonts.dtx
+yfonts.ins

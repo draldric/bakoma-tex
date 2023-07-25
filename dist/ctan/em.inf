@@ -1,0 +1,13 @@
+:em:ctan:0.02048:109070284:2429:F76D-69D2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+em
+
+./tex/latex/em:
+em.sty

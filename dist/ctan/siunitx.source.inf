@@ -1,0 +1,14 @@
+:siunitx.source:ctan:0.47104:109070284:92513:9135-437:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+siunitx
+
+./source/latex/siunitx:
+siunitx.dtx
+siunitx.ins

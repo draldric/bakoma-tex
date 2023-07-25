@@ -1,0 +1,15 @@
+:localloc.source:ctan:0.0512:109070284:11830:6057-C266:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+localloc
+
+./source/latex/localloc:
+localloc.drv
+localloc.dtx
+localloc.readme

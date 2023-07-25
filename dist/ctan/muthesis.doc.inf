@@ -1,0 +1,13 @@
+:muthesis.doc:ctan:0.01024:109070284:370:8160-8731:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+muthesis
+
+./doc/latex/muthesis:
+readme

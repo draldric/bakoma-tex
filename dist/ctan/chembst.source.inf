@@ -1,0 +1,14 @@
+:chembst.source:ctan:0.09216:109070284:15993:5AC-D6D5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+chembst
+
+./source/latex/chembst:
+chembst.dtx
+chembst.ins

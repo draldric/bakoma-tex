@@ -1,0 +1,15 @@
+:directory.doc:ctan:0.23552:109070284:166989:5539-FFD0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+directory
+
+./doc/latex/directory:
+directory.pdf
+directory.tex
+readme

@@ -1,0 +1,14 @@
+:bullcntr:ctan:0.02048:109070284:2075:2D05-E184:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bullcntr
+
+./tex/latex/bullcntr:
+bullcntr.sty
+bullenum.sty

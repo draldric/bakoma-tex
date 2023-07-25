@@ -1,0 +1,13 @@
+:manuscript.doc:ctan:0.01024:109070284:374:6AD0-2634:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+manuscript
+
+./doc/latex/manuscript:
+readme

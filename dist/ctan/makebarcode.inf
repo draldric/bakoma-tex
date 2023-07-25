@@ -1,0 +1,13 @@
+:makebarcode:ctan:0.02048:109070284:4459:73C5-8261:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+makebarcode
+
+./tex/latex/makebarcode:
+makebarcode.sty

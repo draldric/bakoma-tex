@@ -1,0 +1,13 @@
+:movie15:ctan:0.16384:109070284:22839:4ECA-97DE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+movie15
+
+./tex/latex/movie15:
+movie15.sty

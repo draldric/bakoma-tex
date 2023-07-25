@@ -1,0 +1,13 @@
+:biblist:ctan:0.03072:109070284:7963:3476-BA48:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+biblist
+
+./tex/latex/biblist:
+biblist.sty

@@ -1,0 +1,16 @@
+:makecell.doc:ctan:0.32768:109070284:224560:EE4-CBDC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+makecell
+
+./doc/latex/makecell:
+makecell-rus.pdf
+makecell-rus.tex
+makecell.pdf
+readme

@@ -1,0 +1,13 @@
+:snapshot:ctan:0.02048:109070284:3221:9DBD-59BE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+snapshot
+
+./tex/latex/snapshot:
+snapshot.sty

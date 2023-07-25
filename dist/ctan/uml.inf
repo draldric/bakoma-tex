@@ -1,0 +1,13 @@
+:uml:ctan:0.04096:109070284:6076:E2E2-9B74:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+uml
+
+./tex/latex/uml:
+uml.sty

@@ -1,0 +1,14 @@
+:minipage-marginpar.source:ctan:0.02048:109070284:5888:EAB7-BA99:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+minipage-marginpar
+
+./source/latex/minipage-marginpar:
+minipage-marginpar.dtx
+minipage-marginpar.ins

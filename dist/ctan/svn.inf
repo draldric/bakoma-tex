@@ -1,0 +1,13 @@
+:svn:ctan:0.01024:109070284:1154:2BBE-C734:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+svn
+
+./tex/latex/svn:
+svn.sty

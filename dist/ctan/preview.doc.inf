@@ -1,0 +1,14 @@
+:preview.doc:ctan:0.12288:109070284:99138:4FE0-44B8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+preview
+
+./doc/latex/preview:
+preview.pdf
+readme

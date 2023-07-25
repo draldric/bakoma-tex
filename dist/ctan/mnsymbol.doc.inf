@@ -1,0 +1,14 @@
+:mnsymbol.doc:ctan:0.31744:109070284:238655:DDCA-889D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mnsymbol
+
+./doc/latex/mnsymbol:
+mnsymbol.pdf
+readme

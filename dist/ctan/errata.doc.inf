@@ -1,0 +1,15 @@
+:errata.doc:ctan:0.17408:109070284:147336:285-2C4B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+errata
+
+./doc/latex/errata:
+errata-errata.tex
+errata.pdf
+readme

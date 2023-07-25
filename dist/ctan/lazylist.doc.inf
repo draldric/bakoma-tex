@@ -1,0 +1,14 @@
+:lazylist.doc:ctan:0.09216:109070284:30291:418B-E555:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lazylist
+
+./doc/latex/lazylist:
+lazylist.dvi
+lazylist.tex

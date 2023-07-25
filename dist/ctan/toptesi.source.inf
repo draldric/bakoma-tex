@@ -1,0 +1,14 @@
+:toptesi.source:ctan:0.14336:109070284:35316:DD96-637F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+toptesi
+
+./source/latex/toptesi:
+toptesi.dtx
+toptesi.ins

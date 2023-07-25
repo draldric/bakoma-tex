@@ -1,0 +1,13 @@
+:elatex:ctan2:0.016083:109082536:3253:D941-28A7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+elatex
+
+./tex/latex/elatex:
+elatex.sty

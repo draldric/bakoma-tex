@@ -1,0 +1,13 @@
+:pracjourn:ctan:0.02048:109070284:4217:1434-F005:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pracjourn
+
+./tex/latex/pracjourn:
+pracjourn.cls

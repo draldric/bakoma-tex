@@ -1,0 +1,14 @@
+:pgfopts.source:ctan:0.03072:109070284:7584:A79A-8DB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pgfopts
+
+./source/latex/pgfopts:
+pgfopts.dtx
+pgfopts.ins

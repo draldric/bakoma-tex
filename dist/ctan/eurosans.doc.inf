@@ -1,0 +1,13 @@
+:eurosans.doc:ctan:0.01024:109070284:2349:3727-A557:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+eurosans
+
+./doc/latex/eurosans:
+readme.eurosans

@@ -1,0 +1,14 @@
+:attachfile.source:ctan:0.08192:109070284:18357:5E1B-FCD1:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+attachfile
+
+./source/latex/attachfile:
+attachfile.dtx
+attachfile.ins

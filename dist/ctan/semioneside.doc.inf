@@ -1,0 +1,16 @@
+:semioneside.doc:ctan:0.16384:109070284:128747:8D1A-1D4C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+semioneside
+
+./doc/latex/semioneside:
+example.tex
+figure.mp
+readme
+semioneside.pdf

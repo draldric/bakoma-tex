@@ -1,0 +1,14 @@
+:scalebar.source:ctan:0.03072:109070284:6371:BBF2-4688:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+scalebar
+
+./source/latex/scalebar:
+scalebar.dtx
+scalebar.ins

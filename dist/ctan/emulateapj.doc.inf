@@ -1,0 +1,15 @@
+:emulateapj.doc:ctan:0.2048:109070284:150380:B341-323:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+emulateapj
+
+./doc/latex/emulateapj:
+readme
+sample.pdf
+sample.tex

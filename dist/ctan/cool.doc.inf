@@ -1,0 +1,16 @@
+:cool.doc:ctan:0.58368:109070284:411648:DAA8-1889:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cool
+
+./doc/latex/cool:
+content_latex_package_demo.pdf
+content_latex_package_demo.tex
+cool.pdf
+readme

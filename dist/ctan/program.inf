@@ -1,0 +1,13 @@
+:program:ctan:0.04096:109070284:11362:3536-DF24:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+program
+
+./tex/latex/program:
+program.sty

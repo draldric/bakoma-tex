@@ -1,0 +1,13 @@
+:fancybox:ctan:0.03072:109070284:7354:38E6-45B2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fancybox
+
+./tex/latex/fancybox:
+fancybox.sty

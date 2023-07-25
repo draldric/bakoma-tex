@@ -1,0 +1,14 @@
+:pclnfss.doc:ctan:0.03072:109070284:7883:8FB-3C9C:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+pclnfss
+
+./doc/fonts/pclnfss:
+copying
+readme

@@ -1,0 +1,13 @@
+:thumb:ctan:0.02048:109070284:3615:F1A-2469:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+thumb
+
+./tex/latex/thumb:
+thumb.sty

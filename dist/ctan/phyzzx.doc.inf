@@ -1,0 +1,14 @@
+:phyzzx.doc:ctan:0.31744:109070284:98070:EE96-5A2D:
+
+./:
+doc
+
+./doc:
+phyzzx
+
+./doc/phyzzx:
+base
+
+./doc/phyzzx/base:
+phyzdoc.dvi
+phyzdoc.tex

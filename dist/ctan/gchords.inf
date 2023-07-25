@@ -1,0 +1,13 @@
+:gchords:ctan:0.02048:109070284:2892:A75B-8EF4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gchords
+
+./tex/latex/gchords:
+gchords.sty

@@ -1,0 +1,14 @@
+:gb4e.doc:ctan:0.19456:109070284:148205:1C35-E94C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gb4e
+
+./doc/latex/gb4e:
+gb4e-doc.pdf
+gb4e-doc.tex

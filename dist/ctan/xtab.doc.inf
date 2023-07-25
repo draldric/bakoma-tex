@@ -1,0 +1,14 @@
+:xtab.doc:ctan:0.24576:109070284:204786:1EE6-F0FC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xtab
+
+./doc/latex/xtab:
+readme
+xtab.pdf

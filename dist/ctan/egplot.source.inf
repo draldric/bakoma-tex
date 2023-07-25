@@ -1,0 +1,16 @@
+:egplot.source:ctan:0.06144:109070284:10679:597E-CDE7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+egplot
+
+./source/latex/egplot:
+egplot.drv
+egplot.dtx
+egplot.ins
+egpman.drv

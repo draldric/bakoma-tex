@@ -1,0 +1,13 @@
+:pst-math.source:ctan:0.01024:109070284:691:C1A5-63C9:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-math
+
+./source/generic/pst-math:
+makefile

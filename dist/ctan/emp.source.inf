@@ -1,0 +1,17 @@
+:emp.source:ctan:0.0512:109070284:10207:23C1-A906:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+emp
+
+./source/latex/emp:
+emp.drv
+emp.dtx
+emp.ins
+empman.drv
+makefile

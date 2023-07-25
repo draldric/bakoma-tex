@@ -1,0 +1,15 @@
+:bbold.source:ctan:0.02048:109070284:4324:DDE9-AACB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+bbold
+
+./source/latex/bbold:
+bbold.dtx
+bbold.ins
+fonttabl.sty

@@ -1,0 +1,15 @@
+:crossreference.doc:ctan:0.07168:109070284:38508:F3B9-DFE5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+crossreference
+
+./doc/latex/crossreference:
+crossreference.pdf
+readme
+xrefexample.tex

@@ -1,0 +1,13 @@
+:biblist.source:ctan:0.06144:109070284:9754:5109-8638:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+biblist
+
+./source/latex/biblist:
+biblist.bst-dist

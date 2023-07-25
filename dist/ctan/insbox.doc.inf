@@ -1,0 +1,16 @@
+:insbox.doc:ctan:0.08192:109070284:13428:BA0B-FA69:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+insbox
+
+./doc/generic/insbox:
+demo.dvi
+demo.tex
+pic1.eps
+pic2.eps

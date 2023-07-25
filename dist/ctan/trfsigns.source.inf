@@ -1,0 +1,15 @@
+:trfsigns.source:ctan:0.03072:109070284:4771:DE26-8BD5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+trfsigns
+
+./source/latex/trfsigns:
+trfsigns.drv
+trfsigns.dtx
+trfsigns.ins

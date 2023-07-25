@@ -1,0 +1,14 @@
+:ed.doc:ctan:0.1536:109070284:122981:25B0-A583:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ed
+
+./doc/latex/ed:
+ed.pdf
+readme

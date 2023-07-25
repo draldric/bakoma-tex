@@ -1,0 +1,14 @@
+:chemcompounds.source:ctan:0.03072:109070284:6951:1167-B3C3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+chemcompounds
+
+./source/latex/chemcompounds:
+chemcompounds.dtx
+chemcompounds.ins

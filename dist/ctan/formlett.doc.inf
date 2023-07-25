@@ -1,0 +1,16 @@
+:formlett.doc:ctan:0.16384:109070284:38066:3D65-42AB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+formlett
+
+./doc/latex/formlett:
+prog_manual.dvi
+prog_manual.tex
+user_manual.dvi
+user_manual.tex

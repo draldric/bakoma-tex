@@ -1,0 +1,13 @@
+:spanish-mx.doc:ctan:0.01024:109070284:807:75A2-2651:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+spanish-mx
+
+./doc/latex/spanish-mx:
+readme

@@ -1,0 +1,13 @@
+:totpages:ctan:0.02048:109070284:2576:10B7-A95D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+totpages
+
+./tex/latex/totpages:
+totpages.sty

@@ -1,0 +1,14 @@
+:protocol.source:ctan:0.02048:109070284:5232:1C24-BF91:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+protocol
+
+./source/latex/protocol:
+protocol.dtx
+protocol.ins

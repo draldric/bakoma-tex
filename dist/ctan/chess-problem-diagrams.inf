@@ -1,0 +1,13 @@
+:chess-problem-diagrams:ctan:0.06144:109070284:10301:3887-D430:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+chess-problem-diagrams
+
+./tex/latex/chess-problem-diagrams:
+diagram.sty

@@ -1,0 +1,15 @@
+:sidecap.source:ctan:0.03072:109070284:7963:A802-8520:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sidecap
+
+./source/latex/sidecap:
+makefile
+sidecap.dtx
+sidecap.ins

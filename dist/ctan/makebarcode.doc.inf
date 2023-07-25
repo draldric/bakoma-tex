@@ -1,0 +1,16 @@
+:makebarcode.doc:ctan:0.32768:109070284:271720:9736-9754:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+makebarcode
+
+./doc/latex/makebarcode:
+license.txt
+makebarcode.pdf
+makebarcode.tex
+readme

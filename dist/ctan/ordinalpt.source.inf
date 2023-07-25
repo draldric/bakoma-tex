@@ -1,0 +1,14 @@
+:ordinalpt.source:ctan:0.02048:109070284:4325:74FF-A088:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ordinalpt
+
+./source/latex/ordinalpt:
+ordinalpt.dtx
+ordinalpt.ins

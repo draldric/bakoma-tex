@@ -1,0 +1,16 @@
+:siunitx.doc:ctan:0.69632:109070284:395781:5E93-808E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+siunitx
+
+./doc/latex/siunitx:
+readme
+si-bug.ltx
+siunitx.bib
+siunitx.pdf

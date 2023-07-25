@@ -1,0 +1,15 @@
+:wnri.source:ctan:0.02048:109070284:4126:9FA5-2BB6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+wnri
+
+./source/latex/wnri:
+readme.2e
+wnri.dtx
+wnri.ins

@@ -1,0 +1,13 @@
+:subeqn:ctan:0.01024:109070284:1029:3A45-D2B9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+subeqn
+
+./tex/latex/subeqn:
+subeqn.sty

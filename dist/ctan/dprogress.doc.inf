@@ -1,0 +1,14 @@
+:dprogress.doc:ctan:0.08192:109070284:63542:23DB-8C16:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dprogress
+
+./doc/latex/dprogress:
+dprogress.pdf
+readme

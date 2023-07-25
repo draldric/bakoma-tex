@@ -1,0 +1,13 @@
+:perception.doc:ctan:0.01024:109070284:148:3C1B-84E5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+perception
+
+./doc/latex/perception:
+readme

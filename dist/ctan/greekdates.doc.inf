@@ -1,0 +1,14 @@
+:greekdates.doc:ctan:0.12288:109070284:97816:2776-409F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+greekdates
+
+./doc/latex/greekdates:
+greekdates.pdf
+readme

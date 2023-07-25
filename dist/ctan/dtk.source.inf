@@ -1,0 +1,14 @@
+:dtk.source:ctan:0.1536:109070284:34572:103C-E925:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dtk
+
+./source/latex/dtk:
+dtk.dtx
+dtk.ins

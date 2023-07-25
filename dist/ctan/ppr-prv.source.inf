@@ -1,0 +1,14 @@
+:ppr-prv.source:ctan:0.04096:109070284:9198:FBB0-43DC:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ppr-prv
+
+./source/latex/ppr-prv:
+ppr-prv.dtx
+ppr-prv.ins

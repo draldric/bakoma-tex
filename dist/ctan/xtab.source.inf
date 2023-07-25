@@ -1,0 +1,14 @@
+:xtab.source:ctan:0.09216:109070284:19255:1041-52EA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xtab
+
+./source/latex/xtab:
+xtab.dtx
+xtab.ins

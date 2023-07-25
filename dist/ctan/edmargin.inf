@@ -1,0 +1,13 @@
+:edmargin:ctan:0.03072:109070284:4086:F287-C291:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+edmargin
+
+./tex/latex/edmargin:
+edmargin.sty

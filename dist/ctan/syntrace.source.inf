@@ -1,0 +1,14 @@
+:syntrace.source:ctan:0.02048:109070284:2415:1A72-E7A8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+syntrace
+
+./source/latex/syntrace:
+syntrace.dtx
+syntrace.ins

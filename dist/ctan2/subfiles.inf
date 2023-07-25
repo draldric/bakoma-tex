@@ -1,0 +1,14 @@
+:subfiles:ctan2:0.001807:109070768:631:E334-CFBC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+subfiles
+
+./tex/latex/subfiles:
+subfiles.cls
+subfiles.sty

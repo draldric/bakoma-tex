@@ -1,0 +1,16 @@
+:ucthesis:ctan:0.11264:109070284:18853:D2B5-D235:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ucthesis
+
+./tex/latex/ucthesis:
+uct10.clo
+uct11.clo
+uct12.clo
+ucthesis.cls

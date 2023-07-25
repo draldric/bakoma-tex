@@ -1,0 +1,14 @@
+:mathcomp.source:ctan:0.02048:109070284:2801:BCD6-4093:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mathcomp
+
+./source/latex/mathcomp:
+mathcomp.dtx
+mathcomp.ins

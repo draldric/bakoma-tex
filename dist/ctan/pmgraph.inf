@@ -1,0 +1,13 @@
+:pmgraph:ctan:0.08192:109070284:9622:C0F5-5986:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pmgraph
+
+./tex/latex/pmgraph:
+pmgraph.sty

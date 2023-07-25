@@ -1,0 +1,13 @@
+:beton:ctan:0.01024:109070284:1388:AC52-1307:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+beton
+
+./tex/latex/beton:
+beton.sty

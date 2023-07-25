@@ -1,0 +1,13 @@
+:pst-bar.source:ctan:0.01024:109070284:689:C584-92FA:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-bar
+
+./source/generic/pst-bar:
+makefile

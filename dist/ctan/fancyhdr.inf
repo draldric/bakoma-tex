@@ -1,0 +1,15 @@
+:fancyhdr:ctan:0.04096:109070284:7856:3F55-27C7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fancyhdr
+
+./tex/latex/fancyhdr:
+extramarks.sty
+fancyhdr.sty
+fancyheadings.sty

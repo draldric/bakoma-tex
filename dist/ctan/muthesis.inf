@@ -1,0 +1,14 @@
+:muthesis:ctan:0.03072:109070284:7213:A01B-F67A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+muthesis
+
+./tex/latex/muthesis:
+muthesis.cls
+third-rep.cls

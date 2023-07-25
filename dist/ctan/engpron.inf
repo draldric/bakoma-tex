@@ -1,0 +1,13 @@
+:engpron:ctan:0.02048:109070284:2601:16D-D453:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+engpron
+
+./tex/latex/engpron:
+engpron.sty

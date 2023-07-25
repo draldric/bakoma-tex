@@ -1,0 +1,14 @@
+:fonttable.source:ctan:0.04096:109070284:10700:1A52-8996:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fonttable
+
+./source/latex/fonttable:
+fonttable.dtx
+fonttable.ins

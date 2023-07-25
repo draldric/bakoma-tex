@@ -1,0 +1,12 @@
+:multi:ctan:0.04096:109070284:3491:6F55-FB5A:
+
+./:
+dvips
+
+./dvips:
+multi
+
+./dvips/multi:
+2up.pro
+4up.pro
+multi.pro

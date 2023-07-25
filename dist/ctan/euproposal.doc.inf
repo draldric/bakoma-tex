@@ -1,0 +1,17 @@
+:euproposal.doc:ctan:0.3584:109070284:262703:6CC2-96EA:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+euproposal
+
+./doc/latex/euproposal:
+euproposal.pdf
+propb.delivs
+propb.pdf
+propb.tex
+readme

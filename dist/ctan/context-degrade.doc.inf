@@ -1,0 +1,17 @@
+:context-degrade.doc:ctan:0.19456:109070284:180021:6578-ED31:
+
+./:
+doc
+
+./doc:
+context
+
+./doc/context:
+third
+
+./doc/context/third:
+degrade
+
+./doc/context/third/degrade:
+degrade-demo.pdf
+degrade-doc.pdf

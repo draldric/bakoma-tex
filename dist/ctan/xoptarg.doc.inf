@@ -1,0 +1,15 @@
+:xoptarg.doc:ctan:0.39936:109070284:369563:5203-A5A3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xoptarg
+
+./doc/latex/xoptarg:
+readme
+xoptarg.pdf
+xoptarg.tex

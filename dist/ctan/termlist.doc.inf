@@ -1,0 +1,14 @@
+:termlist.doc:ctan:0.09216:109070284:75516:5ED1-19B4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+termlist
+
+./doc/latex/termlist:
+readme
+termlist.pdf

@@ -1,0 +1,13 @@
+:logpap:ctan:0.04096:109070284:5486:2265-9457:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+logpap
+
+./tex/latex/logpap:
+logpap.sty

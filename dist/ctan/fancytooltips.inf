@@ -1,0 +1,16 @@
+:fancytooltips:ctan:0.03072:109070284:4812:78C2-838C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fancytooltips
+
+./tex/latex/fancytooltips:
+fancytipmark.eps
+fancytipmark.pdf
+fancytipmark.svg
+fancytooltips.sty

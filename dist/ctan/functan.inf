@@ -1,0 +1,13 @@
+:functan:ctan:0.02048:109070284:2054:3B6F-A594:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+functan
+
+./tex/latex/functan:
+functan.sty

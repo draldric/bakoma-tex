@@ -1,0 +1,17 @@
+:texdraw:ctan:0.04096:109070284:6005:BD6-7C9F:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+texdraw
+
+./tex/generic/texdraw:
+blockdiagram.tex
+texdraw.sty
+texdraw.tex
+txdps.tex
+txdtools.tex

@@ -1,0 +1,14 @@
+:xlop:ctan:0.12288:109070284:13509:5E3C-CEDF:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+xlop
+
+./tex/generic/xlop:
+xlop.sty
+xlop.tex

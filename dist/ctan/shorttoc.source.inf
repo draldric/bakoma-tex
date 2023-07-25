@@ -1,0 +1,14 @@
+:shorttoc.source:ctan:0.02048:109070284:3615:AC98-509D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+shorttoc
+
+./source/latex/shorttoc:
+shorttoc.dtx
+shorttoc.ins

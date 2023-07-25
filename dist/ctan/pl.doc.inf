@@ -1,0 +1,17 @@
+:pl.doc:ctan:0.09216:109070284:24690:5822-304E:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+pl
+
+./doc/fonts/pl:
+plsample.tex
+readme-t1.eng
+readme-t1.pol
+readme.eng
+readme.pol

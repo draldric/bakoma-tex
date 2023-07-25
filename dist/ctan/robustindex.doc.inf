@@ -1,0 +1,16 @@
+:robustindex.doc:ctan:0.14336:109070284:90545:EDB8-4B9E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+robustindex
+
+./doc/latex/robustindex:
+readme
+robustindex.html
+robustsample.pdf
+robustsample.tex

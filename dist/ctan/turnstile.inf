@@ -1,0 +1,13 @@
+:turnstile:ctan:0.02048:109070284:1460:2AE-8E42:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+turnstile
+
+./tex/latex/turnstile:
+turnstile.sty

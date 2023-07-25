@@ -1,0 +1,14 @@
+:newlfm.source:ctan:0.24576:109070284:48510:AF7A-7AD8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+newlfm
+
+./source/latex/newlfm:
+newlfm.dtx
+newlfm.ins

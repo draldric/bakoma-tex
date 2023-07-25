@@ -1,0 +1,14 @@
+:technics.doc:ctan:0.03072:109070284:5717:FD46-1182:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+technics
+
+./doc/latex/technics:
+technics.dvi
+technics.tex

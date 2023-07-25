@@ -1,0 +1,14 @@
+:astro.doc:ctan:0.02048:109070284:3947:8C4E-485C:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+astro
+
+./doc/fonts/astro:
+astrosym.tex
+astrosym.txt

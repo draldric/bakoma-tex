@@ -1,0 +1,17 @@
+:cv.doc:ctan:0.08192:109070284:52256:4EFE-A1A4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cv
+
+./doc/latex/cv:
+applicationletter.pdf
+applicationletter.tex
+cvctan.pdf
+cvctan.tex
+readme

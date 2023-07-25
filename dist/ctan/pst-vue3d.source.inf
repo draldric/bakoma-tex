@@ -1,0 +1,13 @@
+:pst-vue3d.source:ctan:0.01024:109070284:571:3C33-6902:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-vue3d
+
+./source/generic/pst-vue3d:
+makefile

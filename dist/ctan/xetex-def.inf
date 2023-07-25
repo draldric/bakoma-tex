@@ -1,0 +1,13 @@
+:xetex-def:ctan:0.02048:109070284:4383:B4F8-DDFB:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+xetex-def
+
+./tex/xelatex/xetex-def:
+xetex.def

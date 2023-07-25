@@ -1,0 +1,14 @@
+:pdf-trans.doc:ctan:0.1536:109070284:53767:6435-A2CA:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pdf-trans
+
+./doc/generic/pdf-trans:
+example.pdf
+example.tex

@@ -1,0 +1,14 @@
+:yagusylo:ctan:0.04096:109070284:5340:3DB-49DF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+yagusylo
+
+./tex/latex/yagusylo:
+yagusylo.cfg
+yagusylo.sty

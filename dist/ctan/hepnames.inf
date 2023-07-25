@@ -1,0 +1,15 @@
+:hepnames:ctan:0.0512:109070284:5968:186E-766F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hepnames
+
+./tex/latex/hepnames:
+hepnames.sty
+hepnicenames.sty
+heppennames.sty

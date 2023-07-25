@@ -1,0 +1,13 @@
+:pictex2:ctan:0.02048:109070284:3317:912-F7E4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pictex2
+
+./tex/latex/pictex2:
+pictex2.sty

@@ -1,0 +1,15 @@
+:ctib.doc:ctan:0.4096:109070284:217364:42D2-B1A9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ctib
+
+./doc/latex/ctib:
+ctib4tex.pdf
+ctib4tex.tex
+readme

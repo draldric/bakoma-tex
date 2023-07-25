@@ -1,0 +1,14 @@
+:thumb.source:ctan:0.0512:109070284:11615:E1D1-B484:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+thumb
+
+./source/latex/thumb:
+thumb.dtx
+thumb.ins

@@ -1,0 +1,34 @@
+It was under L1\nicefram.bkz 
+
+% IMPORTANT NOTICE:
+%
+% Copyright (C) 1996 Marcus Ohlhaut (marcus_ohlhaut@m4.maus.de).
+% All rights reserved.
+%
+% Permission is granted to distribute verbatim copies of this package.
+%
+% No other permissions to copy or distribute this file in any form
+% are granted and in particular no permission to modify its contents.
+%
+% Please do not request updates from me directly.  Distribution is
+% done through Mail-Servers and TeX organizations.
+%
+% You are not allowed to change this file.
+%
+% You are allowed to distribute this file under the condition that
+% it is distributed together with all the following files:
+%   niceframe.dtx  20.940 20.10.96 15:28
+%   niceframe.ins   2.383 20.10.96 14:57
+%   bbding10.mf    80.910 07.09.93  0:00
+%   dingbat.mf     20.670 20.03.96 20:01
+%   karta.mf      171.444 28.04.92  2:00
+%   karta15.mf         38 28.04.92  2:00
+%   umrand.mf       1.436 19.06.93 19:05
+%   umranda.mf     15.320 19.06.93 19:05
+%   umrandb.mf     19.458 19.06.93 19:05
+% If you receive only some of these files from someone, complain!
+%
+% You are NOT ALLOWED to distribute this file alone.  You are NOT
+% ALLOWED to take money for the distribution or use of either this
+% file or a changed version, except for a nominal charge for copying
+% etc.

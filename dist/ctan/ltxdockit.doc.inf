@@ -1,0 +1,14 @@
+:ltxdockit.doc:ctan:0.03072:109070284:6579:EFD2-6D69:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ltxdockit
+
+./doc/latex/ltxdockit:
+license
+readme

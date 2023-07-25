@@ -1,0 +1,13 @@
+:deleq:ctan2:0.00758:109070768:1826:72B0-8BC7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+deleq
+
+./tex/latex/deleq:
+deleq.sty

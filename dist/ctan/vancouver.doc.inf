@@ -1,0 +1,15 @@
+:vancouver.doc:ctan:0.11264:109070284:85003:69A4-1A7C:
+
+./:
+doc
+
+./doc:
+bibtex
+
+./doc/bibtex:
+vancouver
+
+./doc/bibtex/vancouver:
+readme
+vancouver.pdf
+vancouver.tex

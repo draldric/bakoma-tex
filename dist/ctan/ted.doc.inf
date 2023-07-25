@@ -1,0 +1,15 @@
+:ted.doc:ctan:0.21504:109070284:165593:90CB-2A0D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ted
+
+./doc/latex/ted:
+readme
+ted-fr.pdf
+ted.pdf

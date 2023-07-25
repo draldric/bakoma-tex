@@ -1,0 +1,14 @@
+:notes2bib.doc:ctan:0.53248:109070284:345662:204A-9EED:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+notes2bib
+
+./doc/latex/notes2bib:
+notes2bib.pdf
+xnotes2bib.pdf

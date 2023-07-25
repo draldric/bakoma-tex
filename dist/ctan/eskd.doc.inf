@@ -1,0 +1,16 @@
+:eskd.doc:ctan:0.95232:109070284:261527:DBB6-B0B3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+eskd
+
+./doc/latex/eskd:
+eskd.pdf
+example.eps
+example.tex
+readme

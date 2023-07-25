@@ -1,0 +1,15 @@
+:dotseqn.source:ctan:0.02048:109070284:5259:CD48-4CFB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dotseqn
+
+./source/latex/dotseqn:
+dotseqn.dtx
+dotseqn.ins
+readme

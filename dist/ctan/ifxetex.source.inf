@@ -1,0 +1,14 @@
+:ifxetex.source:ctan:0.01024:109070284:2067:CF10-8480:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+ifxetex
+
+./source/generic/ifxetex:
+ifxetex.ins
+ifxetex.tex

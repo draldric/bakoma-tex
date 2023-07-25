@@ -1,0 +1,14 @@
+:linearA.doc:ctan:0.19456:109070284:164787:663C-342F:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+lineara
+
+./doc/fonts/lineara:
+lineara_glyphs.pdf
+readme

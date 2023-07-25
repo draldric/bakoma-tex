@@ -1,0 +1,17 @@
+:datenumber.doc:ctan:0.0512:109070284:9995:8FD9-8A7A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+datenumber
+
+./doc/latex/datenumber:
+doc.dvi
+doc.tex
+docgerman.dvi
+docgerman.tex
+readme.txt

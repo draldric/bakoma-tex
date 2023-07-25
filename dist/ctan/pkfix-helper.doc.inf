@@ -1,0 +1,14 @@
+:pkfix-helper.doc:ctan:0.44032:109070284:348212:97BC-D6B6:
+
+./:
+doc
+
+./doc:
+man
+
+./doc/man:
+man1
+
+./doc/man/man1:
+pkfix-helper.1
+pkfix-helper.pdf

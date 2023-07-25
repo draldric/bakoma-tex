@@ -1,0 +1,17 @@
+:sae.doc:ctan2:0.03311:109073048:18477:65B6-704C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sae
+
+./doc/latex/sae:
+example.dvi
+example.pdf
+example.tex
+example.txt
+index.html

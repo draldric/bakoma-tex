@@ -1,0 +1,13 @@
+:colorinfo:ctan:0.01024:109070284:1707:5B6C-65A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+colorinfo
+
+./tex/latex/colorinfo:
+colorinfo.sty

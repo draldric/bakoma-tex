@@ -1,0 +1,14 @@
+:scale.source:ctan:0.02048:109070284:3304:5517-41A8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+scale
+
+./source/latex/scale:
+scale.dtx
+scale.ins

@@ -1,0 +1,13 @@
+:commath:ctan:0.02048:109070284:2037:BCEA-95F3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+commath
+
+./tex/latex/commath:
+commath.sty

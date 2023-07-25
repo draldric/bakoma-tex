@@ -1,0 +1,15 @@
+:svninfo.doc:ctan:0.17408:109070284:138884:1AEC-E938:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+svninfo
+
+./doc/latex/svninfo:
+readme
+svninfo.init
+svninfo.pdf

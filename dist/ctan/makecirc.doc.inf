@@ -1,0 +1,16 @@
+:makecirc.doc:ctan:0.57344:109070284:472799:7AD9-8327:
+
+./:
+doc
+
+./doc:
+metapost
+
+./doc/metapost:
+makecirc
+
+./doc/metapost/makecirc:
+ejemplos.pdf
+makecirc-en.pdf
+makecirc.pdf
+readme

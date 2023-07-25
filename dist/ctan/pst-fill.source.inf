@@ -1,0 +1,15 @@
+:pst-fill.source:ctan:0.08192:109070284:20497:82BB-B37D:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-fill
+
+./source/generic/pst-fill:
+makefile
+pst-fill.dtx
+pst-fill.ins

@@ -1,0 +1,17 @@
+:pst-bezier.doc:ctan:0.13312:109070284:74112:5125-562:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-bezier
+
+./doc/generic/pst-bezier:
+changes
+pst-bezier-doc.bib
+pst-bezier-doc.pdf
+pst-bezier-doc.tex
+readme

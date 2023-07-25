@@ -1,0 +1,14 @@
+:subeqn.source:ctan:0.02048:109070284:3393:3B61-4588:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+subeqn
+
+./source/latex/subeqn:
+subeqn.dtx
+subeqn.ins

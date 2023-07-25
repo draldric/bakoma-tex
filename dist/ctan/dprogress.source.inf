@@ -1,0 +1,14 @@
+:dprogress.source:ctan:0.02048:109070284:2478:74C5-B099:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dprogress
+
+./source/latex/dprogress:
+dprogress.dtx
+dprogress.ins

@@ -1,0 +1,16 @@
+:antp.doc:ctan:0.09216:109070284:8262:201C-4A89:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+antp
+
+./doc/fonts/antp:
+readme.eng
+readme.pol
+testot4.tex
+testqx.tex

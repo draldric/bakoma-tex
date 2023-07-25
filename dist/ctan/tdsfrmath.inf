@@ -1,0 +1,15 @@
+:tdsfrmath:ctan:0.03072:109070284:4899:BDD6-7F3B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tdsfrmath
+
+./tex/latex/tdsfrmath:
+suite.sto
+taupe.sto
+tdsfrmath.sty

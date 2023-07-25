@@ -1,0 +1,14 @@
+:rccol.doc:ctan:0.17408:109070284:142908:90EA-7A05:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+rccol
+
+./doc/latex/rccol:
+rccol.pdf
+readme

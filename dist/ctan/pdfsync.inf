@@ -1,0 +1,13 @@
+:pdfsync:ctan:0.02048:109070284:3445:DA39-49F6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pdfsync
+
+./tex/latex/pdfsync:
+pdfsync.sty

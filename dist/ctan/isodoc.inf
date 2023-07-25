@@ -1,0 +1,14 @@
+:isodoc:ctan:0.01024:109070284:1079:57D-81AF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+isodoc
+
+./tex/latex/isodoc:
+isontg.sty
+isowybo.sty

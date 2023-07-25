@@ -1,0 +1,16 @@
+:tabvar.doc:ctan:0.57344:109070284:530010:69F8-FCC0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tabvar
+
+./doc/latex/tabvar:
+demo.pdf
+demo.tex
+readme
+tabvar.pdf

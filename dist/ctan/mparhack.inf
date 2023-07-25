@@ -1,0 +1,13 @@
+:mparhack:ctan:0.02048:109070284:2407:C40B-B8D1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mparhack
+
+./tex/latex/mparhack:
+mparhack.sty

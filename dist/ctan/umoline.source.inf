@@ -1,0 +1,14 @@
+:umoline.source:ctan:0.0512:109070284:12830:FC80-45C9:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+umoline
+
+./source/latex/umoline:
+umoline.dtx
+umoline.ins

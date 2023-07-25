@@ -1,0 +1,14 @@
+:thumbpdf.doc:ctan:0.04096:109070284:14046:DF3D-9916:
+
+./:
+doc
+
+./doc:
+man
+
+./doc/man:
+man1
+
+./doc/man/man1:
+thumbpdf.1
+thumbpdf.pdf

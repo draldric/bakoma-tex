@@ -1,0 +1,14 @@
+:ethiop-t1.doc:ctan:0.03072:109070284:7248:65C2-3153:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ethiop-t1
+
+./doc/latex/ethiop-t1:
+copying
+readme

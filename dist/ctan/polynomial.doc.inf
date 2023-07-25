@@ -1,0 +1,14 @@
+:polynomial.doc:ctan:0.1536:109070284:133808:469D-7CE2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+polynomial
+
+./doc/latex/polynomial:
+polynomial.pdf
+readme

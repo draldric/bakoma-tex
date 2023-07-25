@@ -1,0 +1,13 @@
+:poemscol:ctan:0.09216:109070284:12593:3F0B-EAE1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+poemscol
+
+./tex/latex/poemscol:
+poemscol.sty

@@ -1,0 +1,13 @@
+:supertabular:ctan:0.02048:109070284:3325:5D47-E28:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+supertabular
+
+./tex/latex/supertabular:
+supertabular.sty

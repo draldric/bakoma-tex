@@ -1,0 +1,14 @@
+:hyperxmp.source:ctan:0.06144:109070284:14431:161F-3411:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+hyperxmp
+
+./source/latex/hyperxmp:
+hyperxmp.dtx
+hyperxmp.ins

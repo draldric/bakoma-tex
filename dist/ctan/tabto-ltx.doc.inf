@@ -1,0 +1,13 @@
+:tabto-ltx.doc:ctan:0.01024:109070284:909:83A-2063:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tabto-ltx
+
+./doc/latex/tabto-ltx:
+tabto.txt

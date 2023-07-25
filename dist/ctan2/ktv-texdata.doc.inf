@@ -1,0 +1,14 @@
+:ktv-texdata.doc:ctan2:0.220366:109073044:190077:6B60-29D5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ktv-texdata
+
+./doc/latex/ktv-texdata:
+ktv-texdata.pdf
+readme.txt

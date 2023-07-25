@@ -1,0 +1,15 @@
+:altfont.doc:ctan:0.24576:109070284:160419:8CC2-CDA2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+altfont
+
+./doc/latex/altfont:
+altfont.pdf
+psfont.pdf
+readme

@@ -1,0 +1,13 @@
+:chletter:ctan:0.02048:109070284:2587:58FD-5AFD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+chletter
+
+./tex/latex/chletter:
+chletter.cls

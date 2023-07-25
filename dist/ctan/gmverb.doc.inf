@@ -1,0 +1,14 @@
+:gmverb.doc:ctan:0.256:109070284:108428:FC8C-A0D6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gmverb
+
+./doc/latex/gmverb:
+gmverb.pdf
+readme

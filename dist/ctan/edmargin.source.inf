@@ -1,0 +1,14 @@
+:edmargin.source:ctan:0.07168:109070284:13830:E610-D303:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+edmargin
+
+./source/latex/edmargin:
+edmargin.dtx
+edmargin.ins

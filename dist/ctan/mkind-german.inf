@@ -1,0 +1,13 @@
+:mkind-german:ctan:0.01024:109070284:891:FDD4-14D8:
+
+./:
+makeindex
+
+./makeindex:
+mkind-german
+
+./makeindex/mkind-german:
+digit.ist
+special.ist
+umlaut.ist
+wb.ist

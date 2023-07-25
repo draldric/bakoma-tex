@@ -1,0 +1,14 @@
+:em.source:ctan:0.04096:109070284:4496:75BE-811A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+em
+
+./source/latex/em:
+em.fdd
+em.ins

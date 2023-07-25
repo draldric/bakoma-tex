@@ -1,0 +1,16 @@
+:pittetd:ctan:0.0512:109070284:8361:AB30-1158:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pittetd
+
+./tex/latex/pittetd:
+pitetd10.clo
+pitetd11.clo
+pitetd12.clo
+pittetd.cls

@@ -1,0 +1,15 @@
+:sudokubundle:ctan:0.06144:109070284:7668:CD47-8676:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sudokubundle
+
+./tex/latex/sudokubundle:
+createsudoku.sty
+printsudoku.sty
+solvesudoku.sty

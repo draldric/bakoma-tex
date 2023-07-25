@@ -1,0 +1,15 @@
+:leftidx.source:ctan:0.02048:109070284:2892:5C82-70EF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+leftidx
+
+./source/latex/leftidx:
+leftidx.dtx
+leftidx.ins
+makefile

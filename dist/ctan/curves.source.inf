@@ -1,0 +1,14 @@
+:curves.source:ctan:0.08192:109070284:21297:FD2C-2394:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+curves
+
+./source/latex/curves:
+curves.dtx
+curves.ins

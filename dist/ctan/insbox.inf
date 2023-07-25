@@ -1,0 +1,13 @@
+:insbox:ctan:0.01024:109070284:2502:A6D9-FA1A:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+insbox
+
+./tex/generic/insbox:
+insbox.tex

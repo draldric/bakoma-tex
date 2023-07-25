@@ -1,0 +1,14 @@
+:ascii.doc:ctan:0.512:109070284:370603:37A0-B2F5:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+ascii
+
+./doc/fonts/ascii:
+ascii2006.pdf
+asciisty1994.pdf

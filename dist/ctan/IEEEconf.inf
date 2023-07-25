@@ -1,0 +1,13 @@
+:IEEEconf:ctan:0.01024:109070284:2196:9005-F497:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ieeeconf
+
+./tex/latex/ieeeconf:
+ieeeconf.cls

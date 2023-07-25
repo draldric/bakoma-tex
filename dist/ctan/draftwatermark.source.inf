@@ -1,0 +1,14 @@
+:draftwatermark.source:ctan:0.02048:109070284:5385:5989-B89F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+draftwatermark
+
+./source/latex/draftwatermark:
+draftwatermark.dtx
+draftwatermark.ins

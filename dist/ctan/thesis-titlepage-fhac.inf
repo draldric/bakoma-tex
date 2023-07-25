@@ -1,0 +1,16 @@
+:thesis-titlepage-fhac:ctan:0.02048:109070284:2708:9C89-C841:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+thesis-titlepage-fhac
+
+./tex/latex/thesis-titlepage-fhac:
+fhactitlepage.cfg
+fhactitlepage.sty
+figbib_add.sty
+gloss_add.sty

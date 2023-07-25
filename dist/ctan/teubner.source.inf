@@ -1,0 +1,14 @@
+:teubner.source:ctan:0.13312:109070284:31036:DDAF-875:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+teubner
+
+./source/latex/teubner:
+teubner.dtx
+teubner.ins

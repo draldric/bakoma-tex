@@ -1,0 +1,16 @@
+:mff.doc:ctan:0.14336:109070284:39970:1D72-AFD2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mff
+
+./doc/latex/mff:
+mffdoc.dvi
+mffdoc.tex
+table.tex
+test.tex

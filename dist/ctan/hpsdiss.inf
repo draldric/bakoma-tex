@@ -1,0 +1,13 @@
+:hpsdiss:ctan:0.03072:109070284:5291:4428-59AA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hpsdiss
+
+./tex/latex/hpsdiss:
+hpsdiss.cls

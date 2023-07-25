@@ -1,0 +1,16 @@
+:flabels.source:ctan:0.0512:109070284:12347:F6A3-1B30:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+flabels
+
+./source/latex/flabels:
+flabels.dtx
+flabels.ins
+makedoc
+makedoc.bat

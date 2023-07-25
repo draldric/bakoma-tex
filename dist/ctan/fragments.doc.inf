@@ -1,0 +1,13 @@
+:fragments.doc:ctan:0.01024:109070284:224:FC6B-D6D4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fragments
+
+./doc/latex/fragments:
+readme

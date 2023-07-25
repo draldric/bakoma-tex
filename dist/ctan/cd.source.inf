@@ -1,0 +1,14 @@
+:cd.source:ctan:0.04096:109070284:8732:2D3A-3616:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cd
+
+./source/latex/cd:
+cd.dtx
+cd.ins

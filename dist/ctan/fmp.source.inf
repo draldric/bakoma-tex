@@ -1,0 +1,15 @@
+:fmp.source:ctan:0.04096:109070284:7916:B7F-2B06:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fmp
+
+./source/latex/fmp:
+fmp-doc.hs
+fmp.dtx
+fmp.ins

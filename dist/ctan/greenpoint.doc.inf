@@ -1,0 +1,14 @@
+:greenpoint.doc:ctan:0.01024:109070284:678:554F-4AF4:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+greenpoint
+
+./doc/fonts/greenpoint:
+changelog
+readme

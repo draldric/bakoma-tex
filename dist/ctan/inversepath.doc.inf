@@ -1,0 +1,14 @@
+:inversepath.doc:ctan:0.09216:109070284:73671:26AF-CE74:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+inversepath
+
+./doc/latex/inversepath:
+inversepath.pdf
+readme

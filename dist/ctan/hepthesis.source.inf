@@ -1,0 +1,13 @@
+:hepthesis.source:ctan:0.01024:109070284:398:306F-EBFA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+hepthesis
+
+./source/latex/hepthesis:
+makefile

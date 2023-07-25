@@ -1,0 +1,15 @@
+:harmony.doc:ctan:0.16384:109070284:138396:E417-5114:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+harmony
+
+./doc/latex/harmony:
+harmony.pdf
+harmony.tex
+readme

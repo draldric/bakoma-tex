@@ -1,0 +1,17 @@
+:gaceta.doc:ctan:0.24576:109070284:123810:9BD0-ADA5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gaceta
+
+./doc/latex/gaceta:
+plantilla-articulo-de-seccion.pdf
+plantilla-articulo-de-seccion.tex
+plantilla-articulo-suelto.pdf
+plantilla-articulo-suelto.tex
+readme

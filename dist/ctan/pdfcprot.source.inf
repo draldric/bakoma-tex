@@ -1,0 +1,15 @@
+:pdfcprot.source:ctan:0.11264:109070284:23152:A68F-22DF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pdfcprot
+
+./source/latex/pdfcprot:
+makefile.unx
+pdfcprot.dtx
+pdfcprot.ins

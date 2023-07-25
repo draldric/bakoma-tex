@@ -1,0 +1,13 @@
+:greek-inputenc.doc:ctan:0.01024:109070284:212:5CF9-60A6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+greek-inputenc
+
+./doc/latex/greek-inputenc:
+test.tex

@@ -1,0 +1,16 @@
+:c-pascal:ctan:0.02048:109070284:3249:9B37-F966:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+c-pascal
+
+./tex/generic/c-pascal:
+cap.tex
+cap_c.tex
+cap_comm.tex
+cap_pas.tex

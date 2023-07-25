@@ -1,0 +1,14 @@
+:achemso.source:ctan:0.1536:109070284:33133:A144-559E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+achemso
+
+./source/latex/achemso:
+achemso.dtx
+achemso.ins

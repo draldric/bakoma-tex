@@ -1,0 +1,14 @@
+:nature.doc:ctan:0.01024:109070284:2866:6FF6-E83E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+nature
+
+./doc/latex/nature:
+nature-template.tex
+readme

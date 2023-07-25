@@ -1,0 +1,14 @@
+:colorwav.source:ctan:0.03072:109070284:3932:344C-61EC:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+colorwav
+
+./source/latex/colorwav:
+colorwav.dtx
+colorwav.ins

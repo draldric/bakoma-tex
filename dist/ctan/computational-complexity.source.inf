@@ -1,0 +1,14 @@
+:computational-complexity.source:ctan:0.36864:109070284:77392:7E6E-18C8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+computational-complexity
+
+./source/latex/computational-complexity:
+cc.dtx
+cc.ins

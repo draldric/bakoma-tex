@@ -1,0 +1,14 @@
+:xskak.doc:ctan:0.01024:109070284:835:5463-2C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xskak
+
+./doc/latex/xskak:
+readme
+readme.texlive

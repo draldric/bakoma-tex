@@ -1,0 +1,13 @@
+:shapepar:ctan:0.0512:109070284:13683:B0BC-50AC:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+shapepar
+
+./tex/generic/shapepar:
+shapepar.sty

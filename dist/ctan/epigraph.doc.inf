@@ -1,0 +1,14 @@
+:epigraph.doc:ctan:0.2048:109070284:168491:599A-90BE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+epigraph
+
+./doc/latex/epigraph:
+epigraph.pdf
+readme

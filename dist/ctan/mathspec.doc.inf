@@ -1,0 +1,14 @@
+:mathspec.doc:ctan:0.18432:109070284:152028:477B-3C4F:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+mathspec
+
+./doc/xelatex/mathspec:
+mathspec.pdf
+readme

@@ -1,0 +1,13 @@
+:stdpage:ctan:0.01024:109070284:1613:195F-EE3F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+stdpage
+
+./tex/latex/stdpage:
+stdpage.sty

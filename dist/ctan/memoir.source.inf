@@ -1,0 +1,16 @@
+:memoir.source:ctan:1.10592:109070284:201717:85FF-B245:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+memoir
+
+./source/latex/memoir:
+memoir.dtx
+memoir.ins
+mempatch.dtx
+mempatch.ins

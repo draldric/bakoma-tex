@@ -1,0 +1,14 @@
+:mathdots:ctan:0.02048:109070284:1548:7462-7C28:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+mathdots
+
+./tex/generic/mathdots:
+mathdots.sty
+mathdots.tex

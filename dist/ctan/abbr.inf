@@ -1,0 +1,13 @@
+:abbr:ctan:0.01024:109070284:2181:FE5A-A407:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+abbr
+
+./tex/generic/abbr:
+abbr.tex

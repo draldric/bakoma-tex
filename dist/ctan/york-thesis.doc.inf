@@ -1,0 +1,16 @@
+:york-thesis.doc:ctan:0.23552:109070284:195299:E476-A9E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+york-thesis
+
+./doc/latex/york-thesis:
+readme
+york-thesis-template.tex
+york-thesis.el
+york-thesis.pdf

@@ -1,0 +1,14 @@
+:datenumber.source:ctan:0.03072:109070284:5406:5A8C-E75:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+datenumber
+
+./source/latex/datenumber:
+datenumber.dtx
+datenumber.ins

@@ -1,0 +1,13 @@
+:tikz-timing:ctan:0.04096:109070284:6599:19EB-12C3:svn-prov
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tikz-timing
+
+./tex/latex/tikz-timing:
+tikz-timing.sty

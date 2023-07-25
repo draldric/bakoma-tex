@@ -1,0 +1,16 @@
+:thesis-titlepage-fhac.source:ctan:0.03072:109070284:7710:D8AC-190B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+thesis-titlepage-fhac
+
+./source/latex/thesis-titlepage-fhac:
+doxygen_header.dtx.input
+fhactitlepage.dtx
+fhactitlepage.ins
+gloss_add.dtx.input

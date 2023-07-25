@@ -1,0 +1,17 @@
+:gfsbodoni.doc:ctan:0.1536:109070284:96993:98C8-9668:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+gfsbodoni
+
+./doc/fonts/gfsbodoni:
+gfsbodoni.pdf
+gfsbodoni.tex
+ofl-faq.txt
+ofl.txt
+readme

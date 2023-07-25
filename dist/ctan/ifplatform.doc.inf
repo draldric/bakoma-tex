@@ -1,0 +1,14 @@
+:ifplatform.doc:ctan:0.11264:109070284:90256:4E60-BE01:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ifplatform
+
+./doc/latex/ifplatform:
+ifplatform.pdf
+readme

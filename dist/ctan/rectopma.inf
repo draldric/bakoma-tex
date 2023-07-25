@@ -1,0 +1,13 @@
+:rectopma:ctan:0.01024:109070284:1233:51E4-BB12:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+rectopma
+
+./tex/latex/rectopma:
+rectopma.sty

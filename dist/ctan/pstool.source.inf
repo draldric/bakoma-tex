@@ -1,0 +1,14 @@
+:pstool.source:ctan:0.04096:109070284:9407:6451-DB31:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pstool
+
+./source/latex/pstool:
+pstool.ins
+pstool.tex

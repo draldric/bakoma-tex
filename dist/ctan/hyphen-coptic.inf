@@ -1,0 +1,13 @@
+:hyphen-coptic:ctan:0.01024:109080360:2219:D7D-8362:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+hyphen
+
+./tex/generic/hyphen:
+copthyph.tex

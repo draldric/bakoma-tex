@@ -1,0 +1,17 @@
+:ptptex.doc:ctan:0.256:109070284:192453:375F-93E8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ptptex
+
+./doc/latex/ptptex:
+manptp.pdf
+manptp.tex
+readme
+readme.texlive
+template.tex

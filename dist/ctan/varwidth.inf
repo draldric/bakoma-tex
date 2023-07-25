@@ -1,0 +1,13 @@
+:varwidth:ctan:0.02048:109070284:3773:C51C-C149:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+varwidth
+
+./tex/latex/varwidth:
+varwidth.sty

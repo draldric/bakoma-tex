@@ -1,0 +1,13 @@
+:quotchap:ctan:0.01024:109070284:2449:2AEF-49D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+quotchap
+
+./tex/latex/quotchap:
+quotchap.sty

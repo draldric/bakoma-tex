@@ -1,0 +1,13 @@
+:underbracket:ctan2:0.006824:109070768:1467:D644-DDA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+underbracket
+
+./tex/latex/underbracket:
+underbracket.sty

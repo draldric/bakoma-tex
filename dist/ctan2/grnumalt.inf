@@ -1,0 +1,13 @@
+:grnumalt:ctan2:0.003675:109070768:1302:C8E-E00A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+grnumalt
+
+./tex/latex/grnumalt:
+grnumalt.sty

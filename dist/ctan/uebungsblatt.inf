@@ -1,0 +1,14 @@
+:uebungsblatt:ctan:0.02048:109070284:3408:C286-4AD1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+uebungsblatt
+
+./tex/latex/uebungsblatt:
+uebungsblatt.cls
+uebungsblatt.sty

@@ -1,0 +1,14 @@
+:mentis.source:ctan:0.06144:109070284:16719:1D17-319D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mentis
+
+./source/latex/mentis:
+mentis.dtx
+mentis.ins

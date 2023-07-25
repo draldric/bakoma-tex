@@ -1,0 +1,14 @@
+:plweb.doc:ctan:0.0512:109070284:15095:4542-965F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+plweb
+
+./doc/latex/plweb:
+pl.dvi
+pl.tex

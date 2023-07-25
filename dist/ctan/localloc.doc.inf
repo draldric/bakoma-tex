@@ -1,0 +1,14 @@
+:localloc.doc:ctan:0.0512:109070284:14713:2DF6-8C10:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+localloc
+
+./doc/latex/localloc:
+localloc.dvi
+localtst.tex

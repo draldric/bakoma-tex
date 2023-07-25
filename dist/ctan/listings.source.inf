@@ -1,0 +1,17 @@
+:listings.source:ctan:0.94208:109070284:224637:7E32-D158:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+listings
+
+./source/latex/listings:
+listings.dtx
+listings.ins
+lstdrvrs.dtx
+lstdrvrs.ins
+makefile

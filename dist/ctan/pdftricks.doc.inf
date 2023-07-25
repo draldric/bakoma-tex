@@ -1,0 +1,17 @@
+:pdftricks.doc:ctan:0.44032:109070284:216468:7ED4-9F5F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pdftricks
+
+./doc/latex/pdftricks:
+makefile
+manual.pdf
+pst2pdf
+test.pdf
+test.tex

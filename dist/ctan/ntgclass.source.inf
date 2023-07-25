@@ -1,0 +1,17 @@
+:ntgclass.source:ctan:0.3072:109070284:54152:F9B9-E561:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ntgclass
+
+./source/latex/ntgclass:
+a4.dtx
+a4.ins
+brief.dtx
+ntgclass.dtx
+ntgclass.ins

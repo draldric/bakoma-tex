@@ -1,0 +1,13 @@
+:permute.doc:ctan:0.09216:109070284:69855:49AA-E83A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+permute
+
+./doc/latex/permute:
+permute.pdf

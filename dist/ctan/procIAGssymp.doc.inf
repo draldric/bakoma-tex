@@ -1,0 +1,13 @@
+:procIAGssymp.doc:ctan:0.01024:109070284:2923:5945-982F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+prociagssymp
+
+./doc/latex/prociagssymp:
+testpaper.tex

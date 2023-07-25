@@ -1,0 +1,14 @@
+:refman.source:ctan:0.14336:109070284:28386:FE3A-DDD7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+refman
+
+./source/latex/refman:
+refman.dtx
+refman.ins

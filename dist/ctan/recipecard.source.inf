@@ -1,0 +1,13 @@
+:recipecard.source:ctan:0.04096:109070284:9110:C067-131A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+recipecard
+
+./source/latex/recipecard:
+recipecard.dtx

@@ -1,0 +1,13 @@
+:pdfsync.doc:ctan:0.01024:109070284:1874:D8B-7617:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pdfsync
+
+./doc/latex/pdfsync:
+readme

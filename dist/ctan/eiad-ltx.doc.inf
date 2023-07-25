@@ -1,0 +1,13 @@
+:eiad-ltx.doc:ctan:0.01024:109070284:1717:9111-39EE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+eiad-ltx
+
+./doc/latex/eiad-ltx:
+readme

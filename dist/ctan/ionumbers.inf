@@ -1,0 +1,13 @@
+:ionumbers:ctan:0.03072:109070284:3993:8E9C-C742:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ionumbers
+
+./tex/latex/ionumbers:
+ionumbers.sty

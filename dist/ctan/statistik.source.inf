@@ -1,0 +1,16 @@
+:statistik.source:ctan:0.03072:109070284:4353:3745-8168:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+statistik
+
+./source/latex/statistik:
+statistik.dtx
+statistik.ins
+sta_cvs-info.csv
+sta_xml-info.xml

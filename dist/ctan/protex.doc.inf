@@ -1,0 +1,14 @@
+:protex.doc:ctan:0.02048:109070284:4767:A9A4-5876:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+protex
+
+./doc/latex/protex:
+litprog
+readme

@@ -1,0 +1,14 @@
+:tikz-timing.doc:ctan:0.73728:109070284:603331:3674-802D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tikz-timing
+
+./doc/latex/tikz-timing:
+readme
+tikz-timing.pdf

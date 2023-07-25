@@ -1,0 +1,15 @@
+:curve2e.doc:ctan:0.23552:109070284:192015:39D-7A43:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+curve2e
+
+./doc/latex/curve2e:
+curve2e.pdf
+manifest.txt
+readme

@@ -1,0 +1,16 @@
+:bbm.source:ctan:0.02048:109070284:3927:D3B3-6C9C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+bbm
+
+./source/latex/bbm:
+bbm.drv
+bbm.dtx
+bbm.ins
+readme.bbm

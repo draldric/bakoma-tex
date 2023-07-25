@@ -1,0 +1,13 @@
+:petiteannonce:ctan:0.02048:109070284:2785:B7E7-3D86:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+petiteannonce
+
+./tex/latex/petiteannonce:
+petiteannonce.cls

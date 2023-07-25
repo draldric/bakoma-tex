@@ -1,0 +1,13 @@
+:synttree:ctan:0.02048:109070284:3138:504B-A017:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+synttree
+
+./tex/latex/synttree:
+synttree.sty

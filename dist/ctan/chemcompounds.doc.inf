@@ -1,0 +1,14 @@
+:chemcompounds.doc:ctan:0.13312:109070284:111320:5E39-564:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+chemcompounds
+
+./doc/latex/chemcompounds:
+chemcompounds.pdf
+readme

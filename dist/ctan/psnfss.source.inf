@@ -1,0 +1,15 @@
+:psnfss.source:ctan:0.08192:109070284:16254:34C6-786E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+psnfss
+
+./source/latex/psnfss:
+psfonts.dtx
+psfonts.ins
+psnfss2e.tex

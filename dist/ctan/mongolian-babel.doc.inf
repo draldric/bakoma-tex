@@ -1,0 +1,14 @@
+:mongolian-babel.doc:ctan:0.11264:109070284:89152:6CB8-9B17:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mongolian-babel
+
+./doc/latex/mongolian-babel:
+mongolian.pdf
+readme

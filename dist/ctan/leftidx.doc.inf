@@ -1,0 +1,14 @@
+:leftidx.doc:ctan:0.08192:109070284:50622:4D38-60E8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+leftidx
+
+./doc/latex/leftidx:
+leftidx.pdf
+readme

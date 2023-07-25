@@ -1,0 +1,15 @@
+:captcont.source:ctan:0.0512:109070284:9515:48D7-D235:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+captcont
+
+./source/latex/captcont:
+captcont.dtx
+captcont.ins
+makefile

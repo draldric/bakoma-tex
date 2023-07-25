@@ -1,0 +1,16 @@
+:blacklettert1.doc:ctan:0.12288:109070284:88563:47DE-3B00:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+blacklettert1
+
+./doc/fonts/blacklettert1:
+blacklettert1.pdf
+copying
+install
+readme

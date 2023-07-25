@@ -1,0 +1,14 @@
+:eemeir.source:ctan:0.03072:109070284:6760:93E2-26B2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+eemeir
+
+./source/latex/eemeir:
+eemeir.dtx
+eemeir.ins

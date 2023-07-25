@@ -1,0 +1,13 @@
+:amsaddr:ctan:0.01024:109070284:1467:40A2-43C5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+amsaddr
+
+./tex/latex/amsaddr:
+amsaddr.sty

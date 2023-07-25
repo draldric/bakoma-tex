@@ -1,0 +1,14 @@
+:isorot.source:ctan:0.06144:109070284:13335:5B5C-EB7B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+isorot
+
+./source/latex/isorot:
+isorot.dtx
+isorot.ins

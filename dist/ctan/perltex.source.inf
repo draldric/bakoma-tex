@@ -1,0 +1,14 @@
+:perltex.source:ctan:0.12288:109070284:30073:6722-E420:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+perltex
+
+./source/latex/perltex:
+perltex.dtx
+perltex.ins

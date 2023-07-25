@@ -1,0 +1,15 @@
+:lcd.doc:ctan:0.08192:109070284:64007:C756-3F9E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lcd
+
+./doc/latex/lcd:
+00readme
+example.pdf
+example.tex

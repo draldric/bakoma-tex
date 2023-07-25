@@ -1,0 +1,13 @@
+:rcs:ctan:0.04096:109070284:11967:F59C-2B05:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+rcs
+
+./tex/latex/rcs:
+rcs.sty

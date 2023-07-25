@@ -1,0 +1,16 @@
+:ibycus-babel.doc:ctan:0.09216:109070284:53527:27F0-E25D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ibycus-babel
+
+./doc/latex/ibycus-babel:
+ibycus-babel-test.tex
+ibycus-babel.pdf
+ibyhyph.pl
+readme

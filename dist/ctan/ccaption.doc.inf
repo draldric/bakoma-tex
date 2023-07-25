@@ -1,0 +1,14 @@
+:ccaption.doc:ctan:0.39936:109070284:312648:93BF-103B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ccaption
+
+./doc/latex/ccaption:
+ccaption.pdf
+readme

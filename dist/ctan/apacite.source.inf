@@ -1,0 +1,15 @@
+:apacite.source:ctan:0.73728:109070284:138526:F98A-77F7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+apacite
+
+./source/latex/apacite:
+apacite.drv
+apacite.dtx
+apacite.ins

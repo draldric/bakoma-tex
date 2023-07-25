@@ -1,0 +1,15 @@
+:expdlist.doc:ctan:0.19456:109070284:140117:3B2B-B48F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+expdlist
+
+./doc/latex/expdlist:
+expdlisg.pdf
+expdlist.pdf
+readme.txt

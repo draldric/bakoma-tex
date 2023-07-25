@@ -1,0 +1,15 @@
+:hexgame.doc:ctan:0.04096:109070284:28755:52C1-B0B6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hexgame
+
+./doc/latex/hexgame:
+hexgame.pdf
+hexgame.tex
+readme

@@ -1,0 +1,16 @@
+:program.doc:ctan:0.06144:109070284:15604:8344-862:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+program
+
+./doc/latex/program:
+gpl-3.0.txt
+plink.tex
+program-demo.tex
+readme

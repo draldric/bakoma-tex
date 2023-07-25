@@ -1,0 +1,14 @@
+:notes2bib:ctan:0.04096:109070284:6514:A2A-138E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+notes2bib
+
+./tex/latex/notes2bib:
+notes2bib.sty
+xnotes2bib.sty

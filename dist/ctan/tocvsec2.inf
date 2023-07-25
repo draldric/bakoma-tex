@@ -1,0 +1,13 @@
+:tocvsec2:ctan:0.01024:109070284:1226:56E7-F8E6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tocvsec2
+
+./tex/latex/tocvsec2:
+tocvsec2.sty

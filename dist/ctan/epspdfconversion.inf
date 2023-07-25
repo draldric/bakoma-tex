@@ -1,0 +1,13 @@
+:epspdfconversion:ctan:0.01024:109070284:2099:2A59-168:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+epspdfconversion
+
+./tex/latex/epspdfconversion:
+epspdfconversion.sty

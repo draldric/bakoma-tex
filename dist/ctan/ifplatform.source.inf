@@ -1,0 +1,14 @@
+:ifplatform.source:ctan:0.02048:109070284:3537:681F-440:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ifplatform
+
+./source/latex/ifplatform:
+ifplatform.dtx
+ifplatform.ins

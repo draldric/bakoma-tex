@@ -1,0 +1,14 @@
+:psizzl.doc:ctan:0.02048:109070284:5196:F5D3-C778:
+
+./:
+doc
+
+./doc:
+psizzl
+
+./doc/psizzl:
+base
+
+./doc/psizzl/base:
+psizzl.commands
+psizzl.doc

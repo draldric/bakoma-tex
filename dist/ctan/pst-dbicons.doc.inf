@@ -1,0 +1,15 @@
+:pst-dbicons.doc:ctan:0.16384:109070284:131200:834E-9663:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-dbicons
+
+./doc/generic/pst-dbicons:
+changes
+pst-dbicons.pdf
+readme

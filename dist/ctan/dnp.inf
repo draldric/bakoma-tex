@@ -1,0 +1,13 @@
+:dnp:ctan:0.01024:109070284:572:317B-44A5:
+
+./:
+fonts
+
+./fonts:
+sfd
+
+./fonts/sfd:
+dnp
+
+./fonts/sfd/dnp:
+dnp.sfd

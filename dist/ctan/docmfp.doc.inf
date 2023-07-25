@@ -1,0 +1,14 @@
+:docmfp.doc:ctan:0.19456:109070284:152096:D56A-D1B7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+docmfp
+
+./doc/latex/docmfp:
+docmfp.pdf
+readme

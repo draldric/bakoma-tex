@@ -1,0 +1,13 @@
+:dozenal.source:ctan:0.01024:109070284:821:7749-1F7F:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+dozenal
+
+./source/fonts/dozenal:
+dozenal.dtx

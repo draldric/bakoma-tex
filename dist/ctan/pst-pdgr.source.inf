@@ -1,0 +1,15 @@
+:pst-pdgr.source:ctan:0.09216:109070284:16448:E20-36C0:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-pdgr
+
+./source/generic/pst-pdgr:
+makefile
+pst-pdgr.dtx
+pst-pdgr.ins

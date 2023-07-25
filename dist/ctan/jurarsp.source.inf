@@ -1,0 +1,14 @@
+:jurarsp.source:ctan:0.13312:109070284:25875:B06E-6181:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+jurarsp
+
+./source/latex/jurarsp:
+jurarsp.dtx
+jurarsp.ins

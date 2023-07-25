@@ -1,0 +1,14 @@
+:dashrule.doc:ctan:0.28672:109070284:234150:14BC-E491:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dashrule
+
+./doc/latex/dashrule:
+dashrule.pdf
+readme

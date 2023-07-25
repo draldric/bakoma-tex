@@ -1,0 +1,16 @@
+:facsimile.doc:ctan:0.0512:109070284:29390:C9C2-D3EA:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+facsimile
+
+./doc/latex/facsimile:
+example.dvi
+example.tex
+facsimile.pdf
+readme

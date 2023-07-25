@@ -1,0 +1,13 @@
+:euproposal:ctan:0.02048:109070284:4145:5087-6F27:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+euproposal
+
+./tex/latex/euproposal:
+euproposal.cls

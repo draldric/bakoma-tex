@@ -1,0 +1,15 @@
+:sf298.source:ctan:0.09216:109070284:20744:6E3E-76C1:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sf298
+
+./source/latex/sf298:
+makefile
+sf298.dtx
+sf298.ins

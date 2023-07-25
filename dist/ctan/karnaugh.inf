@@ -1,0 +1,13 @@
+:karnaugh:ctan:0.02048:109070284:3994:173F-B1FA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+karnaugh
+
+./tex/latex/karnaugh:
+kvmacros.tex

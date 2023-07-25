@@ -1,0 +1,14 @@
+:eukdate.doc:ctan:0.13312:109070284:109944:9DB-5A1F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+eukdate
+
+./doc/latex/eukdate:
+eukdate.pdf
+readme

@@ -1,0 +1,10 @@
+:piechartmp:ctan:0.03072:109070284:6736:915-3E94:
+
+./:
+metapost
+
+./metapost:
+piechartmp
+
+./metapost/piechartmp:
+piechartmp.mp

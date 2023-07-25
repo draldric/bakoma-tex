@@ -1,0 +1,16 @@
+:gu.doc:ctan:0.82944:109070284:723834:37CA-C144:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gu
+
+./doc/latex/gu:
+gudemo.tex
+gudoc.pdf
+gudoc.tex
+readme

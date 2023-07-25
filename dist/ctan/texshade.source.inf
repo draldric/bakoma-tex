@@ -1,0 +1,14 @@
+:texshade.source:ctan:0.89088:109070284:122349:7E3D-4DB6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+texshade
+
+./source/latex/texshade:
+texshade.dtx
+texshade.ins

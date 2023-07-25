@@ -1,0 +1,13 @@
+:bussproofs:ctan:0.04096:109070284:7863:4E86-65D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bussproofs
+
+./tex/latex/bussproofs:
+bussproofs.sty

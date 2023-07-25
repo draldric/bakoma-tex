@@ -1,0 +1,14 @@
+:rst.doc:ctan:0.18432:109070284:154241:F811-D34E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+rst
+
+./doc/latex/rst:
+readme
+rst-package.pdf

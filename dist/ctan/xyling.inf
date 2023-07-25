@@ -1,0 +1,13 @@
+:xyling:ctan:0.04096:109070284:10160:7D11-BB4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xyling
+
+./tex/latex/xyling:
+xyling.sty

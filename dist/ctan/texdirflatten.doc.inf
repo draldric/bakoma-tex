@@ -1,0 +1,14 @@
+:texdirflatten.doc:ctan:0.02048:109070284:5351:7535-810C:
+
+./:
+doc
+
+./doc:
+man
+
+./doc/man:
+man1
+
+./doc/man/man1:
+texdirflatten.1
+texdirflatten.pdf

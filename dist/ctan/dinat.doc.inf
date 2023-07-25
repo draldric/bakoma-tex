@@ -1,0 +1,14 @@
+:dinat.doc:ctan:0.04096:109070284:11200:312B-4E2:
+
+./:
+doc
+
+./doc:
+bibtex
+
+./doc/bibtex:
+dinat
+
+./doc/bibtex/dinat:
+dinat-index.html
+history.html

@@ -1,0 +1,13 @@
+:formula:ctan:0.02048:109070284:3877:8EE5-E8EE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+formula
+
+./tex/latex/formula:
+formula.sty

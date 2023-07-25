@@ -1,0 +1,15 @@
+:flashcards:ctan:0.03072:109070284:2991:F5C6-A0E8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+flashcards
+
+./tex/latex/flashcards:
+avery5371.cfg
+avery5388.cfg
+flashcards.cls

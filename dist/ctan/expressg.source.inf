@@ -1,0 +1,14 @@
+:expressg.source:ctan:0.22528:109070284:44655:F188-301F:
+
+./:
+source
+
+./source:
+metapost
+
+./source/metapost:
+expressg
+
+./source/metapost/expressg:
+expressg.dtx
+expressg.ins

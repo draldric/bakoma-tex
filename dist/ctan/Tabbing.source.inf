@@ -1,0 +1,14 @@
+:Tabbing.source:ctan:0.02048:109070284:3458:6D83-3F4B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tabbing
+
+./source/latex/tabbing:
+tabbing.dtx
+tabbing.ins

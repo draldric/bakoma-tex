@@ -1,0 +1,13 @@
+:makeglos:ctan:0.01024:109070284:361:CCDA-4143:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+makeglos
+
+./tex/latex/makeglos:
+makeglos.sty

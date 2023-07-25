@@ -1,0 +1,14 @@
+:genmpage.doc:ctan:0.09216:109070284:73774:9B0D-DFDC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+genmpage
+
+./doc/latex/genmpage:
+genmpage.pdf
+readme

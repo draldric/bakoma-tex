@@ -1,0 +1,13 @@
+:papertex:ctan:0.03072:109070284:5189:7C3E-A4E0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+papertex
+
+./tex/latex/papertex:
+papertex.cls

@@ -1,0 +1,16 @@
+:cbcoptic.doc:ctan:0.22528:109070284:189317:3132-E59E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cbcoptic
+
+./doc/latex/cbcoptic:
+coptfont.pdf
+readme
+testcop.tex
+testcopok.pdf

@@ -1,0 +1,14 @@
+:titling.doc:ctan:0.21504:109070284:177987:D98D-B1D1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+titling
+
+./doc/latex/titling:
+readme
+titling.pdf

@@ -1,0 +1,15 @@
+:bibtopicprefix.source:ctan:0.03072:109070284:4318:D279-14AE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+bibtopicprefix
+
+./source/latex/bibtopicprefix:
+bibtopicprefix.drv
+bibtopicprefix.dtx
+bibtopicprefix.ins

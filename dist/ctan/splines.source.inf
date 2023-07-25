@@ -1,0 +1,14 @@
+:splines.source:ctan:0.02048:109070284:5840:11F3-8623:
+
+./:
+source
+
+./source:
+metapost
+
+./source/metapost:
+splines
+
+./source/metapost/splines:
+splines.dtx
+splines.ins

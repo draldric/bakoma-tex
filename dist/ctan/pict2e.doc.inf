@@ -1,0 +1,17 @@
+:pict2e.doc:ctan:0.38912:109070284:318825:30C8-A1AE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pict2e
+
+./doc/latex/pict2e:
+manifest.txt
+p2e-drivers.pdf
+pict2e-d.txt
+pict2e.pdf
+readme

@@ -1,0 +1,13 @@
+:pst-fractal.source:ctan:0.01024:109070284:567:5DF6-BC75:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-fractal
+
+./source/generic/pst-fractal:
+makefile

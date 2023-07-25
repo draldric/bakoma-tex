@@ -1,0 +1,14 @@
+:picinpar.doc:ctan:0.03072:109070284:8967:F690-5BBE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+picinpar
+
+./doc/latex/picinpar:
+picinpar.dvi
+picinpar.tex

@@ -1,0 +1,15 @@
+:sudoku.doc:ctan:0.08192:109070284:54593:4FB2-E2B6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sudoku
+
+./doc/latex/sudoku:
+changes
+readme
+sudoku.pdf

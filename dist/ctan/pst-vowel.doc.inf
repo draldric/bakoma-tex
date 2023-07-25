@@ -1,0 +1,15 @@
+:pst-vowel.doc:ctan:0.11264:109070284:81101:B1C8-A568:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pst-vowel
+
+./doc/latex/pst-vowel:
+pst-vowel.pdf
+pst-vowel.tex
+readme

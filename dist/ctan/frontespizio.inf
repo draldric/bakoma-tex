@@ -1,0 +1,13 @@
+:frontespizio:ctan:0.02048:109070284:3883:7143-8D83:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+frontespizio
+
+./tex/latex/frontespizio:
+frontespizio.sty

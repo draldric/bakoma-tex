@@ -1,0 +1,14 @@
+:stdpage.source:ctan:0.03072:109070284:7119:6A07-E450:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+stdpage
+
+./source/latex/stdpage:
+stdpage.dtx
+stdpage.ins

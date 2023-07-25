@@ -1,0 +1,13 @@
+:bibtopicprefix:ctan:0.01024:109070284:1438:D0F2-369B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bibtopicprefix
+
+./tex/latex/bibtopicprefix:
+bibtopicprefix.sty

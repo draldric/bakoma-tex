@@ -1,0 +1,15 @@
+:nostarch.source:ctan:0.08192:109070284:18380:5643-FD3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+nostarch
+
+./source/latex/nostarch:
+makefile
+nostarch.dtx
+nostarch.ins

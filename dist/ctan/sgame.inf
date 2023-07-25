@@ -1,0 +1,14 @@
+:sgame:ctan:0.04096:109070284:4007:FA06-F96C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sgame
+
+./tex/latex/sgame:
+sgame.sty
+sgamevar.sty

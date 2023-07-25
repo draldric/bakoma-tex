@@ -1,0 +1,15 @@
+:xnewcommand.doc:ctan:0.28672:109070284:266168:DEE4-3837:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xnewcommand
+
+./doc/latex/xnewcommand:
+readme
+xnewcommand.pdf
+xnewcommand.tex

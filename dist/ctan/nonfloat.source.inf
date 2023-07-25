@@ -1,0 +1,15 @@
+:nonfloat.source:ctan:0.03072:109070284:5299:50A2-91BE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+nonfloat
+
+./source/latex/nonfloat:
+nonfloat.drv
+nonfloat.dtx
+nonfloat.ins

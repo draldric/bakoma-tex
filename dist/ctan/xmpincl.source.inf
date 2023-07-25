@@ -1,0 +1,14 @@
+:xmpincl.source:ctan:0.03072:109070284:6301:39E-EEE1:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xmpincl
+
+./source/latex/xmpincl:
+xmpincl.dtx
+xmpincl.ins

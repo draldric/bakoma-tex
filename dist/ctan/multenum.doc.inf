@@ -1,0 +1,14 @@
+:multenum.doc:ctan:0.03072:109070284:3967:6AF6-A997:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+multenum
+
+./doc/latex/multenum:
+multienum.article
+multienum.sample

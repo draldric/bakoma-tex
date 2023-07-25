@@ -1,0 +1,16 @@
+:leaflet.doc:ctan:0.27648:109070284:231889:3EDF-4CD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+leaflet
+
+./doc/latex/leaflet:
+leaflet-manual.pdf
+leaflet-manual.tex
+leaflet.pdf
+readme

@@ -1,0 +1,14 @@
+:gmdoc-enhance.source:ctan:0.04096:109070284:10042:A051-2F3A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+gmdoc-enhance
+
+./source/latex/gmdoc-enhance:
+gmdoc-enhance.dtx
+gmdoc-enhance.ins

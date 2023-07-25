@@ -1,0 +1,14 @@
+:esdiff.doc:ctan:0.1024:109070284:82282:99D8-6B28:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+esdiff
+
+./doc/latex/esdiff:
+esdiff.pdf
+readme

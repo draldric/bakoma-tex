@@ -1,0 +1,14 @@
+:mhchem.doc:ctan:0.52224:109070284:427995:8999-8BD3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mhchem
+
+./doc/latex/mhchem:
+legal.txt
+mhchem.pdf

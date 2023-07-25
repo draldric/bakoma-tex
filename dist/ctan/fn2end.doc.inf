@@ -1,0 +1,14 @@
+:fn2end.doc:ctan:0.04096:109070284:22758:8283-55EA:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fn2end
+
+./doc/latex/fn2end:
+fn2end.pdf
+fn2end.tex

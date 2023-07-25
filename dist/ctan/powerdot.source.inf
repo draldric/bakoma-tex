@@ -1,0 +1,13 @@
+:powerdot.source:ctan:0.31744:109070284:64831:3E3-D621:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+powerdot
+
+./source/latex/powerdot:
+powerdot.dtx

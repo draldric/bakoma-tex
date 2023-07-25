@@ -1,0 +1,16 @@
+:epsdice:ctan:0.02048:109070284:4842:F655-6EEE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+epsdice
+
+./tex/latex/epsdice:
+dice.eps
+dice.pdf
+epsdice.cfg
+epsdice.sty

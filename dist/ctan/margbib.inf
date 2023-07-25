@@ -1,0 +1,13 @@
+:margbib:ctan:0.01024:109070284:1160:58DA-19CA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+margbib
+
+./tex/latex/margbib:
+margbib.sty

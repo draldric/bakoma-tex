@@ -1,0 +1,14 @@
+:silence.source:ctan:0.07168:109070284:17295:3F75-3009:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+silence
+
+./source/latex/silence:
+silence-doc.dtx
+silence.ins

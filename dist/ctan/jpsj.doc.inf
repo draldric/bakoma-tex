@@ -1,0 +1,16 @@
+:jpsj.doc:ctan:0.256:109070284:150075:FB8D-2FD3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+jpsj
+
+./doc/latex/jpsj:
+dummy.eps
+injpsj2.pdf
+injpsj2.tex
+template.tex

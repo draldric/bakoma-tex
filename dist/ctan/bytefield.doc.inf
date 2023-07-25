@@ -1,0 +1,16 @@
+:bytefield.doc:ctan:0.43008:109070284:329417:7627-ACF6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bytefield
+
+./doc/latex/bytefield:
+bytefield.pdf
+example.pdf
+example.tex
+readme

@@ -1,0 +1,17 @@
+:circ.doc:ctan:0.1024:109070284:25506:1B76-8614:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+circ
+
+./doc/latex/circ:
+cidoc.tex
+circ.dvi
+circ.txt
+cisyms.tex
+readme

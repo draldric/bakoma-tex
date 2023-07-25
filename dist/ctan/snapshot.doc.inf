@@ -1,0 +1,13 @@
+:snapshot.doc:ctan:0.12288:109070284:103968:39E9-3E11:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+snapshot
+
+./doc/latex/snapshot:
+snapshot.pdf

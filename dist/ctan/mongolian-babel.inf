@@ -1,0 +1,15 @@
+:mongolian-babel:ctan:0.03072:109070284:4887:CCCF-DEAA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mongolian-babel
+
+./tex/latex/mongolian-babel:
+mn.def
+mongolian.ldf
+mongolian.sty

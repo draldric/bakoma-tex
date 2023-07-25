@@ -1,0 +1,13 @@
+:wrapfig.doc:ctan:0.01024:109070284:1236:D8BF-79C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+wrapfig
+
+./doc/latex/wrapfig:
+multiple-span.txt

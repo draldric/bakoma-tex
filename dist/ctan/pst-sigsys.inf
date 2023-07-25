@@ -1,0 +1,13 @@
+:pst-sigsys:ctan:0.02048:109070284:2917:AD1E-206C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-sigsys
+
+./tex/latex/pst-sigsys:
+pst-sigsys.sty

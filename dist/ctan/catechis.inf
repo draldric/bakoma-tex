@@ -1,0 +1,13 @@
+:catechis:ctan:0.04096:109070284:9216:9D53-7750:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+catechis
+
+./tex/latex/catechis:
+catechis.sty

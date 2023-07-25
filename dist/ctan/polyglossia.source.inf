@@ -1,0 +1,13 @@
+:polyglossia.source:ctan:0.27648:109070284:53394:87A6-1DCB:
+
+./:
+source
+
+./source:
+xelatex
+
+./source/xelatex:
+polyglossia
+
+./source/xelatex/polyglossia:
+polyglossia.dtx

@@ -1,0 +1,14 @@
+:snapshot.source:ctan:0.04096:109070284:9179:5610-16C6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+snapshot
+
+./source/latex/snapshot:
+snapshot.dtx
+snapshot.ins

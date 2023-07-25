@@ -1,0 +1,15 @@
+:euler.source:ctan:0.04096:109070284:9813:409D-886B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+euler
+
+./source/latex/euler:
+euler.dtx
+euler.ins
+legal.txt

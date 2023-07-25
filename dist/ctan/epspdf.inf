@@ -1,0 +1,16 @@
+:epspdf:ctan:0.11264:109070284:26693:B8FE-1188:epspdf.ARCH
+
+./:
+scripts
+
+./scripts:
+epspdf
+
+./scripts/epspdf:
+epspdf
+epspdf.help
+epspdf.rb
+epspdfrc.rb
+epspdftk
+epspdftk.rb
+makegray.pro

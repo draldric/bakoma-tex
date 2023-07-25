@@ -1,0 +1,15 @@
+:ecc.doc:ctan:0.02048:109070284:2645:79F6-72FD:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+ecc
+
+./doc/fonts/ecc:
+copyrite
+liesmich
+readme

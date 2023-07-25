@@ -1,0 +1,14 @@
+:docmfp.source:ctan:0.04096:109070284:7656:197E-9456:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+docmfp
+
+./source/latex/docmfp:
+docmfp.dtx
+docmfp.ins

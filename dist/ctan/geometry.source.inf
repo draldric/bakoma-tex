@@ -1,0 +1,15 @@
+:geometry.source:ctan:0.14336:109070284:29531:C4C8-3A0A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+geometry
+
+./source/latex/geometry:
+geometry.drv
+geometry.dtx
+geometry.ins

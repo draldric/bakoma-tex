@@ -1,0 +1,14 @@
+:gmverse.doc:ctan:0.22528:109070284:96265:3D50-9288:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gmverse
+
+./doc/latex/gmverse:
+gmverse.pdf
+readme

@@ -1,0 +1,13 @@
+:liturg.source:ctan:0.01024:109070284:673:52D6-5AD6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+liturg
+
+./source/latex/liturg:
+liturg.ins

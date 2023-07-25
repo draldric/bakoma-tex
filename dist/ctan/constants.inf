@@ -1,0 +1,13 @@
+:constants:ctan:0.01024:109070284:1799:8CEC-9443:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+constants
+
+./tex/latex/constants:
+constants.sty

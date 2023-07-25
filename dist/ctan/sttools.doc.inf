@@ -1,0 +1,14 @@
+:sttools.doc:ctan:0.29696:109070284:208618:4697-A7FB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sttools
+
+./doc/latex/sttools:
+index.html
+presfull.pdf

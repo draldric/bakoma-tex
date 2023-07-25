@@ -1,0 +1,14 @@
+:footmisc.source:ctan:0.09216:109070284:19697:46CD-F0AE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+footmisc
+
+./source/latex/footmisc:
+footmisc.dtx
+footmisc.ins

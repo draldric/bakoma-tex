@@ -1,0 +1,17 @@
+:fixme.doc:ctan:0.1536:109070284:111366:237A-7A64:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fixme
+
+./doc/latex/fixme:
+fixme.el
+fixme.pdf
+news
+readme
+thanks

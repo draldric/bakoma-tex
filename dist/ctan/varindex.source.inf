@@ -1,0 +1,14 @@
+:varindex.source:ctan:0.21504:109070284:39994:62D9-1FBE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+varindex
+
+./source/latex/varindex:
+varindex.dtx
+varindex.ins

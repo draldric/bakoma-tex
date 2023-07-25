@@ -1,0 +1,13 @@
+:frletter:ctan:0.01024:109070284:1389:C86B-36A2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+frletter
+
+./tex/latex/frletter:
+frletter.cls

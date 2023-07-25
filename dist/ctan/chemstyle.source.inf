@@ -1,0 +1,16 @@
+:chemstyle.source:ctan:0.14336:109070284:33821:4B01-ABDE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+chemstyle
+
+./source/latex/chemstyle:
+chemscheme.dtx
+chemscheme.ins
+chemstyle.dtx
+chemstyle.ins

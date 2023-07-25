@@ -1,0 +1,14 @@
+:srcltx.doc:ctan:0.14336:109070284:109499:CBE7-F70E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+srcltx
+
+./doc/latex/srcltx:
+readme
+srcltx.pdf

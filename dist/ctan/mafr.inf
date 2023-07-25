@@ -1,0 +1,15 @@
+:mafr:ctan:0.01024:109070284:1697:6CD2-F9BD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mafr
+
+./tex/latex/mafr:
+cours.cls
+fiche.cls
+mafr.sty

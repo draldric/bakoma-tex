@@ -1,0 +1,14 @@
+:fmp.doc:ctan:0.16384:109070284:130001:511E-EB97:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fmp
+
+./doc/latex/fmp:
+fmp.pdf
+readme

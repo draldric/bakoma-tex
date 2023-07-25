@@ -1,0 +1,14 @@
+:chessboard.source:ctan:0.19456:109070284:20338:C89E-A3E9:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+chessboard
+
+./source/latex/chessboard:
+chessboard-src.dtx
+chessboard.ins

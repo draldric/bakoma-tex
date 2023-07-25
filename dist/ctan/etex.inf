@@ -1,0 +1,14 @@
+:etex:ctan:0.04096:109070284:9984:11F5-A012:
+
+./:
+tex
+
+./tex:
+plain
+
+./tex/plain:
+etex
+
+./tex/plain/etex:
+etex.src
+etexdefs.lib

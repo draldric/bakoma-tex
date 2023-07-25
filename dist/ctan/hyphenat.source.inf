@@ -1,0 +1,14 @@
+:hyphenat.source:ctan:0.0512:109070284:10182:A3FC-5D79:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+hyphenat
+
+./source/latex/hyphenat:
+hyphenat.dtx
+hyphenat.ins

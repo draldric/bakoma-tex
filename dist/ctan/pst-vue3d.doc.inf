@@ -1,0 +1,17 @@
+:pst-vue3d.doc:ctan:4.64896:109070284:4438990:3D50-C84B:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-vue3d
+
+./doc/generic/pst-vue3d:
+changes
+pst-vue3d-doc.bib
+pst-vue3d-doc.pdf
+pst-vue3d-doc.tex
+readme

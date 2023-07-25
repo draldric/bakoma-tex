@@ -1,0 +1,14 @@
+:unroman.source:ctan:0.03072:109070284:5355:2FE4-C24F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+unroman
+
+./source/latex/unroman:
+unroman.dtx
+unroman.ins

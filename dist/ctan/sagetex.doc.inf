@@ -1,0 +1,17 @@
+:sagetex.doc:ctan:0.52224:109070284:416581:9753-6C6F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sagetex
+
+./doc/latex/sagetex:
+example.pdf
+example.tex
+readme
+sagetex.py
+sagetexpackage.pdf

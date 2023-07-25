@@ -1,0 +1,15 @@
+:feyn.source:ctan:0.0512:109070284:12299:6F9E-11C3:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+feyn
+
+./source/fonts/feyn:
+feyn.drv
+feyn.dtx
+feyn.ins

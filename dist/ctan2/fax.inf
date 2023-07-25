@@ -1,0 +1,14 @@
+:fax:ctan2:0.0054:109070768:1761:BF5C-E305:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fax
+
+./tex/latex/fax:
+fax.cls
+sig.sty

@@ -1,0 +1,15 @@
+:csvtools:ctan:0.04096:109070284:4829:E0B5-9C4E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+csvtools
+
+./tex/latex/csvtools:
+csvpie.sty
+csvsort.sty
+csvtools.sty

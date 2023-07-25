@@ -1,0 +1,14 @@
+:jkthesis.doc:ctan2:0.187697:109073044:146072:FBEA-BD09:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+jkthesis
+
+./doc/latex/jkthesis:
+jkthesis.pdf
+readme.jkthesis

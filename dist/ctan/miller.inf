@@ -1,0 +1,13 @@
+:miller:ctan:0.01024:109070284:1058:785D-F31D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+miller
+
+./tex/latex/miller:
+miller.sty

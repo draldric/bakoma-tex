@@ -1,0 +1,16 @@
+:mkjobtexmf.source:ctan:0.09216:109070284:19386:EC5C-E20F:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+mkjobtexmf
+
+./source/generic/mkjobtexmf:
+configure
+configure.ac
+install-sh
+makefile.in

@@ -1,0 +1,13 @@
+:numname:ctan:0.02048:109070284:2510:55E2-3FE5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+numname
+
+./tex/latex/numname:
+numname.sty

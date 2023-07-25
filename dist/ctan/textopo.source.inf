@@ -1,0 +1,14 @@
+:textopo.source:ctan:0.50176:109070284:81286:AEFD-DE08:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+textopo
+
+./source/latex/textopo:
+textopo.dtx
+textopo.ins

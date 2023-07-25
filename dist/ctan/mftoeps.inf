@@ -1,0 +1,10 @@
+:mftoeps:ctan:0.03072:109070284:7804:AB79-450B:
+
+./:
+metafont
+
+./metafont:
+mftoeps
+
+./metafont/mftoeps:
+mftoeps.mf

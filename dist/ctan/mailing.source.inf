@@ -1,0 +1,14 @@
+:mailing.source:ctan:0.02048:109070284:3263:5B2C-30EA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mailing
+
+./source/latex/mailing:
+mailing.dtx
+mailing.ins

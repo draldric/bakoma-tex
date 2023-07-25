@@ -1,0 +1,15 @@
+:jadetex.source:ctan:0.09216:109070284:19022:8648-CB8A:
+
+./:
+source
+
+./source:
+jadetex
+
+./source/jadetex:
+base
+
+./source/jadetex/base:
+jadetex.dtx
+jadetex.ins
+makefile

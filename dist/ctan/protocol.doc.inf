@@ -1,0 +1,15 @@
+:protocol.doc:ctan:0.29696:109070284:267571:55BD-40D7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+protocol
+
+./doc/latex/protocol:
+protest.tex
+protocol.pdf
+readme

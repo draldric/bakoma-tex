@@ -1,0 +1,13 @@
+:metatex:ctan:0.01024:109070284:2839:C6EA-530B:
+
+./:
+tex
+
+./tex:
+plain
+
+./tex/plain:
+metatex
+
+./tex/plain/metatex:
+metatex.tex

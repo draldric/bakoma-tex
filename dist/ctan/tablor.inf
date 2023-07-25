@@ -1,0 +1,15 @@
+:tablor:ctan:0.19456:109070284:10990:5BB5-BF2E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tablor
+
+./tex/latex/tablor:
+tablor-xetex.sty
+tablor.cfg
+tablor.sty

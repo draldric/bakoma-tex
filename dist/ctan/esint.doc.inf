@@ -1,0 +1,14 @@
+:esint.doc:ctan:0.12288:109070284:102688:10F-6A1B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+esint
+
+./doc/latex/esint:
+esint.pdf
+readme

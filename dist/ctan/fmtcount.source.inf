@@ -1,0 +1,14 @@
+:fmtcount.source:ctan:0.22528:109070284:25489:3D9A-489C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fmtcount
+
+./source/latex/fmtcount:
+fmtcount.dtx
+fmtcount.ins

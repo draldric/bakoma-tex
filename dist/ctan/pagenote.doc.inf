@@ -1,0 +1,14 @@
+:pagenote.doc:ctan:0.17408:109070284:139422:DEE2-1DAF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pagenote
+
+./doc/latex/pagenote:
+pagenote.pdf
+readme

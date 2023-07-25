@@ -1,0 +1,14 @@
+:shorttoc.doc:ctan:0.21504:109070284:192174:A4CA-FBA1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+shorttoc
+
+./doc/latex/shorttoc:
+00readme
+shorttoc.pdf

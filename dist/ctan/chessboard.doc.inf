@@ -1,0 +1,14 @@
+:chessboard.doc:ctan:0.01024:109070284:1125:66F5-3878:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+chessboard
+
+./doc/latex/chessboard:
+readme
+readme.texlive

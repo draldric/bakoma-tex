@@ -1,0 +1,14 @@
+:boites:ctan:0.02048:109070284:3669:182F-A88D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+boites
+
+./tex/latex/boites:
+boites.sty
+boites_exemples.sty

@@ -1,0 +1,14 @@
+:extract.doc:ctan:0.21504:109070284:183050:DA78-BC8B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+extract
+
+./doc/latex/extract:
+extract.pdf
+readme

@@ -1,0 +1,14 @@
+:12many.doc:ctan:0.39936:109070284:375034:BA17-7326:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+12many
+
+./doc/latex/12many:
+12many.pdf
+readme

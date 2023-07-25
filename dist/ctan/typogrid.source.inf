@@ -1,0 +1,15 @@
+:typogrid.source:ctan:0.02048:109070284:3105:ECD3-8DA7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+typogrid
+
+./source/latex/typogrid:
+makefile
+typogrid.dtx
+typogrid.ins

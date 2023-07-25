@@ -1,0 +1,17 @@
+:xdoc.doc:ctan:1.09568:109070284:836151:CCF0-9715:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xdoc
+
+./doc/latex/xdoc:
+docindex.pdf
+readme
+xdoc2.pdf
+xdocdemo.pdf
+xdocdemo.tex

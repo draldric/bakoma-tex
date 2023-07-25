@@ -1,0 +1,14 @@
+:ecltree.doc:ctan:0.0512:109070284:32242:67D2-7EDF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ecltree
+
+./doc/latex/ecltree:
+ecltreesample.pdf
+ecltreesample.tex

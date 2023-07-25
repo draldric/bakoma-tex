@@ -1,0 +1,16 @@
+:expl3.doc:ctan:1.23904:109070284:1027444:12AA-C89C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+expl3
+
+./doc/latex/expl3:
+expl3.pdf
+l32eproc.pdf
+readme.txt
+source3.pdf

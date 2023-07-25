@@ -1,0 +1,16 @@
+:pbox.source:ctan:0.03072:109070284:5837:8956-A97F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pbox
+
+./source/latex/pbox:
+makefile
+pbox.drv
+pbox.dtx
+pbox.ins

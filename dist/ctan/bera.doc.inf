@@ -1,0 +1,16 @@
+:bera.doc:ctan:0.04096:109070284:18164:AE94-C0A4:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+bera
+
+./doc/fonts/bera:
+bera.pdf
+bera.txt
+license
+readme

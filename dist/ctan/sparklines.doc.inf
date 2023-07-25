@@ -1,0 +1,15 @@
+:sparklines.doc:ctan:0.07168:109070284:54935:28FA-5E80:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sparklines
+
+./doc/latex/sparklines:
+readme
+sparklines.pdf
+sparklines.tex

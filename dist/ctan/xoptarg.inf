@@ -1,0 +1,13 @@
+:xoptarg:ctan:0.01024:109070284:1465:5102-821A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xoptarg
+
+./tex/latex/xoptarg:
+xoptarg.sty

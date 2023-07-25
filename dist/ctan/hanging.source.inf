@@ -1,0 +1,14 @@
+:hanging.source:ctan:0.03072:109070284:7711:A61B-1695:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+hanging
+
+./source/latex/hanging:
+hanging.dtx
+hanging.ins

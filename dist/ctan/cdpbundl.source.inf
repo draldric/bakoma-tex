@@ -1,0 +1,14 @@
+:cdpbundl.source:ctan:0.24576:109070284:55757:8EFB-9B62:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cdpbundl
+
+./source/latex/cdpbundl:
+cdpbundl.dtx
+cdpbundl.ins

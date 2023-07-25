@@ -1,0 +1,14 @@
+:polynom.source:ctan:0.14336:109070284:29660:7AF1-C634:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+polynom
+
+./source/latex/polynom:
+polynom.dtx
+polynom.ins

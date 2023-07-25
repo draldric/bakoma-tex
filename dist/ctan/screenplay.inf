@@ -1,0 +1,14 @@
+:screenplay:ctan:0.02048:109070284:2329:5897-DB68:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+screenplay
+
+./tex/latex/screenplay:
+hardmarg.sty
+screenplay.cls

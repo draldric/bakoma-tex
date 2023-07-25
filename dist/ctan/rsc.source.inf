@@ -1,0 +1,14 @@
+:rsc.source:ctan:0.06144:109070284:14311:E7CF-F5FF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+rsc
+
+./source/latex/rsc:
+rsc.dtx
+rsc.ins

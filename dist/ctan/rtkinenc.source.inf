@@ -1,0 +1,14 @@
+:rtkinenc.source:ctan:0.03072:109070284:6374:E0D7-80D4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+rtkinenc
+
+./source/latex/rtkinenc:
+rtkinenc.dtx
+rtkinenc.ins

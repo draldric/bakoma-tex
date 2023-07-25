@@ -1,0 +1,15 @@
+:hyplain.doc:ctan:0.07168:109070284:48535:B59F-A74A:
+
+./:
+doc
+
+./doc:
+plain
+
+./doc/plain:
+hyplain
+
+./doc/plain/hyplain:
+hydoc.pdf
+hydoc.tex
+readme

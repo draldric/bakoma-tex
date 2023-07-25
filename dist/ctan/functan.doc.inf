@@ -1,0 +1,14 @@
+:functan.doc:ctan:0.18432:109070284:147427:229-1412:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+functan
+
+./doc/latex/functan:
+functan.pdf
+readme

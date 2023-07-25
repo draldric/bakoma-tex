@@ -1,0 +1,13 @@
+:jasthesis:ctan2:0.012711:109070768:2403:137A-52F0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+jasthesis
+
+./tex/latex/jasthesis:
+jasthesis.cls

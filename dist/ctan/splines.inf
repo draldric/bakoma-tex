@@ -1,0 +1,11 @@
+:splines:ctan:0.02048:109070284:1888:7FF4-4E71:
+
+./:
+metapost
+
+./metapost:
+splines
+
+./metapost/splines:
+splines.mp
+testsplines.mp

@@ -1,0 +1,14 @@
+:german:ctan:0.06144:109070284:6408:338D-CCBB:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+german
+
+./tex/generic/german:
+german.sty
+ngerman.sty

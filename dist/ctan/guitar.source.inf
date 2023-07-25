@@ -1,0 +1,14 @@
+:guitar.source:ctan:0.06144:109070284:11696:5543-C718:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+guitar
+
+./source/latex/guitar:
+guitar.dtx
+guitar.ins

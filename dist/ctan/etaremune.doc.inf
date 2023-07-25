@@ -1,0 +1,14 @@
+:etaremune.doc:ctan:0.09216:109070284:72708:D9C0-AD6F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+etaremune
+
+./doc/latex/etaremune:
+etaremune.pdf
+readme

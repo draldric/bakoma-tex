@@ -1,0 +1,13 @@
+:go.source:ctan:0.02048:109070284:3465:CC7E-991A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+go
+
+./source/latex/go:
+gomaps.ltx

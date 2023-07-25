@@ -1,0 +1,16 @@
+:unitsdef.doc:ctan:0.69632:109070284:634925:4007-CC6B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+unitsdef
+
+./doc/latex/unitsdef:
+defedpraef.tex
+defedunits.tex
+readme.1st
+unitsdef.pdf

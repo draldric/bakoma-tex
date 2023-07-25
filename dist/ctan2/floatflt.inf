@@ -1,0 +1,13 @@
+:floatflt:ctan2:0.011454:109070768:2391:3DAE-3E3C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+floatflt
+
+./tex/latex/floatflt:
+floatflt.sty

@@ -1,0 +1,17 @@
+:swebib:ctan:0.11264:109070284:6366:D127-3522:
+
+./:
+bibtex
+
+./bibtex:
+bst
+
+./bibtex/bst:
+swebib
+
+./bibtex/bst/swebib:
+sweabbrv.bst
+swealpha.bst
+sweplain.bst
+sweplnat.bst
+sweunsrt.bst

@@ -1,0 +1,14 @@
+:ebsthesis.source:ctan:0.03072:109070284:7000:921C-A862:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ebsthesis
+
+./source/latex/ebsthesis:
+ebsthesis.dtx
+ebsthesis.ins

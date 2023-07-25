@@ -1,0 +1,14 @@
+:footmisc.doc:ctan:0.22528:109070284:181911:15AF-33E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+footmisc
+
+./doc/latex/footmisc:
+footmisc.pdf
+readme

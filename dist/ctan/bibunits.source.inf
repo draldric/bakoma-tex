@@ -1,0 +1,14 @@
+:bibunits.source:ctan:0.08192:109070284:15870:7AFB-151C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+bibunits
+
+./source/latex/bibunits:
+bibunits.dtx
+bibunits.ins

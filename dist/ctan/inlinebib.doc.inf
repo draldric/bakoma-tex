@@ -1,0 +1,17 @@
+:inlinebib.doc:ctan:0.04096:109070284:19561:5BB7-8996:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+inlinebib
+
+./doc/latex/inlinebib:
+inlinebib.htm
+inlinebib.txt
+inlinebib1.gif
+inlinebib2.gif
+manifest

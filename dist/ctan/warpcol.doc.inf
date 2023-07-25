@@ -1,0 +1,14 @@
+:warpcol.doc:ctan:0.1024:109070284:85237:4758-2D4F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+warpcol
+
+./doc/latex/warpcol:
+readme
+warpcol.pdf

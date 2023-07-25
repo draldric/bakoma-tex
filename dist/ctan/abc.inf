@@ -1,0 +1,14 @@
+:abc:ctan:0.02048:109070284:2015:1012-26B7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+abc
+
+./tex/latex/abc:
+abc.sty
+mup.sty

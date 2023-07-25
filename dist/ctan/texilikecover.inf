@@ -1,0 +1,13 @@
+:texilikecover:ctan:0.01024:109070284:581:67F8-B3BA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+texilikecover
+
+./tex/latex/texilikecover:
+texilikecover.sty

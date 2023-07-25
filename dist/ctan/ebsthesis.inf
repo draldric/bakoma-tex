@@ -1,0 +1,13 @@
+:ebsthesis:ctan:0.03072:109070284:5651:7FD-E58E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ebsthesis
+
+./tex/latex/ebsthesis:
+ebsthesis.cls

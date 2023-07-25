@@ -1,0 +1,14 @@
+:eukdate.source:ctan:0.02048:109070284:3779:4334-AB40:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+eukdate
+
+./source/latex/eukdate:
+eukdate.dtx
+eukdate.ins

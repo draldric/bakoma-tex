@@ -1,0 +1,14 @@
+:nih:ctan:0.01024:109070284:2175:E24B-2D3A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nih
+
+./tex/latex/nih:
+denselists.sty
+nih.cls

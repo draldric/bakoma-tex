@@ -1,0 +1,13 @@
+:probsoln:ctan:0.02048:109070284:3987:180B-F936:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+probsoln
+
+./tex/latex/probsoln:
+probsoln.sty

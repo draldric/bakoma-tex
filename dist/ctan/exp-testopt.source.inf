@@ -1,0 +1,14 @@
+:exp-testopt.source:ctan:0.02048:109070284:5943:F885-F5E5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+exp-testopt
+
+./source/latex/exp-testopt:
+exp-testopt.dtx
+exp-testopt.ins

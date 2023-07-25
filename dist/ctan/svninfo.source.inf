@@ -1,0 +1,15 @@
+:svninfo.source:ctan:0.06144:109070284:12425:A151-2577:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+svninfo
+
+./source/latex/svninfo:
+makefile
+svninfo.dtx
+svninfo.ins

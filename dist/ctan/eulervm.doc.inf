@@ -1,0 +1,15 @@
+:eulervm.doc:ctan:0.13312:109070284:87709:A9B1-13BF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+eulervm
+
+./doc/latex/eulervm:
+eulervm.pdf
+manifest.txt
+readme.eulervm

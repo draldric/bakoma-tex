@@ -1,0 +1,17 @@
+:ionumbers.doc:ctan:0.3584:109070284:261760:F593-93C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ionumbers
+
+./doc/latex/ionumbers:
+copying
+ionumbers.pdf
+ionumbers_test.pdf
+ionumbers_test.tex
+readme

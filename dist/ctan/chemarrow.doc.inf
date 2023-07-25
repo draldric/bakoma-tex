@@ -1,0 +1,16 @@
+:chemarrow.doc:ctan:0.03072:109070284:5956:5CD-C410:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+chemarrow
+
+./doc/fonts/chemarrow:
+liesmich.txt
+readme.txt
+testchem.dvi
+testchem.tex

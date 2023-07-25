@@ -1,0 +1,17 @@
+:auto-pst-pdf.doc:ctan:0.2048:109070284:142192:9B28-B471:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+auto-pst-pdf
+
+./doc/latex/auto-pst-pdf:
+auto-pst-pdf.pdf
+example-psfrag.tex
+example.eps
+example.tex
+readme

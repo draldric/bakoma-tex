@@ -1,0 +1,14 @@
+:method.doc:ctan:0.01024:109070284:1538:DE78-A92A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+method
+
+./doc/latex/method:
+methtest.dvi
+methtest.tex

@@ -1,0 +1,16 @@
+:qcm.doc:ctan:0.13312:109070284:94611:C713-DD36:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+qcm
+
+./doc/latex/qcm:
+news
+qcm.el
+qcm.pdf
+readme

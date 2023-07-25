@@ -1,0 +1,16 @@
+:gcard.doc:ctan:0.1536:109070284:127752:1599-66B5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gcard
+
+./doc/latex/gcard:
+gcard.pdf
+gcardex.tex
+gcardminexample.tex
+readme

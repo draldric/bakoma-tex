@@ -1,0 +1,17 @@
+:dehyph-exptl:ctan:0.22528:109080360:57554:EE76-1DDE:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+dehyph-exptl
+
+./tex/generic/dehyph-exptl:
+dehyph-exptl.tex
+dehyphn-x-2008-06-18.pat
+dehyphn-x-2008-06-18.tex
+dehypht-x-2008-06-18.pat
+dehypht-x-2008-06-18.tex

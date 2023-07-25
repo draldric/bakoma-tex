@@ -1,0 +1,13 @@
+:epiolmec.doc:ctan:0.13312:109070284:122402:7E53-465D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+epiolmec
+
+./doc/latex/epiolmec:
+glyphaccesscommands.pdf

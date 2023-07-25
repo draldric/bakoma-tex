@@ -1,0 +1,14 @@
+:alnumsec.doc:ctan:0.1536:109070284:121390:822F-7DC7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+alnumsec
+
+./doc/latex/alnumsec:
+alnumsec.pdf
+readme

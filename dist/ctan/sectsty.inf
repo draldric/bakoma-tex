@@ -1,0 +1,13 @@
+:sectsty:ctan:0.03072:109070284:4426:EC3C-7AD6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sectsty
+
+./tex/latex/sectsty:
+sectsty.sty

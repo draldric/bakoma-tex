@@ -1,0 +1,13 @@
+:ccfonts.doc:ctan:0.01024:109070284:1858:7359-7CE9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ccfonts
+
+./doc/latex/ccfonts:
+readme

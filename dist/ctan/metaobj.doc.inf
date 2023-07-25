@@ -1,0 +1,15 @@
+:metaobj.doc:ctan:1.01376:109070284:583030:3633-DA49:
+
+./:
+doc
+
+./doc:
+metapost
+
+./doc/metapost:
+metaobj
+
+./doc/metapost/metaobj:
+license.txt
+momanual.pdf
+readme

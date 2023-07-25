@@ -1,0 +1,14 @@
+:dramatist.source:ctan:0.13312:109070284:34241:5627-3C22:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dramatist
+
+./source/latex/dramatist:
+dramatist.dtx
+dramatist.ins

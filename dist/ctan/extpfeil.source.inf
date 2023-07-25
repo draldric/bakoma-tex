@@ -1,0 +1,14 @@
+:extpfeil.source:ctan:0.02048:109070284:5867:C9B0-77B2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+extpfeil
+
+./source/latex/extpfeil:
+extpfeil.dtx
+extpfeil.ins

@@ -1,0 +1,16 @@
+:codepage.source:ctan:0.1536:109070284:23771:3EA7-1B79:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+codepage
+
+./source/latex/codepage:
+codepage.drv
+codepage.dtx
+codepage.ins
+frintro.drv

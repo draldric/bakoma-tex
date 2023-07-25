@@ -1,0 +1,13 @@
+:magyar.doc:ctan:0.24576:109070284:50822:88A1-8C75:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+magyar
+
+./doc/latex/magyar:
+magyar.ldf

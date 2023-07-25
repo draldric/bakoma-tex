@@ -1,0 +1,13 @@
+:multibbl.doc:ctan:0.12288:109070284:76973:480D-F271:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+multibbl
+
+./doc/latex/multibbl:
+multibbl.pdf

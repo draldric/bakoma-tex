@@ -1,0 +1,14 @@
+:hyphenat.doc:ctan:0.19456:109070284:159156:551-112B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hyphenat
+
+./doc/latex/hyphenat:
+hyphenat.pdf
+readme

@@ -1,0 +1,13 @@
+:eqnarray:ctan2:0.004318:109070768:1535:E421-1E08:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+eqnarray
+
+./tex/latex/eqnarray:
+eqnarray.sty

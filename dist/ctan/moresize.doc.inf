@@ -1,0 +1,14 @@
+:moresize.doc:ctan:0.02048:109070284:4929:29C0-3898:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+moresize
+
+./doc/latex/moresize:
+msizetst.dvi
+msizetst.tex

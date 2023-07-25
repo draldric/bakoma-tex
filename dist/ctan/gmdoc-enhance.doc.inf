@@ -1,0 +1,14 @@
+:gmdoc-enhance.doc:ctan:0.24576:109070284:122547:A830-3C35:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gmdoc-enhance
+
+./doc/latex/gmdoc-enhance:
+gmdoc-enhance.pdf
+readme

@@ -1,0 +1,13 @@
+:mflogo.doc:ctan:0.02048:109070284:6912:1727-7196:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mflogo
+
+./doc/latex/mflogo:
+mflogo.dvi

@@ -1,0 +1,16 @@
+:notes2bib.source:ctan:0.12288:109070284:26650:C58C-9711:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+notes2bib
+
+./source/latex/notes2bib:
+notes2bib.dtx
+notes2bib.ins
+xnotes2bib.dtx
+xnotes2bib.ins

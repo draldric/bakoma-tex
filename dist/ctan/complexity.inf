@@ -1,0 +1,14 @@
+:complexity:ctan:0.03072:109070284:4988:24F6-9ADE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+complexity
+
+./tex/latex/complexity:
+complexity.sty
+mycomplexity.sty

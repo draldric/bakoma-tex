@@ -1,0 +1,17 @@
+:concmath.source:ctan:0.0512:109070284:10559:65A8-F88D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+concmath
+
+./source/latex/concmath:
+catalogue
+concmath.dtx
+concmath.ins
+makefile
+readme

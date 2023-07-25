@@ -1,0 +1,16 @@
+:paper:ctan:0.0512:109070284:7620:1324-CC5C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+paper
+
+./tex/latex/paper:
+journal.cls
+journal.sty
+paper.cls
+paper.sty

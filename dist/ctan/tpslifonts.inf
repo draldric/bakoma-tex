@@ -1,0 +1,13 @@
+:tpslifonts:ctan:0.0512:109070284:8131:25A2-DDA1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tpslifonts
+
+./tex/latex/tpslifonts:
+tpslifonts.sty

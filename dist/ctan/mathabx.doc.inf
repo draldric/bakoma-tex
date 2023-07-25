@@ -1,0 +1,16 @@
+:mathabx.doc:ctan:0.79872:109070284:496408:E8B8-5872:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+mathabx
+
+./doc/fonts/mathabx:
+mathtest.pdf
+mathtest.tex
+readme
+testmac.tex

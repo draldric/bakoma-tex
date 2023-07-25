@@ -1,0 +1,15 @@
+:SIunits:ctan:0.04096:109070284:5561:3C25-F79B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+siunits
+
+./tex/latex/siunits:
+binary.sty
+siunits.cfg
+siunits.sty

@@ -1,0 +1,13 @@
+:tkz-tab:ctan:0.0512:109070284:5099:6495-D549:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tkz-tab
+
+./tex/latex/tkz-tab:
+tkz-tab.sty

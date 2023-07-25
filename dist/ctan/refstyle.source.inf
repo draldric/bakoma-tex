@@ -1,0 +1,13 @@
+:refstyle.source:ctan:0.03072:109070284:24758:2B48-4D65:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+refstyle
+
+./source/latex/refstyle:
+refstyle.zip

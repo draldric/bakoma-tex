@@ -1,0 +1,14 @@
+:utopia.doc:ctan:0.01024:109080360:2633:651B-3326:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+utopia
+
+./doc/fonts/utopia:
+license-utopia.txt
+readme-utopia.txt

@@ -1,0 +1,14 @@
+:sanskrit.source:ctan:0.23552:109070284:43257:F646-B166:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sanskrit
+
+./source/latex/sanskrit:
+skt.c
+sktdoc.skt

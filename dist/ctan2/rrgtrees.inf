@@ -1,0 +1,13 @@
+:rrgtrees:ctan2:0.00845:109070768:2776:BBC5-23F3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+rrgtrees
+
+./tex/latex/rrgtrees:
+rrgtrees.sty

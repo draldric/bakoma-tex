@@ -1,0 +1,14 @@
+:IEEEconf.doc:ctan:0.22528:109070284:177090:818-12B5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ieeeconf
+
+./doc/latex/ieeeconf:
+ieeeconf.pdf
+readme

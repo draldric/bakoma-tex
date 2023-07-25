@@ -1,0 +1,13 @@
+:coursepaper:ctan:0.02048:109070284:4155:E9C3-C122:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+coursepaper
+
+./tex/latex/coursepaper:
+coursepaper.cls

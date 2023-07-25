@@ -1,0 +1,16 @@
+:dcpic.doc:ctan:0.0512:109070284:9886:BB75-2E06:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dcpic
+
+./doc/latex/dcpic:
+examples.tex
+gpl.txt
+readme
+readme.texlive

@@ -1,0 +1,14 @@
+:clrscode.doc:ctan:0.0512:109070284:31639:3CDB-4B1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+clrscode
+
+./doc/latex/clrscode:
+clrscode.pdf
+readme

@@ -1,0 +1,14 @@
+:minibox.doc:ctan:0.13312:109070284:110920:D760-C158:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+minibox
+
+./doc/latex/minibox:
+minibox.pdf
+readme

@@ -1,0 +1,14 @@
+:greekdates.source:ctan:0.04096:109070284:7004:2E95-C7F6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+greekdates
+
+./source/latex/greekdates:
+greekdates.dtx
+greekdates.ins

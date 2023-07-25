@@ -1,0 +1,15 @@
+:pst-slpe.source:ctan:0.0512:109070284:12290:5BF1-F704:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-slpe
+
+./source/generic/pst-slpe:
+makefile
+pst-slpe.dtx
+pst-slpe.ins

@@ -1,0 +1,13 @@
+:guitbeamer:ctan2:0.005297:109070768:2060:A0C2-CB2D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+guitbeamer
+
+./tex/latex/guitbeamer:
+guitbeamer.cls

@@ -1,0 +1,13 @@
+:type1cm:ctan:0.02048:109070284:1316:AD07-665E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+type1cm
+
+./tex/latex/type1cm:
+type1cm.sty

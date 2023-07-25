@@ -1,0 +1,16 @@
+:antomega.source:ctan:0.11264:109070284:24224:25F9-EFCB:
+
+./:
+source
+
+./source:
+lambda
+
+./source/lambda:
+antomega
+
+./source/lambda/antomega:
+antenc.dtx
+antenc.ins
+antomega.dtx
+antomega.ins

@@ -1,0 +1,16 @@
+:pst-stru.doc:ctan:0.23552:109070284:178793:62FF-EAF0:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-stru
+
+./doc/generic/pst-stru:
+changes
+pst-stru-doc.pdf
+pst-stru-doc.tex
+readme

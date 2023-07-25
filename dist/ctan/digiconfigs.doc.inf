@@ -1,0 +1,15 @@
+:digiconfigs.doc:ctan:0.14336:109070284:120234:599B-9415:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+digiconfigs
+
+./doc/latex/digiconfigs:
+digiconfigs.pdf
+digiconfigs.tex
+readme

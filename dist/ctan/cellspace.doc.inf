@@ -1,0 +1,15 @@
+:cellspace.doc:ctan:0.49152:109070284:443691:6E9-1C1D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cellspace
+
+./doc/latex/cellspace:
+cellspace.pdf
+cellspace.tex
+readme

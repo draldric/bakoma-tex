@@ -1,0 +1,14 @@
+:play.source:ctan:0.02048:109070284:4718:2CD6-3D3F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+play
+
+./source/latex/play:
+play.dtx
+play.ins

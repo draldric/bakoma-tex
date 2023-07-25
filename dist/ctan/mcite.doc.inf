@@ -1,0 +1,13 @@
+:mcite.doc:ctan:0.03072:109070284:8337:52F6-D4B4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mcite
+
+./doc/latex/mcite:
+mcite.dvi

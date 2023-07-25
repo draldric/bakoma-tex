@@ -1,0 +1,15 @@
+:subfigure.source:ctan:0.17408:109070284:36076:2AB9-D1E4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+subfigure
+
+./source/latex/subfigure:
+makefile
+subfigure.dtx
+subfigure.ins

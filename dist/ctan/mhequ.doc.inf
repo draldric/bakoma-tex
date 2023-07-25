@@ -1,0 +1,14 @@
+:mhequ.doc:ctan:0.06144:109070284:40005:2CF9-755F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mhequ
+
+./doc/latex/mhequ:
+example.pdf
+example.tex

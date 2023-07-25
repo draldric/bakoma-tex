@@ -1,0 +1,14 @@
+:qcm.source:ctan:0.04096:109070284:9054:793B-24C2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+qcm
+
+./source/latex/qcm:
+qcm.dtx
+qcm.ins

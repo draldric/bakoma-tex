@@ -1,0 +1,17 @@
+:gfscomplutum.doc:ctan:0.1024:109070284:57462:7289-266C:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+gfscomplutum
+
+./doc/fonts/gfscomplutum:
+gfscomplutum.pdf
+gfscomplutum.tex
+ofl-faq.txt
+ofl.txt
+readme

@@ -1,0 +1,13 @@
+:finbib:ctan:0.03072:109070284:5047:8CC2-856B:
+
+./:
+bibtex
+
+./bibtex:
+bst
+
+./bibtex/bst:
+finbib
+
+./bibtex/bst/finbib:
+finplain.bst

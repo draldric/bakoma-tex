@@ -1,0 +1,13 @@
+:rplain:ctan2:0.000731:109070768:417:2AC2-A5EF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+rplain
+
+./tex/latex/rplain:
+rplain.sty

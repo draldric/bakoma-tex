@@ -1,0 +1,13 @@
+:harmony:ctan:0.02048:109070284:2028:3C02-AEB0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+harmony
+
+./tex/latex/harmony:
+harmony.sty

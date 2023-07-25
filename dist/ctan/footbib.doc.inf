@@ -1,0 +1,13 @@
+:footbib.doc:ctan:0.26624:109070284:226417:8708-4B6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+footbib
+
+./doc/latex/footbib:
+footbib.pdf

@@ -1,0 +1,13 @@
+:pst-fun.source:ctan:0.01024:109070284:681:DB42-FC29:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-fun
+
+./source/generic/pst-fun:
+makefile

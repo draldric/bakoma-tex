@@ -1,0 +1,14 @@
+:mongolian-babel.source:ctan:0.0512:109070284:11812:52FC-291C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mongolian-babel
+
+./source/latex/mongolian-babel:
+mongolian.dtx
+mongolian.ins

@@ -1,0 +1,13 @@
+:float:ctan:0.01024:109070284:2222:3233-8BD9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+float
+
+./tex/latex/float:
+float.sty

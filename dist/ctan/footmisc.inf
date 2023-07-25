@@ -1,0 +1,13 @@
+:footmisc:ctan:0.04096:109070284:5194:924A-63E2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+footmisc
+
+./tex/latex/footmisc:
+footmisc.sty

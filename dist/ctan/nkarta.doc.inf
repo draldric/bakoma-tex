@@ -1,0 +1,17 @@
+:nkarta.doc:ctan:0.17408:109070284:82290:BF82-5EA3:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+nkarta
+
+./doc/fonts/nkarta:
+figtable.pdf
+figtable.tex
+fonttable.pdf
+fonttable.tex
+readme

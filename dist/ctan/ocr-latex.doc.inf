@@ -1,0 +1,15 @@
+:ocr-latex.doc:ctan:0.19456:109070284:172418:5027-B694:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ocr-latex
+
+./doc/latex/ocr-latex:
+ocr.pdf
+ocr.tex
+readme

@@ -1,0 +1,15 @@
+:svn.source:ctan:0.03072:109070284:7368:F6ED-6229:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+svn
+
+./source/latex/svn:
+makefile
+svn.dtx
+svn.ins

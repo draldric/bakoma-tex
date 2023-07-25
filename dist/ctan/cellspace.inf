@@ -1,0 +1,13 @@
+:cellspace:ctan:0.01024:109070284:1532:ECED-C98B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cellspace
+
+./tex/latex/cellspace:
+cellspace.sty

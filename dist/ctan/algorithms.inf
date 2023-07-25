@@ -1,0 +1,14 @@
+:algorithms:ctan:0.02048:109070284:2625:2C17-25FE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+algorithms
+
+./tex/latex/algorithms:
+algorithm.sty
+algorithmic.sty

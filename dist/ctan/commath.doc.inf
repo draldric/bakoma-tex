@@ -1,0 +1,15 @@
+:commath.doc:ctan:0.1536:109070284:100721:A1F9-B28B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+commath
+
+./doc/latex/commath:
+commath.pdf
+commath.tex
+readme

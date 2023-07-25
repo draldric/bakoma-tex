@@ -1,0 +1,15 @@
+:keystroke.doc:ctan:0.0512:109070284:33242:B3D2-C465:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+keystroke
+
+./doc/latex/keystroke:
+key-test.pdf
+key-test.tex
+readme

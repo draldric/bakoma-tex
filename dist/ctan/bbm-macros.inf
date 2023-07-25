@@ -1,0 +1,16 @@
+:bbm-macros:ctan:0.02048:109070284:1223:ACD4-6296:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bbm-macros
+
+./tex/latex/bbm-macros:
+bbm.sty
+ubbm.fd
+ubbmss.fd
+ubbmtt.fd

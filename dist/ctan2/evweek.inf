@@ -1,0 +1,13 @@
+:evweek:ctan2:0.010937:109070768:2299:F1AF-FC9E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+evweek
+
+./tex/latex/evweek:
+evweek.cls

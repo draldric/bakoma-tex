@@ -1,0 +1,15 @@
+:stdpage.doc:ctan:0.12288:109070284:102417:C8B3-9F0E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+stdpage
+
+./doc/latex/stdpage:
+readme
+stdpage-test.tex
+stdpage.pdf

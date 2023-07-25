@@ -1,0 +1,14 @@
+:acmtrans.doc:ctan:0.22528:109070284:142337:5EB0-CF74:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+acmtrans
+
+./doc/latex/acmtrans:
+acmtr2e.pdf
+acmtr2e.tex

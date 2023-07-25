@@ -1,0 +1,13 @@
+:lkproof:ctan:0.01024:109070284:2287:A8B7-3DE5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lkproof
+
+./tex/latex/lkproof:
+proof.sty

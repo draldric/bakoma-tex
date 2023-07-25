@@ -1,0 +1,15 @@
+:dozenal.doc:ctan:0.12288:109070284:98482:B71F-D409:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+dozenal
+
+./doc/fonts/dozenal:
+dozenal.pdf
+readme
+testdozchars.tex

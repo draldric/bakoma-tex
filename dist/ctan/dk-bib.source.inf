@@ -1,0 +1,13 @@
+:dk-bib.source:ctan:0.01024:109070284:1057:6EEC-7465:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dk-bib
+
+./source/latex/dk-bib:
+makefile

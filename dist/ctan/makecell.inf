@@ -1,0 +1,13 @@
+:makecell:ctan:0.02048:109070284:3656:826A-C4D2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+makecell
+
+./tex/latex/makecell:
+makecell.sty

@@ -1,0 +1,13 @@
+:tablists.source:ctan:0.03072:109070284:7192:475-745F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tablists
+
+./source/latex/tablists:
+tablists.dtx

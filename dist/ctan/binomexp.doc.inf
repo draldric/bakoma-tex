@@ -1,0 +1,14 @@
+:binomexp.doc:ctan:0.09216:109070284:66670:F55E-931:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+binomexp
+
+./doc/latex/binomexp:
+binomexp.pdf
+readme

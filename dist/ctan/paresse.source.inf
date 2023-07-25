@@ -1,0 +1,17 @@
+:paresse.source:ctan:0.0512:109070284:11598:40C0-11F8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+paresse
+
+./source/latex/paresse:
+lisezmoi
+makefile
+paresse.dtx
+paresse.ins
+readme

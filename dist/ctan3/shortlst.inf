@@ -1,0 +1,13 @@
+:shortlst:ctan3:0.005134:109070768:1546:3F6-F900:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+shortlst
+
+./tex/latex/shortlst:
+shortlst.sty

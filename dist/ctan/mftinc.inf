@@ -1,0 +1,13 @@
+:mftinc:ctan:0.01024:109070284:2511:A0C9-7DC6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mftinc
+
+./tex/latex/mftinc:
+mftinc.sty

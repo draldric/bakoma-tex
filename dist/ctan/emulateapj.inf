@@ -1,0 +1,13 @@
+:emulateapj:ctan:0.06144:109070284:15038:E583-47ED:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+emulateapj
+
+./tex/latex/emulateapj:
+emulateapj.cls

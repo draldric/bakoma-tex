@@ -1,0 +1,13 @@
+:stringstrings:ctan:0.06144:109070284:8199:C39-ABF7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+stringstrings
+
+./tex/latex/stringstrings:
+stringstrings.sty

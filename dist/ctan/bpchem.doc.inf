@@ -1,0 +1,13 @@
+:bpchem.doc:ctan:0.2048:109070284:184921:39D1-2BA8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bpchem
+
+./doc/latex/bpchem:
+bpchem.pdf

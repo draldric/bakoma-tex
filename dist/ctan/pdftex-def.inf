@@ -1,0 +1,13 @@
+:pdftex-def:ctan:0.04096:109070284:9949:B2C3-6022:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pdftex-def
+
+./tex/latex/pdftex-def:
+pdftex.def

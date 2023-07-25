@@ -1,0 +1,14 @@
+:stringstrings.source:ctan:0.1536:109070284:30956:2BDB-43F1:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+stringstrings
+
+./source/latex/stringstrings:
+stringstrings.dtx
+stringstrings.ins

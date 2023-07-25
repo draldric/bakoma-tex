@@ -1,0 +1,13 @@
+:pst-dbicons:ctan:0.02048:109070284:2769:8692-C70D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-dbicons
+
+./tex/latex/pst-dbicons:
+pst-dbicons.sty

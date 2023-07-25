@@ -1,0 +1,13 @@
+:xtcapts:ctan:0.01024:109070284:1201:FFC8-E8AA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xtcapts
+
+./tex/latex/xtcapts:
+xt_capts.sty

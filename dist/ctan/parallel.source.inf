@@ -1,0 +1,15 @@
+:parallel.source:ctan:0.0512:109070284:10802:7FCF-4915:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+parallel
+
+./source/latex/parallel:
+parallel.drv
+parallel.dtx
+parallel.ins

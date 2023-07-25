@@ -1,0 +1,14 @@
+:xltxtra.doc:ctan:0.2048:109070284:172302:E3F7-C28F:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+xltxtra
+
+./doc/xelatex/xltxtra:
+readme
+xltxtra.pdf

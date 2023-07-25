@@ -1,0 +1,14 @@
+:leading.doc:ctan:0.1024:109070284:83832:142-3DF1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+leading
+
+./doc/latex/leading:
+leading.pdf
+readme

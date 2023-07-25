@@ -1,0 +1,13 @@
+:cwpuzzle.doc:ctan:0.06144:109070284:12982:1AE9-5F97:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cwpuzzle
+
+./doc/latex/cwpuzzle:
+cwpuzzle.dvi

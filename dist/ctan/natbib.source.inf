@@ -1,0 +1,17 @@
+:natbib.source:ctan:0.28672:109070284:63427:1723-AC80:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+natbib
+
+./source/latex/natbib:
+bibentry.drv
+bibentry.dtx
+bibentry.ins
+natbib.dtx
+natbib.ins

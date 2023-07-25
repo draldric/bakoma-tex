@@ -1,0 +1,12 @@
+:expressg:ctan:0.09216:109070284:18044:C7A0-2245:
+
+./:
+metapost
+
+./metapost:
+expressg
+
+./metapost/expressg:
+aam.mp
+expeg.mp
+expressg.mp

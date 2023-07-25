@@ -1,0 +1,13 @@
+:sort-by-letters.doc:ctan:0.01024:109070284:626:2226-F80A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sort-by-letters
+
+./doc/latex/sort-by-letters:
+readme

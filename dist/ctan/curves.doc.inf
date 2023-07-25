@@ -1,0 +1,15 @@
+:curves.doc:ctan:0.16384:109070284:127340:4D04-EFA7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+curves
+
+./doc/latex/curves:
+curves.pdf
+latex2pdf
+readme

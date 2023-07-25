@@ -1,0 +1,14 @@
+:fancyref.source:ctan:0.09216:109070284:18638:252A-82DB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fancyref
+
+./source/latex/fancyref:
+fancyref.dtx
+fancyref.ins

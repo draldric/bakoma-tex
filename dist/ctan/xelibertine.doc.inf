@@ -1,0 +1,14 @@
+:xelibertine.doc:ctan:0.01024:109070284:327:A85D-9141:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+xelibertine
+
+./doc/xelatex/xelibertine:
+readme
+readme.texlive

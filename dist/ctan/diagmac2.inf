@@ -1,0 +1,13 @@
+:diagmac2:ctan:0.0512:109070284:10070:516A-1ACB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+diagmac2
+
+./tex/latex/diagmac2:
+diagmac2.sty

@@ -1,0 +1,13 @@
+:cleveref:ctan:0.14336:109070284:12418:43EB-6504:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cleveref
+
+./tex/latex/cleveref:
+cleveref.sty

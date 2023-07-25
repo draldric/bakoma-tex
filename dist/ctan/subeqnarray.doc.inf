@@ -1,0 +1,15 @@
+:subeqnarray.doc:ctan:0.14336:109070284:111996:FCBE-4D6D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+subeqnarray
+
+./doc/latex/subeqnarray:
+manifest.txt
+subeqnarray.pdf
+subeqnarray.tex

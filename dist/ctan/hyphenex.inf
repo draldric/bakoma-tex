@@ -1,0 +1,13 @@
+:hyphenex:ctan:0.02048:109070284:5641:5918-2F31:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+hyphenex
+
+./tex/generic/hyphenex:
+ushyphex.tex

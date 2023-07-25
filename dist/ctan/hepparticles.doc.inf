@@ -1,0 +1,17 @@
+:hepparticles.doc:ctan:0.2048:109070284:151467:8A3C-7A3D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hepparticles
+
+./doc/latex/hepparticles:
+hepparticles.pdf
+hepparticles.tex
+readme
+testhepparticles.pdf
+testhepparticles.tex

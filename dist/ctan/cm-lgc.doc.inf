@@ -1,0 +1,16 @@
+:cm-lgc.doc:ctan:0.04096:109070284:10973:4274-301E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cm-lgc
+
+./doc/latex/cm-lgc:
+copying
+history
+install
+readme

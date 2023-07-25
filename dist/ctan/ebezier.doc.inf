@@ -1,0 +1,13 @@
+:ebezier.doc:ctan:0.33792:109070284:287916:C8D4-4AE9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ebezier
+
+./doc/latex/ebezier:
+ebezier.pdf

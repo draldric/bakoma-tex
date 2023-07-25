@@ -1,0 +1,14 @@
+:antomega.doc:ctan:0.21504:109070284:166430:BC37-5AE9:
+
+./:
+doc
+
+./doc:
+lambda
+
+./doc/lambda:
+antomega
+
+./doc/lambda/antomega:
+antomega.pdf
+readme

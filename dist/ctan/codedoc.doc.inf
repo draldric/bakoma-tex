@@ -1,0 +1,15 @@
+:codedoc.doc:ctan:0.75776:109070284:373829:65EC-ED6B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+codedoc
+
+./doc/latex/codedoc:
+codedoc-manual.pdf
+codedoc-manual.tex
+readme

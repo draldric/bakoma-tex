@@ -1,0 +1,15 @@
+:fnbreak.source:ctan:0.02048:109070284:3600:F9CE-8514:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fnbreak
+
+./source/latex/fnbreak:
+fnbreak.dtx
+fnbreak.ins
+makefile

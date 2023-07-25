@@ -1,0 +1,15 @@
+:liturg.doc:ctan:0.14336:109070284:115288:4A09-608D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+liturg
+
+./doc/latex/liturg:
+liturg.pdf
+readme
+test.tex

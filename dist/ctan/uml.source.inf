@@ -1,0 +1,15 @@
+:uml.source:ctan:0.2048:109070284:39509:C21E-9844:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+uml
+
+./source/latex/uml:
+makefile
+uml.dtx
+uml.ins

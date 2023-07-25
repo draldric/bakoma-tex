@@ -1,0 +1,14 @@
+:euroitc.doc:ctan2:0.158841:109073044:130790:941A-7629:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+euroitc
+
+./doc/latex/euroitc:
+euroitc.pdf
+readme

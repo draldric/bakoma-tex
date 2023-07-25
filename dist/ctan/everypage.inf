@@ -1,0 +1,13 @@
+:everypage:ctan:0.01024:109070284:788:4A28-141B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+everypage
+
+./tex/latex/everypage:
+everypage.sty

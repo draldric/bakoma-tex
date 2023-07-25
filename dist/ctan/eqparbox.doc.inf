@@ -1,0 +1,14 @@
+:eqparbox.doc:ctan:0.18432:109070284:147461:746D-44A9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+eqparbox
+
+./doc/latex/eqparbox:
+eqparbox.pdf
+readme

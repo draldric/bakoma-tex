@@ -1,0 +1,14 @@
+:thmbox.source:ctan:0.04096:109070284:8056:E7A4-DCE2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+thmbox
+
+./source/latex/thmbox:
+thmbox.dtx
+thmbox.ins

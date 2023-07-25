@@ -1,0 +1,13 @@
+:footbib:ctan:0.03072:109070284:6127:121D-3800:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+footbib
+
+./tex/latex/footbib:
+footbib.sty

@@ -1,0 +1,14 @@
+:coolstr.doc:ctan:0.14336:109070284:113732:1D23-4134:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+coolstr
+
+./doc/latex/coolstr:
+coolstr.pdf
+readme

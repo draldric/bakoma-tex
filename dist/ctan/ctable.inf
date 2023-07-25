@@ -1,0 +1,13 @@
+:ctable:ctan:0.01024:109070284:2170:2186-DCE6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ctable
+
+./tex/latex/ctable:
+ctable.sty

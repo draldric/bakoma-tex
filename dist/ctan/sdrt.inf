@@ -1,0 +1,13 @@
+:sdrt:ctan:0.02048:109070284:2301:9992-571D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sdrt
+
+./tex/latex/sdrt:
+sdrt.sty

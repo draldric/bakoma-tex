@@ -1,0 +1,13 @@
+:fncychap:ctan:0.03072:109070284:4343:4024-76C7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fncychap
+
+./tex/latex/fncychap:
+fncychap.sty

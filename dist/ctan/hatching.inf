@@ -1,0 +1,10 @@
+:hatching:ctan:0.01024:109070284:1151:DF65-7482:
+
+./:
+metapost
+
+./metapost:
+hatching
+
+./metapost/hatching:
+hatching.mp

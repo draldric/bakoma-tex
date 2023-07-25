@@ -1,0 +1,16 @@
+:pictex.doc:ctan:0.01024:109070284:1044:2DAF-3EF4:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pictex
+
+./doc/generic/pictex:
+00index
+pictexzusatz.txt
+readme
+readme.errorbars

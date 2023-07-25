@@ -1,0 +1,14 @@
+:mathdots.source:ctan:0.02048:109070284:5454:C970-F5FF:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+mathdots
+
+./source/generic/mathdots:
+mathdots.dtx
+mathdots.ins

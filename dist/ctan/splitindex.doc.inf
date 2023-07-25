@@ -1,0 +1,14 @@
+:splitindex.doc:ctan:0.26624:109070284:218250:38E6-E67D:
+
+./:
+doc
+
+./doc:
+man
+
+./doc/man:
+man1
+
+./doc/man/man1:
+splitindex.1
+splitindex.pdf

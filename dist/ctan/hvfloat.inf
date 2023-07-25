@@ -1,0 +1,13 @@
+:hvfloat:ctan:0.02048:109070284:2828:517C-1C28:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hvfloat
+
+./tex/latex/hvfloat:
+hvfloat.sty

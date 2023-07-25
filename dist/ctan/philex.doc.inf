@@ -1,0 +1,15 @@
+:philex.doc:ctan:0.11264:109070284:81884:D37E-DDCE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+philex
+
+./doc/latex/philex:
+philex.pdf
+philex.tex
+readme

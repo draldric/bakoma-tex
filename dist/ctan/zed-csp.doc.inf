@@ -1,0 +1,16 @@
+:zed-csp.doc:ctan:0.1024:109070284:31916:7BAD-B21C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+zed-csp
+
+./doc/latex/zed-csp:
+csp2e.dvi
+csp2e.tex
+zed2e.dvi
+zed2e.tex

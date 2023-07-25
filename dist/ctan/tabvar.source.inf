@@ -1,0 +1,14 @@
+:tabvar.source:ctan:0.04096:109070284:8494:9ABC-C38B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tabvar
+
+./source/latex/tabvar:
+tabvar.dtx
+tabvar.ins

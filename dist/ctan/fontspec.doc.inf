@@ -1,0 +1,15 @@
+:fontspec.doc:ctan:1.1776:109070284:1071123:90BC-D922:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+fontspec
+
+./doc/xelatex/fontspec:
+fontspec-example.ltx
+fontspec.pdf
+readme

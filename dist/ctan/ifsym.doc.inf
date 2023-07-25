@@ -1,0 +1,13 @@
+:ifsym.doc:ctan:0.1536:109070284:150953:1FD0-D860:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+ifsym
+
+./doc/fonts/ifsym:
+ifsym.ps.gz

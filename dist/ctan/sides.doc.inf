@@ -1,0 +1,15 @@
+:sides.doc:ctan:0.06144:109070284:46272:6EB9-1FB2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sides
+
+./doc/latex/sides:
+readme
+sides-sample.pdf
+sides-sample.tex

@@ -1,0 +1,14 @@
+:dratex.doc:ctan:0.0512:109070284:11805:ECD5-93B1:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+dratex
+
+./doc/generic/dratex:
+examples.tex
+readme

@@ -1,0 +1,14 @@
+:index.source:ctan:0.06144:109070284:14634:8FF6-BE9:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+index
+
+./source/latex/index:
+index.dtx
+index.ins

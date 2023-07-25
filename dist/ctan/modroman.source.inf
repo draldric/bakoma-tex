@@ -1,0 +1,15 @@
+:modroman.source:ctan:0.03072:109070284:6807:2B88-A788:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+modroman
+
+./source/latex/modroman:
+makefile
+modroman.dtx
+modroman.ins

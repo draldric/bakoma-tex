@@ -1,0 +1,13 @@
+:xgreek:ctan:0.03072:109070284:3770:7A63-D3FB:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+xgreek
+
+./tex/xelatex/xgreek:
+xgreek.sty

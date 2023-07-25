@@ -1,0 +1,14 @@
+:lettrine.source:ctan:0.04096:109070284:9334:75B-31DD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+lettrine
+
+./source/latex/lettrine:
+lettrine.dtx
+lettrine.ins

@@ -1,0 +1,16 @@
+:context-chromato:ctan:0.01024:109070284:1818:D1F2-FD38:
+
+./:
+tex
+
+./tex:
+context
+
+./tex/context:
+third
+
+./tex/context/third:
+chromato
+
+./tex/context/third/chromato:
+t-chromato.tex

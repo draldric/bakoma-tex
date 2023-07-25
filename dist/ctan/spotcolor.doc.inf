@@ -1,0 +1,16 @@
+:spotcolor.doc:ctan:0.39936:109070284:57407:6CE5-B250:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+spotcolor
+
+./doc/latex/spotcolor:
+readme
+readme.pdf
+readme.tcp
+readme.tex

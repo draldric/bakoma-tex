@@ -1,0 +1,14 @@
+:xtcapts.doc:ctan:0.12288:109070284:91717:3C18-AD3B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xtcapts
+
+./doc/latex/xtcapts:
+readme.txt
+xt_capts.pdf

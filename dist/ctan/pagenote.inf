@@ -1,0 +1,13 @@
+:pagenote:ctan:0.01024:109070284:1629:AA2-5734:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pagenote
+
+./tex/latex/pagenote:
+pagenote.sty

@@ -1,0 +1,14 @@
+:calligra.doc:ctan:0.11264:109070284:76935:7EB6-909A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+calligra
+
+./doc/latex/calligra:
+readme
+testfont.pdf

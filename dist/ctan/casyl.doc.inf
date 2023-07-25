@@ -1,0 +1,15 @@
+:casyl.doc:ctan:0.11264:109070284:72764:8404-4A16:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+casyl
+
+./doc/latex/casyl:
+casyldoc.pdf
+casyldoc.tex
+readme

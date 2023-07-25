@@ -1,0 +1,15 @@
+:duerer-latex.doc:ctan:0.17408:109070284:150040:31A0-65D3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+duerer-latex
+
+./doc/latex/duerer-latex:
+duerer.pdf
+duerer.tex
+readme

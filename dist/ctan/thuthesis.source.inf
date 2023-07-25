@@ -1,0 +1,14 @@
+:thuthesis.source:ctan:0.13312:109070284:36083:EBFA-AABD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+thuthesis
+
+./source/latex/thuthesis:
+thuthesis.dtx
+thuthesis.ins

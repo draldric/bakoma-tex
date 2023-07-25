@@ -1,0 +1,15 @@
+:lettre:ctan:0.06144:109070284:10562:179F-D011:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lettre
+
+./tex/latex/lettre:
+default.ins
+lettre.cls
+obs.ins

@@ -1,0 +1,14 @@
+:makecmds.source:ctan:0.02048:109070284:5008:5590-ADC8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+makecmds
+
+./source/latex/makecmds:
+makecmds.dtx
+makecmds.ins

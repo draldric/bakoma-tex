@@ -1,0 +1,14 @@
+:srcltx.source:ctan:0.03072:109070284:8432:1418-5C7E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+srcltx
+
+./source/latex/srcltx:
+srcltx.dtx
+srcltx.ins

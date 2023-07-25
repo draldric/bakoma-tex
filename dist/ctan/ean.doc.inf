@@ -1,0 +1,14 @@
+:ean.doc:ctan:0.01024:109070284:1467:879E-8E23:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+ean
+
+./doc/fonts/ean:
+ocrbinfo
+readme

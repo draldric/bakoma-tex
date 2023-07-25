@@ -1,0 +1,13 @@
+:vrsion.doc:ctan:0.04096:109070284:10189:AC69-F96F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+vrsion
+
+./doc/latex/vrsion:
+vrsion.dvi

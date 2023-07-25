@@ -1,0 +1,13 @@
+:bookest:ctan:0.03072:109070284:3782:B92E-33A4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bookest
+
+./tex/latex/bookest:
+bookest.cls

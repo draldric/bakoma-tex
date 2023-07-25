@@ -1,0 +1,13 @@
+:streetex:ctan3:0.022534:109070768:6053:3753-E548:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+streetex
+
+./tex/latex/streetex:
+stree.sty

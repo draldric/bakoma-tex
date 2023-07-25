@@ -1,0 +1,15 @@
+:limap.source:ctan:0.0512:109070284:10948:4941-D0E5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+limap
+
+./source/latex/limap:
+limap.dtx
+limap.ins
+makefile

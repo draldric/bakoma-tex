@@ -1,0 +1,13 @@
+:vector:ctan:0.01024:109070284:902:C8A8-7470:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+vector
+
+./tex/latex/vector:
+vector.sty

@@ -1,0 +1,15 @@
+:slideshow:ctan:0.04096:109070284:8018:92C1-5350:
+
+./:
+metapost
+
+./metapost:
+slideshow
+
+./metapost/slideshow:
+pathalong.mp
+slideshow.mp
+sshowex.mp
+sshowex2.mp
+sshowex3.mp
+sshowintro.mp

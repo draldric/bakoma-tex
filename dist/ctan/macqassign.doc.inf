@@ -1,0 +1,16 @@
+:macqassign.doc:ctan:0.39936:109070284:31261:F27E-3F96:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+macqassign
+
+./doc/latex/macqassign:
+logo.ps
+readme
+sample-assign.pdf
+sample-assign.tex

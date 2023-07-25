@@ -1,0 +1,15 @@
+:ijmart.source:ctan:0.06144:109070284:16538:2E67-161E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ijmart
+
+./source/latex/ijmart:
+ijmart.dtx
+ijmart.ins
+makefile

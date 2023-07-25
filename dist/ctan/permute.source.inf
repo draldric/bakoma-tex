@@ -1,0 +1,14 @@
+:permute.source:ctan:0.0512:109070284:10893:3984-10CF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+permute
+
+./source/latex/permute:
+permute.dtx
+permute.ins

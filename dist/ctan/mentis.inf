@@ -1,0 +1,13 @@
+:mentis:ctan:0.02048:109070284:3723:4884-3806:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mentis
+
+./tex/latex/mentis:
+mentis.cls

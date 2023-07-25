@@ -1,0 +1,14 @@
+:galois.doc:ctan:0.12288:109070284:86898:51B6-C4B7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+galois
+
+./doc/latex/galois:
+galois.pdf
+readme

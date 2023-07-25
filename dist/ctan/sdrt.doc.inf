@@ -1,0 +1,15 @@
+:sdrt.doc:ctan:0.256:109070284:178587:6AC4-12CF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sdrt
+
+./doc/latex/sdrt:
+readme
+sdrt-doc.pdf
+sdrt-doc.tex

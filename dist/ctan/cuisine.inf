@@ -1,0 +1,13 @@
+:cuisine:ctan:0.02048:109070284:2267:AFB9-F82A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cuisine
+
+./tex/latex/cuisine:
+cuisine.sty

@@ -1,0 +1,13 @@
+:forarray.source:ctan:0.08192:109070284:14159:78F9-1D26:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+forarray
+
+./source/latex/forarray:
+forarray.dtx

@@ -1,0 +1,14 @@
+:parrun.source:ctan:0.03072:109070284:6641:8B22-BA18:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+parrun
+
+./source/latex/parrun:
+parrun.dtx
+parrun.ins

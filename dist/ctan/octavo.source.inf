@@ -1,0 +1,14 @@
+:octavo.source:ctan:0.11264:109070284:25877:74A0-3D75:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+octavo
+
+./source/latex/octavo:
+octavo.dtx
+octavo.ins

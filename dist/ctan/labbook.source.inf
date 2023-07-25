@@ -1,0 +1,14 @@
+:labbook.source:ctan:0.09216:109070284:22920:2C7D-A905:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+labbook
+
+./source/latex/labbook:
+labbook.dtx
+labbook.ins

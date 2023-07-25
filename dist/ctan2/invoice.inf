@@ -1,0 +1,14 @@
+:invoice:ctan2:0.03806:109070768:6618:C7B3-E997:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+invoice
+
+./tex/latex/invoice:
+invoice.def
+invoice.sty

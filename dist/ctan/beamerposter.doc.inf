@@ -1,0 +1,14 @@
+:beamerposter.doc:ctan:0.01024:109070284:1434:14D6-22F0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+beamerposter
+
+./doc/latex/beamerposter:
+example.tex
+readme

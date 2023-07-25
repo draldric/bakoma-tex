@@ -1,0 +1,17 @@
+:pst-tree.doc:ctan:0.256:109070284:152670:EB2-3A0:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-tree
+
+./doc/generic/pst-tree:
+changes
+pst-tree-doc.bib
+pst-tree-doc.pdf
+pst-tree-doc.tex
+readme

@@ -1,0 +1,13 @@
+:leaflet:ctan:0.03072:109070284:4738:95C9-FD6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+leaflet
+
+./tex/latex/leaflet:
+leaflet.cls

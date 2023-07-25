@@ -1,0 +1,13 @@
+:polytable:ctan:0.03072:109070284:5951:2C05-9F0D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+polytable
+
+./tex/latex/polytable:
+polytable.sty

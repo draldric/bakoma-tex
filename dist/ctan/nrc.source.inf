@@ -1,0 +1,14 @@
+:nrc.source:ctan:0.17408:109070284:37278:36BF-DE98:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+nrc
+
+./source/latex/nrc:
+nrc.dtx
+nrc.ins

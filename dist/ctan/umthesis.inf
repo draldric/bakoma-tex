@@ -1,0 +1,13 @@
+:umthesis:ctan:0.03072:109070284:6101:A4BA-25EA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+umthesis
+
+./tex/latex/umthesis:
+umthesis.cls

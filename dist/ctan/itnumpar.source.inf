@@ -1,0 +1,14 @@
+:itnumpar.source:ctan:0.04096:109070284:7870:FB70-6EE4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+itnumpar
+
+./source/latex/itnumpar:
+itnumpar.dtx
+itnumpar.ins

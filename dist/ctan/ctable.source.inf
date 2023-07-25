@@ -1,0 +1,14 @@
+:ctable.source:ctan:0.0512:109070284:10639:34FF-4147:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ctable
+
+./source/latex/ctable:
+ctable.dtx
+ctable.ins

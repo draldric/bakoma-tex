@@ -1,0 +1,14 @@
+:lipsum.doc:ctan:0.33792:109070284:303540:A60B-DB52:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lipsum
+
+./doc/latex/lipsum:
+lipsum.pdf
+readme.1st

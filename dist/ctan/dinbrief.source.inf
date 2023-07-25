@@ -1,0 +1,15 @@
+:dinbrief.source:ctan:0.26624:109070284:55898:B67-7263:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dinbrief
+
+./source/latex/dinbrief:
+dinbrief.drv
+dinbrief.dtx
+dinbrief.ins

@@ -1,0 +1,14 @@
+:fp.doc:ctan:0.03072:109070284:5784:17D5-F4A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fp
+
+./doc/latex/fp:
+fp.tex
+readme

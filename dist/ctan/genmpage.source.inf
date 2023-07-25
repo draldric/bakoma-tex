@@ -1,0 +1,14 @@
+:genmpage.source:ctan:0.02048:109070284:4322:2B6B-C82D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+genmpage
+
+./source/latex/genmpage:
+genmpage.dtx
+genmpage.ins

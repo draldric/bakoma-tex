@@ -1,0 +1,14 @@
+:chess-problem-diagrams.source:ctan:0.09216:109070284:19565:36AC-1E0B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+chess-problem-diagrams
+
+./source/latex/chess-problem-diagrams:
+diagram.dtx
+diagram.ins

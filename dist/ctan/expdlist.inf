@@ -1,0 +1,13 @@
+:expdlist:ctan:0.01024:109070284:1763:7DB-EE51:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+expdlist
+
+./tex/latex/expdlist:
+expdlist.sty

@@ -1,0 +1,13 @@
+:play.doc:ctan:0.01024:109070284:300:2788-384E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+play
+
+./doc/latex/play:
+readme

@@ -1,0 +1,14 @@
+:qsymbols.doc:ctan:0.1024:109070284:87163:D3CD-2463:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+qsymbols
+
+./doc/latex/qsymbols:
+qsymbols.ps.gz
+qsymbols.tex

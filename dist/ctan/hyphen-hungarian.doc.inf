@@ -1,0 +1,16 @@
+:hyphen-hungarian.doc:ctan:0.2048:109070284:99134:F34-2D38:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+huhyphen
+
+./doc/generic/huhyphen:
+huhyphn.pdf
+hyph_hu.dic
+searchforerrors.rb
+testhyphenation.rb

@@ -1,0 +1,13 @@
+:exam:ctan:0.2048:109070284:35513:A2D-2080:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+exam
+
+./tex/latex/exam:
+exam.cls

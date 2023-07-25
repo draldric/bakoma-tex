@@ -1,0 +1,15 @@
+:simplecv.doc:ctan:0.0512:109070284:34039:2984-A69A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+simplecv
+
+./doc/latex/simplecv:
+readme
+testcv.pdf
+testcv.tex

@@ -1,0 +1,14 @@
+:xetexfontinfo:ctan:0.02048:109070284:1924:7286-7E84:
+
+./:
+tex
+
+./tex:
+xetex
+
+./tex/xetex:
+xetexfontinfo
+
+./tex/xetex/xetexfontinfo:
+aat-info.tex
+opentype-info.tex

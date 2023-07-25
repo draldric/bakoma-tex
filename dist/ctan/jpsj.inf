@@ -1,0 +1,13 @@
+:jpsj:ctan:0.04096:109070284:6915:70F8-571D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+jpsj
+
+./tex/latex/jpsj:
+jpsj2.cls

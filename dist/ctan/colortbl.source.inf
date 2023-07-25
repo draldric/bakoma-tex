@@ -1,0 +1,14 @@
+:colortbl.source:ctan:0.0512:109070284:10836:9BC-E5D8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+colortbl
+
+./source/latex/colortbl:
+colortbl.dtx
+colortbl.ins

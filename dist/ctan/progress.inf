@@ -1,0 +1,13 @@
+:progress:ctan:0.02048:109070284:3756:3337-8ED0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+progress
+
+./tex/latex/progress:
+progress.sty

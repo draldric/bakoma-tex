@@ -1,0 +1,14 @@
+:epigraph.source:ctan:0.04096:109070284:10255:B038-A0F2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+epigraph
+
+./source/latex/epigraph:
+epigraph.dtx
+epigraph.ins

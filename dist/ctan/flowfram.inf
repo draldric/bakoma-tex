@@ -1,0 +1,13 @@
+:flowfram:ctan:0.14336:109070284:18333:A0D5-8B17:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+flowfram
+
+./tex/latex/flowfram:
+flowfram.sty

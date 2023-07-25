@@ -1,0 +1,15 @@
+:lsc.doc:ctan:0.3072:109070284:186689:BD59-1EFC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lsc
+
+./doc/latex/lsc:
+lsc.pdf
+lsc.tex
+readme

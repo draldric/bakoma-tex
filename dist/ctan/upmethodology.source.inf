@@ -1,0 +1,13 @@
+:upmethodology.source:ctan:0.01024:109070284:1052:A21F-1B84:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+upmethodology
+
+./source/latex/upmethodology:
+makefile

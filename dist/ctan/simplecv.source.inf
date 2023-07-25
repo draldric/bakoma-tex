@@ -1,0 +1,14 @@
+:simplecv.source:ctan:0.03072:109070284:5526:F58F-8C10:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+simplecv
+
+./source/latex/simplecv:
+simplecv.dtx
+simplecv.ins

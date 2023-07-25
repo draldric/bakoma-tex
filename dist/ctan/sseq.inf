@@ -1,0 +1,13 @@
+:sseq:ctan:0.04096:109070284:7573:8805-57C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sseq
+
+./tex/latex/sseq:
+sseq.sty

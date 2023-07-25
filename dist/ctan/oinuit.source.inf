@@ -1,0 +1,15 @@
+:oinuit.source:ctan:0.0512:109070284:10141:11BF-F66D:
+
+./:
+source
+
+./source:
+lambda
+
+./source/lambda:
+oinuit
+
+./source/lambda/oinuit:
+oinuit.dtx
+oinuit.ins
+oinuit.sty

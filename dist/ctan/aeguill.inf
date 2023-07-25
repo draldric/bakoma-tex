@@ -1,0 +1,13 @@
+:aeguill:ctan:0.01024:109070284:1936:16E7-B574:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+aeguill
+
+./tex/latex/aeguill:
+aeguill.sty

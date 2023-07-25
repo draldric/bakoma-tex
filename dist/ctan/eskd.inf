@@ -1,0 +1,13 @@
+:eskd:ctan:0.02048:109070284:3347:B215-3C0A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+eskd
+
+./tex/latex/eskd:
+eskd.cls

@@ -1,0 +1,14 @@
+:rmpage:ctan:0.27648:109070284:61246:114E-96F7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+rmpage
+
+./tex/latex/rmpage:
+rmpage.sty
+rmpgen.cfg

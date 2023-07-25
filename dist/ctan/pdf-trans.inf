@@ -1,0 +1,13 @@
+:pdf-trans:ctan:0.0512:109070284:9830:4E8-6DC0:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+pdf-trans
+
+./tex/generic/pdf-trans:
+pdf-trans.tex

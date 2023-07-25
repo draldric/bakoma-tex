@@ -1,0 +1,15 @@
+:xskak:ctan:0.09216:109070284:13033:2A5F-F981:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xskak
+
+./tex/latex/xskak:
+xskak-keys.sty
+xskak-nagdef.sty
+xskak.sty

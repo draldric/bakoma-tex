@@ -1,0 +1,16 @@
+:tablists.doc:ctan:0.27648:109070284:202811:9D8-6FEF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tablists
+
+./doc/latex/tablists:
+readme
+tablists-rus.pdf
+tablists-rus.tex
+tablists.pdf

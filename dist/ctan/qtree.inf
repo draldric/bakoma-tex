@@ -1,0 +1,13 @@
+:qtree:ctan:0.04096:109070284:7696:B56F-3837:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+qtree
+
+./tex/latex/qtree:
+qtree.sty

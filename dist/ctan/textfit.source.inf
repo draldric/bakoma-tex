@@ -1,0 +1,14 @@
+:textfit.source:ctan:0.02048:109070284:3222:DCF7-7B27:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+textfit
+
+./source/latex/textfit:
+textfit.dtx
+textfit.ins

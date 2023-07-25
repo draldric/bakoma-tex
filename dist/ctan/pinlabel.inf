@@ -1,0 +1,13 @@
+:pinlabel:ctan:0.04096:109070284:10272:9EBA-55DE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pinlabel
+
+./tex/latex/pinlabel:
+pinlabel.sty

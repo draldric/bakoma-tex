@@ -1,0 +1,14 @@
+:rmpage.doc:ctan:0.55296:109070284:148094:5C50-C8F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+rmpage
+
+./doc/latex/rmpage:
+rmpage.dvi
+rmpage.tex

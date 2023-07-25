@@ -1,0 +1,13 @@
+:cweb.doc:ctan:0.14336:109070284:52606:6028-1745:
+
+./:
+doc
+
+./doc:
+plain
+
+./doc/plain:
+cweb
+
+./doc/plain/cweb:
+cwebman.dvi

@@ -1,0 +1,13 @@
+:pmat.doc:ctan3:0.069061:109073048:60000:5AF2-ED35:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pmat
+
+./doc/latex/pmat:
+pmat.pdf

@@ -1,0 +1,13 @@
+:semantic.doc:ctan:0.39936:109070284:357472:6D4F-725:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+semantic
+
+./doc/latex/semantic:
+semantic.pdf

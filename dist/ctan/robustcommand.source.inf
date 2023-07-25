@@ -1,0 +1,14 @@
+:robustcommand.source:ctan:0.01024:109070284:2603:AD1F-1622:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+robustcommand
+
+./source/latex/robustcommand:
+robustcommand.dtx
+robustcommand.ins

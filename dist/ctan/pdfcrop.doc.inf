@@ -1,0 +1,13 @@
+:pdfcrop.doc:ctan:0.01024:109070284:2443:679B-6413:
+
+./:
+doc
+
+./doc:
+support
+
+./doc/support:
+pdfcrop
+
+./doc/support/pdfcrop:
+readme

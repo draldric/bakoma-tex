@@ -1,0 +1,17 @@
+:exceltex.doc:ctan:0.04096:109070284:13510:ED14-7F1C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+exceltex
+
+./doc/latex/exceltex:
+changes
+exceltex
+install
+manpage.pdf
+readme

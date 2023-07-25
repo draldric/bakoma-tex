@@ -1,0 +1,16 @@
+:iso10303.doc:ctan:0.96256:109070284:685066:F96D-9A4F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+iso10303
+
+./doc/latex/iso10303:
+readme
+step4ht.pdf
+stepe.pdf
+stepman.pdf

@@ -1,0 +1,14 @@
+:augie.doc:ctan:0.01024:109070284:2245:F613-7D60:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+augie
+
+./doc/latex/augie:
+augie.txt
+readme.augie

@@ -1,0 +1,13 @@
+:numname.doc:ctan:0.01024:109070284:287:B11E-D7E7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+numname
+
+./doc/latex/numname:
+readme

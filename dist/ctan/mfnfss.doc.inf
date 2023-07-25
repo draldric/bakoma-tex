@@ -1,0 +1,15 @@
+:mfnfss.doc:ctan:0.02048:109070284:2323:6E24-9CA6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mfnfss
+
+./doc/latex/mfnfss:
+changes.txt
+manifest.txt
+readme.txt

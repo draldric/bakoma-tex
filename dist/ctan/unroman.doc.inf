@@ -1,0 +1,14 @@
+:unroman.doc:ctan:0.11264:109070284:79980:9CED-88A6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+unroman
+
+./doc/latex/unroman:
+readme
+unroman.pdf

@@ -1,0 +1,14 @@
+:epsf:ctan:0.06144:109070284:6992:CD1A-A035:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+epsf
+
+./tex/generic/epsf:
+epsf.sty
+epsf.tex

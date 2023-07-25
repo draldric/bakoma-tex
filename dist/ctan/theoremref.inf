@@ -1,0 +1,13 @@
+:theoremref:ctan:0.02048:109070284:3370:B046-7F03:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+theoremref
+
+./tex/latex/theoremref:
+theoremref.sty

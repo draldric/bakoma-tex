@@ -1,0 +1,13 @@
+:schemabloc:ctan:0.02048:109070284:1885:CD49-D5A4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+schemabloc
+
+./tex/latex/schemabloc:
+schemabloc.sty

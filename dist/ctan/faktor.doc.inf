@@ -1,0 +1,14 @@
+:faktor.doc:ctan:0.11264:109070284:80615:C772-C48B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+faktor
+
+./doc/latex/faktor:
+faktor.pdf
+readme

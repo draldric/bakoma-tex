@@ -1,0 +1,14 @@
+:dottex.source:ctan:0.03072:109070284:4389:D6EE-DB70:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dottex
+
+./source/latex/dottex:
+dottex.dtx
+dottex.ins

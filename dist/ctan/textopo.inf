@@ -1,0 +1,15 @@
+:textopo:ctan:0.27648:109070284:31306:F866-DA7C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+textopo
+
+./tex/latex/textopo:
+biotex.sty
+textopo.def
+textopo.sty

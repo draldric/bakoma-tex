@@ -1,0 +1,17 @@
+:fink.doc:ctan:0.09216:109070284:61438:A5EE-23D3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fink
+
+./doc/latex/fink:
+fink.el
+fink.pdf
+news
+readme
+thanks

@@ -1,0 +1,13 @@
+:cmcyralt.doc:ctan:0.03072:109070284:9315:3936-243A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cmcyralt
+
+./doc/latex/cmcyralt:
+rhyphen.tex

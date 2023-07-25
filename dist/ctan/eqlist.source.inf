@@ -1,0 +1,14 @@
+:eqlist.source:ctan:0.03072:109070284:6163:8492-2A28:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+eqlist
+
+./source/latex/eqlist:
+eqlist.dtx
+eqlist.ins

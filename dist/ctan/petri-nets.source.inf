@@ -1,0 +1,14 @@
+:petri-nets.source:ctan:0.03072:109070284:7480:A976-4458:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+petri-nets
+
+./source/latex/petri-nets:
+copying
+pn2pdf

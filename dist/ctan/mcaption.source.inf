@@ -1,0 +1,14 @@
+:mcaption.source:ctan:0.03072:109070284:6290:404D-942F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mcaption
+
+./source/latex/mcaption:
+mcaption.dtx
+mcaption.ins

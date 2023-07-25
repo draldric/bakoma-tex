@@ -1,0 +1,10 @@
+:exteps:ctan:0.02048:109070284:2568:68E4-B418:
+
+./:
+metapost
+
+./metapost:
+exteps
+
+./metapost/exteps:
+exteps.mp

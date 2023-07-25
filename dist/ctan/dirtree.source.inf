@@ -1,0 +1,14 @@
+:dirtree.source:ctan:0.03072:109070284:7295:DB9A-9957:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+dirtree
+
+./source/generic/dirtree:
+dirtree.dtx
+dirtree.ins

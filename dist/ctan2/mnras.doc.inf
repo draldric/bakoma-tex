@@ -1,0 +1,14 @@
+:mnras.doc:ctan2:0.221598:109073048:181526:196B-12EE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mnras
+
+./doc/latex/mnras:
+mn2eguide.pdf
+readme.txt

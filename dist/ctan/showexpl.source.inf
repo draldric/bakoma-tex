@@ -1,0 +1,14 @@
+:showexpl.source:ctan:0.04096:109070284:8044:F11C-4425:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+showexpl
+
+./source/latex/showexpl:
+showexpl.dtx
+showexpl.ins

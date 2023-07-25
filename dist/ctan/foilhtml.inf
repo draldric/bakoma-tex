@@ -1,0 +1,14 @@
+:foilhtml:ctan:0.02048:109070284:3042:7BE7-EA6C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+foilhtml
+
+./tex/latex/foilhtml:
+foilhtml.cfg
+foilhtml.sty

@@ -1,0 +1,14 @@
+:itnumpar.doc:ctan:0.1536:109070284:126937:9C83-1EAA:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+itnumpar
+
+./doc/latex/itnumpar:
+itnumpar.pdf
+readme

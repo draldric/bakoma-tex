@@ -1,0 +1,17 @@
+:pdfpages:ctan:0.08192:109070284:11458:DF52-3850:eso-pic
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pdfpages
+
+./tex/latex/pdfpages:
+pdfpages.sty
+ppnull.def
+pppdftex.def
+ppvtex.def
+ppxetex.def

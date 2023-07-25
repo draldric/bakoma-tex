@@ -1,0 +1,14 @@
+:seqsplit.doc:ctan:0.13312:109070284:110102:2549-38D9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+seqsplit
+
+./doc/latex/seqsplit:
+readme
+seqsplit.pdf

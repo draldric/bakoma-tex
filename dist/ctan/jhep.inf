@@ -1,0 +1,13 @@
+:jhep:ctan:0.06144:109070284:15384:80D9-FECC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+jhep
+
+./tex/latex/jhep:
+jhep.cls

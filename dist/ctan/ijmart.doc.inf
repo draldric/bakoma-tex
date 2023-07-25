@@ -1,0 +1,16 @@
+:ijmart.doc:ctan:0.77824:109070284:588915:B35A-EAE4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ijmart
+
+./doc/latex/ijmart:
+ijmart.pdf
+ijmsample.pdf
+ijmsample.tex
+readme

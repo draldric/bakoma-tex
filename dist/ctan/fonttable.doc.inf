@@ -1,0 +1,14 @@
+:fonttable.doc:ctan:0.19456:109070284:155007:4A43-3426:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fonttable
+
+./doc/latex/fonttable:
+fonttable.pdf
+readme

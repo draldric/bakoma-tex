@@ -1,0 +1,16 @@
+:pdfslide.doc:ctan:0.27648:109070284:165280:6D30-BA31:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pdfslide
+
+./doc/latex/pdfslide:
+demo.pdf
+manual.tex
+meta.mp
+mpgraph.pdf

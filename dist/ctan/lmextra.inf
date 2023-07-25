@@ -1,0 +1,16 @@
+:lmextra:ctan:0.13312:109070284:32739:85C6-A97A:
+
+./:
+fonts
+
+./fonts:
+truetype
+
+./fonts/truetype:
+hoekwater
+
+./fonts/truetype/hoekwater:
+lmextra
+
+./fonts/truetype/hoekwater/lmextra:
+lmtypewriter10-regular.ttf

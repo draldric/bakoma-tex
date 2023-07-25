@@ -1,0 +1,15 @@
+:juraabbrev.doc:ctan:0.49152:109070284:447174:C722-A8BB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+juraabbrev
+
+./doc/latex/juraabbrev:
+abbrevtest.tex
+juraabbrev.pdf
+readme

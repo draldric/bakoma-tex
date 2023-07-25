@@ -1,0 +1,15 @@
+:morehelp:ctan2:0.017727:109070768:5748:9FAE-BE3C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+morehelp
+
+./tex/latex/morehelp:
+morehelp.dyn
+morehelp.eng
+morehelp.sty

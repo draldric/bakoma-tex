@@ -1,0 +1,13 @@
+:patch.source:ctan:0.03072:109070284:8604:20CD-EDF7:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+patch
+
+./source/generic/patch:
+patch.doc

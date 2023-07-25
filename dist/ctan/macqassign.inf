@@ -1,0 +1,13 @@
+:macqassign:ctan:0.01024:109070284:1704:9CBE-55F1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+macqassign
+
+./tex/latex/macqassign:
+macqassign.cls

@@ -1,0 +1,14 @@
+:synttree.doc:ctan:0.17408:109070284:133071:32F3-EDD6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+synttree
+
+./doc/latex/synttree:
+readme
+synttree.pdf

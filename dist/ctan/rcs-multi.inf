@@ -1,0 +1,13 @@
+:rcs-multi:ctan:0.02048:109070284:2551:2348-A6D3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+rcs-multi
+
+./tex/latex/rcs-multi:
+rcs-multi.sty

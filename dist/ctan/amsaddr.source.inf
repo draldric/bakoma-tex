@@ -1,0 +1,14 @@
+:amsaddr.source:ctan:0.02048:109070284:3736:EC9E-FB81:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+amsaddr
+
+./source/latex/amsaddr:
+amsaddr.dtx
+amsaddr.ins

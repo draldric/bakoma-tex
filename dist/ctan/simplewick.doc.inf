@@ -1,0 +1,14 @@
+:simplewick.doc:ctan:0.09216:109070284:71354:8FF6-82A8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+simplewick
+
+./doc/latex/simplewick:
+readme
+simplewick.pdf

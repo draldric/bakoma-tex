@@ -1,0 +1,15 @@
+:mff.source:ctan:0.01024:109070284:384:79E8-642E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mff
+
+./source/latex/mff:
+file_id.diz
+mff.mfj
+test.bat

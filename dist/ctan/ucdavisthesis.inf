@@ -1,0 +1,17 @@
+:ucdavisthesis:ctan:0.06144:109070284:10149:AE90-AF79:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ucdavisthesis
+
+./tex/latex/ucdavisthesis:
+ucdavisthesis.cls
+ucdthesis10.clo
+ucdthesis11.clo
+ucdthesis12.clo
+ucdthesis13.clo

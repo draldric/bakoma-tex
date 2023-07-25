@@ -1,0 +1,13 @@
+:postcards:ctan:0.01024:109070284:1364:C53-5730:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+postcards
+
+./tex/latex/postcards:
+postcards.cls

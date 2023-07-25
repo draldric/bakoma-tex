@@ -1,0 +1,14 @@
+:eso-pic:ctan:0.02048:109070284:2998:B9B8-A379:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+eso-pic
+
+./tex/latex/eso-pic:
+eso-pic.sty
+showframe.sty

@@ -1,0 +1,14 @@
+:jura:ctan:0.02048:109070284:3520:6A7B-3DC3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+jura
+
+./tex/latex/jura:
+alphanum.sty
+jura.cls

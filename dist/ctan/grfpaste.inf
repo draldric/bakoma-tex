@@ -1,0 +1,13 @@
+:grfpaste:ctan:0.01024:109070284:2900:3570-BC31:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+grfpaste
+
+./tex/latex/grfpaste:
+grfpaste.sty

@@ -1,0 +1,15 @@
+:wasysym.doc:ctan:0.11264:109070284:90621:E0A5-B7F4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+wasysym
+
+./doc/latex/wasysym:
+wasysym.pdf
+wasysym.upl
+wasysym.xml

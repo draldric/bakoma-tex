@@ -1,0 +1,13 @@
+:york-thesis:ctan:0.02048:109070284:3897:F698-8573:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+york-thesis
+
+./tex/latex/york-thesis:
+york-thesis.cls

@@ -1,0 +1,14 @@
+:cleveref.source:ctan:0.256:109070284:38632:835A-BA62:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cleveref
+
+./source/latex/cleveref:
+cleveref.dtx
+cleveref.ins

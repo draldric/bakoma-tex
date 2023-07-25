@@ -1,0 +1,17 @@
+:dramatist.doc:ctan:0.33792:109070284:262690:A282-8131:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dramatist
+
+./doc/latex/dramatist:
+dramatist.pdf
+marlowe-poemscol.tex
+marlowe-verse.tex
+readme
+schiller.tex

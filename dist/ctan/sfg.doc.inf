@@ -1,0 +1,15 @@
+:sfg.doc:ctan:0.01024:109070284:747:CBAE-D48F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sfg
+
+./doc/latex/sfg:
+changes
+readme
+sfg_test.tex

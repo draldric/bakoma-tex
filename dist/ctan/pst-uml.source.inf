@@ -1,0 +1,13 @@
+:pst-uml.source:ctan:0.01024:109070284:2168:F6E-C9E5:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-uml
+
+./source/generic/pst-uml:
+makefile

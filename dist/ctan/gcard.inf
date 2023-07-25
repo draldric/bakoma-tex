@@ -1,0 +1,13 @@
+:gcard:ctan:0.01024:109070284:1196:35A4-597C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gcard
+
+./tex/latex/gcard:
+gcard.sty

@@ -1,0 +1,17 @@
+:musixlyr.doc:ctan:0.18432:109070284:55057:D26C-AFE4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+musixlyr
+
+./doc/latex/musixlyr:
+copying
+mxlyrdoc.dvi
+mxlyrdoc.mx1
+mxlyrdoc.tex
+readme

@@ -1,0 +1,14 @@
+:chemcono.doc:ctan:0.02048:109070284:7203:4B77-409B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+chemcono
+
+./doc/latex/chemcono:
+example.dvi
+example.tex

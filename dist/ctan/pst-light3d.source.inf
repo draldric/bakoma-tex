@@ -1,0 +1,13 @@
+:pst-light3d.source:ctan:0.01024:109070284:562:329C-B76E:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-light3d
+
+./source/generic/pst-light3d:
+makefile

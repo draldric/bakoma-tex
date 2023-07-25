@@ -1,0 +1,13 @@
+:xfor:ctan:0.01024:109070284:1268:D8D5-E58D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xfor
+
+./tex/latex/xfor:
+xfor.sty

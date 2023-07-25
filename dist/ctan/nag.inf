@@ -1,0 +1,17 @@
+:nag:ctan:0.04096:109070284:6406:49BE-DED9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nag
+
+./tex/latex/nag:
+nag-abort.cfg
+nag-experimental.cfg
+nag-l2tabu.cfg
+nag-orthodox.cfg
+nag.sty

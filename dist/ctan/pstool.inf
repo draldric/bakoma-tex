@@ -1,0 +1,13 @@
+:pstool:ctan:0.02048:109070284:4358:CD4A-40CA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pstool
+
+./tex/latex/pstool:
+pstool.sty

@@ -1,0 +1,16 @@
+:etoolbox.doc:ctan:0.31744:109070284:175949:CEE8-C199:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+etoolbox
+
+./doc/latex/etoolbox:
+etoolbox.pdf
+etoolbox.tex
+license
+readme

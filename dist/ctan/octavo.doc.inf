@@ -1,0 +1,15 @@
+:octavo.doc:ctan:0.19456:109070284:84801:B6E0-4991:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+octavo
+
+./doc/latex/octavo:
+changes
+readme
+tub-octavo.pdf

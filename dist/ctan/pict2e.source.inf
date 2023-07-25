@@ -1,0 +1,15 @@
+:pict2e.source:ctan:0.1536:109070284:31849:AE5F-930F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pict2e
+
+./source/latex/pict2e:
+p2e-drivers.dtx
+pict2e.dtx
+pict2e.ins

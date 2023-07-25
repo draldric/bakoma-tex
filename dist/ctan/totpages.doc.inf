@@ -1,0 +1,15 @@
+:totpages.doc:ctan:0.21504:109070284:176984:69C8-9CA6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+totpages
+
+./doc/latex/totpages:
+readme
+totexmpl.tex
+totpages.pdf

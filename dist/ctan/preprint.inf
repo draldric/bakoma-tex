@@ -1,0 +1,17 @@
+:preprint:ctan:0.04096:109070284:6527:D15A-74:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+preprint
+
+./tex/latex/preprint:
+authblk.sty
+balance.sty
+figcaps.sty
+fullpage.sty
+sublabel.sty

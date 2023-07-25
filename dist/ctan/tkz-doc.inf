@@ -1,0 +1,13 @@
+:tkz-doc:ctan:0.02048:109070284:4220:AEA7-D3A3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tkz-doc
+
+./tex/latex/tkz-doc:
+tkz-doc.cls

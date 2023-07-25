@@ -1,0 +1,13 @@
+:makecell.source:ctan:0.06144:109070284:12853:9FD9-B8F5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+makecell
+
+./source/latex/makecell:
+makecell.dtx

@@ -1,0 +1,17 @@
+:startex.source:ctan:0.11264:109070284:26748:8265-F1B8:
+
+./:
+source
+
+./source:
+startex
+
+./source/startex:
+base
+
+./source/startex/base:
+install
+readme
+startex.bib
+startex.dtx
+startex.ins

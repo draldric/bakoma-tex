@@ -1,0 +1,13 @@
+:mcaption:ctan:0.01024:109070284:1312:46D9-A574:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mcaption
+
+./tex/latex/mcaption:
+mcaption.sty

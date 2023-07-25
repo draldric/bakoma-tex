@@ -1,0 +1,14 @@
+:booklet.doc:ctan:0.26624:109070284:210755:177F-FF65:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+booklet
+
+./doc/latex/booklet:
+booklet.pdf
+readme

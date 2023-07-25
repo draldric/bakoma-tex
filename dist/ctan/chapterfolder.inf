@@ -1,0 +1,13 @@
+:chapterfolder:ctan:0.01024:109070284:1093:9688-EB60:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+chapterfolder
+
+./tex/latex/chapterfolder:
+chapterfolder.sty

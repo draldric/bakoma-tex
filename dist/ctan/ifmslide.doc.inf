@@ -1,0 +1,16 @@
+:ifmslide.doc:ctan:0.41984:109070284:204966:2A70-652E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ifmslide
+
+./doc/latex/ifmslide:
+ifmman.dep
+ifmman.pdf
+ifmman.tex
+readme

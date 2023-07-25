@@ -1,0 +1,14 @@
+:environ.doc:ctan:0.14336:109070284:118878:364E-BB4F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+environ
+
+./doc/latex/environ:
+environ.pdf
+readme

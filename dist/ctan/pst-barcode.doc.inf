@@ -1,0 +1,16 @@
+:pst-barcode.doc:ctan:0.3072:109070284:201244:5B2D-F999:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-barcode
+
+./doc/generic/pst-barcode:
+pst-barcode-doc.bib
+pst-barcode-doc.pdf
+pst-barcode-doc.tex
+readme

@@ -1,0 +1,14 @@
+:ellipsis.source:ctan:0.03072:109070284:6937:2FC5-D370:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ellipsis
+
+./source/latex/ellipsis:
+ellipsis.dtx
+ellipsis.ins

@@ -1,0 +1,17 @@
+:fc.doc:ctan:0.09216:109070284:24967:F040-D91:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+fc
+
+./doc/fonts/fc:
+fc.bug
+fc.rme
+fctugbot.tex
+fontdef.fc_old
+licence.gnu

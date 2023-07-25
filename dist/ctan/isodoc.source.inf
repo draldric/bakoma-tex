@@ -1,0 +1,14 @@
+:isodoc.source:ctan:0.09216:109070284:21267:584D-D76:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+isodoc
+
+./source/latex/isodoc:
+isodoc.dtx
+isodoc.ins

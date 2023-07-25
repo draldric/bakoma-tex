@@ -1,0 +1,14 @@
+:vita.doc:ctan:0.01024:109070284:795:3B60-AE8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+vita
+
+./doc/latex/vita:
+00content
+read.me

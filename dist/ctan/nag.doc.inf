@@ -1,0 +1,15 @@
+:nag.doc:ctan:0.2048:109070284:179638:AF6E-8C0B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+nag
+
+./doc/latex/nag:
+nag.pdf
+nagdemo.tex
+readme

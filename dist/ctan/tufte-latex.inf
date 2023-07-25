@@ -1,0 +1,13 @@
+:tufte-latex:ctan:0.02048:109070284:4681:E7D4-57B6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tufte-latex
+
+./tex/latex/tufte-latex:
+tufte-handout.cls

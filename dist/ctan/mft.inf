@@ -1,0 +1,15 @@
+:mft:ctan:0.03072:109070284:4121:9BCE-6E36:
+
+./:
+mft
+
+./mft:
+base
+
+./mft/base:
+cmbase.mft
+e.mft
+mplain.mft
+pl.mft
+plain.mft
+readme

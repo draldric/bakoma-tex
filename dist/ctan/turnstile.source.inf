@@ -1,0 +1,16 @@
+:turnstile.source:ctan:0.0512:109070284:7597:3000-B8A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+turnstile
+
+./source/latex/turnstile:
+turnstile-en.dtx
+turnstile-en.ins
+turnstile-pt.dtx
+turnstile-pt.ins

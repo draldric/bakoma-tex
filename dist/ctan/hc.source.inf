@@ -1,0 +1,14 @@
+:hc.source:ctan:0.06144:109070284:13828:BC69-C8A3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+hc
+
+./source/latex/hc:
+hc.dtx
+hc.ins

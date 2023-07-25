@@ -1,0 +1,14 @@
+:margbib.source:ctan:0.02048:109070284:3959:23C6-E758:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+margbib
+
+./source/latex/margbib:
+margbib.dtx
+margbib.ins

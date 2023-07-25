@@ -1,0 +1,15 @@
+:easylist.doc:ctan:0.41984:109070284:230615:3C63-B5F8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+easylist
+
+./doc/latex/easylist:
+easylist-doc.pdf
+easylist-doc.tex
+readme

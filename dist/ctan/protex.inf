@@ -1,0 +1,14 @@
+:protex:ctan:0.07168:109070284:13912:620C-A09D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+protex
+
+./tex/latex/protex:
+alprotex.sty
+protex.sty

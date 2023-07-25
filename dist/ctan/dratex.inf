@@ -1,0 +1,16 @@
+:dratex:ctan:0.22528:109070284:44897:7C02-8C09:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+dratex
+
+./tex/generic/dratex:
+aldratex.sty
+dratex.sty
+texproject.sty
+wotree.sty

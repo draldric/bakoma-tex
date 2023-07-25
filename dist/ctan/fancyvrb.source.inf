@@ -1,0 +1,16 @@
+:fancyvrb.source:ctan:0.19456:109070284:34284:2A1B-B4DF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fancyvrb
+
+./source/latex/fancyvrb:
+fancyvrb.dtx
+fancyvrb.ins
+fvrb-ex.dtx
+fvrb-ex.ins

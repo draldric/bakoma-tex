@@ -1,0 +1,14 @@
+:eqparbox.source:ctan:0.04096:109070284:9329:B8C6-9E18:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+eqparbox
+
+./source/latex/eqparbox:
+eqparbox.dtx
+eqparbox.ins

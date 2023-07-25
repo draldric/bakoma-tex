@@ -1,0 +1,14 @@
+:fontspec.source:ctan:0.2048:109070284:48747:C7A9-E37F:
+
+./:
+source
+
+./source:
+xelatex
+
+./source/xelatex:
+fontspec
+
+./source/xelatex/fontspec:
+fontspec.dtx
+fontspec.ins

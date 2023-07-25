@@ -1,0 +1,14 @@
+:vwcol.doc:ctan:0.17408:109070284:148317:3783-73D5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+vwcol
+
+./doc/latex/vwcol:
+readme
+vwcol.pdf

@@ -1,0 +1,14 @@
+:rccol.source:ctan:0.04096:109070284:8908:2A2E-66CA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+rccol
+
+./source/latex/rccol:
+rccol.dtx
+rccol.ins

@@ -1,0 +1,15 @@
+:t-angles.doc:ctan:0.1536:109070284:117361:E8E4-638D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+t-angles
+
+./doc/latex/t-angles:
+readme
+t-manual.pdf
+t-manual.tex

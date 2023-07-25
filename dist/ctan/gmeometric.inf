@@ -1,0 +1,13 @@
+:gmeometric:ctan:0.02048:109070284:4876:4460-A069:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gmeometric
+
+./tex/latex/gmeometric:
+gmeometric.sty

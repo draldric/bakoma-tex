@@ -1,0 +1,14 @@
+:savetrees.source:ctan:0.12288:109070284:25683:8159-DA05:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+savetrees
+
+./source/latex/savetrees:
+savetrees.dtx
+savetrees.ins

@@ -1,0 +1,17 @@
+:context-games.doc:ctan:0.04096:109070284:34999:5D06-2693:
+
+./:
+doc
+
+./doc:
+context
+
+./doc/context:
+third
+
+./doc/context/third:
+games
+
+./doc/context/third/games:
+games-doc.pdf
+readme

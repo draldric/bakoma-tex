@@ -1,0 +1,13 @@
+:gu:ctan:0.04096:109070284:5658:C323-D547:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gu
+
+./tex/latex/gu:
+gu.sty

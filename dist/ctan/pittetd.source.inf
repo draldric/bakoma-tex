@@ -1,0 +1,14 @@
+:pittetd.source:ctan:0.1536:109070284:38349:9E0F-6CE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pittetd
+
+./source/latex/pittetd:
+pittetd.dtx
+pittetd.ins

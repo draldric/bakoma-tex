@@ -1,0 +1,15 @@
+:omega.doc:ctan:0.5632:109070284:194600:9C69-B5E:
+
+./:
+doc
+
+./doc:
+omega
+
+./doc/omega:
+base
+
+./doc/omega/base:
+doc-1.8.tex
+torture.ps
+torture.tex

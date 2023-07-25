@@ -1,0 +1,13 @@
+:mathexam:ctan:0.01024:109070284:1083:E7B7-BE0A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mathexam
+
+./tex/latex/mathexam:
+mathexam.sty

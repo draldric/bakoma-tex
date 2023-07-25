@@ -1,0 +1,17 @@
+:msg:ctan:0.04096:109070284:7246:14F0-16D8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+msg
+
+./tex/latex/msg:
+french_msg-msg.tex
+german_msg-msg.tex
+msg-msg.tex
+msg.sty
+norsk_msg-msg.tex

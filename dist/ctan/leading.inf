@@ -1,0 +1,13 @@
+:leading:ctan:0.01024:109070284:666:B715-1465:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+leading
+
+./tex/latex/leading:
+leading.sty

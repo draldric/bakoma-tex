@@ -1,0 +1,14 @@
+:gmutils.doc:ctan:1.44384:109070284:417283:542A-6D84:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gmutils
+
+./doc/latex/gmutils:
+gmutils.pdf
+readme

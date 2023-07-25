@@ -1,0 +1,14 @@
+:todonotes.source:ctan:0.0512:109070284:11529:8C66-6B2D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+todonotes
+
+./source/latex/todonotes:
+todonotes.dtx
+todonotes.ins

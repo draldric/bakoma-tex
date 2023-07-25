@@ -1,0 +1,14 @@
+:svn-prov.doc:ctan:0.17408:109070284:134433:E929-B9BA:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+svn-prov
+
+./doc/latex/svn-prov:
+readme
+svn-prov.pdf

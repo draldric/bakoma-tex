@@ -1,0 +1,15 @@
+:galois.source:ctan:0.03072:109070284:6187:26B1-AD59:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+galois
+
+./source/latex/galois:
+galois.dtx
+galois.ins
+makefile

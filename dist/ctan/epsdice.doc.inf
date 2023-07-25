@@ -1,0 +1,16 @@
+:epsdice.doc:ctan:0.09216:109070284:65885:4AD8-9115:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+epsdice
+
+./doc/latex/epsdice:
+dice.eps
+dice.pdf
+epsdice.pdf
+readme

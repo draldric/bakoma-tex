@@ -1,0 +1,17 @@
+:slantsc.doc:ctan:0.12288:109070284:92299:29DE-380A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+slantsc
+
+./doc/latex/slantsc:
+getversion.tex
+readme
+slantsc.pdf
+slantsc.xml
+testslantsc.tex

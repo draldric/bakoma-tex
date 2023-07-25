@@ -1,0 +1,13 @@
+:dinat:ctan:0.0512:109070284:8441:F5D4-ABE5:
+
+./:
+bibtex
+
+./bibtex:
+bst
+
+./bibtex/bst:
+dinat
+
+./bibtex/bst/dinat:
+dinat.bst

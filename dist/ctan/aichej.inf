@@ -1,0 +1,13 @@
+:aichej:ctan:0.03072:109070284:5824:14CB-A641:
+
+./:
+bibtex
+
+./bibtex:
+bst
+
+./bibtex/bst:
+aichej
+
+./bibtex/bst/aichej:
+aichej.bst

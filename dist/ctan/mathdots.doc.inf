@@ -1,0 +1,15 @@
+:mathdots.doc:ctan:0.12288:109070284:94833:3983-63FB:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+mathdots
+
+./doc/generic/mathdots:
+mathdots.pdf
+mdtest.tex
+readme

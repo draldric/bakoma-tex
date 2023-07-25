@@ -1,0 +1,14 @@
+:limap:ctan:0.03072:109070284:3465:7272-4A34:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+limap
+
+./tex/latex/limap:
+limap.cls
+limap.sty

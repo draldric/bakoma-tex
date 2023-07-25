@@ -1,0 +1,16 @@
+:captcont.doc:ctan:0.1536:109070284:100147:3FE9-8676:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+captcont
+
+./doc/latex/captcont:
+captcont.pdf
+ltxdoc.cfg
+readme
+test.tex

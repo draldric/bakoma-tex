@@ -1,0 +1,14 @@
+:dingbat.source:ctan:0.02048:109070284:3518:706D-F824:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dingbat
+
+./source/latex/dingbat:
+dingbat.dtx
+dingbat.ins

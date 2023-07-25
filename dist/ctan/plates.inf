@@ -1,0 +1,14 @@
+:plates:ctan:0.03072:109070284:5565:41A6-5AD7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+plates
+
+./tex/latex/plates:
+endplate.sty
+plates.sty

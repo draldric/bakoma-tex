@@ -1,0 +1,13 @@
+:lps:ctan:0.01024:109070284:1675:BF2A-3A5F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lps
+
+./tex/latex/lps:
+lps.cls

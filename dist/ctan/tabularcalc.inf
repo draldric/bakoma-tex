@@ -1,0 +1,13 @@
+:tabularcalc:ctan:0.03072:109070284:4447:5FC8-C6B3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tabularcalc
+
+./tex/latex/tabularcalc:
+tabularcalc.sty

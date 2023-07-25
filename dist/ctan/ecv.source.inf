@@ -1,0 +1,14 @@
+:ecv.source:ctan:0.0512:109070284:9639:6FED-A05F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ecv
+
+./source/latex/ecv:
+ecv.dtx
+ecv.ins

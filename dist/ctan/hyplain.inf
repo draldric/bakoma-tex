@@ -1,0 +1,16 @@
+:hyplain:ctan:0.02048:109070284:2652:545-B433:
+
+./:
+tex
+
+./tex:
+plain
+
+./tex/plain:
+hyplain
+
+./tex/plain/hyplain:
+hylang.tex
+hypdfplain.ini
+hyplain.tex
+hyrules.tex

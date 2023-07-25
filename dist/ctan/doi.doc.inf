@@ -1,0 +1,13 @@
+:doi.doc:ctan:0.01024:109070284:708:5D8B-7337:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+doi
+
+./doc/latex/doi:
+readme

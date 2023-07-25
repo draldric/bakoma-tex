@@ -1,0 +1,14 @@
+:termcal.source:ctan:0.03072:109070284:7380:3B7B-FA98:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+termcal
+
+./source/latex/termcal:
+termcal.dtx
+termcal.ins

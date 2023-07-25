@@ -1,0 +1,13 @@
+:fancyref:ctan:0.02048:109070284:2900:4CE2-BC17:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fancyref
+
+./tex/latex/fancyref:
+fancyref.sty

@@ -1,0 +1,13 @@
+:appendix:ctan:0.02048:109070284:2232:F2F2-671E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+appendix
+
+./tex/latex/appendix:
+appendix.sty

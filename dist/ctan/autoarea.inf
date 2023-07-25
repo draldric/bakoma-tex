@@ -1,0 +1,13 @@
+:autoarea:ctan:0.02048:109070284:3684:508C-CC66:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+autoarea
+
+./tex/latex/autoarea:
+autoarea.sty

@@ -1,0 +1,15 @@
+:modroman.doc:ctan:0.32768:109070284:302223:DAFF-1CA5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+modroman
+
+./doc/latex/modroman:
+lisezmoi
+modroman.pdf
+readme

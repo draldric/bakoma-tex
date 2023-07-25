@@ -1,0 +1,13 @@
+:braille:ctan:0.03072:109070284:5094:E0DF-D765:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+braille
+
+./tex/latex/braille:
+braille.sty

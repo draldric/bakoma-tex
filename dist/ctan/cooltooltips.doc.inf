@@ -1,0 +1,14 @@
+:cooltooltips.doc:ctan:0.23552:109070284:189348:EE8B-CDB3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cooltooltips
+
+./doc/latex/cooltooltips:
+cooltooltips.pdf
+readme

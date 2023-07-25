@@ -1,0 +1,14 @@
+:svn.doc:ctan:0.4608:109070284:440823:356E-17D2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+svn
+
+./doc/latex/svn:
+readme
+svn.pdf

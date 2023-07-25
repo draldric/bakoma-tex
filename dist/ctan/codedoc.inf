@@ -1,0 +1,13 @@
+:codedoc:ctan:0.0512:109070284:9462:41A5-CC54:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+codedoc
+
+./tex/latex/codedoc:
+codedoc.cls

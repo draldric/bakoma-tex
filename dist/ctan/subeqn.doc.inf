@@ -1,0 +1,15 @@
+:subeqn.doc:ctan:0.1024:109070284:79524:3C0C-6C9F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+subeqn
+
+./doc/latex/subeqn:
+manifest.txt
+subeqn.pdf
+subeqn.tex

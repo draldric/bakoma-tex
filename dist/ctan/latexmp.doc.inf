@@ -1,0 +1,14 @@
+:latexmp.doc:ctan:0.18432:109070284:147118:2838-3C5:
+
+./:
+doc
+
+./doc:
+metapost
+
+./doc/metapost:
+latexmp
+
+./doc/metapost/latexmp:
+latexmp.pdf
+readme

@@ -1,0 +1,17 @@
+:borceux:ctan:0.77824:109070284:26166:332-503:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+borceux
+
+./tex/generic/borceux:
+diagram
+maxidiagram
+microdiagram
+minidiagram
+multiplearrows

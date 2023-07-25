@@ -1,0 +1,16 @@
+:parallel.doc:ctan:0.1536:109070284:116776:AB5-AADF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+parallel
+
+./doc/latex/parallel:
+example1.tex
+example2.tex
+parallel.pdf
+readme

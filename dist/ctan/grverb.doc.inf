@@ -1,0 +1,15 @@
+:grverb.doc:ctan:0.01024:109070284:1138:C427-7C2B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+grverb
+
+./doc/latex/grverb:
+grv.dvi
+grv.tex
+readme

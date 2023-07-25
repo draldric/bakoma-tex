@@ -1,0 +1,16 @@
+:ean13isbn.doc:ctan:0.3584:109070284:312612:90CB-A579:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ean13isbn
+
+./doc/latex/ean13isbn:
+ean13isbn.pdf
+ean13isbn.tex
+license.txt
+readme

@@ -1,0 +1,13 @@
+:lazylist:ctan:0.01024:109070284:1184:1C21-8A9E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lazylist
+
+./tex/latex/lazylist:
+lazylist.sty

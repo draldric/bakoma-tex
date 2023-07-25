@@ -1,0 +1,16 @@
+:isodate.source:ctan:0.14336:109070284:19716:3B08-5FBD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+isodate
+
+./source/latex/isodate:
+isodate.dtx
+isodate.ins
+isodateo.dtx
+makefile

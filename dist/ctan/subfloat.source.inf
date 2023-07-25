@@ -1,0 +1,15 @@
+:subfloat.source:ctan:0.04096:109070284:6867:707A-B9A0:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+subfloat
+
+./source/latex/subfloat:
+makefile
+subfloat.dtx
+subfloat.ins

@@ -1,0 +1,16 @@
+:lhelp.source:ctan:0.09216:109070284:22855:7E29-3D85:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+lhelp
+
+./source/latex/lhelp:
+lhelp.drv
+lhelp.dtx
+lhelp.ins
+makefile

@@ -1,0 +1,14 @@
+:crop.doc:ctan:0.256:109070284:194972:A38-CC20:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+crop
+
+./doc/latex/crop:
+crop.pdf
+crop.txt

@@ -1,0 +1,14 @@
+:metalogo.source:ctan:0.03072:109070284:6824:AD66-AC5C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+metalogo
+
+./source/latex/metalogo:
+metalogo.dtx
+metalogo.ins

@@ -1,0 +1,14 @@
+:colorinfo.doc:ctan:0.01024:109070284:519:C479-E58C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+colorinfo
+
+./doc/latex/colorinfo:
+colorinfo-test.tex
+readme

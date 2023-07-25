@@ -1,0 +1,15 @@
+:bayer.doc:ctan:0.03072:109070284:10312:D944-A98F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bayer
+
+./doc/latex/bayer:
+forms.eps
+front.ps.gz
+readme

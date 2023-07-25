@@ -1,0 +1,13 @@
+:betababel:ctan:0.02048:109070284:2827:A25E-B9B1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+betababel
+
+./tex/latex/betababel:
+betababel.sty

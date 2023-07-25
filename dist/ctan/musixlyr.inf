@@ -1,0 +1,13 @@
+:musixlyr:ctan:0.04096:109070284:9209:B2D2-1575:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+musixlyr
+
+./tex/generic/musixlyr:
+musixlyr.tex

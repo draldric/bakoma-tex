@@ -1,0 +1,14 @@
+:thumb.doc:ctan:0.21504:109070284:194102:ADFF-8BC5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+thumb
+
+./doc/latex/thumb:
+readme
+thumb.pdf

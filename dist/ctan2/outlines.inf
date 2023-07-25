@@ -1,0 +1,13 @@
+:outlines:ctan2:0.003366:109070768:1196:10B-76AC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+outlines
+
+./tex/latex/outlines:
+outlines.sty

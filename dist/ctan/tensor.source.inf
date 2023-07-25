@@ -1,0 +1,14 @@
+:tensor.source:ctan:0.03072:109070284:7007:B6FF-54B7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tensor
+
+./source/latex/tensor:
+tensor.dtx
+tensor.ins

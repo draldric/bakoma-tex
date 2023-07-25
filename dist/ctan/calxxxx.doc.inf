@@ -1,0 +1,13 @@
+:calxxxx.doc:ctan:0.02048:109070284:3942:434F-9DF9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+calxxxx
+
+./doc/latex/calxxxx:
+readme.tex

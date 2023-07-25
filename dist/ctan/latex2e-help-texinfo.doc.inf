@@ -1,0 +1,10 @@
+:latex2e-help-texinfo.doc:ctan:3.11296:109070284:655210:C90-FFC1:
+
+./:
+doc
+
+./doc:
+info
+
+./doc/info:
+latex2e.info

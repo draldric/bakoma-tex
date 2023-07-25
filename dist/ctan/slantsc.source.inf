@@ -1,0 +1,15 @@
+:slantsc.source:ctan:0.03072:109070284:4973:ED45-84FD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+slantsc
+
+./source/latex/slantsc:
+makefile
+slantsc.dtx
+slantsc.ins

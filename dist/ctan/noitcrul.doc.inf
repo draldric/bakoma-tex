@@ -1,0 +1,14 @@
+:noitcrul.doc:ctan:0.11264:109070284:77899:84C1-808D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+noitcrul
+
+./doc/latex/noitcrul:
+noitcrul.pdf
+readme

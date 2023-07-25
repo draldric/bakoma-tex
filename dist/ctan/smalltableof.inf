@@ -1,0 +1,13 @@
+:smalltableof:ctan:0.01024:109070284:574:8B6-BF14:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+smalltableof
+
+./tex/latex/smalltableof:
+smalltableof.sty

@@ -1,0 +1,14 @@
+:cmdtrack.source:ctan:0.02048:109070284:5403:AE2B-60F3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cmdtrack
+
+./source/latex/cmdtrack:
+cmdtrack.dtx
+cmdtrack.ins

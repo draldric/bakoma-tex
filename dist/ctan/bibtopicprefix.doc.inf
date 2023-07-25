@@ -1,0 +1,15 @@
+:bibtopicprefix.doc:ctan:0.39936:109070284:374421:ADD9-20F8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bibtopicprefix
+
+./doc/latex/bibtopicprefix:
+bibtopicprefix.pdf
+bibtopicprefix.xml
+readme

@@ -1,0 +1,17 @@
+:plweb.source:ctan:0.0512:109070284:12699:9BCB-EB4C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+plweb
+
+./source/latex/plweb:
+makefile
+pl.dtx
+pl.ins
+readme
+sample.pl

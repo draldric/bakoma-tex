@@ -1,0 +1,13 @@
+:lifia-th.doc:ctan3:0.162165:109073044:134523:F6BA-2778:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lifia-th
+
+./doc/latex/lifia-th:
+lifia-th.pdf

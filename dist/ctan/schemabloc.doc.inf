@@ -1,0 +1,15 @@
+:schemabloc.doc:ctan:0.23552:109070284:151948:B0D5-6916:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+schemabloc
+
+./doc/latex/schemabloc:
+readme
+schemabloc.pdf
+schemabloc.tex

@@ -1,0 +1,13 @@
+:munich:ctan:0.04096:109070284:6497:9731-57FA:
+
+./:
+bibtex
+
+./bibtex:
+bst
+
+./bibtex/bst:
+munich
+
+./bibtex/bst/munich:
+munich.bst

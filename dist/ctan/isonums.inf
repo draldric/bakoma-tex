@@ -1,0 +1,13 @@
+:isonums:ctan:0.01024:109070284:1814:3C18-AD01:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+isonums
+
+./tex/latex/isonums:
+isonums.sty

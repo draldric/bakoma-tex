@@ -1,0 +1,13 @@
+:minutes:ctan:0.04096:109070284:8329:52B7-436:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+minutes
+
+./tex/latex/minutes:
+minutes.sty

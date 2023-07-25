@@ -1,0 +1,14 @@
+:opteng.doc:ctan2:0.047187:109073048:33018:6704-61E5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+opteng
+
+./doc/latex/opteng:
+optenginstruct.pdf
+readme

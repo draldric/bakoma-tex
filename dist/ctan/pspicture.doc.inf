@@ -1,0 +1,14 @@
+:pspicture.doc:ctan:0.07168:109070284:42369:BD84-F615:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pspicture
+
+./doc/latex/pspicture:
+pspicture.pdf
+readme

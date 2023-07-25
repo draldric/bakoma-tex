@@ -1,0 +1,14 @@
+:abstract.source:ctan:0.04096:109070284:7781:4297-5FDB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+abstract
+
+./source/latex/abstract:
+abstract.dtx
+abstract.ins

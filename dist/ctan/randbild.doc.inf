@@ -1,0 +1,14 @@
+:randbild.doc:ctan:0.19456:109070284:66846:482B-EAF0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+randbild
+
+./doc/latex/randbild:
+randbild.pdf
+readme

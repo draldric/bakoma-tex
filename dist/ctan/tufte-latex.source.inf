@@ -1,0 +1,15 @@
+:tufte-latex.source:ctan:0.04096:109070284:9024:E2C0-11F1:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tufte-latex
+
+./source/latex/tufte-latex:
+sample-handout.bib
+sample-handout.tex
+tufte-handout.cls

@@ -1,0 +1,13 @@
+:enumitem:ctan:0.03072:109070284:5011:903-7FDA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+enumitem
+
+./tex/latex/enumitem:
+enumitem.sty

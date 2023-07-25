@@ -1,0 +1,14 @@
+:fltpoint.doc:ctan:0.21504:109070284:177332:73BE-9163:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+fltpoint
+
+./doc/generic/fltpoint:
+fltpoint.pdf
+readme

@@ -1,0 +1,13 @@
+:courseoutline:ctan:0.02048:109070284:3061:6A2C-3BCD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+courseoutline
+
+./tex/latex/courseoutline:
+courseoutline.cls

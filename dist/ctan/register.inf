@@ -1,0 +1,13 @@
+:register:ctan:0.02048:109070284:3302:E1B8-BCE1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+register
+
+./tex/latex/register:
+register.sty

@@ -1,0 +1,17 @@
+:bibarts.doc:ctan:0.41984:109070284:273568:A974-4EC8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bibarts
+
+./doc/latex/bibarts:
+bibarts.pdf
+bibarts.tex
+gbib209.bat
+gbib2e.bat
+gbibsort.exe

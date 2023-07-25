@@ -1,0 +1,14 @@
+:gene-logic.doc:ctan:0.11264:109070284:66575:12CC-419D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gene-logic
+
+./doc/latex/gene-logic:
+gn-logic14.pdf
+gn-logic14.tex

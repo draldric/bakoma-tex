@@ -1,0 +1,13 @@
+:fourier.source:ctan:0.02048:109070284:3070:1956-FD28:
+
+./:
+source
+
+./source:
+fonts
+
+./source/fonts:
+fourier
+
+./source/fonts/fourier:
+makefile

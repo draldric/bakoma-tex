@@ -1,0 +1,13 @@
+:lewis:ctan:0.01024:109070284:653:8F85-9E89:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lewis
+
+./tex/latex/lewis:
+lewis.sty

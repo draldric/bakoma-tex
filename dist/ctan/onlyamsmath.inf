@@ -1,0 +1,13 @@
+:onlyamsmath:ctan:0.01024:109070284:974:533-678E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+onlyamsmath
+
+./tex/latex/onlyamsmath:
+onlyamsmath.sty

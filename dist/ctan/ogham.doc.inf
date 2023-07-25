@@ -1,0 +1,13 @@
+:ogham.doc:ctan:0.03072:109070284:11688:55BD-836E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ogham
+
+./doc/latex/ogham:
+testfont.pdf

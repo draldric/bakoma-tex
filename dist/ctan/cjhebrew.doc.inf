@@ -1,0 +1,14 @@
+:cjhebrew.doc:ctan:0.12288:109070284:95665:9FB9-E66:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+cjhebrew
+
+./doc/fonts/cjhebrew:
+cjhebtst.tex
+manual.pdf

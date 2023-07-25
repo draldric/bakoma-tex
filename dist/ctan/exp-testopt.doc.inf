@@ -1,0 +1,15 @@
+:exp-testopt.doc:ctan:0.16384:109070284:85193:F35A-3E9A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+exp-testopt
+
+./doc/latex/exp-testopt:
+exp-testopt.pdf
+exp-testopt.test
+readme

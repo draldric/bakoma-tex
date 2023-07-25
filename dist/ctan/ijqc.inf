@@ -1,0 +1,13 @@
+:ijqc:ctan:0.03072:109070284:5555:8FCB-893E:
+
+./:
+bibtex
+
+./bibtex:
+bst
+
+./bibtex/bst:
+ijqc
+
+./bibtex/bst/ijqc:
+ijqc.bst

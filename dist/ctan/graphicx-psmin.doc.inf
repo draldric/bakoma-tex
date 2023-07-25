@@ -1,0 +1,14 @@
+:graphicx-psmin.doc:ctan:0.11264:109070284:89665:C2FB-CEC0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+graphicx-psmin
+
+./doc/latex/graphicx-psmin:
+graphicx-psmin.pdf
+readme

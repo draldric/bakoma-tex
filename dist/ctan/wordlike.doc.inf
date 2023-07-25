@@ -1,0 +1,14 @@
+:wordlike.doc:ctan:0.13312:109070284:110284:EBA9-745F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+wordlike
+
+./doc/latex/wordlike:
+readme
+wordlike.pdf

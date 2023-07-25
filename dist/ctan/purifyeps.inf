@@ -1,0 +1,10 @@
+:purifyeps:ctan:0.02048:109070284:5551:5FE7-E0E5:
+
+./:
+scripts
+
+./scripts:
+purifyeps
+
+./scripts/purifyeps:
+purifyeps

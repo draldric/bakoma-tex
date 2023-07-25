@@ -1,0 +1,14 @@
+:stage.doc:ctan:0.11264:109070284:51122:5784-4B53:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+stage
+
+./doc/latex/stage:
+readme
+stage-documentation.pdf

@@ -1,0 +1,15 @@
+:pst-blur.doc:ctan:0.11264:109070284:78778:BF0D-2B34:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-blur
+
+./doc/generic/pst-blur:
+changes
+pst-blur.pdf
+readme

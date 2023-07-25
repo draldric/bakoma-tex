@@ -1,0 +1,13 @@
+:slantsc:ctan:0.01024:109070284:840:C616-9339:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+slantsc
+
+./tex/latex/slantsc:
+slantsc.sty

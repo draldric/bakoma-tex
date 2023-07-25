@@ -1,0 +1,13 @@
+:pst-uml:ctan:0.03072:109070284:6913:8614-3B18:multido
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-uml
+
+./tex/latex/pst-uml:
+pst-uml.sty

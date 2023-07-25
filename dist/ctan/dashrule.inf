@@ -1,0 +1,13 @@
+:dashrule:ctan:0.01024:109070284:834:4565-B598:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dashrule
+
+./tex/latex/dashrule:
+dashrule.sty

@@ -1,0 +1,14 @@
+:fancybox.doc:ctan:0.24576:109070284:180642:F7E-F879:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fancybox
+
+./doc/latex/fancybox:
+fancybox.doc
+fancybox.pdf

@@ -1,0 +1,16 @@
+:pst-infixplot.doc:ctan:0.34816:109070284:155139:4E9A-8E24:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-infixplot
+
+./doc/generic/pst-infixplot:
+pst-infixplot-doc.ps
+pst-infixplot-doc.tex
+pst-infixplot.pdf
+readme

@@ -1,0 +1,14 @@
+:dyntree.doc:ctan:0.16384:109070284:127352:DA40-9140:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dyntree
+
+./doc/latex/dyntree:
+dyntree.pdf
+readme

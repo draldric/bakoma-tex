@@ -1,0 +1,15 @@
+:tugboat-plain:ctan:0.12288:109070284:31526:8F9B-6902:
+
+./:
+tex
+
+./tex:
+plain
+
+./tex/plain:
+tugboat-plain
+
+./tex/plain/tugboat-plain:
+tugboat.cmn
+tugboat.sty
+tugproc.sty

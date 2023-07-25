@@ -1,0 +1,14 @@
+:ccaption.source:ctan:0.1536:109070284:34221:95E1-59D3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ccaption
+
+./source/latex/ccaption:
+ccaption.dtx
+ccaption.ins

@@ -1,0 +1,13 @@
+:texmate:ctan:0.03072:109070284:5391:5805-EE40:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+texmate
+
+./tex/latex/texmate:
+texmate.sty

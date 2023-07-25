@@ -1,0 +1,13 @@
+:histogr:ctan:0.01024:109070284:817:F3F9-DDE0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+histogr
+
+./tex/latex/histogr:
+histogr.sty

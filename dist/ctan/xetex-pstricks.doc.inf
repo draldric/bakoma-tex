@@ -1,0 +1,13 @@
+:xetex-pstricks.doc:ctan:0.01024:109070284:686:71D9-278F:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+xetex-pstricks
+
+./doc/generic/xetex-pstricks:
+readme

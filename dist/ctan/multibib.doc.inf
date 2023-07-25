@@ -1,0 +1,15 @@
+:multibib.doc:ctan:0.22528:109070284:188533:B854-2A54:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+multibib
+
+./doc/latex/multibib:
+bibtexall
+multibib.pdf
+readme

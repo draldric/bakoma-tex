@@ -1,0 +1,14 @@
+:mathexam.source:ctan:0.03072:109070284:5711:CD87-88:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mathexam
+
+./source/latex/mathexam:
+mathexam.dtx
+mathexam.ins

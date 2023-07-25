@@ -1,0 +1,17 @@
+:syntax.doc:ctan:0.14336:109070284:104223:4454-E52E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+syntax
+
+./doc/latex/syntax:
+readme
+syntaxintro.pdf
+syntaxintro.tex
+syntaxtest.pdf
+syntaxtest.tex

@@ -1,0 +1,13 @@
+:tokenizer:ctan:0.01024:109070284:1667:33A9-6647:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tokenizer
+
+./tex/latex/tokenizer:
+tokenizer.sty

@@ -1,0 +1,15 @@
+:thmtools.doc:ctan:0.1024:109070284:87340:F5DA-514:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+thmtools
+
+./doc/latex/thmtools:
+readme
+thmtools.pdf
+todo

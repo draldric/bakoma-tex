@@ -1,0 +1,16 @@
+:uml.doc:ctan:0.63488:109070284:418404:5712-3D7B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+uml
+
+./doc/latex/uml:
+changes
+example.tex
+readme
+uml.pdf

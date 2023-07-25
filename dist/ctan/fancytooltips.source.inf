@@ -1,0 +1,14 @@
+:fancytooltips.source:ctan:0.03072:109070284:7283:D760-298:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fancytooltips
+
+./source/latex/fancytooltips:
+fancytooltips.dtx
+fancytooltips.ins

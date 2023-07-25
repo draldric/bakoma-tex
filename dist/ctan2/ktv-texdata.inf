@@ -1,0 +1,13 @@
+:ktv-texdata:ctan2:0.007934:109070768:2075:A712-6F0D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ktv-texdata
+
+./tex/latex/ktv-texdata:
+ktv-texdata.sty

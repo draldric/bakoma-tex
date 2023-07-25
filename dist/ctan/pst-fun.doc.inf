@@ -1,0 +1,17 @@
+:pst-fun.doc:ctan:0.3584:109070284:324500:56EA-3321:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-fun
+
+./doc/generic/pst-fun:
+changes
+pst-fun-doc.bib
+pst-fun-doc.pdf
+pst-fun-doc.tex
+readme

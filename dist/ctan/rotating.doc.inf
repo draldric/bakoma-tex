@@ -1,0 +1,16 @@
+:rotating.doc:ctan:0.1536:109070284:96999:E4D0-A40E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+rotating
+
+./doc/latex/rotating:
+cat.eps
+examples.tex
+readme
+rotating.pdf

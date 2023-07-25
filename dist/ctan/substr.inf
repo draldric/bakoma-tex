@@ -1,0 +1,13 @@
+:substr:ctan:0.01024:109070284:1570:3C47-84AA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+substr
+
+./tex/latex/substr:
+substr.sty

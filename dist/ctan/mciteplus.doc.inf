@@ -1,0 +1,17 @@
+:mciteplus.doc:ctan:0.60416:109070284:424572:804E-DB1A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mciteplus
+
+./doc/latex/mciteplus:
+changelog.txt
+mciteplus_code.txt
+mciteplus_doc.pdf
+mciteplus_doc.tex
+readme

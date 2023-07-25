@@ -1,0 +1,17 @@
+:pst-ghsb.doc:ctan:0.1024:109070284:86526:582D-E740:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-ghsb
+
+./doc/generic/pst-ghsb:
+readme
+t-ghsb.pdf
+t-ghsb.tex
+t2-ghsb.pdf
+t2-ghsb.tex

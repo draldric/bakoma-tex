@@ -1,0 +1,15 @@
+:yafoot:ctan:0.03072:109070284:3418:6808-7BCF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+yafoot
+
+./tex/latex/yafoot:
+dblfnote.sty
+fnpos.sty
+pfnote.sty

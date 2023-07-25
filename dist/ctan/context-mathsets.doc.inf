@@ -1,0 +1,17 @@
+:context-mathsets.doc:ctan:0.41984:109070284:401372:FCCF-F487:
+
+./:
+doc
+
+./doc:
+context
+
+./doc/context:
+third
+
+./doc/context/third:
+mathsets
+
+./doc/context/third/mathsets:
+mathsets-doc.pdf
+readme

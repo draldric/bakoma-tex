@@ -1,0 +1,15 @@
+:vector.source:ctan:0.02048:109070284:3801:50B4-8A28:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+vector
+
+./source/latex/vector:
+vector.drv
+vector.dtx
+vector.ins

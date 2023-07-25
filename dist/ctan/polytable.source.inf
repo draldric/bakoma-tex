@@ -1,0 +1,14 @@
+:polytable.source:ctan:0.09216:109070284:21061:C81F-7068:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+polytable
+
+./source/latex/polytable:
+polytable.dtx
+polytable.ins

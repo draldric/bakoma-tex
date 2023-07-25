@@ -1,0 +1,11 @@
+:dviincl:ctan:0.01024:109070284:577:2262-7434:
+
+./:
+metapost
+
+./metapost:
+dviincl
+
+./metapost/dviincl:
+fix_brks.mp
+fix_page.mp

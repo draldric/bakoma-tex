@@ -1,0 +1,13 @@
+:sfg:ctan:0.03072:109070284:5809:5DF8-F5CB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sfg
+
+./tex/latex/sfg:
+sfg.sty

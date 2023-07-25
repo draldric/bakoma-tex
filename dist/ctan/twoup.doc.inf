@@ -1,0 +1,14 @@
+:twoup.doc:ctan:0.21504:109070284:171873:29D0-D0F4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+twoup
+
+./doc/latex/twoup:
+readme
+twoup.pdf

@@ -1,0 +1,14 @@
+:eCards.source:ctan:0.04096:109070284:9813:8927-EAD5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ecards
+
+./source/latex/ecards:
+ecards.dtx
+ecards.ins

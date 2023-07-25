@@ -1,0 +1,14 @@
+:ellipsis.doc:ctan:0.14336:109070284:89267:D644-205E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ellipsis
+
+./doc/latex/ellipsis:
+ellipsis.pdf
+readme

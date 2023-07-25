@@ -1,0 +1,10 @@
+:a2ping:ctan:0.11264:109070284:30745:8179-7DB1:a2ping.ARCH
+
+./:
+scripts
+
+./scripts:
+a2ping
+
+./scripts/a2ping:
+a2ping.pl

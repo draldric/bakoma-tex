@@ -1,0 +1,14 @@
+:xcolor.source:ctan:0.34816:109070284:76434:927F-B44:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xcolor
+
+./source/latex/xcolor:
+xcolor.dtx
+xcolor.ins

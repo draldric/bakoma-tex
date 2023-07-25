@@ -1,0 +1,15 @@
+:crop.source:ctan:0.08192:109070284:17565:FDA5-9C5C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+crop
+
+./source/latex/crop:
+crop.dtx
+crop.ins
+makefile

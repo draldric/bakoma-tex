@@ -1,0 +1,14 @@
+:adrlist.doc:ctan:0.06144:109070284:44233:63F5-1FDF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+adrlist
+
+./doc/latex/adrlist:
+adrlist.pdf
+readme

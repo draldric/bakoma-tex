@@ -1,0 +1,14 @@
+:coverpage.source:ctan:0.04096:109070284:10075:DF2-3D0C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+coverpage
+
+./source/latex/coverpage:
+coverpage.dtx
+coverpage.ins

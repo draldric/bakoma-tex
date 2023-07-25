@@ -1,0 +1,16 @@
+:envlab.doc:ctan:0.45056:109070284:340891:905E-C94A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+envlab
+
+./doc/latex/envlab:
+elguide.pdf
+elguide.tex
+envlab.pdf
+readme.v12

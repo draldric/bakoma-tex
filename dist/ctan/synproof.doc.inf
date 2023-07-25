@@ -1,0 +1,15 @@
+:synproof.doc:ctan:0.09216:109070284:61161:12A4-EED4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+synproof
+
+./doc/latex/synproof:
+readme
+synproof-doc.pdf
+synproof-doc.tex

@@ -1,0 +1,14 @@
+:hyphen-greek:ctan:0.03072:109080360:5780:930D-409F:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+hyphen
+
+./tex/generic/hyphen:
+grmhyph5.tex
+grphyph5.tex

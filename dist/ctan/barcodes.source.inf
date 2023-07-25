@@ -1,0 +1,14 @@
+:barcodes.source:ctan:0.09216:109070284:21695:7A2D-423B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+barcodes
+
+./source/latex/barcodes:
+barcodes.dtx
+barcodes.ins

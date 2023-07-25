@@ -1,0 +1,17 @@
+:context-chromato.doc:ctan:0.256:109070284:226099:9F38-68FB:
+
+./:
+doc
+
+./doc:
+context
+
+./doc/context:
+third
+
+./doc/context/third:
+chromato
+
+./doc/context/third/chromato:
+chromato-demo.pdf
+chromato-doc.pdf

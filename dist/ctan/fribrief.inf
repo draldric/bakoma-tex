@@ -1,0 +1,14 @@
+:fribrief:ctan:0.02048:109070284:2457:4F7E-2B73:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fribrief
+
+./tex/latex/fribrief:
+fribrief.cls
+k_fribri.cls

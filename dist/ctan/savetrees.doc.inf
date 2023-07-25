@@ -1,0 +1,15 @@
+:savetrees.doc:ctan:0.28672:109070284:215358:7FF9-3313:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+savetrees
+
+./doc/latex/savetrees:
+makethin.pl
+readme
+savetrees.pdf

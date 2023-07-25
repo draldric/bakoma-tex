@@ -1,0 +1,14 @@
+:interactiveworkbook:ctan:0.07168:109070284:4710:BD3F-B0C9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+interactiveworkbook
+
+./tex/latex/interactiveworkbook:
+interactiveworkbook-web.sty
+interactiveworkbook.sty

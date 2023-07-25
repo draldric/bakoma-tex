@@ -1,0 +1,16 @@
+:cmbright.source:ctan:0.04096:109070284:8073:76AF-4912:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cmbright
+
+./source/latex/cmbright:
+cmbr.fdd
+cmbright.dtx
+cmbright.ins
+oinst.ins

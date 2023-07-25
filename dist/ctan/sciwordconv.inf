@@ -1,0 +1,13 @@
+:sciwordconv:ctan:0.01024:109070284:1339:6FA-1C3D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sciwordconv
+
+./tex/latex/sciwordconv:
+sw2rus.sty

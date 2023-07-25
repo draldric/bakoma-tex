@@ -1,0 +1,15 @@
+:verbatimbox.doc:ctan:0.04096:109070284:28711:4E09-DE0F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+verbatimbox
+
+./doc/latex/verbatimbox:
+readme
+verbatimbox_example.pdf
+verbatimbox_example.tex

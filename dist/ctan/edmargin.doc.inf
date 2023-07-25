@@ -1,0 +1,14 @@
+:edmargin.doc:ctan:0.2048:109070284:173460:C7E7-13E8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+edmargin
+
+./doc/latex/edmargin:
+edmargin.pdf
+readme

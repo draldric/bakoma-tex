@@ -1,0 +1,12 @@
+:makecirc:ctan:0.06144:109070284:11797:7F79-8542:
+
+./:
+metapost
+
+./metapost:
+makecirc
+
+./metapost/makecirc:
+ejemplos.mp
+latex.mp
+makecirc.mp

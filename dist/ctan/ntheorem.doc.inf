@@ -1,0 +1,14 @@
+:ntheorem.doc:ctan:0.38912:109070284:325106:E4E6-C2C9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ntheorem
+
+./doc/latex/ntheorem:
+ntheorem.pdf
+readme

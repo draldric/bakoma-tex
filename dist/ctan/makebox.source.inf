@@ -1,0 +1,15 @@
+:makebox.source:ctan:0.02048:109070284:2607:F7E1-2616:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+makebox
+
+./source/latex/makebox:
+makebox.dtx
+makebox.ins
+makefile

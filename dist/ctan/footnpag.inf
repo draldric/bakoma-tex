@@ -1,0 +1,13 @@
+:footnpag:ctan:0.03072:109070284:7355:A8F1-7A6C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+footnpag
+
+./tex/latex/footnpag:
+footnpag.sty

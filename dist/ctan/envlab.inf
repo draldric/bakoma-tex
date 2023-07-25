@@ -1,0 +1,14 @@
+:envlab:ctan:0.03072:109070284:5034:7E0F-A636:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+envlab
+
+./tex/latex/envlab:
+envlab.cfg
+envlab.sty

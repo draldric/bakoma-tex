@@ -1,0 +1,14 @@
+:delimtxt.source:ctan:0.02048:109070284:3489:1651-9D70:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+delimtxt
+
+./source/latex/delimtxt:
+delimtxt.dtx
+delimtxt.ins

@@ -1,0 +1,15 @@
+:imac.doc:ctan:0.03072:109070284:8871:223E-7864:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+imac
+
+./doc/latex/imac:
+imac.dvi
+imac.tex
+readme.txt

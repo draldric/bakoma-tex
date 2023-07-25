@@ -1,0 +1,14 @@
+:siggraph.source:ctan:0.0512:109070284:11531:5557-DE90:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+siggraph
+
+./source/latex/siggraph:
+siggraph.dtx
+siggraph.ins

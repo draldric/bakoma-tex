@@ -1,0 +1,15 @@
+:taupin:ctan:0.02048:109070284:2529:4EA5-9D16:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+taupin
+
+./tex/latex/taupin:
+smallcap.sty
+t1cmsc.fd
+varsects.sty

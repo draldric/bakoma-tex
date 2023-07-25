@@ -1,0 +1,13 @@
+:eemeir:ctan:0.01024:109070284:1305:74E1-C201:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+eemeir
+
+./tex/latex/eemeir:
+eemeir.sty

@@ -1,0 +1,13 @@
+:fixpdfmag:ctan:0.01024:109070284:734:622B-694B:
+
+./:
+tex
+
+./tex:
+plain
+
+./tex/plain:
+fixpdfmag
+
+./tex/plain/fixpdfmag:
+fixpdfmag.tex

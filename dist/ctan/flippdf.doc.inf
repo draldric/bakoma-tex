@@ -1,0 +1,14 @@
+:flippdf.doc:ctan:0.02048:109070284:10709:959-167D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+flippdf
+
+./doc/latex/flippdf:
+flippdf.pdf
+readme

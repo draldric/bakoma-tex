@@ -1,0 +1,13 @@
+:breakurl:ctan:0.02048:109070284:2544:96AB-7500:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+breakurl
+
+./tex/latex/breakurl:
+breakurl.sty

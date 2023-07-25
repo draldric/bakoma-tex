@@ -1,0 +1,15 @@
+:bizcard.doc:ctan:0.11264:109070284:74260:CDA8-D34B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bizcard
+
+./doc/latex/bizcard:
+bizcard.pdf
+bizex.pdf
+bizex.tex

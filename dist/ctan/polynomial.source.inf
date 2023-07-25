@@ -1,0 +1,14 @@
+:polynomial.source:ctan:0.02048:109070284:3965:EAEA-9AF0:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+polynomial
+
+./source/latex/polynomial:
+polynomial.dtx
+polynomial.ins

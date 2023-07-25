@@ -1,0 +1,17 @@
+:ebong.doc:ctan:0.11264:109070284:49864:7E8A-64A7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ebong
+
+./doc/latex/ebong:
+announce.txt
+eb.b
+eb.pdf
+eb_tex.tex
+readme

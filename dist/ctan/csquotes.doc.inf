@@ -1,0 +1,17 @@
+:csquotes.doc:ctan:0.48128:109070284:259915:108D-12E5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+csquotes
+
+./doc/latex/csquotes:
+csquotes.pdf
+csquotes.tex
+license
+readme
+tutorial.tex

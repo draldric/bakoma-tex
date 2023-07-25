@@ -1,0 +1,13 @@
+:sugconf:ctan:0.01024:109070284:2398:4535-6D53:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sugconf
+
+./tex/latex/sugconf:
+sugconf.cls

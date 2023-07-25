@@ -1,0 +1,15 @@
+:crossreference.source:ctan:0.02048:109070284:2447:9BF7-4758:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+crossreference
+
+./source/latex/crossreference:
+crossreference.drv
+crossreference.dtx
+crossreference.ins

@@ -1,0 +1,13 @@
+:shadethm.doc:ctan:0.01024:109070284:596:1704-6558:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+shadethm
+
+./doc/latex/shadethm:
+1st_read.me

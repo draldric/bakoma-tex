@@ -1,0 +1,14 @@
+:silence.doc:ctan:0.26624:109070284:159398:EE14-1E14:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+silence
+
+./doc/latex/silence:
+readme
+silence-doc.pdf

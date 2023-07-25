@@ -1,0 +1,14 @@
+:sudoku.source:ctan:0.02048:109070284:4092:AF11-B33C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sudoku
+
+./source/latex/sudoku:
+sudoku.dtx
+sudoku.ins

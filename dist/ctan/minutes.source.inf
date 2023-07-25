@@ -1,0 +1,14 @@
+:minutes.source:ctan:0.1024:109070284:23748:4C17-D077:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+minutes
+
+./source/latex/minutes:
+minutes.dtx
+minutes.ins

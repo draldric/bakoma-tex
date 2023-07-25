@@ -1,0 +1,14 @@
+:pecha:ctan:0.04096:109070284:9541:2F72-777B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pecha
+
+./tex/latex/pecha:
+ctibmantra.sty
+pecha.cls

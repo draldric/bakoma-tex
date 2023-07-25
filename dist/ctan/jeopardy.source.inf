@@ -1,0 +1,14 @@
+:jeopardy.source:ctan:0.04096:109070284:10523:AB35-84AB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+jeopardy
+
+./source/latex/jeopardy:
+jeopardy.dtx
+jeopardy.ins

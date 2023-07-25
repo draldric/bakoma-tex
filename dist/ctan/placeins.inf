@@ -1,0 +1,13 @@
+:placeins:ctan:0.01024:109070284:1918:4EE-190A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+placeins
+
+./tex/latex/placeins:
+placeins.sty

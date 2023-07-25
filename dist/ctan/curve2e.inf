@@ -1,0 +1,13 @@
+:curve2e:ctan:0.03072:109070284:5047:3F68-A4C6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+curve2e
+
+./tex/latex/curve2e:
+curve2e.sty

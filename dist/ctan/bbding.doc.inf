@@ -1,0 +1,14 @@
+:bbding.doc:ctan:0.09216:109070284:9786:312E-D145:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bbding
+
+./doc/latex/bbding:
+bbding10.org
+readme

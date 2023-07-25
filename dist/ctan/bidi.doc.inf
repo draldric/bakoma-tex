@@ -1,0 +1,14 @@
+:bidi.doc:ctan:0.1536:109070284:122739:C901-4AC4:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+bidi
+
+./doc/xelatex/bidi:
+bidi.pdf
+readme

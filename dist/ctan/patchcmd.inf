@@ -1,0 +1,13 @@
+:patchcmd:ctan:0.01024:109070284:1495:8EF4-D47A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+patchcmd
+
+./tex/latex/patchcmd:
+patchcmd.sty

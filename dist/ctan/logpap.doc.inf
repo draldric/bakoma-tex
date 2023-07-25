@@ -1,0 +1,15 @@
+:logpap.doc:ctan:0.09216:109070284:67379:620B-EC12:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+logpap
+
+./doc/latex/logpap:
+example.pdf
+example.tex
+readme

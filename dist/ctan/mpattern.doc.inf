@@ -1,0 +1,17 @@
+:mpattern.doc:ctan:0.04096:109070284:10928:3EDE-FF76:
+
+./:
+doc
+
+./doc:
+metapost
+
+./doc/metapost:
+mpattern
+
+./doc/metapost/mpattern:
+mpattern_test.pdf
+mpattern_test.tex
+readme
+readme.pl
+test.mp

@@ -1,0 +1,13 @@
+:ntabbing:ctan:0.01024:109070284:905:779F-7392:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ntabbing
+
+./tex/latex/ntabbing:
+ntabbing.sty

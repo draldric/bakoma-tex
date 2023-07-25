@@ -1,0 +1,13 @@
+:vpe.doc:ctan:0.02048:109070284:6440:4C48-B470:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+vpe
+
+./doc/latex/vpe:
+vpe.txt

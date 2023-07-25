@@ -1,0 +1,13 @@
+:resume:ctan2:0.025105:109070768:7440:CBFA-E83F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+resume
+
+./tex/latex/resume:
+res.cls

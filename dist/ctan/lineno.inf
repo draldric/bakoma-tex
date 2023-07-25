@@ -1,0 +1,16 @@
+:lineno:ctan:0.19456:109070284:48564:EEF6-BDB2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lineno
+
+./tex/latex/lineno:
+ednmath0.sty
+edtable.sty
+lineno.sty
+vplref.sty

@@ -1,0 +1,17 @@
+:ctib.source:ctan:0.03072:109070284:8226:A35E-CFF5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ctib
+
+./source/latex/ctib:
+copying
+emtex
+history
+install
+miktex

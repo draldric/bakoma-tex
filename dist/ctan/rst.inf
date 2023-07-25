@@ -1,0 +1,13 @@
+:rst:ctan:0.0512:109070284:8444:3FB8-D920:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+rst
+
+./tex/latex/rst:
+rst.sty

@@ -1,0 +1,13 @@
+:t-angles:ctan:0.03072:109070284:5183:E05F-9517:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+t-angles
+
+./tex/latex/t-angles:
+t-angles.sty

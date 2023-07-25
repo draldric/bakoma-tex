@@ -1,0 +1,13 @@
+:warning:ctan:0.01024:109070284:1103:1B9A-7FDA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+warning
+
+./tex/latex/warning:
+warning.sty

@@ -1,0 +1,13 @@
+:egplot:ctan:0.02048:109070284:3154:83E3-CD83:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+egplot
+
+./tex/latex/egplot:
+egplot.sty

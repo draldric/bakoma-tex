@@ -1,0 +1,17 @@
+:dateiliste.doc:ctan:0.29696:109070284:117894:F903-726:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dateiliste
+
+./doc/latex/dateiliste:
+dateiliste.pdf
+readme
+readme-de
+readme-en
+readme-eo

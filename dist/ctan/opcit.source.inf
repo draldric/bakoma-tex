@@ -1,0 +1,14 @@
+:opcit.source:ctan:0.08192:109070284:20620:BEF6-5D34:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+opcit
+
+./source/latex/opcit:
+opcit.dtx
+opcit.ins

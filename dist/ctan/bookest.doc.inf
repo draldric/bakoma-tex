@@ -1,0 +1,17 @@
+:bookest.doc:ctan:0.31744:109070284:209106:5B3E-BC32:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bookest
+
+./doc/latex/bookest:
+bookestdoc-en.pdf
+bookestdoc-en.tex
+bookestdoc-it.pdf
+bookestdoc-it.tex
+readme

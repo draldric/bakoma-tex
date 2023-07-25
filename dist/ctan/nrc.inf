@@ -1,0 +1,17 @@
+:nrc:ctan:0.14336:109070284:15352:9AF-C295:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nrc
+
+./tex/latex/nrc:
+nrc1.cls
+nrc1.sty
+nrc2.cls
+nrc2.sty
+nrcdoc.sty

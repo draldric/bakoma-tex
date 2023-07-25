@@ -1,0 +1,14 @@
+:jurabib.source:ctan:0.4608:109070284:61391:3805-7E5A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+jurabib
+
+./source/latex/jurabib:
+jurabib.dtx
+jurabib.ins

@@ -1,0 +1,13 @@
+:dot2texi:ctan:0.02048:109070284:3121:ABF2-2119:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dot2texi
+
+./tex/latex/dot2texi:
+dot2texi.sty

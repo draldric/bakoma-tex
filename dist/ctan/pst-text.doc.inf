@@ -1,0 +1,17 @@
+:pst-text.doc:ctan:0.17408:109070284:113087:1C1E-2EDA:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-text
+
+./doc/generic/pst-text:
+changes
+pst-text-doc.bib
+pst-text-doc.pdf
+pst-text-doc.tex
+readme

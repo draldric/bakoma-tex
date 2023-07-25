@@ -1,0 +1,16 @@
+:pst-sigsys.doc:ctan:0.37888:109070284:263067:A32B-BF52:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-sigsys
+
+./doc/generic/pst-sigsys:
+changes
+pst-sigsys-doc.pdf
+pst-sigsys-doc.tex
+readme

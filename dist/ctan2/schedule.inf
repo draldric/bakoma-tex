@@ -1,0 +1,13 @@
+:schedule:ctan2:0.016547:109070768:3736:B5FE-5A35:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+schedule
+
+./tex/latex/schedule:
+schedule.sty

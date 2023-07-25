@@ -1,0 +1,15 @@
+:soul.source:ctan:0.14336:109070284:35641:C2DE-C23C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+soul
+
+./source/latex/soul:
+makefile
+soul.dtx
+soul.ins

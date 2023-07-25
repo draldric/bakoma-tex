@@ -1,0 +1,16 @@
+:a0poster.doc:ctan:0.19456:109070284:117821:7263-5A68:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+a0poster
+
+./doc/latex/a0poster:
+a0.pdf
+a0.tex
+a0_eng.pdf
+a0_eng.tex

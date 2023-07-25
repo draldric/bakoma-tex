@@ -1,0 +1,14 @@
+:euro.doc:ctan:0.23552:109070284:193582:FE36-7E6E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+euro
+
+./doc/latex/euro:
+euro.pdf
+euro.txt

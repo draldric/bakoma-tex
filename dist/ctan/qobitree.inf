@@ -1,0 +1,13 @@
+:qobitree:ctan:0.03072:109070284:2459:7CF3-A63B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+qobitree
+
+./tex/latex/qobitree:
+qobitree.tex

@@ -1,0 +1,15 @@
+:umoline.doc:ctan:0.03072:109070284:7890:499E-66B3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+umoline
+
+./doc/latex/umoline:
+readme
+umoline-man.dvi
+umoline-man.tex

@@ -1,0 +1,16 @@
+:pb-diagram:ctan:0.08192:109070284:15241:6098-6342:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pb-diagram
+
+./tex/latex/pb-diagram:
+lamsarrow.sty
+pb-diagram.sty
+pb-lams.sty
+pb-xy.sty

@@ -1,0 +1,14 @@
+:esdiff.source:ctan:0.02048:109070284:2704:8028-474C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+esdiff
+
+./source/latex/esdiff:
+esdiff.dtx
+esdiff.ins

@@ -1,0 +1,14 @@
+:tocvsec2.source:ctan:0.03072:109070284:6630:3BDB-469E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tocvsec2
+
+./source/latex/tocvsec2:
+tocvsec2.dtx
+tocvsec2.ins

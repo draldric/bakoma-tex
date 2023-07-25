@@ -1,0 +1,13 @@
+:import:ctan:0.01024:109070284:2145:8C67-7A7F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+import
+
+./tex/latex/import:
+import.sty

@@ -1,0 +1,14 @@
+:metre.source:ctan:0.13312:109070284:25054:8B82-BA2F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+metre
+
+./source/latex/metre:
+metre.dtx
+metre.ins

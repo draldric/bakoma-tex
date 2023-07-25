@@ -1,0 +1,14 @@
+:xgreek.source:ctan:0.0512:109070284:8267:C96E-38AF:
+
+./:
+source
+
+./source:
+xelatex
+
+./source/xelatex:
+xgreek
+
+./source/xelatex/xgreek:
+xgreek.dtx
+xgreek.ins

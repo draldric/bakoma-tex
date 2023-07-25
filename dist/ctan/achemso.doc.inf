@@ -1,0 +1,16 @@
+:achemso.doc:ctan:0.23552:109070284:175917:D9CC-76E0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+achemso
+
+./doc/latex/achemso:
+achemso-demo.tex
+achemso.bib
+achemso.pdf
+readme

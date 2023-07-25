@@ -1,0 +1,14 @@
+:swimgraf:ctan:0.0512:109070284:10747:2709-FD52:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+swimgraf
+
+./tex/latex/swimgraf:
+swimgraf.cfg
+swimgraf.sty

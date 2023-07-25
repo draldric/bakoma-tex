@@ -1,0 +1,15 @@
+:vrsion.source:ctan:0.04096:109070284:8211:53B5-DA89:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+vrsion
+
+./source/latex/vrsion:
+00readme.vrs
+vrsion.dtx
+vrsion.ins

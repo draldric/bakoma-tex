@@ -1,0 +1,13 @@
+:svgcolor:ctan:0.02048:109070284:3115:32BC-210C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+svgcolor
+
+./tex/latex/svgcolor:
+svgcolor.sty

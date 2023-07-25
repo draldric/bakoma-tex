@@ -1,0 +1,13 @@
+:perception:ctan:0.04096:109070284:5928:9B27-699F:
+
+./:
+bibtex
+
+./bibtex:
+bst
+
+./bibtex/bst:
+perception
+
+./bibtex/bst/perception:
+perception.bst

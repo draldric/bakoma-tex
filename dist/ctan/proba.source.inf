@@ -1,0 +1,14 @@
+:proba.source:ctan:0.02048:109070284:2877:AF68-6A12:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+proba
+
+./source/latex/proba:
+proba.dtx
+proba.ins

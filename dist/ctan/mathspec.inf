@@ -1,0 +1,13 @@
+:mathspec:ctan:0.04096:109070284:4959:4A53-BF23:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+mathspec
+
+./tex/xelatex/mathspec:
+mathspec.sty

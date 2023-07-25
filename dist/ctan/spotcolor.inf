@@ -1,0 +1,15 @@
+:spotcolor:ctan:0.11264:109070284:8517:F4DF-D965:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+spotcolor
+
+./tex/latex/spotcolor:
+spotcolor.sty
+spotcolorhks.tex
+spotcolorpantone.tex

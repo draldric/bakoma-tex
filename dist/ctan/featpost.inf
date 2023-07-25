@@ -1,0 +1,11 @@
+:featpost:ctan:0.12288:109070284:25078:7FC9-E7D6:
+
+./:
+metapost
+
+./metapost:
+featpost
+
+./metapost/featpost:
+featpost.mp
+featpost3dplus2d.mp

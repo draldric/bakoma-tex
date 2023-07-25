@@ -1,0 +1,14 @@
+:draftwatermark.doc:ctan:0.03072:109070284:18258:C040-9C56:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+draftwatermark
+
+./doc/latex/draftwatermark:
+draftwatermark.pdf
+readme

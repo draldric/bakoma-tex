@@ -1,0 +1,15 @@
+:ccfonts:ctan:0.02048:109070284:1597:2742-8ABF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ccfonts
+
+./tex/latex/ccfonts:
+ccfonts.sty
+t1ccr.fd
+ts1ccr.fd

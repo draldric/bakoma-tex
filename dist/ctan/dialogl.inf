@@ -1,0 +1,16 @@
+:dialogl:ctan:0.0512:109070284:11650:B25F-95AD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dialogl
+
+./tex/latex/dialogl:
+dialog.sty
+dialogl.sty
+grabhedr.sty
+menus.sty

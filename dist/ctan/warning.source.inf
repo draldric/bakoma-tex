@@ -1,0 +1,13 @@
+:warning.source:ctan:0.01024:109070284:542:4A82-2C58:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+warning
+
+./source/latex/warning:
+warning.xml

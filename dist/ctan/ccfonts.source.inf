@@ -1,0 +1,15 @@
+:ccfonts.source:ctan:0.03072:109070284:5443:C4BD-23E6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ccfonts
+
+./source/latex/ccfonts:
+cc.fdd
+ccfonts.dtx
+ccfonts.ins

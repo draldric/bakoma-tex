@@ -1,0 +1,13 @@
+:pst-func.source:ctan:0.01024:109070284:687:F25E-87C8:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+pst-func
+
+./source/generic/pst-func:
+makefile

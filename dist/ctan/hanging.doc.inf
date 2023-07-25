@@ -1,0 +1,14 @@
+:hanging.doc:ctan:0.18432:109070284:149474:F9E4-719D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hanging
+
+./doc/latex/hanging:
+hanging.pdf
+readme

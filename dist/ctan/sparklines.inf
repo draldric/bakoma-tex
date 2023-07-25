@@ -1,0 +1,13 @@
+:sparklines:ctan:0.01024:109070284:1749:3182-FC1D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sparklines
+
+./tex/latex/sparklines:
+sparklines.sty

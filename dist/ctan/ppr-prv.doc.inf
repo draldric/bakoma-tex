@@ -1,0 +1,14 @@
+:ppr-prv.doc:ctan:0.34816:109070284:317023:15B1-185B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ppr-prv
+
+./doc/latex/ppr-prv:
+ppr-prv.pdf
+readme

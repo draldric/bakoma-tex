@@ -1,0 +1,14 @@
+:classicthesis:ctan:0.04096:109070284:8236:1D8F-19A8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+classicthesis
+
+./tex/latex/classicthesis:
+classicthesis-ldpkg.sty
+classicthesis.sty

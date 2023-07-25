@@ -1,0 +1,14 @@
+:logpap.source:ctan:0.12288:109070284:21763:27A-25AF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+logpap
+
+./source/latex/logpap:
+logpap.dtx
+logpap.ins

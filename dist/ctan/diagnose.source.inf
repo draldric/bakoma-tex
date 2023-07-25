@@ -1,0 +1,13 @@
+:diagnose.source:ctan:0.01024:109070284:849:A4B1-8F64:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+diagnose
+
+./source/latex/diagnose:
+install

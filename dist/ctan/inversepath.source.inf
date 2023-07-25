@@ -1,0 +1,14 @@
+:inversepath.source:ctan:0.02048:109070284:4178:97EF-E697:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+inversepath
+
+./source/latex/inversepath:
+inversepath.dtx
+inversepath.ins

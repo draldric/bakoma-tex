@@ -1,0 +1,13 @@
+:histogr.doc:ctan:0.11264:109070284:92245:BCEF-3FB7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+histogr
+
+./doc/latex/histogr:
+histogr.pdf

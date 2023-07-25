@@ -1,0 +1,15 @@
+:rtklage.doc:ctan:0.08192:109070284:62346:A1E7-92D6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+rtklage
+
+./doc/latex/rtklage:
+bspklage.tex
+readme
+rtklage.pdf

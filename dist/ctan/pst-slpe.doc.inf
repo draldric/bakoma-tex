@@ -1,0 +1,15 @@
+:pst-slpe.doc:ctan:0.29696:109070284:244347:DAA1-7DE:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-slpe
+
+./doc/generic/pst-slpe:
+changes
+pst-slpe.pdf
+readme

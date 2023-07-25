@@ -1,0 +1,14 @@
+:addlines.source:ctan:0.02048:109070284:4043:EF63-8947:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+addlines
+
+./source/latex/addlines:
+addlines.dtx
+addlines.ins

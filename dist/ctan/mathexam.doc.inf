@@ -1,0 +1,16 @@
+:mathexam.doc:ctan:0.19456:109070284:148534:61A6-81D7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mathexam
+
+./doc/latex/mathexam:
+mathexam.pdf
+readme
+sample.pdf
+sample.tex

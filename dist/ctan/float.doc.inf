@@ -1,0 +1,14 @@
+:float.doc:ctan:0.14336:109070284:112350:37F6-CC3E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+float
+
+./doc/latex/float:
+float.pdf
+readme

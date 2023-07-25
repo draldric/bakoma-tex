@@ -1,0 +1,13 @@
+:objectz:ctan:0.0512:109070284:9341:606F-BF9E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+objectz
+
+./tex/latex/objectz:
+oz.sty

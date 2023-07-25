@@ -1,0 +1,13 @@
+:answers:ctan2:0.005438:109070768:1664:F353-1544:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+answers
+
+./tex/latex/answers:
+answers.sty

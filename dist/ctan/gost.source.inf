@@ -1,0 +1,14 @@
+:gost.source:ctan:0.04096:109070284:6294:6E31-A103:
+
+./:
+source
+
+./source:
+bibtex
+
+./source/bibtex:
+gost
+
+./source/bibtex/gost:
+gost.dtx
+gost.ins

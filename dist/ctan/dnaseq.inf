@@ -1,0 +1,13 @@
+:dnaseq:ctan:0.01024:109070284:1340:F009-55B8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dnaseq
+
+./tex/latex/dnaseq:
+dnaseq.sty

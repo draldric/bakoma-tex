@@ -1,0 +1,15 @@
+:xargs.doc:ctan:0.23552:109070284:181548:9334-4BCC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xargs
+
+./doc/latex/xargs:
+readme
+xargs-fr.pdf
+xargs.pdf

@@ -1,0 +1,14 @@
+:blowup.source:ctan:0.02048:109070284:4838:4F61-BF75:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+blowup
+
+./source/latex/blowup:
+blowup.dtx
+blowup.ins

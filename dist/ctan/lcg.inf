@@ -1,0 +1,13 @@
+:lcg:ctan:0.02048:109070284:2172:9835-8AAD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lcg
+
+./tex/latex/lcg:
+lcg.sty

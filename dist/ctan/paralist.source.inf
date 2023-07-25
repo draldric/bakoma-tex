@@ -1,0 +1,15 @@
+:paralist.source:ctan:0.07168:109070284:13891:775D-9061:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+paralist
+
+./source/latex/paralist:
+paralist.drv
+paralist.dtx
+paralist.ins

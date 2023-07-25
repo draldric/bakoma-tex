@@ -1,0 +1,15 @@
+:tdsfrmath.source:ctan:0.13312:109070284:32116:6473-277F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tdsfrmath
+
+./source/latex/tdsfrmath:
+makefile
+tdsfrmath.dtx
+tdsfrmath.ins

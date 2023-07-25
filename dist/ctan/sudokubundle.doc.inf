@@ -1,0 +1,15 @@
+:sudokubundle.doc:ctan:0.39936:109070284:281288:6C20-274D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sudokubundle
+
+./doc/latex/sudokubundle:
+readme
+somesudoku.tex
+sudokubundle.pdf

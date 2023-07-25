@@ -1,0 +1,16 @@
+:foekfont.doc:ctan:0.13312:109070284:94726:A317-8657:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+foekfont
+
+./doc/latex/foekfont:
+foekfont.pdf
+foekfont.sfd
+foekfont.tex
+readme

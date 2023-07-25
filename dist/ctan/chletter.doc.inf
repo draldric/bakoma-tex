@@ -1,0 +1,15 @@
+:chletter.doc:ctan:0.13312:109070284:80928:1C48-5C1F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+chletter
+
+./doc/latex/chletter:
+chletterdoc.pdf
+readme
+sampleletter.ltx

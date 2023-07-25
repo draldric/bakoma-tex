@@ -1,0 +1,13 @@
+:fullpict:ctan:0.02048:109070284:2991:87BE-2ADF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fullpict
+
+./tex/latex/fullpict:
+fullpict.sty

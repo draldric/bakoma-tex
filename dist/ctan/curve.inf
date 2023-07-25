@@ -1,0 +1,13 @@
+:curve:ctan:0.03072:109070284:4854:1F76-70C0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+curve
+
+./tex/latex/curve:
+curve.cls

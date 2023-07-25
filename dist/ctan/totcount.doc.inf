@@ -1,0 +1,15 @@
+:totcount.doc:ctan:0.21504:109070284:140779:DE9A-C5FE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+totcount
+
+./doc/latex/totcount:
+readme
+totcount-ex.tex
+totcount.pdf

@@ -1,0 +1,13 @@
+:ccaption:ctan:0.03072:109070284:5036:2FB4-12ED:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ccaption
+
+./tex/latex/ccaption:
+ccaption.sty

@@ -1,0 +1,14 @@
+:breakurl.source:ctan:0.04096:109070284:9769:E1F8-E61C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+breakurl
+
+./source/latex/breakurl:
+breakurl.dtx
+breakurl.ins

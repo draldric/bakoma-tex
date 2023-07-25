@@ -1,0 +1,15 @@
+:ssqquote:ctan:0.02048:109070284:1650:75B4-761:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ssqquote
+
+./tex/latex/ssqquote:
+ot1cmssq.fd
+ssqquote.sty
+t1cmssq.fd

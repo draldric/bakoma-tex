@@ -1,0 +1,16 @@
+:uebungsblatt.doc:ctan:0.256:109070284:226206:503-899E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+uebungsblatt
+
+./doc/latex/uebungsblatt:
+history.txt
+readme
+uebungsblatt-doc.pdf
+uebungsblatt-doc.tex

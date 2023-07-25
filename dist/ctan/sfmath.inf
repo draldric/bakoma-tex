@@ -1,0 +1,13 @@
+:sfmath:ctan:0.02048:109070284:4137:50CE-23B1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sfmath
+
+./tex/latex/sfmath:
+sfmath.sty

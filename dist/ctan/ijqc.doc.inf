@@ -1,0 +1,17 @@
+:ijqc.doc:ctan:0.1536:109070284:106879:1AC0-4CAD:
+
+./:
+doc
+
+./doc:
+bibtex
+
+./doc/bibtex:
+ijqc
+
+./doc/bibtex/ijqc:
+makefile
+mybib.bib
+readme
+xampl.pdf
+xampl.tex

@@ -1,0 +1,13 @@
+:yfonts:ctan:0.01024:109070284:1355:1700-8BDB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+yfonts
+
+./tex/latex/yfonts:
+yfonts.sty

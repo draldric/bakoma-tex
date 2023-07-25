@@ -1,0 +1,14 @@
+:nddiss.source:ctan:0.09216:109070284:21868:A985-41FA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+nddiss
+
+./source/latex/nddiss:
+nddiss2e.dtx
+nddiss2e.ins

@@ -1,0 +1,13 @@
+:concprog:ctan:0.02048:109070284:3903:B853-7FCF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+concprog
+
+./tex/latex/concprog:
+concprog.cls

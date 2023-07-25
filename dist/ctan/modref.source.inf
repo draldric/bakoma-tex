@@ -1,0 +1,15 @@
+:modref.source:ctan:0.06144:109070284:13971:201-E8B1:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+modref
+
+./source/latex/modref:
+modref.drv
+modref.dtx
+modref.ins

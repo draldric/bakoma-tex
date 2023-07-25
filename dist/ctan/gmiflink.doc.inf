@@ -1,0 +1,14 @@
+:gmiflink.doc:ctan:0.07168:109070284:41401:7240-E7D3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gmiflink
+
+./doc/latex/gmiflink:
+gmiflink.pdf
+readme

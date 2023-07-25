@@ -1,0 +1,14 @@
+:HA-prosper.source:ctan:0.17408:109070284:38508:7BD8-BC47:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ha-prosper
+
+./source/latex/ha-prosper:
+ha-prosper.def
+ha-prosper.dtx

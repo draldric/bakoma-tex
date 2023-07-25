@@ -1,0 +1,14 @@
+:xfor.source:ctan:0.02048:109070284:4650:F92F-19FB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xfor
+
+./source/latex/xfor:
+xfor.dtx
+xfor.ins

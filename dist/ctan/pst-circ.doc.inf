@@ -1,0 +1,17 @@
+:pst-circ.doc:ctan:0.62464:109070284:344219:1E9A-8A4B:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-circ
+
+./doc/generic/pst-circ:
+changes
+pst-circ-doc.bib
+pst-circ-doc.pdf
+pst-circ-doc.tex
+readme

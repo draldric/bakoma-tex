@@ -1,0 +1,14 @@
+:microtype.source:ctan:0.5632:109070284:113622:2368-E87B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+microtype
+
+./source/latex/microtype:
+microtype.dtx
+microtype.ins

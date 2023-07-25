@@ -1,0 +1,15 @@
+:utf8mex:ctan:0.02048:109070284:2469:A011-8D91:
+
+./:
+tex
+
+./tex:
+mex
+
+./tex/mex:
+utf8mex
+
+./tex/mex/utf8mex:
+utf8-pl.tex
+utf8mex.ini
+utf8plsq.tex

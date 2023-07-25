@@ -1,0 +1,14 @@
+:lastpage.doc:ctan:0.17408:109070284:156196:860-E78F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lastpage
+
+./doc/latex/lastpage:
+lastpage.pdf
+readme.lastpage

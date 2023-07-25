@@ -1,0 +1,14 @@
+:formular.source:ctan:0.04096:109070284:7949:7BF4-D677:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+formular
+
+./source/latex/formular:
+formular.dtx
+formular.ins

@@ -1,0 +1,16 @@
+:pdfx:ctan:0.03072:109070284:3940:6A4B-D052:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pdfx
+
+./tex/latex/pdfx:
+glyphtounicode-cmr.tex
+pdfa-1b.xmp
+pdfx-1a.xmp
+pdfx.sty

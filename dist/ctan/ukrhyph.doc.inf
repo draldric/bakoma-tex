@@ -1,0 +1,16 @@
+:ukrhyph.doc:ctan:0.29696:109070284:160564:F327-DAD6:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+ukrhyph
+
+./doc/generic/ukrhyph:
+readme
+rules60.pdf
+rules90.pdf
+rules_ph.pdf

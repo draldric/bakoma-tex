@@ -1,0 +1,10 @@
+:latex2man.doc:ctan:0.38912:109070284:202006:DD7D-F15B:
+
+./:
+doc
+
+./doc:
+info
+
+./doc/info:
+latex2man.info

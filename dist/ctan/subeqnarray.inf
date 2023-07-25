@@ -1,0 +1,13 @@
+:subeqnarray:ctan:0.01024:109070284:1765:993B-D471:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+subeqnarray
+
+./tex/latex/subeqnarray:
+subeqnarray.sty

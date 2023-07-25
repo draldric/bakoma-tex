@@ -1,0 +1,14 @@
+:textcase.source:ctan:0.02048:109070284:4440:EDB-6C7E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+textcase
+
+./source/latex/textcase:
+textcase.dtx
+textcase.ins

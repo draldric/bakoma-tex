@@ -1,0 +1,15 @@
+:dingbat.doc:ctan:0.14336:109070284:105485:61FA-749A:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+dingbat
+
+./doc/fonts/dingbat:
+dingbat.pdf
+dingbat.tex
+readme

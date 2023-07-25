@@ -1,0 +1,14 @@
+:doipubmed.source:ctan:0.02048:109070284:3751:7C81-6FCA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+doipubmed
+
+./source/latex/doipubmed:
+doipubmed.dtx
+doipubmed.ins

@@ -1,0 +1,16 @@
+:rcs-multi.doc:ctan:0.67584:109070284:519692:D0F5-C45B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+rcs-multi
+
+./doc/latex/rcs-multi:
+example.pdf
+example.tex
+rcs-multi.pdf
+readme

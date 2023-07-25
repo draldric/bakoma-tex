@@ -1,0 +1,14 @@
+:trsym.source:ctan:0.02048:109070284:2211:3E64-1E6B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+trsym
+
+./source/latex/trsym:
+trsym.dtx
+trsym.ins

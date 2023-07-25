@@ -1,0 +1,15 @@
+:sf298.doc:ctan:0.3584:109070284:303154:6C43-BDD6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sf298
+
+./doc/latex/sf298:
+sample298.pdf
+sample298.tex
+sf298.pdf

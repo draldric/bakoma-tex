@@ -1,0 +1,16 @@
+:c90.doc:ctan:0.11264:109070284:85278:6F5A-A12C:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+enc
+
+./doc/fonts/enc:
+c90
+
+./doc/fonts/enc/c90:
+c90.pdf

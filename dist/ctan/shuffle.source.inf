@@ -1,0 +1,14 @@
+:shuffle.source:ctan:0.02048:109070284:2995:451E-1CB1:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+shuffle
+
+./source/latex/shuffle:
+shuffle.dtx
+shuffle.ins

@@ -1,0 +1,16 @@
+:Asana-Math:ctan:0.41984:109070284:235174:B3B3-7D9D:
+
+./:
+fonts
+
+./fonts:
+opentype
+
+./fonts/opentype:
+public
+
+./fonts/opentype/public:
+asana-math
+
+./fonts/opentype/public/asana-math:
+asana-math.otf

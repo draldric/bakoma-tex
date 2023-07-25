@@ -1,0 +1,16 @@
+:colortbl.doc:ctan:0.59392:109070284:535349:3357-A433:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+colortbl
+
+./doc/latex/colortbl:
+colortbl-de.pdf
+colortbl-de.tex
+colortbl.pdf
+readme

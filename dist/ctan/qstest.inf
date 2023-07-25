@@ -1,0 +1,14 @@
+:qstest:ctan:0.03072:109070284:4222:35EF-AE33:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+qstest
+
+./tex/latex/qstest:
+makematch.sty
+qstest.sty

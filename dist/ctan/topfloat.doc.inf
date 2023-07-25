@@ -1,0 +1,14 @@
+:topfloat.doc:ctan:0.02048:109070284:5257:7E-ED94:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+topfloat
+
+./doc/latex/topfloat:
+topfloat.dvi
+topfloat.tex

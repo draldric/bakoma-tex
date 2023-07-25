@@ -1,0 +1,13 @@
+:hyperxmp:ctan:0.02048:109070284:3443:D836-29F0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hyperxmp
+
+./tex/latex/hyperxmp:
+hyperxmp.sty

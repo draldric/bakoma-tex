@@ -1,0 +1,13 @@
+:dropping:ctan2:0.004234:109070768:1413:98A4-CC39:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dropping
+
+./tex/latex/dropping:
+dropping.sty

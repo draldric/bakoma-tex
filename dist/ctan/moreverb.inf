@@ -1,0 +1,13 @@
+:moreverb:ctan:0.01024:109070284:1765:7B6A-934F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+moreverb
+
+./tex/latex/moreverb:
+moreverb.sty

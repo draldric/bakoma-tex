@@ -1,0 +1,13 @@
+:scale:ctan:0.01024:109070284:1411:C8B5-62C8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+scale
+
+./tex/latex/scale:
+scale.sty

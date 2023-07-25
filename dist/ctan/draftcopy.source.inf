@@ -1,0 +1,15 @@
+:draftcopy.source:ctan:0.02048:109070284:2784:E76A-6926:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+draftcopy
+
+./source/latex/draftcopy:
+draftcopy.dtx
+draftcopy.ins
+makefile

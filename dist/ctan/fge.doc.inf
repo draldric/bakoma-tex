@@ -1,0 +1,14 @@
+:fge.doc:ctan:0.09216:109070284:75394:7642-6456:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+fge
+
+./doc/fonts/fge:
+fge-doc.pdf
+readme

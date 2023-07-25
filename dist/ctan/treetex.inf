@@ -1,0 +1,15 @@
+:treetex:ctan:0.17408:109070284:19194:6D-3757:
+
+./:
+tex
+
+./tex:
+plain
+
+./tex/plain:
+treetex
+
+./tex/plain/treetex:
+classes.tex
+l_pic.tex
+treetex.tex

@@ -1,0 +1,14 @@
+:calxxxx:ctan:0.02048:109070284:3924:6B7D-1BC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+calxxxx
+
+./tex/latex/calxxxx:
+cal2000.tex
+calxxxx.tex

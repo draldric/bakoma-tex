@@ -1,0 +1,15 @@
+:cursor.doc:ctan:0.04096:109070284:13622:BEA9-2DB4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cursor
+
+./doc/latex/cursor:
+cursor.pdf
+cursor.tex
+read.me

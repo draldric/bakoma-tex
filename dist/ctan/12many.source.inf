@@ -1,0 +1,14 @@
+:12many.source:ctan:0.03072:109070284:6307:811-7F81:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+12many
+
+./source/latex/12many:
+12many.dtx
+12many.ins

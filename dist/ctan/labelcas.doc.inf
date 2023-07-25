@@ -1,0 +1,14 @@
+:labelcas.doc:ctan:0.3072:109070284:212820:A853-BF53:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+labelcas
+
+./doc/latex/labelcas:
+labelcas.pdf
+readme

@@ -1,0 +1,13 @@
+:pdfcomment:ctan:0.13312:109070284:8600:F900-F42A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pdfcomment
+
+./tex/latex/pdfcomment:
+pdfcomment.sty

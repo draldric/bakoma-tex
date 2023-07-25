@@ -1,0 +1,14 @@
+:subdepth.doc:ctan:0.11264:109070284:95256:37AB-68B9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+subdepth
+
+./doc/latex/subdepth:
+readme
+subdepth.pdf

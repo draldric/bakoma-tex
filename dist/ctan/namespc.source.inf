@@ -1,0 +1,13 @@
+:namespc.source:ctan:0.02048:109070284:3234:629F-25B4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+namespc
+
+./source/latex/namespc:
+namespc.dtx

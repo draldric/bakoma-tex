@@ -1,0 +1,13 @@
+:imtekda:ctan:0.02048:109070284:3776:1F7C-D613:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+imtekda
+
+./tex/latex/imtekda:
+imtekda.cls

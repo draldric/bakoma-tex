@@ -1,0 +1,14 @@
+:mentis.doc:ctan:0.16384:109070284:137352:22D1-9F0D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mentis
+
+./doc/latex/mentis:
+mentis.pdf
+readme

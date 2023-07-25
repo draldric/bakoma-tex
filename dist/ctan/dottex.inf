@@ -1,0 +1,13 @@
+:dottex:ctan:0.02048:109070284:2061:92E1-E1C9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dottex
+
+./tex/latex/dottex:
+dottex.sty
