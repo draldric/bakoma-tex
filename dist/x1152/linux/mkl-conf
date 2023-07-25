@@ -1,0 +1,12 @@
+# U10.04/32 wx-292
+# ../configure
+# U10.04/32 wx-293, wx-302
+# ../configure --disable-optimise
+# U10.04/32 wx-310-160916
+#../configure --disable-optimize --enable-debug=no
+# U16.04/32-64 wx-310-160916
+#../configure --with-gtk=3 --disable-optimize --enable-debug=no
+
+#OpenSUSE Leap 42.2/64 wx-310-171010
+../configure --disable-optimise --enable-debug=no
+

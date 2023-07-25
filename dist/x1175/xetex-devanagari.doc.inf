@@ -1,0 +1,13 @@
+:xetex-devanagari.doc:x1175:0.001412:118070876:748:74D5-658C:
+
+./:
+doc
+
+./doc:
+xetex
+
+./doc/xetex:
+xetex-devanagari
+
+./doc/xetex/xetex-devanagari:
+Changelog

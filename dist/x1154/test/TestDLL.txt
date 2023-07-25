@@ -1,0 +1,39 @@
+This is test suite (2018/03/09) for BaKoMa TeX for Windows.
+------------------------------------------------------------------------------
+
+Sometime you users can see Windows error:
+
++-------------------------------------------------------------+
+! The application was unable to start correctly (0xc0000142). ! 
+! Click OK to close the application.                          !
++-------------------------------------------------------------+
+
+This problem is frequently appeared when loading and initializing 
+DLL's used by an application. Unfortunatelly, this message do not 
+sugegst which DLL was failed.
+
+There is tool TestDLL, which loads all DLL used by BaKoMa TeX.
+
+------------------------------------------------------------------------------
+To install this tool unpack 
+http://www.bakoma-tex.com/dist/x1154/test/TestDLL.zip
+in BaKoMa TeX folder. 
+
+Check appearing of two new programs:
+"BIN\Win32\TestDLL.exe" and "BIN\Win64\TestDLL.exe"
+
+------------------------------------------------------------------------------
+
+To run this tool 
+(1) Run Terminal
+(2) goto BaKoMa TeX folder and run tool
+    cd C:\BaKoMa.TeX
+(3) and run tool
+    bin\win32\testdll.exe
+or
+    bin\win64\testdll.exe
+
+Please do not hesitate to send us bug reports.
+
+------------------------------------------------------------------------------
+

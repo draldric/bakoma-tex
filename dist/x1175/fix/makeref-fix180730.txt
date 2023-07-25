@@ -1,0 +1,21 @@
+This fix (2018/07/30) is based on code base of V 11.75,
+which improves speed of building Cross References (Ctr+R) 
+by addinig additional buffering.
+
+It should work with V 11.64 ... 11.75.
+
+------------------------------------------------------------------------------
+To apply the fix just unpack 
+http://www.bakoma-tex.com/dist/x1175/fix/makeref-fix180730.zip
+in BaKoMa TeX folder. 
+
+Check that the file
+"BaKoMa\Dialog\wxPS\Modal Dialogs\Makeref-AD.wxps
+have been replaced. 
+
+------------------------------------------------------------------------------
+
+NOTE: This fix will be included into following versions.
+
+
+

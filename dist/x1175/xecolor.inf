@@ -1,0 +1,13 @@
+:xecolor:x1175:0.00592:118070876:1837:A73D-D0E5:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+xecolor
+
+./tex/xelatex/xecolor:
+xecolor.sty

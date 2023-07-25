@@ -1,0 +1,47 @@
+% Unpacking components of module [zxjafbfont] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\zxjafbfont.tar.xz)
+/Name (zxjafbfont)
+/Size 1052 
+/CRC -1703807476 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\zxjafbfont.doc.tar.xz)
+/Name (zxjafbfont)
+/Size 1704 
+/CRC -978757383 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (zxjafbfont)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\zxjafbfont.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\zxjafbfont.bkz)
+/Name (zxjafbfont)
+/Size 703 
+/CRC 115985319 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (mit)
+>>
+
+% Generating ..\x1136\zxjafbfont.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\zxjafbfont.doc.bkz)
+/Name (zxjafbfont)
+/Size 1437 
+/CRC 422905200 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

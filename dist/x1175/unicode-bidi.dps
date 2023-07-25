@@ -1,0 +1,47 @@
+% Unpacking components of module [unicode-bidi] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\unicode-bidi.tar.xz)
+/Name (unicode-bidi)
+/Size 1076 
+/CRC -1511839567 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\unicode-bidi.doc.tar.xz)
+/Name (unicode-bidi)
+/Size 992 
+/CRC 1606028253 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (unicode-bidi)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\unicode-bidi.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\unicode-bidi.bkz)
+/Name (unicode-bidi)
+/Size 708 
+/CRC 471625356 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\unicode-bidi.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\unicode-bidi.doc.bkz)
+/Name (unicode-bidi)
+/Size 741 
+/CRC 2020560507 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

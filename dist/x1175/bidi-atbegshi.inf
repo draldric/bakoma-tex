@@ -1,0 +1,13 @@
+:bidi-atbegshi:x1175:0.003392:118070876:755:D917-19E6:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+bidi-atbegshi
+
+./tex/xelatex/bidi-atbegshi:
+bidi-atbegshi.sty

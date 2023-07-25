@@ -1,0 +1,15 @@
+:xetex-itrans.doc:x1175:0.025288:118070876:20808:B3FF-9A33:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+xetex-itrans
+
+./doc/xelatex/xetex-itrans:
+itrans-tamil-sample.pdf
+itrans-tamil-sample.tex
+README

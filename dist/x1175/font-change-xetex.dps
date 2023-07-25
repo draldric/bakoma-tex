@@ -1,0 +1,47 @@
+% Unpacking components of module [font-change-xetex] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\font-change-xetex.tar.xz)
+/Name (font-change-xetex)
+/Size 6076 
+/CRC 988728687 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\font-change-xetex.doc.tar.xz)
+/Name (font-change-xetex)
+/Size 558800 
+/CRC -1007950421 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (font-change-xetex)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\font-change-xetex.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\font-change-xetex.bkz)
+/Name (font-change-xetex)
+/Size 5318 
+/CRC 1967758553 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (other-free)
+>>
+
+% Generating ..\x1136\font-change-xetex.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\font-change-xetex.doc.bkz)
+/Name (font-change-xetex)
+/Size 558358 
+/CRC -58323811 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

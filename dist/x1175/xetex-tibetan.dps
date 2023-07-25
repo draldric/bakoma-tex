@@ -1,0 +1,47 @@
+% Unpacking components of module [xetex-tibetan] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xetex-tibetan.tar.xz)
+/Name (xetex-tibetan)
+/Size 7048 
+/CRC -128220473 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xetex-tibetan.doc.tar.xz)
+/Name (xetex-tibetan)
+/Size 1204 
+/CRC -344032041 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xetex-tibetan)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\xetex-tibetan.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xetex-tibetan.bkz)
+/Name (xetex-tibetan)
+/Size 6554 
+/CRC 1821588612 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl)
+>>
+
+% Generating ..\x1136\xetex-tibetan.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xetex-tibetan.doc.bkz)
+/Name (xetex-tibetan)
+/Size 942 
+/CRC 937977598 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

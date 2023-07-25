@@ -1,0 +1,77 @@
+
+:dvips.win32:x1154 - 20180306
+
+Source E:\dev\dvips
+
+There is old DVIPS rebuild 
+  using MSVC 2010, 
+  with recent PSKernel
+  with added lastpsizwins to support TIKZ externalize
+  Build also in Win64 !
+
+=======================================================================
+:dvips.win32:v904:0.36409:110031152:155314:7474-ADF1:
+
+Fix importing of AI figures (see E:\support\ambika)
+
+=======================================================================
+:dvips.win32:v904:0.36409:110031964:155275:30AD-A986:
+
+Fix problem with reaiding configuration files ...
+
+I overwrite this file to avoid distribution of corrupted version.
+
+=======================================================================
+:dvips.win32:wx943:0.364602:111022852:155523:7878-8437:
+
+DVIPS has been rebuild for WX version.
+Previous was misfunctions because of 
+prologs use new functiosn such as 'eqcase'.
+
+=======================================================================
+:dvips.win32:wx975:0.364602:111110212:155453:4C65-CAAD:
+
+Original parsing of html special failed on formas like to:
+	html:<a href="..." pdf="...">
+whose are used in our hBaKoMa.def to pass some options to 
+PDF destination dictionary. Currently, we just break parsing
+loop when something other then HREF or NAME was met.
+
+Comparing files hps-org.c and HPS.C
+***** hps-org.c
+  198:        if (!href_or_name()) { 
+  199:          error("Bad HMTL:") ;
+***** HPS.C
+  198:        if (!href_or_name()) { 
+  199:  # ifdef NO_BAKOMA
+  200:          // We just terminate loop when meet non HREF/NAME
+  201:          error("Bad HMTL:") ;
+*****
+
+***** hps-org.c
+  201:          error("!") ;
+  202:          break ;
+***** HPS.C
+  203:          error("!") ;
+  204:  # endif
+  205:          break ;
+*****
+
+***** hps-org.c
+  255:    } else {
+  256:      error("Not valid href or name html reference") ;
+  257:      return(HPS_ERROR) ;
+  258:            }
+  259:    if(!parseref()) return(HPS_ERROR) ;
+***** HPS.C
+  258:    } else {
+  259:  # ifdef NO_BAKOMA
+  260:      // We just skip optional values ...
+  261:      error("Not valid href or name html reference") ;
+  262:  # endif
+  263:      return(HPS_ERROR) ;
+  264:    }
+  265:    if(!parseref()) return(HPS_ERROR) ;
+*****
+
+=======================================================================

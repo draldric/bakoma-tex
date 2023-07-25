@@ -1,0 +1,47 @@
+% Unpacking components of module [xetex-devanagari] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xetex-devanagari.tar.xz)
+/Name (xetex-devanagari)
+/Size 12444 
+/CRC -127362806 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xetex-devanagari.doc.tar.xz)
+/Name (xetex-devanagari)
+/Size 988 
+/CRC 1426563998 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xetex-devanagari)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\xetex-devanagari.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xetex-devanagari.bkz)
+/Name (xetex-devanagari)
+/Size 11861 
+/CRC 1375974326 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl)
+>>
+
+% Generating ..\x1136\xetex-devanagari.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xetex-devanagari.doc.bkz)
+/Name (xetex-devanagari)
+/Size 748 
+/CRC 1960142220 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

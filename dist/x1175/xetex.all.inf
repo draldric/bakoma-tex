@@ -1,0 +1,14 @@
+:xetex.all:x1175:0.04927:118070876:17898:D1F8-3795:
+
+./:
+tex
+
+./tex:
+xetex
+
+./tex/xetex:
+tex-ini-files
+
+./tex/xetex/tex-ini-files:
+xelatex.ini
+xetex.ini

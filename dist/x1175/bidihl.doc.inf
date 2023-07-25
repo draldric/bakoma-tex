@@ -1,0 +1,17 @@
+:bidihl.doc:x1175:0.055755:118070876:43051:7858-5E64:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+bidihl
+
+./doc/xelatex/bidihl:
+bidihl-doc.pdf
+bidihl-doc.tex
+README
+test-bidihl.pdf
+test-bidihl.tex

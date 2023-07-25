@@ -1,0 +1,13 @@
+:zxjatype:x1175:0.030719:118070876:7977:7890-543D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+zxjatype
+
+./tex/latex/zxjatype:
+zxjatype.sty

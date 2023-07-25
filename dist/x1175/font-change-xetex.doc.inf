@@ -1,0 +1,15 @@
+:font-change-xetex.doc:x1175:0.63845:118070876:558358:FC86-C9D:
+
+./:
+doc
+
+./doc:
+xetex
+
+./doc/xetex:
+font-change-xetex
+
+./doc/xetex/font-change-xetex:
+font-change-xetex.pdf
+font-change-xetex.tex
+README.txt

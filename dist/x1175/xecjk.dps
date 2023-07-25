@@ -1,0 +1,64 @@
+% Unpacking components of module [xecjk] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xecjk.tar.xz)
+/Name (xecjk)
+/Size 126748 
+/CRC -1556070184 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xecjk.doc.tar.xz)
+/Name (xecjk)
+/Size 1507796 
+/CRC -782206745 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xecjk.source.tar.xz)
+/Name (xecjk)
+/Size 84828 
+/CRC 363581105 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xecjk)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\xecjk.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xecjk.bkz)
+/Name (xecjk)
+/Size 125910 
+/CRC -192101268 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3c)
+>>
+
+% Generating ..\x1136\xecjk.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xecjk.doc.bkz)
+/Name (xecjk)
+/Size 1509493 
+/CRC 1058370581 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1136\xecjk.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xecjk.source.bkz)
+/Name (xecjk)
+/Size 84266 
+/CRC 165677865 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

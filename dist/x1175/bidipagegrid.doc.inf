@@ -1,0 +1,15 @@
+:bidipagegrid.doc:x1175:0.028123:118070876:25485:B1BF-1A27:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+bidipagegrid
+
+./doc/xelatex/bidipagegrid:
+bidipagegrid-doc.pdf
+bidipagegrid-doc.tex
+README

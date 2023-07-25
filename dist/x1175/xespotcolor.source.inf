@@ -1,0 +1,14 @@
+:xespotcolor.source:x1175:0.021151:118070876:6803:4B4B-B7DC:
+
+./:
+source
+
+./source:
+xelatex
+
+./source/xelatex:
+xespotcolor
+
+./source/xelatex/xespotcolor:
+xespotcolor.dtx
+xespotcolor.ins

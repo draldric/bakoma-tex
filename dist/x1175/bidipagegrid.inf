@@ -1,0 +1,13 @@
+:bidipagegrid:x1175:0.013075:118070876:2878:AD58-8292:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+bidipagegrid
+
+./tex/xelatex/bidipagegrid:
+bidipagegrid.sty

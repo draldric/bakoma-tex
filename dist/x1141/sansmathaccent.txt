@@ -1,0 +1,6 @@
+Added configuration:
+
+[TeXFonts]
+mathkerncmssi*=,CMSSI*,
+
+

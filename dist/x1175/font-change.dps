@@ -1,0 +1,47 @@
+% Unpacking components of module [font-change] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\font-change.tar.xz)
+/Name (font-change)
+/Size 19396 
+/CRC -52773511 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\font-change.doc.tar.xz)
+/Name (font-change)
+/Size 1766320 
+/CRC 2024840726 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (font-change)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\font-change.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\font-change.bkz)
+/Name (font-change)
+/Size 16646 
+/CRC -427397184 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (other-free)
+>>
+
+% Generating ..\x1136\font-change.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\font-change.doc.bkz)
+/Name (font-change)
+/Size 1764604 
+/CRC -1876470722 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

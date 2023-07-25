@@ -1,0 +1,17 @@
+:xevlna.doc:x1175:0.075686:118070876:55061:BFAA-30E5:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+xevlna
+
+./doc/xelatex/xevlna:
+License.txt
+README
+xevlna-inc.tex
+xevlna.pdf
+xevlna.tex

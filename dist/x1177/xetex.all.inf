@@ -1,0 +1,14 @@
+:xetex.all:x1177:0.049379:118080668:17891:F16F-FDA5:
+
+./:
+tex
+
+./tex:
+xetex
+
+./tex/xetex:
+tex-ini-files
+
+./tex/xetex/tex-ini-files:
+xelatex.ini
+xetex.ini

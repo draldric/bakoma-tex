@@ -1,0 +1,13 @@
+:svg.source:x1172:0.19653:118070952:38533:C316-5A3D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+svg
+
+./source/latex/svg:
+svg.dtx

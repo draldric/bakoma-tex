@@ -1,0 +1,47 @@
+% Unpacking components of module [xeindex] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xeindex.tar.xz)
+/Name (xeindex)
+/Size 1656 
+/CRC 1057997222 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xeindex.doc.tar.xz)
+/Name (xeindex)
+/Size 78928 
+/CRC -1641070025 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xeindex)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\xeindex.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xeindex.bkz)
+/Name (xeindex)
+/Size 1204 
+/CRC -1514610714 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl)
+>>
+
+% Generating ..\x1136\xeindex.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xeindex.doc.bkz)
+/Name (xeindex)
+/Size 78631 
+/CRC -860915102 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

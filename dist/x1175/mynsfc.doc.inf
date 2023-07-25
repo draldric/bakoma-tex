@@ -1,0 +1,16 @@
+:mynsfc.doc:x1175:0.230975:118070876:225549:3D1F-D384:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+mynsfc
+
+./doc/xelatex/mynsfc:
+my-nsfc-proposal.bib
+my-nsfc-proposal.pdf
+my-nsfc-proposal.tex
+mynsfc.pdf

@@ -1,0 +1,14 @@
+:xetex-tibetan.doc:x1175:0.002066:118070876:942:37E8-66FE:
+
+./:
+doc
+
+./doc:
+xetex
+
+./doc/xetex:
+xetex-tibetan
+
+./doc/xetex/xetex-tibetan:
+Changelog
+README

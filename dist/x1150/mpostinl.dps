@@ -1,0 +1,64 @@
+% Unpacking components of module [mpostinl] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\mpostinl.tar.xz)
+/Name (mpostinl)
+/Size 3780 
+/CRC -2104060146 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\mpostinl.doc.tar.xz)
+/Name (mpostinl)
+/Size 315256 
+/CRC -532363925 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\mpostinl.source.tar.xz)
+/Name (mpostinl)
+/Size 18828 
+/CRC -2005953550 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (mpostinl)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\mpostinl.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\mpostinl.bkz)
+/Name (mpostinl)
+/Size 3268 
+/CRC -1778954872 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\mpostinl.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\mpostinl.doc.bkz)
+/Name (mpostinl)
+/Size 315383 
+/CRC 1473409690 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1136\mpostinl.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\mpostinl.source.bkz)
+/Name (mpostinl)
+/Size 18545 
+/CRC 17366589 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

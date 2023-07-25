@@ -1,0 +1,14 @@
+:mpostinl.source:x1150:0.082304:117122368:18690:AB06-F78C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mpostinl
+
+./source/latex/mpostinl:
+mpostinl.dtx
+mpostinl.ins

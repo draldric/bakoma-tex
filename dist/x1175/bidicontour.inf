@@ -1,0 +1,13 @@
+:bidicontour:x1175:0.004141:118070876:1401:6EC-8339:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+bidicontour
+
+./tex/xelatex/bidicontour:
+bidicontour.sty

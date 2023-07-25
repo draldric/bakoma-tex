@@ -1,0 +1,18 @@
+This fix (2017/09/12) is based on code base of V 11.40,
+which fix font dictionary overflow at PDF generation
+
+------------------------------------------------------------------------------
+To apply the fix just unpack 
+http://www.bakoma-tex.com/dist/x1140/fix/font-fix170912.zip
+in BaKoMa TeX folder. 
+
+Check that the file "BaKoMa\Category\Level2\Font.cat" have been replaced. 
+
+------------------------------------------------------------------------------
+
+NOTE: This fix will be included into version 11.41
+
+
+
+
+

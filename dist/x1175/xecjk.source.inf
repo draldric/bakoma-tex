@@ -1,0 +1,14 @@
+:xecjk.source:x1175:0.493359:118070876:84266:9E0-B29:
+
+./:
+source
+
+./source:
+xelatex
+
+./source/xelatex:
+xecjk
+
+./source/xelatex/xecjk:
+xeCJK.dtx
+xeCJK.ins

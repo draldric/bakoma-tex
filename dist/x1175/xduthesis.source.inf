@@ -1,0 +1,14 @@
+:xduthesis.source:x1175:0.059211:118070876:15706:301A-13CA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xduthesis
+
+./source/latex/xduthesis:
+xduthesis.dtx
+xduthesis.ins

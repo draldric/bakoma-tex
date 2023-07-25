@@ -1,0 +1,13 @@
+:mynsfc:x1175:0.008993:118070876:2981:40EA-E9A9:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+mynsfc
+
+./tex/xelatex/mynsfc:
+mynsfc.cls

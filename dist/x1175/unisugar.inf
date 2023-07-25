@@ -1,0 +1,13 @@
+:unisugar:x1175:0.005224:118070876:2021:1BF6-D56C:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+unisugar
+
+./tex/xelatex/unisugar:
+unisugar.sty

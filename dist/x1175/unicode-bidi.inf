@@ -1,0 +1,13 @@
+:unicode-bidi:x1175:0.002176:118070876:708:1C1C-6E8C:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+unicode-bidi
+
+./tex/xelatex/unicode-bidi:
+unicode-bidi.sty

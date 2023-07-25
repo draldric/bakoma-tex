@@ -1,0 +1,47 @@
+% Unpacking components of module [bidicontour] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidicontour.tar.xz)
+/Name (bidicontour)
+/Size 1812 
+/CRC 928504445 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidicontour.doc.tar.xz)
+/Name (bidicontour)
+/Size 30512 
+/CRC -1179062042 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (bidicontour)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\bidicontour.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidicontour.bkz)
+/Name (bidicontour)
+/Size 1401 
+/CRC 116163385 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\bidicontour.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidicontour.doc.bkz)
+/Name (bidicontour)
+/Size 30148 
+/CRC -1274896581 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

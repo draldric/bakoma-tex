@@ -1,0 +1,15 @@
+:ucharclasses.doc:x1175:0.174772:118070876:153946:E86E-6055:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+ucharclasses
+
+./doc/xelatex/ucharclasses:
+README
+ucharclasses.pdf
+ucharclasses.tex

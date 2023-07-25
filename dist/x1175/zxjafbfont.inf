@@ -1,0 +1,13 @@
+:zxjafbfont:x1175:0.001599:118070876:703:6E9-CBA7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+zxjafbfont
+
+./tex/latex/zxjafbfont:
+zxjafbfont.sty

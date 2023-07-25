@@ -1,0 +1,13 @@
+:mynsfc.source:x1175:0.013562:118070876:4157:ECEE-3F3F:
+
+./:
+source
+
+./source:
+xelatex
+
+./source/xelatex:
+mynsfc
+
+./source/xelatex/mynsfc:
+mynsfc.dtx

@@ -1,0 +1,14 @@
+:zxjafbfont.doc:x1175:0.002429:118070876:1437:1935-570:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+zxjafbfont
+
+./doc/latex/zxjafbfont:
+LICENSE
+README

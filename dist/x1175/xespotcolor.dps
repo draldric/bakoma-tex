@@ -1,0 +1,64 @@
+% Unpacking components of module [xespotcolor] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xespotcolor.tar.xz)
+/Name (xespotcolor)
+/Size 2296 
+/CRC 918810568 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xespotcolor.doc.tar.xz)
+/Name (xespotcolor)
+/Size 128200 
+/CRC -145465259 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xespotcolor.source.tar.xz)
+/Name (xespotcolor)
+/Size 7068 
+/CRC 319458365 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xespotcolor)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\xespotcolor.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xespotcolor.bkz)
+/Name (xespotcolor)
+/Size 1881 
+/CRC -1484284034 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\xespotcolor.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xespotcolor.doc.bkz)
+/Name (xespotcolor)
+/Size 128001 
+/CRC -266480377 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1136\xespotcolor.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xespotcolor.source.bkz)
+/Name (xespotcolor)
+/Size 6803 
+/CRC 1263253468 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

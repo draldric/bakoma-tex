@@ -1,0 +1,47 @@
+% Unpacking components of module [interchar] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\interchar.tar.xz)
+/Name (interchar)
+/Size 5300 
+/CRC -76831318 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\interchar.doc.tar.xz)
+/Name (interchar)
+/Size 85428 
+/CRC -1857932494 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (interchar)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\interchar.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\interchar.bkz)
+/Name (interchar)
+/Size 4883 
+/CRC 1568389738 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\interchar.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\interchar.doc.bkz)
+/Name (interchar)
+/Size 85024 
+/CRC -740854456 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

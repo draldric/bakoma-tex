@@ -1,0 +1,64 @@
+% Unpacking components of module [iffont] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\iffont.tar.xz)
+/Name (iffont)
+/Size 1312 
+/CRC -686500561 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\iffont.doc.tar.xz)
+/Name (iffont)
+/Size 28352 
+/CRC -2022628507 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\iffont.source.tar.xz)
+/Name (iffont)
+/Size 3448 
+/CRC 2124937525 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (iffont)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\iffont.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\iffont.bkz)
+/Name (iffont)
+/Size 901 
+/CRC 870228975 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\iffont.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\iffont.doc.bkz)
+/Name (iffont)
+/Size 28073 
+/CRC 1305764725 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1136\iffont.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\iffont.source.bkz)
+/Name (iffont)
+/Size 3185 
+/CRC 262280048 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

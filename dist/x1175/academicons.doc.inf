@@ -1,0 +1,15 @@
+:academicons.doc:x1175:0.098468:118070876:90256:3E76-20A2:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+academicons
+
+./doc/fonts/academicons:
+academicons.pdf
+academicons.tex
+README

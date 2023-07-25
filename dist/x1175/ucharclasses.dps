@@ -1,0 +1,47 @@
+% Unpacking components of module [ucharclasses] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\ucharclasses.tar.xz)
+/Name (ucharclasses)
+/Size 7736 
+/CRC 740308646 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\ucharclasses.doc.tar.xz)
+/Name (ucharclasses)
+/Size 154276 
+/CRC -542522933 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (ucharclasses)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\ucharclasses.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\ucharclasses.bkz)
+/Name (ucharclasses)
+/Size 7216 
+/CRC -230969814 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (pd)
+>>
+
+% Generating ..\x1136\ucharclasses.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\ucharclasses.doc.bkz)
+/Name (ucharclasses)
+/Size 153946 
+/CRC -395419563 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

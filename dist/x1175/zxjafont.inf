@@ -1,0 +1,13 @@
+:zxjafont:x1175:0.01417:118070876:2790:BEA1-A5AC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+zxjafont
+
+./tex/latex/zxjafont:
+zxjafont.sty

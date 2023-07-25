@@ -1,0 +1,13 @@
+:xeindex:x1175:0.004961:118070876:1204:A5B8-DFE6:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+xeindex
+
+./tex/xelatex/xeindex:
+xeindex.sty

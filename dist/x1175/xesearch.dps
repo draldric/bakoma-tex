@@ -1,0 +1,47 @@
+% Unpacking components of module [xesearch] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xesearch.tar.xz)
+/Name (xesearch)
+/Size 5860 
+/CRC -1587967851 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xesearch.doc.tar.xz)
+/Name (xesearch)
+/Size 626440 
+/CRC -202996559 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xesearch)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\xesearch.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xesearch.bkz)
+/Name (xesearch)
+/Size 5230 
+/CRC 1680896328 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl)
+>>
+
+% Generating ..\x1136\xesearch.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xesearch.doc.bkz)
+/Name (xesearch)
+/Size 627816 
+/CRC 255745627 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

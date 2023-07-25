@@ -1,0 +1,47 @@
+% Unpacking components of module [bidi-atbegshi] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidi-atbegshi.tar.xz)
+/Name (bidi-atbegshi)
+/Size 1220 
+/CRC -1813141966 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidi-atbegshi.doc.tar.xz)
+/Name (bidi-atbegshi)
+/Size 66784 
+/CRC 1114999310 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (bidi-atbegshi)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\bidi-atbegshi.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidi-atbegshi.bkz)
+/Name (bidi-atbegshi)
+/Size 755 
+/CRC -652797466 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\bidi-atbegshi.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidi-atbegshi.doc.bkz)
+/Name (bidi-atbegshi)
+/Size 66293 
+/CRC 117944808 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

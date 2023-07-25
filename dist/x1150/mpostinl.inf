@@ -1,0 +1,13 @@
+:mpostinl:x1150:0.014092:117122368:3296:ED60-6D11:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mpostinl
+
+./tex/latex/mpostinl:
+mpostinl.sty

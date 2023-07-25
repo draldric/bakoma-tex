@@ -1,0 +1,21 @@
+This fix (2018/01/15) is based on code base of V 11.50,
+which fix latexdiff run.
+
+It should work with V 11.50.
+
+------------------------------------------------------------------------------
+To apply the fix just unpack 
+http://www.bakoma-tex.com/dist/x1150/fix/latexdiff-fix180115.zip
+in BaKoMa TeX folder. 
+
+Check that files 
+"BaKoMa\postline.pl"
+"BaKoMa\TeXWord\latexdiff.ctr"
+have been replaced. 
+
+------------------------------------------------------------------------------
+
+NOTE: This fix will be included into version 11.51
+
+
+

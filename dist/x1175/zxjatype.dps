@@ -1,0 +1,47 @@
+% Unpacking components of module [zxjatype] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\zxjatype.tar.xz)
+/Name (zxjatype)
+/Size 8316 
+/CRC 733632556 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\zxjatype.doc.tar.xz)
+/Name (zxjatype)
+/Size 136620 
+/CRC 1181554307 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (zxjatype)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\zxjatype.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\zxjatype.bkz)
+/Name (zxjatype)
+/Size 7977 
+/CRC 2022724669 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (mit)
+>>
+
+% Generating ..\x1136\zxjatype.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\zxjatype.doc.bkz)
+/Name (zxjatype)
+/Size 136204 
+/CRC 121610355 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

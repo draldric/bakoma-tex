@@ -1,0 +1,47 @@
+% Unpacking components of module [bidipresentation] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidipresentation.tar.xz)
+/Name (bidipresentation)
+/Size 28000 
+/CRC -677184668 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidipresentation.doc.tar.xz)
+/Name (bidipresentation)
+/Size 75456 
+/CRC -1046334309 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (bidipresentation)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\bidipresentation.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidipresentation.bkz)
+/Name (bidipresentation)
+/Size 27501 
+/CRC 1428393490 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\bidipresentation.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidipresentation.doc.bkz)
+/Name (bidipresentation)
+/Size 75157 
+/CRC -942478250 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

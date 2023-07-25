@@ -1,0 +1,64 @@
+% Unpacking components of module [zhmetrics] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\zhmetrics.tar.xz)
+/Name (zhmetrics)
+/Size 60128 
+/CRC 1118506777 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\zhmetrics.doc.tar.xz)
+/Name (zhmetrics)
+/Size 1396 
+/CRC 549046435 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\zhmetrics.source.tar.xz)
+/Name (zhmetrics)
+/Size 6368 
+/CRC 1916813882 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (zhmetrics)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\zhmetrics.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\zhmetrics.bkz)
+/Name (zhmetrics)
+/Size 18600 
+/CRC 1277891455 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl)
+>>
+
+% Generating ..\x1136\zhmetrics.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\zhmetrics.doc.bkz)
+/Name (zhmetrics)
+/Size 1151 
+/CRC 1873810271 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1136\zhmetrics.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\zhmetrics.source.bkz)
+/Name (zhmetrics)
+/Size 6092 
+/CRC 1309296398 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

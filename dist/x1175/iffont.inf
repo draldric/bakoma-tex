@@ -1,0 +1,13 @@
+:iffont:x1175:0.002151:118070876:901:33DE-A3EF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+iffont
+
+./tex/latex/iffont:
+iffont.sty

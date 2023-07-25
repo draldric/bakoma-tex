@@ -1,0 +1,17 @@
+:xduthesis:x1175:1.04382:118070876:111663:F62C-51D8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xduthesis
+
+./tex/latex/xduthesis:
+xdubadge-gr.eps
+xdubadge.eps
+xdulogo.eps
+xduthesis.cfg
+xduthesis.cls

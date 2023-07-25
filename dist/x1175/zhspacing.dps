@@ -1,0 +1,47 @@
+% Unpacking components of module [zhspacing] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\zhspacing.tar.xz)
+/Name (zhspacing)
+/Size 12240 
+/CRC 509134988 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\zhspacing.doc.tar.xz)
+/Name (zhspacing)
+/Size 169380 
+/CRC -683286395 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (zhspacing)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\zhspacing.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\zhspacing.bkz)
+/Name (zhspacing)
+/Size 11649 
+/CRC -1108806776 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\zhspacing.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\zhspacing.doc.bkz)
+/Name (zhspacing)
+/Size 169065 
+/CRC 886718559 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

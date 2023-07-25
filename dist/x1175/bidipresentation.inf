@@ -1,0 +1,14 @@
+:bidipresentation:x1175:0.18532:118070876:27501:5523-8E12:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+bidipresentation
+
+./tex/xelatex/bidipresentation:
+bidiprescolors.cfg
+bidipresentation.cls

@@ -1,0 +1,13 @@
+:xevlna:x1175:0.002483:118070876:754:F500-35E0:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+xevlna
+
+./tex/xelatex/xevlna:
+xevlna.sty

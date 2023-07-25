@@ -1,0 +1,47 @@
+% Unpacking components of module [bidipagegrid] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidipagegrid.tar.xz)
+/Name (bidipagegrid)
+/Size 3220 
+/CRC 131698938 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidipagegrid.doc.tar.xz)
+/Name (bidipagegrid)
+/Size 25796 
+/CRC 1380577921 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (bidipagegrid)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\bidipagegrid.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidipagegrid.bkz)
+/Name (bidipagegrid)
+/Size 2878 
+/CRC -1386708334 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\bidipagegrid.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidipagegrid.doc.bkz)
+/Name (bidipagegrid)
+/Size 25485 
+/CRC -1312875993 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

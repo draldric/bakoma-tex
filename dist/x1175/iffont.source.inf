@@ -1,0 +1,14 @@
+:iffont.source:x1175:0.009858:118070876:3185:FA2-1370:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+iffont
+
+./source/latex/iffont:
+iffont.dtx
+iffont.ins

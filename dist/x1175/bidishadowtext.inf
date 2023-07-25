@@ -1,0 +1,13 @@
+:bidishadowtext:x1175:0.002496:118070876:880:4AAD-AD36:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+bidishadowtext
+
+./tex/xelatex/bidishadowtext:
+bidishadowtext.sty

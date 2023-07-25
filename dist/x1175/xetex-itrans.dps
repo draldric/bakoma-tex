@@ -1,0 +1,47 @@
+% Unpacking components of module [xetex-itrans] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xetex-itrans.tar.xz)
+/Name (xetex-itrans)
+/Size 24616 
+/CRC 1931754023 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xetex-itrans.doc.tar.xz)
+/Name (xetex-itrans)
+/Size 21084 
+/CRC 1130192817 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xetex-itrans)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\xetex-itrans.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xetex-itrans.bkz)
+/Name (xetex-itrans)
+/Size 23886 
+/CRC -1776532451 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\xetex-itrans.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xetex-itrans.doc.bkz)
+/Name (xetex-itrans)
+/Size 20808 
+/CRC -1275094477 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

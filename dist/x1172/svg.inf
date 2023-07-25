@@ -1,0 +1,14 @@
+:svg:x1172:0.069034:118070952:11435:2508-4A92:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+svg
+
+./tex/latex/svg:
+svg-extract.sty
+svg.sty

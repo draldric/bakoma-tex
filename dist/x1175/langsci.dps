@@ -1,0 +1,47 @@
+% Unpacking components of module [langsci] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\langsci.tar.xz)
+/Name (langsci)
+/Size 81340 
+/CRC 456626144 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\langsci.doc.tar.xz)
+/Name (langsci)
+/Size 88760 
+/CRC 1884533888 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (langsci)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\langsci.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\langsci.bkz)
+/Name (langsci)
+/Size 80244 
+/CRC -1942320471 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\langsci.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\langsci.doc.bkz)
+/Name (langsci)
+/Size 88278 
+/CRC 1482854797 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

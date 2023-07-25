@@ -1,0 +1,15 @@
+:mpostinl.doc:x1150:0.322882:117122368:315336:4838-3329:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mpostinl
+
+./doc/latex/mpostinl:
+mpinlsmp.tex
+mpostinl.pdf
+README

@@ -1,0 +1,17 @@
+:zxjafont.doc:x1175:0.145562:118070876:135056:B297-64BF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+zxjafont
+
+./doc/latex/zxjafont:
+LICENSE
+README
+README-ja
+zxjafont.pdf
+zxjafont.tex

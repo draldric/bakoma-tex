@@ -1,0 +1,4 @@
+Active Stady of changing Omega by XeTeX.
+
+NOTE:	Lambda do not work beginning from V 11.40, 
+	when updated LaTeX requires e-TeX, which is unsupported by our old Omega.

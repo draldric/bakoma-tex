@@ -1,0 +1,13 @@
+:xespotcolor:x1175:0.004826:118070876:1881:A787-9F7E:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+xespotcolor
+
+./tex/xelatex/xespotcolor:
+xespotcolor.sty

@@ -1,0 +1,15 @@
+:xeindex.doc:x1175:0.092404:118070876:78631:CCAF-7A62:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+xeindex
+
+./doc/xelatex/xeindex:
+README
+xeindex.pdf
+xeindex.tex

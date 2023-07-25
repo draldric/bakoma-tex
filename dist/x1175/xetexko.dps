@@ -1,0 +1,47 @@
+% Unpacking components of module [xetexko] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xetexko.tar.xz)
+/Name (xetexko)
+/Size 57320 
+/CRC -2134652708 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xetexko.doc.tar.xz)
+/Name (xetexko)
+/Size 208144 
+/CRC -855344471 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xetexko)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\xetexko.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xetexko.bkz)
+/Name (xetexko)
+/Size 57938 
+/CRC 707867637 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\xetexko.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xetexko.doc.bkz)
+/Name (xetexko)
+/Size 207784 
+/CRC -247441250 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

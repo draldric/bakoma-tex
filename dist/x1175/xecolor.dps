@@ -1,0 +1,47 @@
+% Unpacking components of module [xecolor] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xecolor.tar.xz)
+/Name (xecolor)
+/Size 2256 
+/CRC 1074662990 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xecolor.doc.tar.xz)
+/Name (xecolor)
+/Size 1092 
+/CRC -980294248 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xecolor)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\xecolor.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xecolor.bkz)
+/Name (xecolor)
+/Size 1837 
+/CRC -1489121051 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\xecolor.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xecolor.doc.bkz)
+/Name (xecolor)
+/Size 846 
+/CRC -633267722 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

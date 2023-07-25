@@ -1,0 +1,13 @@
+:unicode-bidi.doc:x1175:0.001322:118070876:741:786F-4E7B:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+unicode-bidi
+
+./doc/xelatex/unicode-bidi:
+README.md

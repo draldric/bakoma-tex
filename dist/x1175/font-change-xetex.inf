@@ -1,0 +1,13 @@
+:font-change-xetex:x1175:0.049906:118070876:5318:7549-9CD9:
+
+./:
+tex
+
+./tex:
+xetex
+
+./tex/xetex:
+font-change-xetex
+
+./tex/xetex/font-change-xetex:
+font-change-xetex.tex

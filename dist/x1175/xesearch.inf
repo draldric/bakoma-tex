@@ -1,0 +1,14 @@
+:xesearch:x1175:0.03277:118070876:5230:6430-7148:
+
+./:
+tex
+
+./tex:
+xetex
+
+./tex/xetex:
+xesearch
+
+./tex/xetex/xesearch:
+t-xesearch.tex
+xesearch.sty

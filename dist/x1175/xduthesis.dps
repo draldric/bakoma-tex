@@ -1,0 +1,64 @@
+% Unpacking components of module [xduthesis] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xduthesis.tar.xz)
+/Name (xduthesis)
+/Size 113556 
+/CRC -1989503035 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xduthesis.doc.tar.xz)
+/Name (xduthesis)
+/Size 693280 
+/CRC 785146303 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xduthesis.source.tar.xz)
+/Name (xduthesis)
+/Size 15976 
+/CRC -2059725485 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xduthesis)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\xduthesis.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xduthesis.bkz)
+/Name (xduthesis)
+/Size 111663 
+/CRC -164867624 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\xduthesis.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xduthesis.doc.bkz)
+/Name (xduthesis)
+/Size 695568 
+/CRC -2090177578 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1136\xduthesis.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xduthesis.source.bkz)
+/Name (xduthesis)
+/Size 15706 
+/CRC 807015370 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

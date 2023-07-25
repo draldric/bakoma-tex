@@ -1,0 +1,16 @@
+:bidishadowtext.doc:x1175:0.123046:118070876:120240:E864-E99B:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+bidishadowtext
+
+./doc/xelatex/bidishadowtext:
+bidishadowtext-demo.pdf
+bidishadowtext-demo.tex
+bidishadowtext-doc.pdf
+bidishadowtext-doc.tex

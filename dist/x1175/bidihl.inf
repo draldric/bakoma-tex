@@ -1,0 +1,13 @@
+:bidihl:x1175:0.007289:118070876:1975:6E1-B5C3:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+bidihl
+
+./tex/xelatex/bidihl:
+bidihl.sty

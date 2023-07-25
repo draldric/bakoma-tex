@@ -1,0 +1,15 @@
+:xesearch.doc:x1175:0.775847:118070876:627816:F3E-5E5B:
+
+./:
+doc
+
+./doc:
+xetex
+
+./doc/xetex:
+xesearch
+
+./doc/xetex/xesearch:
+README
+xesearch.pdf
+xesearch.tex

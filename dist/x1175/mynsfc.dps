@@ -1,0 +1,64 @@
+% Unpacking components of module [mynsfc] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\mynsfc.tar.xz)
+/Name (mynsfc)
+/Size 3416 
+/CRC 357550356 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\mynsfc.doc.tar.xz)
+/Name (mynsfc)
+/Size 225904 
+/CRC 1600425609 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\mynsfc.source.tar.xz)
+/Name (mynsfc)
+/Size 4404 
+/CRC -547814231 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (mynsfc)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\mynsfc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\mynsfc.bkz)
+/Name (mynsfc)
+/Size 2981 
+/CRC 1089137065 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\mynsfc.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\mynsfc.doc.bkz)
+/Name (mynsfc)
+/Size 225549 
+/CRC 1025495940 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1136\mynsfc.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\mynsfc.source.bkz)
+/Name (mynsfc)
+/Size 4157 
+/CRC -319930561 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,16 @@
+:zhspacing.doc:x1175:0.19405:118070876:169065:34DA-405F:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+zhspacing
+
+./doc/generic/zhspacing:
+README.md
+zhs-man.pdf
+zhs-man.tex
+zhspacing-context-test.tex

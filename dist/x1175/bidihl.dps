@@ -1,0 +1,47 @@
+% Unpacking components of module [bidihl] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidihl.tar.xz)
+/Name (bidihl)
+/Size 2276 
+/CRC 1107768014 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidihl.doc.tar.xz)
+/Name (bidihl)
+/Size 43404 
+/CRC -416344037 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (bidihl)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\bidihl.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidihl.bkz)
+/Name (bidihl)
+/Size 1975 
+/CRC 115455427 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\bidihl.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidihl.doc.bkz)
+/Name (bidihl)
+/Size 43051 
+/CRC 2019057252 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

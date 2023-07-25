@@ -1,0 +1,47 @@
+% Unpacking components of module [academicons] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\academicons.tar.xz)
+/Name (academicons)
+/Size 23552 
+/CRC -1217097356 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\academicons.doc.tar.xz)
+/Name (academicons)
+/Size 90688 
+/CRC 1683322670 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (academicons)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\academicons.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\academicons.bkz)
+/Name (academicons)
+/Size 22670 
+/CRC 80609144 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\academicons.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\academicons.doc.bkz)
+/Name (academicons)
+/Size 90256 
+/CRC 1047928994 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

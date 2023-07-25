@@ -1,0 +1,7 @@
+Updated:
+
+1) Run PostLine avoiding COMSPEC [TeX and eTeX]
+
+2) SystemHook - i[e]TeX.dll delegates run of external programs to TeXWord [eTeX, TeX]
+
+3) \ifeof18 (to support mpostinl) [eTeX only]

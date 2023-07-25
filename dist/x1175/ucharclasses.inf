@@ -1,0 +1,13 @@
+:ucharclasses:x1175:0.029628:118070876:7216:F23B-AE2A:
+
+./:
+tex
+
+./tex:
+xelatex
+
+./tex/xelatex:
+ucharclasses
+
+./tex/xelatex/ucharclasses:
+ucharclasses.sty

@@ -1,0 +1,16 @@
+:xetexko.doc:x1175:0.235719:118070876:207784:F140-589E:
+
+./:
+doc
+
+./doc:
+xetex
+
+./doc/xetex:
+xetexko
+
+./doc/xetex/xetexko:
+ChangeLog
+README
+xetexko-doc.pdf
+xetexko-doc.tex

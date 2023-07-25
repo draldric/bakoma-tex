@@ -1,0 +1,47 @@
+% Unpacking components of module [unisugar] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\unisugar.tar.xz)
+/Name (unisugar)
+/Size 2468 
+/CRC -853175273 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\unisugar.doc.tar.xz)
+/Name (unisugar)
+/Size 456504 
+/CRC 5124810 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (unisugar)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\unisugar.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\unisugar.bkz)
+/Name (unisugar)
+/Size 2021 
+/CRC 469161324 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\unisugar.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\unisugar.doc.bkz)
+/Name (unisugar)
+/Size 456176 
+/CRC 1696319624 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,13 @@
+:xecolor.doc:x1175:0.001651:118070876:846:DA41-19F6:
+
+./:
+doc
+
+./doc:
+xelatex
+
+./doc/xelatex:
+xecolor
+
+./doc/xelatex/xecolor:
+README

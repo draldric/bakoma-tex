@@ -1,0 +1,64 @@
+% Unpacking components of module [svg] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\svg.tar.xz)
+/Name (svg)
+/Size 12096 
+/CRC -1417682197 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\svg.doc.tar.xz)
+/Name (svg)
+/Size 1001536 
+/CRC -1899183840 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\svg.source.tar.xz)
+/Name (svg)
+/Size 38792 
+/CRC -561967935 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (svg)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\svg.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\svg.bkz)
+/Name (svg)
+/Size 11435 
+/CRC 621300370 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\svg.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\svg.doc.bkz)
+/Name (svg)
+/Size 1002803 
+/CRC 225003370 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1136\svg.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\svg.source.bkz)
+/Name (svg)
+/Size 38533 
+/CRC -1021945283 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

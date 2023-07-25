@@ -1,0 +1,47 @@
+% Unpacking components of module [bidishadowtext] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidishadowtext.tar.xz)
+/Name (bidishadowtext)
+/Size 1268 
+/CRC 86911495 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\bidishadowtext.doc.tar.xz)
+/Name (bidishadowtext)
+/Size 120568 
+/CRC 2037639325 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (bidishadowtext)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\bidishadowtext.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidishadowtext.bkz)
+/Name (bidishadowtext)
+/Size 880 
+/CRC 1252896054 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\bidishadowtext.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\bidishadowtext.doc.bkz)
+/Name (bidishadowtext)
+/Size 120240 
+/CRC -396039781 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

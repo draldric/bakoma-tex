@@ -1,0 +1,47 @@
+% Unpacking components of module [xevlna] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xevlna.tar.xz)
+/Name (xevlna)
+/Size 1336 
+/CRC 1190689697 
+>>
+<<
+/Type /TDS 
+/File (H:\\Software.TeX\\TeXLive2017\\tlnet\\archive\\xevlna.doc.tar.xz)
+/Name (xevlna)
+/Size 55376 
+/CRC -1537725284 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xevlna)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1136
+
+% Generating ..\x1136\xevlna.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xevlna.bkz)
+/Name (xevlna)
+/Size 754 
+/CRC -184535584 
+/Base (E:\\Site\\www\\dist\\tmp)
+/Required ()
+/License (lppl1.3)
+>>
+
+% Generating ..\x1136\xevlna.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1136\\xevlna.doc.bkz)
+/Name (xevlna)
+/Size 55061 
+/CRC -1079365403 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
