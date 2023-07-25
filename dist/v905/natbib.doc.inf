@@ -1,0 +1,17 @@
+:natbib.doc:v905:0.476698:111020116:418406:51F8-710B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+natbib
+
+./doc/latex/natbib:
+natbib.pdf
+natnotes.pdf
+readme
+readme.1st
+readme.v831b

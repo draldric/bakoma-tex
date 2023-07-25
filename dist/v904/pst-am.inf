@@ -1,0 +1,13 @@
+:pst-am:v904:0.010948:109120956:2579:EF9-E8D2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pst-am
+
+./tex/latex/pst-am:
+pst-am.sty

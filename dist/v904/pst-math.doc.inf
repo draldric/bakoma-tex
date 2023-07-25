@@ -1,0 +1,15 @@
+:pst-math.doc:v904:0.201544:109120956:157812:F498-858:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-math
+
+./doc/generic/pst-math:
+changes
+pst-math-doc.pdf
+readme

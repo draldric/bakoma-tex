@@ -1,0 +1,15 @@
+:pst-barcode.doc:v904:0.23294:109120928:162723:574D-BB17:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-barcode
+
+./doc/generic/pst-barcode:
+changes
+pst-barcode-doc.pdf
+readme

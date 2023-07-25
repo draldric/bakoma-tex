@@ -1,0 +1,16 @@
+:natbib.source:v905:0.27734:111020116:63661:2CBE-C4C3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+natbib
+
+./source/latex/natbib:
+bibentry.dtx
+bibentry.ins
+natbib.dtx
+natbib.ins

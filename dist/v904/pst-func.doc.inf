@@ -1,0 +1,15 @@
+:pst-func.doc:v904:2.87084:109120928:2544105:1377-67DE:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-func
+
+./doc/generic/pst-func:
+changes
+pst-func-doc.pdf
+readme

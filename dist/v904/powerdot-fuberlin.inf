@@ -1,0 +1,14 @@
+:powerdot-fuberlin:v904:0.02048:109111552:2149:8315-AD4:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+powerdot-fuberlin
+
+./tex/latex/powerdot-fuberlin:
+fupowerdot.cls
+powerdot-berlinfu.sty

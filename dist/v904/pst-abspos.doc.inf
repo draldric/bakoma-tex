@@ -1,0 +1,15 @@
+:pst-abspos.doc:v904:0.079527:109120928:52786:77CA-AF64:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-abspos
+
+./doc/generic/pst-abspos:
+changes
+pst-abspos-doc.pdf
+readme

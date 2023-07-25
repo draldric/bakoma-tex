@@ -1,0 +1,14 @@
+:etoolbox:v905:0.043786:111062472:7405:F509-787D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+etoolbox
+
+./tex/latex/etoolbox:
+etoolbox.def
+etoolbox.sty

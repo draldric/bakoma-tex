@@ -1,0 +1,15 @@
+:pst-am.doc:v904:0.884641:109120956:834986:D753-CF8D:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-am
+
+./doc/generic/pst-am:
+changes
+pst-am-doc.pdf
+readme

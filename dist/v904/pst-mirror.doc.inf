@@ -1,0 +1,15 @@
+:pst-mirror.doc:v904:6.33335:109120928:6042252:DBBB-1A7C:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-mirror
+
+./doc/generic/pst-mirror:
+changes
+pst-mirror-doc.pdf
+readme

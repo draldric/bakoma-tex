@@ -1,0 +1,17 @@
+:beamer-fuberlin:v904:0.02048:109111548:2569:425D-2E94:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+beamer-fuberlin
+
+./tex/latex/beamer-fuberlin:
+beamercolorthemeberlinfu.sty
+beamerfontthemeberlinfu.sty
+beamerouterthemeberlinfu.sty
+beamerthemeberlinfu.sty
+fubeamer.cls

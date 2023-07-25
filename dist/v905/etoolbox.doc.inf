@@ -1,0 +1,15 @@
+:etoolbox.doc:v905:0.261789:111062472:200817:C3E8-9654:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+etoolbox
+
+./doc/latex/etoolbox:
+etoolbox.pdf
+etoolbox.tex
+README

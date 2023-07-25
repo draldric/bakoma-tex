@@ -1,0 +1,49 @@
+
+
+09/12/06 Openning this directory 
+
+09/12/06 - ccicons (New, Untested)
+
+09/12/08 - HyperRef (Updated, QUICKTEST passed, CTAN includes regenerated PDF files)
+
+	   stellenbosch (usthesis.cls).
+	   beamer-fuberlin (Free University in Berlin)
+	   powerdot-fuberlin (Free University in Berlin)
+
+
+09/12/09 - PSTricks update ...
+
+	   pstricks - some refinments in pstricks.tex
+	   pstricks-add
+	   pst-3dplot
+	   pst-abspos
+	   pst-barcode
+	   pst-func
+	   pst-optexp
+	   pst-math
+	   pst-poly (quick test passed)
+	   pst-tree (Just bug fix)
+	   pst-solides3d - NEEDS  IN FIXING ...
+
+	NEWL
+	   pst-am
+	   pst-knot
+	   pst-mirror
+	   pst-gantt
+
+
+	TODO: Bried tests should be made.
+
+10/02/07 - PGF ...
+	pgf.bkz            - just fix error in file name 
+	pgfplots.bkz       - updated version.
+	pgfplots.doc.bkz
+	pgfplots.source.bkz
+
+
+10/03/16 - TIKZ ...
+	tikz-3dplot
+	tiks-qtree (requested by user)
+
+10/03/21 - TXFONTS fixed \textsf - Helvetica fonts was missed in map file.
+

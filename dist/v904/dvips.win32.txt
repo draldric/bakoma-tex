@@ -1,0 +1,12 @@
+
+:dvips.win32:v904:0.36409:110031152:155314:7474-ADF1:
+
+Fix importing of AI figures (see E:\support\ambika)
+
+
+:dvips.win32:v904:0.36409:110031964:155275:30AD-A986:
+
+Fix problem with reaiding configuration files ...
+
+I overwrite this file to avoid distribution of corrupted version.
+

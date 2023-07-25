@@ -1,0 +1,15 @@
+:pst-optexp.doc:v904:0.375264:109120956:284254:A368-6E56:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-optexp
+
+./doc/generic/pst-optexp:
+changes
+pst-optexp-doc.pdf
+readme

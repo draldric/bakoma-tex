@@ -1,0 +1,15 @@
+:pst-gantt.doc:v904:0.108576:109120928:81008:829E-FEC9:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-gantt
+
+./doc/generic/pst-gantt:
+changes
+pst-gantt-doc.pdf
+readme

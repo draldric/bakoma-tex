@@ -1,0 +1,13 @@
+:tikz-3dplot:v904:0.031141:110031656:6907:42B3-9375:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tikz-3dplot
+
+./tex/latex/tikz-3dplot:
+tikz-3dplot.sty

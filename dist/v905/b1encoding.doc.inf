@@ -1,0 +1,13 @@
+:b1encoding.doc:v905:0.177644:110110936:141729:3AB9-DB59:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+b1encoding
+
+./doc/latex/b1encoding:
+b1encoding.pdf

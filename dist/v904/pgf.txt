@@ -1,0 +1,28 @@
+There is only fix of corrupt file name:
+
+./tex/generic/pgf/frontendlayer/tikz/libraries:
+...
+tikzlibrarydecorations.pathmorphing.code.te
+
+The file just renamed.
+
+Also, I have changed extensive use of save/rstore
+to use gsave/grestore, which is more efficient.
+
+Looking source, I see that gsave/grestore is really needed.
+
+Fix:
+
+./tex/generic/pgf/systemlayer
+
+Comparison of pgfsys-common-postscript.org-def and PGFSYS-COMMON-POSTSCRIPT.DEF
+***** pgfsys-common-postscript.org-def
+  101:  \def\pgfsys@beginscope{\pgfsysprotocol@literal{save}}
+  102:  \def\pgfsys@endscope{\pgfsysprotocol@literal{restore}}
+  103:  
+***** PGFSYS-COMMON-POSTSCRIPT.DEF
+  101:  \def\pgfsys@beginscope{\pgfsysprotocol@literal{gsave}}% BKM: was 'save'
+  102:  \def\pgfsys@endscope{\pgfsysprotocol@literal{grestore}}% BKM: was 'restore'
+  103:  
+*****
+

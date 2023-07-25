@@ -1,0 +1,15 @@
+:b1encoding:v905:0.020882:110110936:4019:E4F-4387:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+b1encoding
+
+./tex/latex/b1encoding:
+b1cmr.fd
+b1enc.def
+texb1.enc

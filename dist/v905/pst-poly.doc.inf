@@ -1,0 +1,15 @@
+:pst-poly.doc:v905:0.141094:110032280:113057:2F58-50F2:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-poly
+
+./doc/generic/pst-poly:
+changes
+pst-poly.pdf
+readme

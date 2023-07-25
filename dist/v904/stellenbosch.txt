@@ -1,0 +1,21 @@
+TeX Catalogue Article:
+
+The usthesis class/style files are provided to typeset reports, 
+theses and dissertations that conform to the requirements of 
+the Engineering Faculty of the University of Stellenbosch.
+
+The class file usthesis.cls is based on the standard LaTeX book class, 
+while usthesis.sty is a style file to be loaded on top of the very powerful 
+memoir class. Both options give identical output, but the benefit of the 
+using memoir is that it has many additional command and environments for 
+formatting and processing of a document.
+
+Usthesis is primarily concerned with the formatting of the front matter 
+such as the title page, abstract, etc. and a decent page layout on A4 paper. 
+It also works together with the babel package to provide language options 
+to typeset documents in Afrikaans or in English.
+
+Additional packages are provided for bibliographic matter, note title pages, 
+lists of symbols, as well as various graphic files for logos.
+
+The author is Danie Els. The package is Copyright c 2003-2009 Danie Els.

@@ -1,0 +1,15 @@
+:tikz-qtree.doc:v904:0.144837:110031656:121901:D6B4-8C84:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tikz-qtree
+
+./doc/latex/tikz-qtree:
+readme
+tikz-qtree-manual.pdf
+tikz-qtree-manual.tex

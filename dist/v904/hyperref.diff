@@ -1,0 +1,810 @@
+
+Сравнение файлов F:backref.sty и .\BACKREF.STY
+FC: различия не найдены
+
+Сравнение файлов F:hdvipdfm.def и .\HDVIPDFM.DEF
+***** F:hdvipdfm.def
+\ProvidesFile{hdvipdfm.def}
+  [2009/05/01 v6.78r
+  Hyperref driver for dvipdfm]
+***** .\HDVIPDFM.DEF
+\ProvidesFile{hdvipdfm.def}
+  [2009/10/09 v6.79a
+  Hyperref driver for dvipdfm]
+*****
+
+***** F:hdvipdfm.def
+  \setkeys{Form}{#1}%
+  \@pdfm@mark{obj @afields []}%
+***** .\HDVIPDFM.DEF
+  \setkeys{Form}{#1}%
+  \Hy@FormObjects
+  \@pdfm@mark{obj @afields []}%
+*****
+
+***** F:hdvipdfm.def
+}
+\@pdfm@mark{obj @OBJpdfdocencoding%
+  <<%
+    /Type/Encoding%
+    /Differences[%
+       24/breve/caron/circumflex/dotaccent/hungarumlaut/ogonek/ring/tilde %
+       39/quotesingle %
+       96/grave %
+      128/bullet/dagger/daggerdbl/ellipsis/emdash/endash/florin%
+        /fraction/guilsinglleft/guilsinglright/minus/perthousand%
+        /quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright%
+        /quotesinglbase/trademark/fi/fl/Lslash/OE/Scaron/Ydieresis%
+        /Zcaron/dotlessi/lslash/oe/scaron/zcaron %
+      164/currency %
+      166/brokenbar %
+      168/dieresis/copyright/ordfeminine %
+      172/logicalnot/.notdef/registered/macron/degree/plusminus%
+         /twosuperior/threesuperior/acute/mu %
+      183/periodcentered/cedilla/onesuperior/ordmasculine %
+      188/onequarter/onehalf/threequarters %
+      192/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE%
+         /Ccedilla/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute%
+         /Icircumflex/Idieresis/Eth/Ntilde/Ograve/Oacute/Ocircumflex%
+         /Otilde/Odieresis/multiply/Oslash/Ugrave/Uacute/Ucircumflex%
+         /Udieresis/Yacute/Thorn/germandbls/agrave/aacute/acircumflex%
+         /atilde/adieresis/aring/ae/ccedilla/egrave/eacute%
+         /ecircumflex/edieresis/igrave/iacute/icircumflex/idieresis%
+         /eth/ntilde/ograve/oacute/ocircumflex/otilde/odieresis%
+         /divide/oslash/ugrave/uacute/ucircumflex/udieresis/yacute%
+         /thorn/ydieresis%
+    ]%
+  >>%
+}
+\@pdfm@mark{obj @OBJZaDb%
+  <<%
+    /Type/Font%
+    /Subtype/Type1%
+    /Name/ZaDb%
+    /BaseFont/ZapfDingbats%
+  >>%
+}
+\@pdfm@mark{obj @OBJHelv%
+  <<%
+    /Type/Font%
+    /Subtype/Type1%
+    /Name/Helv%
+    /BaseFont/Helvetica%
+    /Encoding @OBJpdfdocencoding%
+  >>%
+}
+***** .\HDVIPDFM.DEF
+}
+\def\Hy@FormObjects{%
+  \@pdfm@mark{obj @OBJpdfdocencoding%
+    <<%
+      /Type/Encoding%
+      /Differences[%
+         24/breve/caron/circumflex/dotaccent/hungarumlaut/ogonek/ring/tilde %
+         39/quotesingle %
+         96/grave %
+        128/bullet/dagger/daggerdbl/ellipsis/emdash/endash/florin%
+          /fraction/guilsinglleft/guilsinglright/minus/perthousand%
+          /quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright%
+          /quotesinglbase/trademark/fi/fl/Lslash/OE/Scaron/Ydieresis%
+          /Zcaron/dotlessi/lslash/oe/scaron/zcaron %
+        164/currency %
+        166/brokenbar %
+        168/dieresis/copyright/ordfeminine %
+        172/logicalnot/.notdef/registered/macron/degree/plusminus%
+           /twosuperior/threesuperior/acute/mu %
+        183/periodcentered/cedilla/onesuperior/ordmasculine %
+        188/onequarter/onehalf/threequarters %
+        192/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE%
+           /Ccedilla/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute%
+           /Icircumflex/Idieresis/Eth/Ntilde/Ograve/Oacute/Ocircumflex%
+           /Otilde/Odieresis/multiply/Oslash/Ugrave/Uacute/Ucircumflex%
+           /Udieresis/Yacute/Thorn/germandbls/agrave/aacute/acircumflex%
+           /atilde/adieresis/aring/ae/ccedilla/egrave/eacute%
+           /ecircumflex/edieresis/igrave/iacute/icircumflex/idieresis%
+           /eth/ntilde/ograve/oacute/ocircumflex/otilde/odieresis%
+           /divide/oslash/ugrave/uacute/ucircumflex/udieresis/yacute%
+           /thorn/ydieresis%
+      ]%
+    >>%
+  }%
+  \@pdfm@mark{obj @OBJZaDb%
+    <<%
+      /Type/Font%
+      /Subtype/Type1%
+      /Name/ZaDb%
+      /BaseFont/ZapfDingbats%
+    >>%
+  }%
+  \@pdfm@mark{obj @OBJHelv%
+    <<%
+      /Type/Font%
+      /Subtype/Type1%
+      /Name/Helv%
+      /BaseFont/Helvetica%
+      /Encoding @OBJpdfdocencoding%
+    >>%
+  }%
+  \global\let\Hy@FormObjects\relax
+}
+*****
+
+***** F:hdvipdfm.def
+    \fi
+    /A<</S/JavaScript/JS(\Hy@escapestring{\Fld@onclick})>>%
+  }%
+***** .\HDVIPDFM.DEF
+    \fi
+    /A<</S/JavaScript/JS(\Hy@escapestring{\Fld@onclick@code})>>%
+  }%
+*****
+
+***** F:hdvipdfm.def
+    \fi
+    /CA(H)%
+  >>%
+***** .\HDVIPDFM.DEF
+    \fi
+    /CA(\Fld@radiosymbol)%
+  >>%
+*****
+
+***** F:hdvipdfm.def
+    % section number, text, label, level, file
+ \ifx\WriteBookmarks\relax%
+ \else
+  \ifnum#4>\Hy@bookmarksdepth\relax
+  \else
+   \@@writetorep{#1}{#2}{#3}{#4}{#5}%
+  \fi
+ \fi
+}
+***** .\HDVIPDFM.DEF
+    % section number, text, label, level, file
+  \ifx\WriteBookmarks\relax%
+  \else
+    \ifnum#4>\Hy@bookmarksdepth\relax
+    \else
+      \@@writetorep{#1}{#2}{#3}{#4}{#5}%
+    \fi
+  \fi
+}
+*****
+
+Сравнение файлов F:hdvips.def и .\HDVIPS.DEF
+***** F:hdvips.def
+\ProvidesFile{hdvips.def}
+  [2009/05/01 v6.78r
+  Hyperref driver for dvips]
+***** .\HDVIPS.DEF
+\ProvidesFile{hdvips.def}
+  [2009/10/09 v6.79a
+  Hyperref driver for dvips]
+*****
+
+Сравнение файлов F:hdvipson.def и .\HDVIPSON.DEF
+***** F:hdvipson.def
+\ProvidesFile{hdvipson.def}
+  [2009/05/01 v6.78r
+  Hyperref driver for dvipsone]
+***** .\HDVIPSON.DEF
+\ProvidesFile{hdvipson.def}
+  [2009/10/09 v6.79a
+  Hyperref driver for dvipsone]
+*****
+
+Сравнение файлов F:hdviwind.def и .\HDVIWIND.DEF
+***** F:hdviwind.def
+\ProvidesFile{hdviwind.def}
+  [2009/05/01 v6.78r
+  Hyperref driver for dviwindo]
+***** .\HDVIWIND.DEF
+\ProvidesFile{hdviwind.def}
+  [2009/10/09 v6.79a
+  Hyperref driver for dviwindo]
+*****
+
+Сравнение файлов F:hpdftex.def и .\HPDFTEX.DEF
+***** F:hpdftex.def
+\ProvidesFile{hpdftex.def}
+  [2009/05/01 v6.78r
+  Hyperref driver for pdfTeX]
+***** .\HPDFTEX.DEF
+\ProvidesFile{hpdftex.def}
+  [2009/10/09 v6.79a
+  Hyperref driver for pdfTeX]
+*****
+
+***** F:hpdftex.def
+  \setkeys{Form}{#1}%
+  \ifnum\pdftexversion>13 %
+***** .\HPDFTEX.DEF
+  \setkeys{Form}{#1}%
+  \Hy@FormObjects
+  \ifnum\pdftexversion>13 %
+*****
+
+***** F:hpdftex.def
+}
+\pdfobj {%
+  <<%
+    /Type/Encoding%
+    /Differences[%
+      24/breve/caron/circumflex/dotaccent/hungarumlaut/ogonek%
+        /ring/tilde %
+      39/quotesingle %
+      96/grave %
+      128/bullet/dagger/daggerdbl/ellipsis/emdash/endash/florin%
+         /fraction/guilsinglleft/guilsinglright/minus/perthousand%
+         /quotedblbase/quotedblleft/quotedblright/quoteleft%
+         /quoteright/quotesinglbase/trademark/fi/fl/Lslash/OE%
+         /Scaron/Ydieresis/Zcaron/dotlessi/lslash/oe/scaron/zcaron %
+      164/currency %
+      166/brokenbar %
+      168/dieresis/copyright/ordfeminine %
+      172/logicalnot/.notdef/registered/macron/degree/plusminus%
+         /twosuperior/threesuperior/acute/mu %
+      183/periodcentered/cedilla/onesuperior/ordmasculine %
+      188/onequarter/onehalf/threequarters %
+      192/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE%
+         /Ccedilla/Egrave/Eacute/Ecircumflex/Edieresis/Igrave%
+         /Iacute/Icircumflex/Idieresis/Eth/Ntilde/Ograve/Oacute%
+         /Ocircumflex/Otilde/Odieresis/multiply/Oslash/Ugrave%
+         /Uacute/Ucircumflex/Udieresis/Yacute/Thorn/germandbls%
+         /agrave/aacute/acircumflex/atilde/adieresis/aring/ae%
+         /ccedilla/egrave/eacute/ecircumflex/edieresis/igrave%
+         /iacute/icircumflex/idieresis/eth/ntilde/ograve/oacute%
+         /ocircumflex/otilde/odieresis/divide/oslash/ugrave%
+         /uacute/ucircumflex/udieresis/yacute/thorn/ydieresis%
+    ]%
+  >>%
+}
+\edef\OBJ@pdfdocencoding{\the\pdflastobj}
+\pdfobj{%
+  <<%
+    /Type/Font%
+    /Subtype/Type1%
+    /Name/ZaDb%
+    /BaseFont/ZapfDingbats%
+  >>%
+}
+\edef\OBJ@ZaDb{\the\pdflastobj}
+\pdfobj{%
+  <<%
+    /Type/Font%
+    /Subtype/Type1%
+    /Name/Helv%
+    /BaseFont/Helvetica%
+    /Encoding \OBJ@pdfdocencoding\space 0 R%
+  >>%
+}
+\edef\OBJ@Helv{\the\pdflastobj}
+\begingroup\expandafter\expandafter\expandafter\endgroup
+***** .\HPDFTEX.DEF
+}
+\def\Hy@FormObjects{%
+  \pdfobj {%
+    <<%
+      /Type/Encoding%
+      /Differences[%
+        24/breve/caron/circumflex/dotaccent/hungarumlaut/ogonek%
+          /ring/tilde %
+        39/quotesingle %
+        96/grave %
+        128/bullet/dagger/daggerdbl/ellipsis/emdash/endash/florin%
+           /fraction/guilsinglleft/guilsinglright/minus/perthousand%
+           /quotedblbase/quotedblleft/quotedblright/quoteleft%
+           /quoteright/quotesinglbase/trademark/fi/fl/Lslash/OE%
+           /Scaron/Ydieresis/Zcaron/dotlessi/lslash/oe/scaron/zcaron %
+        164/currency %
+        166/brokenbar %
+        168/dieresis/copyright/ordfeminine %
+        172/logicalnot/.notdef/registered/macron/degree/plusminus%
+           /twosuperior/threesuperior/acute/mu %
+        183/periodcentered/cedilla/onesuperior/ordmasculine %
+        188/onequarter/onehalf/threequarters %
+        192/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE%
+           /Ccedilla/Egrave/Eacute/Ecircumflex/Edieresis/Igrave%
+           /Iacute/Icircumflex/Idieresis/Eth/Ntilde/Ograve/Oacute%
+           /Ocircumflex/Otilde/Odieresis/multiply/Oslash/Ugrave%
+           /Uacute/Ucircumflex/Udieresis/Yacute/Thorn/germandbls%
+           /agrave/aacute/acircumflex/atilde/adieresis/aring/ae%
+           /ccedilla/egrave/eacute/ecircumflex/edieresis/igrave%
+           /iacute/icircumflex/idieresis/eth/ntilde/ograve/oacute%
+           /ocircumflex/otilde/odieresis/divide/oslash/ugrave%
+           /uacute/ucircumflex/udieresis/yacute/thorn/ydieresis%
+      ]%
+    >>%
+  }%
+  \xdef\OBJ@pdfdocencoding{\the\pdflastobj}%
+  \pdfobj{%
+    <<%
+      /Type/Font%
+      /Subtype/Type1%
+      /Name/ZaDb%
+      /BaseFont/ZapfDingbats%
+    >>%
+  }%
+  \xdef\OBJ@ZaDb{\the\pdflastobj}%
+  \pdfobj{%
+    <<%
+      /Type/Font%
+      /Subtype/Type1%
+      /Name/Helv%
+      /BaseFont/Helvetica%
+      /Encoding \OBJ@pdfdocencoding\space 0 R%
+    >>%
+  }%
+  \xdef\OBJ@Helv{\the\pdflastobj}%
+  \global\let\Hy@FormObjects\relax
+}
+\begingroup\expandafter\expandafter\expandafter\endgroup
+*****
+
+***** F:hpdftex.def
+    \fi
+    /A<</S/JavaScript/JS(\Hy@escapestring{\Fld@onclick})>>%
+  }%
+***** .\HPDFTEX.DEF
+    \fi
+    /A<</S/JavaScript/JS(\Hy@escapestring{\Fld@onclick@code})>>%
+  }%
+*****
+
+***** F:hpdftex.def
+    \fi
+    /CA(H)%
+  >>%
+***** .\HPDFTEX.DEF
+    \fi
+    /CA(\Fld@radiosymbol)%
+  >>%
+*****
+
+***** F:hpdftex.def
+    % section number, text, label, level, file
+ \ifx\WriteBookmarks\relax%
+ \else
+  \ifnum#4>\Hy@bookmarksdepth\relax
+  \else
+   \@@writetorep{#1}{#2}{#3}{#4}{#5}%
+  \fi
+ \fi
+}
+***** .\HPDFTEX.DEF
+    % section number, text, label, level, file
+  \ifx\WriteBookmarks\relax%
+  \else
+    \ifnum#4>\Hy@bookmarksdepth\relax
+    \else
+      \@@writetorep{#1}{#2}{#3}{#4}{#5}%
+    \fi
+  \fi
+}
+*****
+
+Сравнение файлов F:htex4ht.cfg и .\HTEX4HT.CFG
+***** F:htex4ht.cfg
+\ProvidesFile{htex4ht.cfg}
+  [2009/05/01 v6.78r
+  Hyperref configuration file for TeX4ht]
+***** .\HTEX4HT.CFG
+\ProvidesFile{htex4ht.cfg}
+  [2009/10/09 v6.79a
+  Hyperref configuration file for TeX4ht]
+*****
+
+Сравнение файлов F:htex4ht.def и .\HTEX4HT.DEF
+***** F:htex4ht.def
+\ProvidesFile{htex4ht.def}
+  [2009/05/01 v6.78r
+  Hyperref driver for TeX4ht]
+***** .\HTEX4HT.DEF
+\ProvidesFile{htex4ht.def}
+  [2009/10/09 v6.79a
+  Hyperref driver for TeX4ht]
+*****
+
+Сравнение файлов F:htexture.def и .\HTEXTURE.DEF
+***** F:htexture.def
+\ProvidesFile{htexture.def}
+  [2009/05/01 v6.78r
+  Hyperref driver for Textures]
+***** .\HTEXTURE.DEF
+\ProvidesFile{htexture.def}
+  [2009/10/09 v6.79a
+  Hyperref driver for Textures]
+*****
+
+Сравнение файлов F:hvtex.def и .\HVTEX.DEF
+***** F:hvtex.def
+\ProvidesFile{hvtex.def}
+  [2009/05/01 v6.78r
+  Hyperref driver for VTeX in PDF/PS mode]
+***** .\HVTEX.DEF
+\ProvidesFile{hvtex.def}
+  [2009/10/09 v6.79a
+  Hyperref driver for VTeX in PDF/PS mode]
+*****
+
+***** F:hvtex.def
+    % section number, text, label, level, file
+ \ifx\WriteBookmarks\relax%
+ \else
+  \ifnum#4>\Hy@bookmarksdepth\relax
+  \else
+   \@@writetorep{#1}{#2}{#3}{#4}{#5}%
+  \fi
+ \fi
+}
+***** .\HVTEX.DEF
+    % section number, text, label, level, file
+  \ifx\WriteBookmarks\relax%
+  \else
+    \ifnum#4>\Hy@bookmarksdepth\relax
+    \else
+      \@@writetorep{#1}{#2}{#3}{#4}{#5}%
+    \fi
+  \fi
+}
+*****
+
+Сравнение файлов F:hvtexhtm.def и .\HVTEXHTM.DEF
+***** F:hvtexhtm.def
+\ProvidesFile{hvtexhtml.def}
+  [2009/05/01 v6.78r
+  Hyperref driver for VTeX in HTML mode]
+***** .\HVTEXHTM.DEF
+\ProvidesFile{hvtexhtml.def}
+  [2009/10/09 v6.79a
+  Hyperref driver for VTeX in HTML mode]
+*****
+
+Сравнение файлов F:hvtexmrk.def и .\HVTEXMRK.DEF
+***** F:hvtexmrk.def
+\ProvidesFile{hvtexmrk.def}
+  [2009/05/01 v6.78r
+ Hyperref driver for VTeX in PDF/PS mode (pdfmark specials)]
+***** .\HVTEXMRK.DEF
+\ProvidesFile{hvtexmrk.def}
+  [2009/10/09 v6.79a
+ Hyperref driver for VTeX in PDF/PS mode (pdfmark specials)]
+*****
+
+Сравнение файлов F:hylatex.ltx и .\HYLATEX.LTX
+FC: различия не найдены
+
+Сравнение файлов F:hyperref.sty и .\HYPERREF.STY
+***** F:hyperref.sty
+\ProvidesPackage{hyperref}
+  [2009/05/01 v6.78r
+  Hypertext links for LaTeX]
+***** .\HYPERREF.STY
+\ProvidesPackage{hyperref}
+  [2009/10/09 v6.79a
+  Hypertext links for LaTeX]
+*****
+
+***** F:hyperref.sty
+}
+\define@key{Hyp}{bookmarks}[true]{%
+***** .\HYPERREF.STY
+}
+\begingroup\expandafter\expandafter\expandafter\endgroup
+\expandafter\ifx\csname chapter\endcsname\relax
+  \def\toclevel@part{0}%
+\else
+  \def\toclevel@part{-1}%
+\fi
+\def\toclevel@chapter{0}
+\def\toclevel@section{1}
+\def\toclevel@subsection{2}
+\def\toclevel@subsubsection{3}
+\def\toclevel@paragraph{4}
+\def\toclevel@subparagraph{5}
+\def\toclevel@figure{0}
+\def\toclevel@table{0}
+\@ifpackageloaded{listings}{%
+  \providecommand*\theHlstlisting{\thelstlisting}%
+  \providecommand*\toclevel@lstlisting{0}%
+}{}
+\@ifpackageloaded{listing}{%
+  \providecommand*\theHlisting{\thelisting}%
+  \providecommand*\toclevel@listing{0}%
+}{}
+\define@key{Hyp}{bookmarks}[true]{%
+*****
+
+***** F:hyperref.sty
+\newif\ifHy@DvipdfmxOutlineOpen
+\begingroup\expandafter\expandafter\expandafter\endgroup
+\expandafter\ifx\csname SpecialDvipdfmxOutlineOpen\endcsname\relax
+\else
+  \ifnum\SpecialDvipdfmxOutlineOpen>\z@
+    \Hy@DvipdfmxOutlineOpentrue
+***** .\HYPERREF.STY
+\newif\ifHy@DvipdfmxOutlineOpen
+\ifxetex
+  \ifdim\number\XeTeXversion\XeTeXrevision in<0.9995in %
+  \else
+    \Hy@DvipdfmxOutlineOpentrue
+*****
+
+***** F:hyperref.sty
+\fi
+\Hy@DisableOption{tex4ht}
+***** .\HYPERREF.STY
+\fi
+\begingroup\expandafter\expandafter\expandafter\endgroup
+\expandafter\ifx\csname SpecialDvipdfmxOutlineOpen\endcsname\relax
+\else
+  \ifnum\SpecialDvipdfmxOutlineOpen>\z@
+    \Hy@DvipdfmxOutlineOpentrue
+  \fi
+\fi
+\Hy@DisableOption{tex4ht}
+*****
+
+***** F:hyperref.sty
+\def\Fld@cbsymbol{4}
+\def\Fld@rotation{0}
+***** .\HYPERREF.STY
+\def\Fld@cbsymbol{4}
+\def\Fld@radiosymbol{H}
+\def\Fld@rotation{0}
+*****
+
+***** F:hyperref.sty
+\define@key{Field}{checkboxsymbol}{%
+  \def\Fld@cbsymbol{#1}%
+}
+***** .\HYPERREF.STY
+\define@key{Field}{checkboxsymbol}{%
+  \Fld@DingDef\Fld@cbsymbol{#1}%
+}
+\define@key{Field}{radiosymbol}{%
+  \Fld@DingDef\Fld@radiosymbol{#1}%
+}
+\def\Fld@DingDef#1#2{%
+  \def\Fld@temp{}%
+  \Fld@@DingDef#2\ding{}\@nil
+  \let#1\Fld@temp
+}
+\def\Fld@@DingDef#1\ding#2#3\@nil{%
+  \expandafter\def\expandafter\Fld@temp\expandafter{%
+    \Fld@temp
+    #1%
+  }%
+  \ifx\\#3\\%
+    \expandafter\@gobble
+  \else
+    \begingroup
+      \lccode`0=#2\relax
+    \lowercase{\endgroup
+      \expandafter\def\expandafter\Fld@temp\expandafter{%
+        \Fld@temp
+        0%
+      }%
+    }%
+    \expandafter\@firstofone
+  \fi
+  {%
+    \Fld@@DingDef#3\@nil
+  }%
+}
+*****
+
+***** F:hyperref.sty
+}
+\def\Fld@format@code{}
+***** .\HYPERREF.STY
+}
+\def\Fld@onclick@code{}
+\def\Fld@format@code{}
+*****
+
+***** F:hyperref.sty
+  \define@key{Field}{onclick}{%
+    \def\Fld@onclick{#1}%
+    \Field@addtoks{onclick}{#1}%
+***** .\HYPERREF.STY
+  \define@key{Field}{onclick}{%
+    \def\Fld@onclick@code{#1}%
+    \Field@addtoks{onclick}{#1}%
+*****
+
+***** F:hyperref.sty
+      \else
+        \xdef\@currentHlabel{\csname theH#1\endcsname}%
+      \fi
+***** .\HYPERREF.STY
+      \else
+        \xdef\@currentHlabel{%
+          \csname
+            the%
+            \expandafter\ifx\csname theH#1\endcsname\relax\else H\fi
+            #1%
+          \endcsname
+        }%
+      \fi
+*****
+
+***** F:hyperref.sty
+}
+\begingroup\expandafter\expandafter\expandafter\endgroup
+\expandafter\ifx\csname chapter\endcsname\relax
+  \def\toclevel@part{0}%
+\else
+  \def\toclevel@part{-1}%
+\fi
+\def\toclevel@chapter{0}
+\def\toclevel@section{1}
+\def\toclevel@subsection{2}
+\def\toclevel@subsubsection{3}
+\def\toclevel@paragraph{4}
+\def\toclevel@subparagraph{5}
+\def\toclevel@figure{0}
+\def\toclevel@table{0}
+\@ifpackageloaded{listings}{%
+  \providecommand*\theHlstlisting{\thelstlisting}%
+  \providecommand*\toclevel@lstlisting{0}%
+}{}
+\@ifpackageloaded{listing}{%
+  \providecommand*\theHlisting{\thelisting}%
+  \providecommand*\toclevel@listing{0}%
+}{}
+\def\addcontentsline#1#2#3{% toc extension, type, tag
+***** .\HYPERREF.STY
+}
+\def\addcontentsline#1#2#3{% toc extension, type, tag
+*****
+
+***** F:hyperref.sty
+    \let\label\@gobble
+    \let\textlatin\@firstofone
+    \ifx\@currentHref\@empty
+***** .\HYPERREF.STY
+    \let\label\@gobble
+    \ifx\@currentHref\@empty
+*****
+
+***** F:hyperref.sty
+  \@ifpackageloaded{index}{\Hy@nexttrue}{}%
+  \begingroup
+***** .\HYPERREF.STY
+  \@ifpackageloaded{index}{\Hy@nexttrue}{}%
+  \@ifpackageloaded{amsmidx}{\Hy@nexttrue}{}%
+  \begingroup
+*****
+
+Сравнение файлов F:hypertex.def и .\HYPERTEX.DEF
+***** F:hypertex.def
+\ProvidesFile{hypertex.def}
+  [2009/05/01 v6.78r
+  Hyperref driver for HyperTeX specials]
+***** .\HYPERTEX.DEF
+\ProvidesFile{hypertex.def}
+  [2009/10/09 v6.79a
+  Hyperref driver for HyperTeX specials]
+*****
+
+Сравнение файлов F:minitoc-hyper.sty и .\MINITOC-HYPER.STY
+FC: различия не найдены
+
+Сравнение файлов F:nameref.sty и .\NAMEREF.STY
+FC: различия не найдены
+
+Сравнение файлов F:nohyperref.sty и .\NOHYPERREF.STY
+***** F:nohyperref.sty
+\ProvidesPackage{nohyperref}
+  [2009/05/01 v6.78r
+  Dummy hyperref (SR)]
+***** .\NOHYPERREF.STY
+\ProvidesPackage{nohyperref}
+  [2009/10/09 v6.79a
+  Dummy hyperref (SR)]
+*****
+
+Сравнение файлов F:ntheorem-hyper.sty и .\NTHEOREM-HYPER.STY
+FC: различия не найдены
+
+Сравнение файлов F:pd1enc.def и .\PD1ENC.DEF
+***** F:pd1enc.def
+\ProvidesFile{pd1enc.def}
+  [2009/05/01 v6.78r
+  Hyperref: PDFDocEncoding definition (HO)]
+***** .\PD1ENC.DEF
+\ProvidesFile{pd1enc.def}
+  [2009/10/09 v6.79a
+  Hyperref: PDFDocEncoding definition (HO)]
+*****
+
+Сравнение файлов F:pdfmark.def и .\PDFMARK.DEF
+***** F:pdfmark.def
+\ProvidesFile{pdfmark.def}
+  [2009/05/01 v6.78r
+  Hyperref definitions for pdfmark specials]
+***** .\PDFMARK.DEF
+\ProvidesFile{pdfmark.def}
+  [2009/10/09 v6.79a
+  Hyperref definitions for pdfmark specials]
+*****
+
+***** F:pdfmark.def
+    \fi
+    /A<</S/JavaScript/JS(\Hy@escapestring{\Fld@onclick})>>%
+  }%
+***** .\PDFMARK.DEF
+    \fi
+    /A<</S/JavaScript/JS(\Hy@escapestring{\Fld@onclick@code})>>%
+  }%
+*****
+
+***** F:pdfmark.def
+    \fi
+    /CA(H)%
+  >>%
+***** .\PDFMARK.DEF
+    \fi
+    /CA(\Fld@radiosymbol)%
+  >>%
+*****
+
+***** F:pdfmark.def
+    % section number, text, label, level, file
+ \ifx\WriteBookmarks\relax%
+ \else
+  \ifnum#4>\Hy@bookmarksdepth\relax
+  \else
+   \@@writetorep{#1}{#2}{#3}{#4}{#5}%
+  \fi
+ \fi
+}
+***** .\PDFMARK.DEF
+    % section number, text, label, level, file
+  \ifx\WriteBookmarks\relax%
+  \else
+    \ifnum#4>\Hy@bookmarksdepth\relax
+    \else
+      \@@writetorep{#1}{#2}{#3}{#4}{#5}%
+    \fi
+  \fi
+}
+*****
+
+Сравнение файлов F:puarenc.def и .\PUARENC.DEF
+***** F:puarenc.def
+\ProvidesFile{puarenc.def}
+  [2009/05/01 v6.78r
+  Hyperref: Additions to puenc.def for Arabi]
+***** .\PUARENC.DEF
+\ProvidesFile{puarenc.def}
+  [2009/10/09 v6.79a
+  Hyperref: Additions to puenc.def for Arabi]
+*****
+
+Сравнение файлов F:puenc.def и .\PUENC.DEF
+***** F:puenc.def
+\ProvidesFile{puenc.def}
+  [2009/05/01 v6.78r
+  Hyperref: PDF Unicode definition (HO)]
+***** .\PUENC.DEF
+\ProvidesFile{puenc.def}
+  [2009/10/09 v6.79a
+  Hyperref: PDF Unicode definition (HO)]
+*****
+
+Сравнение файлов F:puvnenc.def и .\PUVNENC.DEF
+***** F:puvnenc.def
+\ProvidesFile{puvnenc.def}
+  [2009/05/01 v6.78r
+  Hyperref: Additions to puenc.def for VnTeX]
+***** .\PUVNENC.DEF
+\ProvidesFile{puvnenc.def}
+  [2009/10/09 v6.79a
+  Hyperref: Additions to puenc.def for VnTeX]
+*****
+
+Сравнение файлов F:xr-hyper.sty и .\XR-HYPER.STY
+FC: различия не найдены
+

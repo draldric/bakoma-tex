@@ -1,0 +1,14 @@
+:ccicons.doc:v904:0.102206:109120656:88348:600C-92F3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ccicons
+
+./doc/latex/ccicons:
+ccicons.pdf
+readme

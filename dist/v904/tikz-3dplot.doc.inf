@@ -1,0 +1,16 @@
+:tikz-3dplot.doc:v904:0.544803:110031656:389893:C6D5-99DF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tikz-3dplot
+
+./doc/latex/tikz-3dplot:
+readme
+tikz-3dplot_documentation.pdf
+tikz-3dplot_documentation.tex
+tikz-3dplot_documentation_figures.tex

@@ -1,0 +1,15 @@
+:pst-knot.doc:v905:0.071626:110032280:51993:C952-29A4:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-knot
+
+./doc/generic/pst-knot:
+changes
+pst-knot-doc.pdf
+readme
