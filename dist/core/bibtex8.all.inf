@@ -1,0 +1,17 @@
+:bibtex8.all:core:0.081369:109082676:5385:BA34-66AE:
+
+./:
+bibtex
+
+./bibtex:
+csf
+
+./bibtex/csf:
+88591lat.csf
+88591sca.csf
+ascii.csf
+cp437lat.csf
+cp850lat.csf
+cp850sca.csf
+cp866rus.csf
+cpwinrus.csf

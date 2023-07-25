@@ -1,0 +1,16 @@
+:bibtex8.doc:core:0.018895:109072380:18895:CE1C-6944:
+
+./:
+doc
+
+./doc:
+bibtex
+
+./doc/bibtex:
+8bit
+
+./doc/bibtex/8bit:
+00readme.txt
+copying
+csfile.txt
+history
