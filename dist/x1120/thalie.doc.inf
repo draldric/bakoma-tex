@@ -1,0 +1,15 @@
+:thalie.doc:x1120:0.397205:116110580:382298:3DC1-D5BD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+thalie
+
+./doc/latex/thalie:
+LICENSE.txt
+README
+thalie.pdf

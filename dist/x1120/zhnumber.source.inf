@@ -1,0 +1,14 @@
+:zhnumber.source:x1120:0.066588:116110580:13114:6F5B-2E5F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+zhnumber
+
+./source/latex/zhnumber:
+zhnumber.dtx
+zhnumber.ins

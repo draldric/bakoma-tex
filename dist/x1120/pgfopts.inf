@@ -1,0 +1,13 @@
+:pgfopts:x1120:0.005584:116110580:1466:EE96-9B3B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pgfopts
+
+./tex/latex/pgfopts:
+pgfopts.sty

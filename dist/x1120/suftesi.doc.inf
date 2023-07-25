@@ -1,0 +1,15 @@
+:suftesi.doc:x1120:1.78467:116110580:1306459:130-A2F1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+suftesi
+
+./doc/latex/suftesi:
+README
+suftesi.pdf
+templates.zip

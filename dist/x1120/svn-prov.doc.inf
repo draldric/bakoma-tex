@@ -1,0 +1,13 @@
+:svn-prov.doc:x1120:0.299518:116110580:241826:FEA3-21BD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+svn-prov
+
+./doc/latex/svn-prov:
+svn-prov.pdf

@@ -1,0 +1,48 @@
+% Unpacking components of module [ydoc] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ydoc.tds.zip)
+/Name (ydoc)
+/Size 352839 
+/CRC 253595703 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (ydoc)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ydoc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ydoc.bkz)
+/Name (ydoc)
+/Size 8396 
+/CRC -234728412 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ydoc.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ydoc.doc.bkz)
+/Name (ydoc)
+/Size 321541 
+/CRC 1336240508 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ydoc.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ydoc.source.bkz)
+/Name (ydoc)
+/Size 17236 
+/CRC -1615525464 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

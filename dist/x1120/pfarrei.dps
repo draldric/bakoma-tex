@@ -1,0 +1,48 @@
+% Unpacking components of module [pfarrei] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\pfarrei.tds.zip)
+/Name (pfarrei)
+/Size 519904 
+/CRC -1427386560 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (pfarrei)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\pfarrei.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pfarrei.bkz)
+/Name (pfarrei)
+/Size 3974 
+/CRC -1080913705 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pfarrei.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pfarrei.doc.bkz)
+/Name (pfarrei)
+/Size 501645 
+/CRC 1157338316 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pfarrei.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pfarrei.source.bkz)
+/Name (pfarrei)
+/Size 13203 
+/CRC 215753817 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

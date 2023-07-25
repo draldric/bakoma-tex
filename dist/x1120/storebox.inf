@@ -1,0 +1,14 @@
+:storebox:x1120:0.013599:116110580:2435:65DB-E0AC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+storebox
+
+./tex/latex/storebox:
+storebox-pgf.sty
+storebox.sty

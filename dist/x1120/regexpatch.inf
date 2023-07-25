@@ -1,0 +1,13 @@
+:regexpatch:x1120:0.026403:116110580:3136:F77B-FABE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+regexpatch
+
+./tex/latex/regexpatch:
+regexpatch.sty

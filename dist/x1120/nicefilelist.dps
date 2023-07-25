@@ -1,0 +1,48 @@
+% Unpacking components of module [nicefilelist] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\nicefilelist.tds.zip)
+/Name (nicefilelist)
+/Size 618333 
+/CRC 1884561734 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (nicefilelist)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\nicefilelist.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nicefilelist.bkz)
+/Name (nicefilelist)
+/Size 5901 
+/CRC 470413185 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\nicefilelist.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nicefilelist.doc.bkz)
+/Name (nicefilelist)
+/Size 598760 
+/CRC 1635933917 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\nicefilelist.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nicefilelist.source.bkz)
+/Name (nicefilelist)
+/Size 6866 
+/CRC -1642408535 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

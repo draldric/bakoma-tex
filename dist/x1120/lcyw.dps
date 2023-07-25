@@ -1,0 +1,84 @@
+% Unpacking components of module [lcyw] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\lcyw.tds.zip)
+/Name (lcyw)
+/Size 125603 
+/CRC -40295657 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\lcyw.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\lcyw.bkz)
+/Name (lcyw)
+/Size 3520 
+/CRC -1872516131 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\lcyw.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lcyw\\cmap-cyr-vf.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lcyw\\cmap-cyr-vf.sty)
+/OldSize 8574 
+/NewSize 8574 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lcyw\\koi7a.cmap)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lcyw\\koi7a.cmap)
+/OldSize 1238 
+/NewSize 1238 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lcyw\\lcywcmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lcyw\\lcywcmr.fd)
+/OldSize 2165 
+/NewSize 2165 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lcyw\\lcywcmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lcyw\\lcywcmss.fd)
+/OldSize 1622 
+/NewSize 1622 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lcyw\\lcywcmssq.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lcyw\\lcywcmssq.fd)
+/OldSize 1346 
+/NewSize 1346 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lcyw\\lcywcmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lcyw\\lcywcmtt.fd)
+/OldSize 1381 
+/NewSize 1381 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lcyw\\lcywenc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lcyw\\lcywenc.def)
+/OldSize 8118 
+/NewSize 8118 
+>>
+<<
+/Type /Status 
+/Name (lcyw)
+/Status /Same 
+>> % distribution already includes this version

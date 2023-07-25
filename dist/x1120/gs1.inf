@@ -1,0 +1,14 @@
+:gs1:x1120:0.013026:116110580:3049:1BEB-EF1E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+GS1
+
+./tex/latex/GS1:
+GS1.sty
+rule-D.sty

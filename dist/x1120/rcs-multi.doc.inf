@@ -1,0 +1,14 @@
+:rcs-multi.doc:x1120:0.729894:116110580:652272:7832-525:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+rcs-multi
+
+./doc/latex/rcs-multi:
+example.pdf
+rcs-multi.pdf

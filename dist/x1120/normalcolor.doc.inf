@@ -1,0 +1,15 @@
+:normalcolor.doc:x1120:0.159148:116110580:156354:AFDE-5D5C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+normalcolor
+
+./doc/latex/normalcolor:
+normalcolor-example.tex
+normalcolor.pdf
+README

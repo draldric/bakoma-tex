@@ -1,0 +1,13 @@
+:dynamicnumber:x1120:0.001803:116110580:858:8258-6C5A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dynamicnumber
+
+./tex/latex/dynamicnumber:
+dynamicnumber.sty

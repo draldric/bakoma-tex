@@ -1,0 +1,13 @@
+:impnattypo:x1120:0.015262:116110580:3057:8DB5-C93:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+impnattypo
+
+./tex/latex/impnattypo:
+impnattypo.sty

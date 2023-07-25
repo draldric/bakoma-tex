@@ -1,0 +1,14 @@
+:l3build.source:x1120:0.064928:116110580:19503:3DF4-5EFD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+l3build
+
+./source/latex/l3build:
+l3build.dtx
+l3build.ins

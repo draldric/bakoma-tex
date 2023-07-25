@@ -1,0 +1,48 @@
+% Unpacking components of module [avremu] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\avremu.tds.zip)
+/Name (avremu)
+/Size 197718 
+/CRC 249305041 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (avremu)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\avremu.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\avremu.bkz)
+/Name (avremu)
+/Size 12418 
+/CRC 1165802346 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\avremu.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\avremu.doc.bkz)
+/Name (avremu)
+/Size 148066 
+/CRC 1013139340 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\avremu.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\avremu.source.bkz)
+/Name (avremu)
+/Size 21698 
+/CRC -1468951141 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,17 @@
+:nicefilelist.source:x1120:0.018663:116110580:6866:9E1A-D5A9:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+nicefilelist
+
+./source/latex/nicefilelist:
+empty.f
+nicefilelist.tex
+provonly.fd
+srcfiles.tex
+wrong.prv

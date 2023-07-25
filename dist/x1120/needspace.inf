@@ -1,0 +1,13 @@
+:needspace:x1120:0.0009:116110580:385:D80D-934C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+needspace
+
+./tex/latex/needspace:
+needspace.sty

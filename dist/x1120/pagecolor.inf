@@ -1,0 +1,13 @@
+:pagecolor:x1120:0.011349:116110580:2705:B1DE-CA31:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pagecolor
+
+./tex/latex/pagecolor:
+pagecolor.sty

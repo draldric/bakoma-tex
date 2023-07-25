@@ -1,0 +1,15 @@
+:microtype.source:x1120:0.676229:116110580:137397:B73C-D2AB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+microtype
+
+./source/latex/microtype:
+microtype-utf.dtx
+microtype.dtx
+microtype.ins

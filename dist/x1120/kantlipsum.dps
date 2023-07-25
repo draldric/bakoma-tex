@@ -1,0 +1,48 @@
+% Unpacking components of module [kantlipsum] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\kantlipsum.tds.zip)
+/Name (kantlipsum)
+/Size 485570 
+/CRC 2070689062 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (kantlipsum)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\kantlipsum.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\kantlipsum.bkz)
+/Name (kantlipsum)
+/Size 23223 
+/CRC -635206807 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\kantlipsum.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\kantlipsum.doc.bkz)
+/Name (kantlipsum)
+/Size 427357 
+/CRC -443326891 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\kantlipsum.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\kantlipsum.source.bkz)
+/Name (kantlipsum)
+/Size 26482 
+/CRC -63549556 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

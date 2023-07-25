@@ -1,0 +1,72 @@
+% Unpacking components of module [ifmtarg] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ifmtarg.tds.zip)
+/Name (ifmtarg)
+/Size 175550 
+/CRC 977979796 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\ifmtarg.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\ifmtarg.bkz)
+/Name (ifmtarg)
+/Size 1178 
+/CRC 1874569379 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\ifmtarg.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\ifmtarg\\ifmtarg.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\ifmtarg\\ifmtarg.sty)
+/OldSize 2287 
+/NewSize 438 
+/Line 1 
+/NewLine (% ifmtarg.sty)
+/OldLine (%% LaTeX2e file `ifmtarg.sty')
+>>
+<<
+/Type /Status 
+/Name (ifmtarg)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ifmtarg.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifmtarg.bkz)
+/Name (ifmtarg)
+/Size 326 
+/CRC 1971878682 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ifmtarg.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifmtarg.doc.bkz)
+/Name (ifmtarg)
+/Size 172260 
+/CRC -336371620 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ifmtarg.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifmtarg.source.bkz)
+/Name (ifmtarg)
+/Size 2462 
+/CRC -554265221 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

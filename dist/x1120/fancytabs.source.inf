@@ -1,0 +1,14 @@
+:fancytabs.source:x1120:0.011013:116110580:3698:9A95-10EA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fancytabs
+
+./source/latex/fancytabs:
+fancytabs.dtx
+fancytabs.ins

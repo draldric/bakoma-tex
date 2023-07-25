@@ -1,0 +1,72 @@
+% Unpacking components of module [ifxetex] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\generic\\ifxetex.tds.zip)
+/Name (ifxetex)
+/Size 168900 
+/CRC 2125128929 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\ifxetex.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\ifxetex.bkz)
+/Name (ifxetex)
+/Size 748 
+/CRC 726478290 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\ifxetex.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\ifxetex\\ifxetex.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\ifxetex\\ifxetex.sty)
+/OldSize 1340 
+/NewSize 1458 
+/Line 2 
+/NewLine (% Copyright 2006-2009 by Will Robertson <wspr81@gmail.com>)
+/OldLine (% Copyright 2006-2010 by Will Robertson <wspr81@gmail.com>)
+>>
+<<
+/Type /Status 
+/Name (ifxetex)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1121
+
+% Generating ..\x1121\ifxetex.bkz
+<<
+/Type /BKZ 
+/File (..\\x1121\\ifxetex.bkz)
+/Name (ifxetex)
+/Size 764 
+/CRC -1921511262 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1121\ifxetex.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1121\\ifxetex.doc.bkz)
+/Name (ifxetex)
+/Size 165446 
+/CRC -1570911847 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1121\ifxetex.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1121\\ifxetex.source.bkz)
+/Name (ifxetex)
+/Size 2018 
+/CRC 810107450 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

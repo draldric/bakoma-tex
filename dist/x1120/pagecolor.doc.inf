@@ -1,0 +1,16 @@
+:pagecolor.doc:x1120:0.415898:116110580:406917:4A7B-D93A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pagecolor
+
+./doc/latex/pagecolor:
+pagecolor-example.pdf
+pagecolor-example.tex
+pagecolor.pdf
+README

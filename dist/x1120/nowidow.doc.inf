@@ -1,0 +1,14 @@
+:nowidow.doc:x1120:0.174882:116110580:174958:D192-137E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+nowidow
+
+./doc/latex/nowidow:
+nowidow.pdf
+README

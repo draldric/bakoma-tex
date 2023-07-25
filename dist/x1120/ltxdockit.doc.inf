@@ -1,0 +1,13 @@
+:ltxdockit.doc:x1120:0.001126:116110580:716:E2F-5E79:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ltxdockit
+
+./doc/latex/ltxdockit:
+README

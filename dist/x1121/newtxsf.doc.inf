@@ -1,0 +1,17 @@
+:newtxsf.doc:x1121:0.48128:117013040:432898:A6C8-77DE:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+newtxsf
+
+./doc/fonts/newtxsf:
+newtxsf-doc.pdf
+newtxsf-doc.tex
+OFL-FAQ.txt
+OFL.txt
+README

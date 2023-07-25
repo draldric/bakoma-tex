@@ -1,0 +1,44 @@
+% Unpacking components of module [csbulletin] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\csbulletin.tds.zip)
+/Name (csbulletin)
+/Size 251870 
+/CRC -505178407 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\csbulletin.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\csbulletin.bkz)
+/Name (csbulletin)
+/Size 5760 
+/CRC -131381991 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\csbulletin.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\csbulletin\\csbulacronym.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\csbulletin\\csbulacronym.sty)
+/OldSize 3733 
+/NewSize 3733 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\csbulletin\\csbulletin.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\csbulletin\\csbulletin.cls)
+/OldSize 15431 
+/NewSize 15431 
+>>
+<<
+/Type /Status 
+/Name (csbulletin)
+/Status /Same 
+>> % distribution already includes this version

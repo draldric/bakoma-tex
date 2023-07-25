@@ -1,0 +1,13 @@
+:exsol:x1120:0.014098:116110580:2741:FDE-2BCC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+exsol
+
+./tex/latex/exsol:
+exsol.sty

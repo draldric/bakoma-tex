@@ -1,0 +1,18 @@
+This fix (2015/11/26) is based on code base of V 11.02,
+which fix problem of embedding DOCINFO dictionary into 
+exported PDG file.
+
+This pack includes BaKoMa\PDF.PRO file.
+
+It should work with version 11.01
+
+To apply the fix just unpack 
+http://www.bakoma-tex.com/dist/x1101/fix/exportpdf-151126.zip
+in BaKoMa TeX folder. 
+
+Check that the file 
+C:\BaKoMa TeX\BaKoMa\PDF.PRO
+have been replaced. 
+
+Fixes are marked on the file.
+

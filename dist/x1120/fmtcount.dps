@@ -1,0 +1,211 @@
+% Unpacking components of module [fmtcount] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\fmtcount.tds.zip)
+/Name (fmtcount)
+/Size 511025 
+/CRC -888925807 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\fmtcount.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\fmtcount.bkz)
+/Name (fmtcount)
+/Size 11044 
+/CRC 697229449 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\fmtcount.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\fmtcount\\fmtcount.perl)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-american.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-british.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\fmtcount\\fc-british.def)
+/OldSize 2782 
+/NewSize 3465 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2015 Nicola Talbot and Vincent Belaïche)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-english.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\fmtcount\\fc-english.def)
+/OldSize 11981 
+/NewSize 14736 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2015 Nicola Talbot and Vincent Belaïche)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-francais.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-french.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\fmtcount\\fc-french.def)
+/OldSize 28691 
+/NewSize 37595 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2015 Nicola Talbot and Vincent Belaïche)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-frenchb.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-german.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\fmtcount\\fc-german.def)
+/OldSize 11910 
+/NewSize 13547 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2015 Nicola Talbot and Vincent Belaïche)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-germanb.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-italian.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\fmtcount\\fc-italian.def)
+/OldSize 16684 
+/NewSize 4090 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2015 Nicola Talbot and Vincent Belaïche)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-ngerman.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-ngermanb.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-portuges.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\fmtcount\\fc-portuges.def)
+/OldSize 15092 
+/NewSize 20044 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2015 Nicola Talbot and Vincent Belaïche)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-portuguese.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-spanish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\fmtcount\\fc-spanish.def)
+/OldSize 16858 
+/NewSize 22258 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2015 Nicola Talbot and Vincent Belaïche)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-UKenglish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\fmtcount\\fc-UKenglish.def)
+/OldSize 2820 
+/NewSize 3503 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2015 Nicola Talbot and Vincent Belaïche)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fc-USenglish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\fmtcount\\fc-USenglish.def)
+/OldSize 2820 
+/NewSize 3503 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2015 Nicola Talbot and Vincent Belaïche)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fcnumparser.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fcprefix.sty)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fmtcount\\fmtcount.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\fmtcount\\fmtcount.sty)
+/OldSize 26372 
+/NewSize 32529 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2015 Nicola Talbot and Vincent Belaïche)
+>>
+<<
+/Type /Status 
+/Name (fmtcount)
+/Status /Updated 
+/Differences 20 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\fmtcount.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fmtcount.bkz)
+/Name (fmtcount)
+/Size 24539 
+/CRC -62237335 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fmtcount.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fmtcount.doc.bkz)
+/Name (fmtcount)
+/Size 384033 
+/CRC 2019858031 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fmtcount.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fmtcount.source.bkz)
+/Name (fmtcount)
+/Size 43525 
+/CRC 28159852 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

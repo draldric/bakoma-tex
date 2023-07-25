@@ -1,0 +1,14 @@
+:tocvsec2.source:x1120:0.027645:116110580:7759:AE17-831C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tocvsec2
+
+./source/latex/tocvsec2:
+tocvsec2.dtx
+tocvsec2.ins

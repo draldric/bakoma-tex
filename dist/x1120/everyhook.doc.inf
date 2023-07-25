@@ -1,0 +1,14 @@
+:everyhook.doc:x1120:0.117107:116110580:115989:FBED-B115:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+everyhook
+
+./doc/latex/everyhook:
+everyhook.pdf
+README

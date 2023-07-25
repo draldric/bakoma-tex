@@ -1,0 +1,48 @@
+% Unpacking components of module [suftesi] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\suftesi.tds.zip)
+/Name (suftesi)
+/Size 1825592 
+/CRC 1815622379 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (suftesi)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\suftesi.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\suftesi.bkz)
+/Name (suftesi)
+/Size 12709 
+/CRC 1615256437 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\suftesi.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\suftesi.doc.bkz)
+/Name (suftesi)
+/Size 1306459 
+/CRC 19964657 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\suftesi.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\suftesi.source.bkz)
+/Name (suftesi)
+/Size 33761 
+/CRC 793897135 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

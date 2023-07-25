@@ -1,0 +1,14 @@
+:metrix.source:x1120:0.084229:116110580:16252:FFCB-42CE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+metrix
+
+./source/latex/metrix:
+metrix.dtx
+metrix.ins

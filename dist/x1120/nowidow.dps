@@ -1,0 +1,48 @@
+% Unpacking components of module [nowidow] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\nowidow.tds.zip)
+/Name (nowidow)
+/Size 179685 
+/CRC 1875735495 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (nowidow)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\nowidow.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nowidow.bkz)
+/Name (nowidow)
+/Size 825 
+/CRC 1443438367 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\nowidow.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nowidow.doc.bkz)
+/Name (nowidow)
+/Size 174958 
+/CRC -778955906 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\nowidow.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nowidow.source.bkz)
+/Name (nowidow)
+/Size 3068 
+/CRC 1490951396 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

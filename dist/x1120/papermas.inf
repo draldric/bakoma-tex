@@ -1,0 +1,13 @@
+:papermas:x1120:0.012193:116110580:3266:DE0B-169:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+papermas
+
+./tex/latex/papermas:
+papermas.sty

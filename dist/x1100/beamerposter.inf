@@ -1,0 +1,13 @@
+:beamerposter:x1100:0.012821:115090132:3314:49DE-FF9A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+beamerposter
+
+./tex/latex/beamerposter:
+beamerposter.sty

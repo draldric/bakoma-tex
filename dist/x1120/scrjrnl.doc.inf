@@ -1,0 +1,15 @@
+:scrjrnl.doc:x1120:0.126144:116110580:121782:1EA7-EFF7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+scrjrnl
+
+./doc/latex/scrjrnl:
+example.pdf
+README
+scrjrnl.pdf

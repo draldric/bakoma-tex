@@ -1,0 +1,14 @@
+:repltext.source:x1120:0.017894:116110580:6327:AC04-5296:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+repltext
+
+./source/latex/repltext:
+repltext.dtx
+repltext.ins

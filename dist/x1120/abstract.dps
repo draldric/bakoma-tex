@@ -1,0 +1,36 @@
+% Unpacking components of module [abstract] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\abstract.tds.zip)
+/Name (abstract)
+/Size 160216 
+/CRC -646335335 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\abstract.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\abstract.bkz)
+/Name (abstract)
+/Size 1588 
+/CRC -1871909060 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\abstract.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\abstract\\abstract.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\abstract\\abstract.sty)
+/OldSize 5128 
+/NewSize 5128 
+>>
+<<
+/Type /Status 
+/Name (abstract)
+/Status /Same 
+>> % distribution already includes this version

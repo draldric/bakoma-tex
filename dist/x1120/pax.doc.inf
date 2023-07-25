@@ -1,0 +1,13 @@
+:pax.doc:x1120:0.006526:116110580:2803:8D34-C4A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pax
+
+./doc/latex/pax:
+README

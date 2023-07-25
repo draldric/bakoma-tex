@@ -1,0 +1,15 @@
+:mathastext.doc:x1120:0.510169:116110580:488416:4E-C22F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mathastext
+
+./doc/latex/mathastext:
+mathastext.pdf
+mathastexttestalphabets.pdf
+README.md

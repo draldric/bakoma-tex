@@ -1,0 +1,48 @@
+% Unpacking components of module [realscripts] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\realscripts.tds.zip)
+/Name (realscripts)
+/Size 111305 
+/CRC 1581944576 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (realscripts)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\realscripts.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\realscripts.bkz)
+/Name (realscripts)
+/Size 1369 
+/CRC -635406573 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\realscripts.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\realscripts.doc.bkz)
+/Name (realscripts)
+/Size 104272 
+/CRC 1051397963 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\realscripts.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\realscripts.source.bkz)
+/Name (realscripts)
+/Size 4218 
+/CRC -1810088322 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

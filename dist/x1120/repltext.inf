@@ -1,0 +1,13 @@
+:repltext:x1120:0.001373:116110580:761:A122-974:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+repltext
+
+./tex/latex/repltext:
+repltext.sty

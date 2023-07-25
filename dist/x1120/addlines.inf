@@ -1,0 +1,13 @@
+:addlines:x1120:0.001875:116110580:896:579E-7BA1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+addlines
+
+./tex/latex/addlines:
+addlines.sty

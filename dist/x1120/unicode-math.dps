@@ -1,0 +1,48 @@
+% Unpacking components of module [unicode-math] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\unicode-math.tds.zip)
+/Name (unicode-math)
+/Size 1891256 
+/CRC -1201698293 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (unicode-math)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\unicode-math.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\unicode-math.bkz)
+/Name (unicode-math)
+/Size 39515 
+/CRC -907735725 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\unicode-math.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\unicode-math.doc.bkz)
+/Name (unicode-math)
+/Size 1789521 
+/CRC -305682215 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\unicode-math.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\unicode-math.source.bkz)
+/Name (unicode-math)
+/Size 34770 
+/CRC 265226656 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

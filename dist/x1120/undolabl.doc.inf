@@ -1,0 +1,16 @@
+:undolabl.doc:x1120:0.362619:116110580:354985:BD78-2A7F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+undolabl
+
+./doc/latex/undolabl:
+README
+undolabl-example.pdf
+undolabl-example.tex
+undolabl.pdf

@@ -1,0 +1,14 @@
+:answers.source:x1120:0.026399:116110580:7594:9950-3190:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+answers
+
+./source/latex/answers:
+answers.dtx
+answers.ins

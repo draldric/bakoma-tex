@@ -1,0 +1,13 @@
+:xltxtra:x1120:0.005473:116110580:2075:32C7-8D79:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xltxtra
+
+./tex/latex/xltxtra:
+xltxtra.sty

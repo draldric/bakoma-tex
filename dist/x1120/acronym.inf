@@ -1,0 +1,13 @@
+:acronym:x1120:0.016537:116110580:3886:54CD-8868:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+acronym
+
+./tex/latex/acronym:
+acronym.sty

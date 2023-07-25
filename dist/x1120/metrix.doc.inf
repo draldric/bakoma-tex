@@ -1,0 +1,14 @@
+:metrix.doc:x1120:0.518891:116110580:516028:8773-7B1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+metrix
+
+./doc/latex/metrix:
+metrix.pdf
+README

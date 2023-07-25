@@ -1,0 +1,16 @@
+:mdframed.source:x1120:0.286147:116110580:41372:2C7D-6A4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mdframed
+
+./source/latex/mdframed:
+Makefile
+mdframed.dtx
+mdframed.ins
+mdframedmake.bat

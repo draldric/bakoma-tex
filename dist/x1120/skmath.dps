@@ -1,0 +1,48 @@
+% Unpacking components of module [skmath] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\skmath.tds.zip)
+/Name (skmath)
+/Size 256545 
+/CRC 1850663564 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (skmath)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\skmath.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\skmath.bkz)
+/Name (skmath)
+/Size 3085 
+/CRC -102296209 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\skmath.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\skmath.doc.bkz)
+/Name (skmath)
+/Size 245237 
+/CRC 829054550 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\skmath.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\skmath.source.bkz)
+/Name (skmath)
+/Size 7936 
+/CRC -1116609618 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

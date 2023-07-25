@@ -1,0 +1,48 @@
+% Unpacking components of module [longnamefilelist] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\longnamefilelist.tds.zip)
+/Name (longnamefilelist)
+/Size 317588 
+/CRC 1242194593 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (longnamefilelist)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\longnamefilelist.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\longnamefilelist.bkz)
+/Name (longnamefilelist)
+/Size 3124 
+/CRC 1212079589 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\longnamefilelist.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\longnamefilelist.doc.bkz)
+/Name (longnamefilelist)
+/Size 308969 
+/CRC -1031237298 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\longnamefilelist.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\longnamefilelist.source.bkz)
+/Name (longnamefilelist)
+/Size 1393 
+/CRC 2017603569 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

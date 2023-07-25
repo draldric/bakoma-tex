@@ -1,0 +1,16 @@
+:hrefhide.doc:x1120:0.445337:116110580:434579:F676-220B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hrefhide
+
+./doc/latex/hrefhide:
+hrefhide-example.pdf
+hrefhide-example.tex
+hrefhide.pdf
+README

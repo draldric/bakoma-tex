@@ -1,0 +1,14 @@
+:jmlr.source:x1120:0.199484:116110580:39071:7D93-2BBB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+jmlr
+
+./source/latex/jmlr:
+jmlr.dtx
+jmlr.ins

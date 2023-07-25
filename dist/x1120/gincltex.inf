@@ -1,0 +1,13 @@
+:gincltex:x1120:0.00364:116110580:1330:5ADB-CE40:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gincltex
+
+./tex/latex/gincltex:
+gincltex.sty

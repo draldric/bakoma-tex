@@ -1,0 +1,13 @@
+:skdoc.source:x1120:0.12218:116110580:26334:A297-5F90:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+skdoc
+
+./source/latex/skdoc:
+skdoc.dtx

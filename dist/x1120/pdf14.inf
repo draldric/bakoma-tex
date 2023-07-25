@@ -1,0 +1,13 @@
+:pdf14:x1120:0.001184:116110580:620:A717-BF5C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pdf14
+
+./tex/latex/pdf14:
+pdf14.sty

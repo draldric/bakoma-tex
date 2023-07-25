@@ -1,0 +1,13 @@
+:calxxxx-yyyy:x1120:0.016086:116110580:4809:31A3-59B7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+calxxxx-yyyy
+
+./tex/latex/calxxxx-yyyy:
+calxxxx-yyyy.tex

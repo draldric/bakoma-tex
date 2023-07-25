@@ -1,0 +1,15 @@
+:thumbs.source:x1120:0.162822:116110580:33621:C613-6B3E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+thumbs
+
+./source/latex/thumbs:
+thumbs.drv
+thumbs.dtx
+thumbs.ins

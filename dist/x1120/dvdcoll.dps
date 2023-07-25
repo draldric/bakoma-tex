@@ -1,0 +1,260 @@
+% Unpacking components of module [dvdcoll] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\dvdcoll.tds.zip)
+/Name (dvdcoll)
+/Size 305637 
+/CRC -394634221 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\dvdcoll.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\dvdcoll.bkz)
+/Name (dvdcoll)
+/Size 14866 
+/CRC 18030610 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\dvdcoll.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\dvdcoll\\dcbib.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\dvdcoll\\dcbib.bst)
+/OldSize 27276 
+/NewSize 27276 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\acadian.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\acadian.dcl)
+/OldSize 799 
+/NewSize 799 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\american.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\american.dcl)
+/OldSize 768 
+/NewSize 768 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\australian.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\australian.dcl)
+/OldSize 774 
+/NewSize 774 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\austrian.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\austrian.dcl)
+/OldSize 770 
+/NewSize 770 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\brazil.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\brazil.dcl)
+/OldSize 768 
+/NewSize 768 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\brazilian.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\brazilian.dcl)
+/OldSize 774 
+/NewSize 774 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\british.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\british.dcl)
+/OldSize 768 
+/NewSize 768 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\canadian.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\canadian.dcl)
+/OldSize 770 
+/NewSize 770 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\canadien.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\canadien.dcl)
+/OldSize 801 
+/NewSize 801 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\english.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\english.dcl)
+/OldSize 1248 
+/NewSize 1248 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\francais.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\francais.dcl)
+/OldSize 801 
+/NewSize 801 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\french.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\french.dcl)
+/OldSize 797 
+/NewSize 797 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\frenchb.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\frenchb.dcl)
+/OldSize 1373 
+/NewSize 1373 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\german.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\german.dcl)
+/OldSize 767 
+/NewSize 767 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\germanb.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\germanb.dcl)
+/OldSize 1299 
+/NewSize 1299 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\italian.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\italian.dcl)
+/OldSize 1354 
+/NewSize 1354 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\naustrian.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\naustrian.dcl)
+/OldSize 773 
+/NewSize 773 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\newzealand.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\newzealand.dcl)
+/OldSize 774 
+/NewSize 774 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\ngerman.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\ngerman.dcl)
+/OldSize 769 
+/NewSize 769 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\polish.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\polish.dcl)
+/OldSize 1340 
+/NewSize 1340 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\portuges.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\portuges.dcl)
+/OldSize 1383 
+/NewSize 1383 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\portuguese.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\portuguese.dcl)
+/OldSize 776 
+/NewSize 776 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\spanish.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\spanish.dcl)
+/OldSize 1401 
+/NewSize 1401 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\UKenglish.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\UKenglish.dcl)
+/OldSize 772 
+/NewSize 772 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcl\\USenglish.dcl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcl\\USenglish.dcl)
+/OldSize 772 
+/NewSize 772 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dcwrtbib.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dcwrtbib.sty)
+/OldSize 1269 
+/NewSize 1269 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\dvdcoll.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\dvdcoll.cls)
+/OldSize 22449 
+/NewSize 22449 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dvdcoll\\pdfnotiz.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dvdcoll\\pdfnotiz.sty)
+/OldSize 11391 
+/NewSize 11391 
+>>
+<<
+/Type /Status 
+/Name (dvdcoll)
+/Status /Same 
+>> % distribution already includes this version

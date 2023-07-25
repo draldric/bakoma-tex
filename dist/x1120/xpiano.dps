@@ -1,0 +1,48 @@
+% Unpacking components of module [xpiano] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\xpiano.tds.zip)
+/Name (xpiano)
+/Size 564970 
+/CRC 1632910952 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xpiano)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\xpiano.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xpiano.bkz)
+/Name (xpiano)
+/Size 2203 
+/CRC -1392609819 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xpiano.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xpiano.doc.bkz)
+/Name (xpiano)
+/Size 557929 
+/CRC -1514353240 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xpiano.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xpiano.source.bkz)
+/Name (xpiano)
+/Size 6074 
+/CRC 1006008419 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

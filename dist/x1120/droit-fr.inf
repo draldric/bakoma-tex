@@ -1,0 +1,15 @@
+:droit-fr:x1120:0.037523:116110580:9251:DA32-E20D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+droit-fr
+
+./tex/latex/droit-fr:
+droit-fr.bbx
+droit-fr.cbx
+droit-fr.cls

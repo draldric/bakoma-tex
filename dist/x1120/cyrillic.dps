@@ -1,0 +1,1238 @@
+% Unpacking components of module [cyrillic] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\\\macros\\latex\\required\\latex-cyrillic.tds.zip)
+/Name (cyrillic)
+/Size 1317607 
+/CRC 934655853 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V901\cyrillic.bkz]
+<<
+/Type /BKZ 
+/File (.\\V901\\cyrillic.bkz)
+/Name (cyrillic)
+/Size 13728 
+/CRC 1375259561 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V901\cyrillic.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\cp1251.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\cp1251.def)
+/OldSize 5827 
+/NewSize 5965 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\cp855.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\cp855.def)
+/OldSize 4743 
+/NewSize 4881 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\cp866.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\cp866.def)
+/OldSize 4131 
+/NewSize 4269 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\cp866av.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\cp866av.def)
+/OldSize 3931 
+/NewSize 4069 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\cp866mav.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\cp866mav.def)
+/OldSize 4148 
+/NewSize 4286 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\cp866nav.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\cp866nav.def)
+/OldSize 3954 
+/NewSize 4092 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\cp866tat.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\cp866tat.def)
+/OldSize 4061 
+/NewSize 4199 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ctt.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ctt.def)
+/OldSize 3705 
+/NewSize 3843 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\dbk.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\dbk.def)
+/OldSize 3626 
+/NewSize 3764 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\iso88595.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\iso88595.def)
+/OldSize 4494 
+/NewSize 4632 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\isoir111.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\isoir111.def)
+/OldSize 4510 
+/NewSize 4648 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\koi8-r.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\koi8-r.def)
+/OldSize 4101 
+/NewSize 4239 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\koi8-ru.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\koi8-ru.def)
+/OldSize 4450 
+/NewSize 4588 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\koi8-u.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\koi8-u.def)
+/OldSize 3728 
+/NewSize 3866 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcy.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcy.sty)
+/OldSize 1826 
+/NewSize 1964 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcyccr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcyccr.fd)
+/OldSize 2576 
+/NewSize 2724 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcycmbr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcycmbr.fd)
+/OldSize 2279 
+/NewSize 2427 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcycmdh.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcycmdh.fd)
+/OldSize 1779 
+/NewSize 1927 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcycmfib.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcycmfib.fd)
+/OldSize 1782 
+/NewSize 1930 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcycmfr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcycmfr.fd)
+/OldSize 1831 
+/NewSize 1979 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcycmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcycmr.fd)
+/OldSize 2873 
+/NewSize 3021 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcycmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcycmss.fd)
+/OldSize 2472 
+/NewSize 2620 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcycmtl.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcycmtl.fd)
+/OldSize 2038 
+/NewSize 2186 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcycmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcycmtt.fd)
+/OldSize 2446 
+/NewSize 2594 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcycmvtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcycmvtt.fd)
+/OldSize 1955 
+/NewSize 2103 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcydefs.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcydefs.tex)
+/OldSize 2433 
+/NewSize 2571 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcyenc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcyenc.def)
+/OldSize 6927 
+/NewSize 7065 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcylcmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcylcmss.fd)
+/OldSize 2620 
+/NewSize 2768 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\lcylcmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\lcylcmtt.fd)
+/OldSize 2153 
+/NewSize 2301 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\maccyr.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\maccyr.def)
+/OldSize 5651 
+/NewSize 5789 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\macukr.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\macukr.def)
+/OldSize 5649 
+/NewSize 5787 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\mik.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\mik.def)
+/OldSize 4730 
+/NewSize 4868 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\mls.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\mls.def)
+/OldSize 5163 
+/NewSize 5301 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\mnk.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\mnk.def)
+/OldSize 3626 
+/NewSize 3764 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\mos.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\mos.def)
+/OldSize 3626 
+/NewSize 3764 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ncc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ncc.def)
+/OldSize 3626 
+/NewSize 3764 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2ccr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2ccr.fd)
+/OldSize 2576 
+/NewSize 2724 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2cmbr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2cmbr.fd)
+/OldSize 2279 
+/NewSize 2427 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2cmdh.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2cmdh.fd)
+/OldSize 1779 
+/NewSize 1927 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2cmfib.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2cmfib.fd)
+/OldSize 1782 
+/NewSize 1930 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2cmfr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2cmfr.fd)
+/OldSize 1831 
+/NewSize 1979 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2cmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2cmr.fd)
+/OldSize 2873 
+/NewSize 3021 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2cmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2cmss.fd)
+/OldSize 2472 
+/NewSize 2620 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2cmtl.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2cmtl.fd)
+/OldSize 2038 
+/NewSize 2186 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2cmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2cmtt.fd)
+/OldSize 2446 
+/NewSize 2594 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2cmvtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2cmvtt.fd)
+/OldSize 1955 
+/NewSize 2103 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2enc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2enc.def)
+/OldSize 5933 
+/NewSize 6071 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2lcmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2lcmss.fd)
+/OldSize 2620 
+/NewSize 2768 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2lcmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2lcmtt.fd)
+/OldSize 2153 
+/NewSize 2301 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2wlcyr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2wlcyr.fd)
+/OldSize 2535 
+/NewSize 2683 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2wlcyss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2wlcyss.fd)
+/OldSize 1985 
+/NewSize 2133 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2wncyr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2wncyr.fd)
+/OldSize 2535 
+/NewSize 2683 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\ot2wncyss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\ot2wncyss.fd)
+/OldSize 1985 
+/NewSize 2133 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\pt154.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\pt154.def)
+/OldSize 5671 
+/NewSize 5809 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\pt254.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\pt254.def)
+/OldSize 5634 
+/NewSize 5772 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2accr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2accr.fd)
+/OldSize 2788 
+/NewSize 2936 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2acmbr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2acmbr.fd)
+/OldSize 2791 
+/NewSize 2939 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2acmdh.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2acmdh.fd)
+/OldSize 1900 
+/NewSize 2048 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2acmfib.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2acmfib.fd)
+/OldSize 1942 
+/NewSize 2090 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2acmfr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2acmfr.fd)
+/OldSize 1935 
+/NewSize 2083 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2acmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2acmr.fd)
+/OldSize 2202 
+/NewSize 2350 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2acmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2acmss.fd)
+/OldSize 2244 
+/NewSize 2392 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2acmtl.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2acmtl.fd)
+/OldSize 2199 
+/NewSize 2347 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2acmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2acmtt.fd)
+/OldSize 2179 
+/NewSize 2327 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2acmvtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2acmvtt.fd)
+/OldSize 1962 
+/NewSize 2110 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2aenc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2aenc.def)
+/OldSize 11902 
+/NewSize 12040 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2alcmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2alcmss.fd)
+/OldSize 2843 
+/NewSize 2991 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2alcmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2alcmtt.fd)
+/OldSize 2052 
+/NewSize 2200 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2bccr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2bccr.fd)
+/OldSize 2788 
+/NewSize 2936 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2bcmbr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2bcmbr.fd)
+/OldSize 2791 
+/NewSize 2939 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2bcmdh.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2bcmdh.fd)
+/OldSize 1900 
+/NewSize 2048 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2bcmfib.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2bcmfib.fd)
+/OldSize 1942 
+/NewSize 2090 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2bcmfr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2bcmfr.fd)
+/OldSize 1935 
+/NewSize 2083 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2bcmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2bcmr.fd)
+/OldSize 2202 
+/NewSize 2350 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2bcmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2bcmss.fd)
+/OldSize 2244 
+/NewSize 2392 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2bcmtl.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2bcmtl.fd)
+/OldSize 2199 
+/NewSize 2347 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2bcmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2bcmtt.fd)
+/OldSize 2179 
+/NewSize 2327 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2bcmvtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2bcmvtt.fd)
+/OldSize 1962 
+/NewSize 2110 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2benc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2benc.def)
+/OldSize 11663 
+/NewSize 11801 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2blcmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2blcmss.fd)
+/OldSize 2843 
+/NewSize 2991 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2blcmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2blcmtt.fd)
+/OldSize 2052 
+/NewSize 2200 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2cccr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2cccr.fd)
+/OldSize 2788 
+/NewSize 2936 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2ccmbr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2ccmbr.fd)
+/OldSize 2791 
+/NewSize 2939 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2ccmdh.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2ccmdh.fd)
+/OldSize 1900 
+/NewSize 2048 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2ccmfib.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2ccmfib.fd)
+/OldSize 1942 
+/NewSize 2090 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2ccmfr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2ccmfr.fd)
+/OldSize 1935 
+/NewSize 2083 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2ccmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2ccmr.fd)
+/OldSize 2202 
+/NewSize 2350 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2ccmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2ccmss.fd)
+/OldSize 2244 
+/NewSize 2392 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2ccmtl.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2ccmtl.fd)
+/OldSize 2199 
+/NewSize 2347 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2ccmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2ccmtt.fd)
+/OldSize 2179 
+/NewSize 2327 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2ccmvtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2ccmvtt.fd)
+/OldSize 1962 
+/NewSize 2110 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2cenc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2cenc.def)
+/OldSize 11661 
+/NewSize 11799 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2clcmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2clcmss.fd)
+/OldSize 2843 
+/NewSize 2991 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\t2clcmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\t2clcmtt.fd)
+/OldSize 2052 
+/NewSize 2200 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2ccr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2ccr.fd)
+/OldSize 2775 
+/NewSize 2923 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2cmbr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2cmbr.fd)
+/OldSize 2778 
+/NewSize 2926 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2cmdh.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2cmdh.fd)
+/OldSize 1894 
+/NewSize 2042 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2cmfib.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2cmfib.fd)
+/OldSize 1935 
+/NewSize 2083 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2cmfr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2cmfr.fd)
+/OldSize 1928 
+/NewSize 2076 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2cmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2cmr.fd)
+/OldSize 2187 
+/NewSize 2335 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2cmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2cmss.fd)
+/OldSize 2231 
+/NewSize 2379 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2cmtl.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2cmtl.fd)
+/OldSize 2191 
+/NewSize 2339 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2cmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2cmtt.fd)
+/OldSize 2168 
+/NewSize 2316 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2cmvtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2cmvtt.fd)
+/OldSize 1955 
+/NewSize 2103 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2enc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2enc.def)
+/OldSize 13673 
+/NewSize 13811 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2008 2009)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2lcmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2lcmss.fd)
+/OldSize 2826 
+/NewSize 2974 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\cyrillic\\x2lcmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\cyrillic\\x2lcmtt.fd)
+/OldSize 2044 
+/NewSize 2192 
+/Line 13 
+/NewLine (%% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2008)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Status 
+/Name (cyrillic)
+/Status /Updated 
+/Differences 107 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\cyrillic.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\cyrillic.bkz)
+/Name (cyrillic)
+/Size 13840 
+/CRC 1381892524 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\cyrillic.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\cyrillic.doc.bkz)
+/Name (cyrillic)
+/Size 925031 
+/CRC 923541532 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\cyrillic.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\cyrillic.source.bkz)
+/Name (cyrillic)
+/Size 20924 
+/CRC 1305351924 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

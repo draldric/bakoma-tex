@@ -1,0 +1,13 @@
+:thalie:x1120:0.015917:116110580:3677:DFB7-282D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+thalie
+
+./tex/latex/thalie:
+thalie.sty

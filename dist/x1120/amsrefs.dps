@@ -1,0 +1,162 @@
+% Unpacking components of module [amsrefs] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\amsrefs.tds.zip)
+/Name (amsrefs)
+/Size 2249874 
+/CRC 1558265934 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\amsrefs.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\amsrefs.bkz)
+/Name (amsrefs)
+/Size 21495 
+/CRC 1091104707 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\amsrefs.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bib\\amsrefs\\amsj.bib)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\amsrefs\\amsra.bst)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\amsrefs\\amsrn.bst)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\amsrefs\\amsrs.bst)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\amsrefs\\amsru.bst)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\amsrefs\\amsry.bst)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsrefs\\amsbst.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsrefs\\amsbst.sty)
+/OldSize 7344 
+/NewSize 7115 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 2001, 2004, 2006, 2007, 2010, 2012, 2013 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsrefs\\amsrefs.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsrefs\\amsrefs.sty)
+/OldSize 84303 
+/NewSize 87915 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 2001, 2004, 2006, 2007, 2010, 2012, 2013 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsrefs\\ifoption.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsrefs\\ifoption.sty)
+/OldSize 2711 
+/NewSize 2314 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 2001, 2010 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsrefs\\mathscinet.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsrefs\\mathscinet.sty)
+/OldSize 7042 
+/NewSize 6618 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 2001, 2010 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsrefs\\pcatcode.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsrefs\\pcatcode.sty)
+/OldSize 5971 
+/NewSize 5386 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 2001, 2010 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsrefs\\rkeyval.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsrefs\\rkeyval.sty)
+/OldSize 11975 
+/NewSize 11374 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 2001, 2010 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsrefs\\textcmds.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsrefs\\textcmds.sty)
+/OldSize 4608 
+/NewSize 4127 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 2001, 2010 American Mathematical Society.)
+>>
+<<
+/Type /Status 
+/Name (amsrefs)
+/Status /Updated 
+/Differences 13 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\amsrefs.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\amsrefs.bkz)
+/Name (amsrefs)
+/Size 26767 
+/CRC 1988427721 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\amsrefs.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\amsrefs.doc.bkz)
+/Name (amsrefs)
+/Size 1938086 
+/CRC 812084956 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\amsrefs.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\amsrefs.source.bkz)
+/Name (amsrefs)
+/Size 101673 
+/CRC -1706905320 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

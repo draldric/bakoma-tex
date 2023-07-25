@@ -1,0 +1,16 @@
+:dhua.doc:x1120:0.35717:116110580:323269:B176-E016:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dhua
+
+./doc/latex/dhua:
+dhua.pdf
+README
+README.pdf
+SrcFILEs.txt

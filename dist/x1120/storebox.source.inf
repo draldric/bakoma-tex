@@ -1,0 +1,14 @@
+:storebox.source:x1120:0.024238:116110580:5966:5DFB-560E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+storebox
+
+./source/latex/storebox:
+storebox.dtx
+storebox.ins

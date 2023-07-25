@@ -1,0 +1,48 @@
+% Unpacking components of module [alertmessage] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\alertmessage.tds.zip)
+/Name (alertmessage)
+/Size 140785 
+/CRC -632728506 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (alertmessage)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\alertmessage.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\alertmessage.bkz)
+/Name (alertmessage)
+/Size 28794 
+/CRC 86829743 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\alertmessage.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\alertmessage.doc.bkz)
+/Name (alertmessage)
+/Size 106432 
+/CRC -1376525792 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\alertmessage.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\alertmessage.source.bkz)
+/Name (alertmessage)
+/Size 2184 
+/CRC 586014228 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

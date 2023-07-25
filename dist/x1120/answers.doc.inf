@@ -1,0 +1,13 @@
+:answers.doc:x1120:0.211377:116110580:211421:A6D8-85F1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+answers
+
+./doc/latex/answers:
+answers.pdf

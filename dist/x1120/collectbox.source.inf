@@ -1,0 +1,14 @@
+:collectbox.source:x1120:0.032547:116110580:7785:1D2F-97D1:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+collectbox
+
+./source/latex/collectbox:
+collectbox.dtx
+collectbox.ins

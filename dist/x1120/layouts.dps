@@ -1,0 +1,36 @@
+% Unpacking components of module [layouts] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\layouts.tds.zip)
+/Name (layouts)
+/Size 556672 
+/CRC 475333255 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\layouts.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\layouts.bkz)
+/Name (layouts)
+/Size 13005 
+/CRC -243553331 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\layouts.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\layouts\\layouts.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\layouts\\layouts.sty)
+/OldSize 103628 
+/NewSize 103628 
+>>
+<<
+/Type /Status 
+/Name (layouts)
+/Status /Same 
+>> % distribution already includes this version

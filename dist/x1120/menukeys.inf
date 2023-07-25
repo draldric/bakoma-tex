@@ -1,0 +1,13 @@
+:menukeys:x1120:0.030192:116110580:5141:F25A-567D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+menukeys
+
+./tex/latex/menukeys:
+menukeys.sty

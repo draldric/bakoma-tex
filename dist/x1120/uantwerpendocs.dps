@@ -1,0 +1,48 @@
+% Unpacking components of module [uantwerpendocs] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\uantwerpendocs.tds.zip)
+/Name (uantwerpendocs)
+/Size 2358032 
+/CRC -2075367833 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (uantwerpendocs)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\uantwerpendocs.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\uantwerpendocs.bkz)
+/Name (uantwerpendocs)
+/Size 1305463 
+/CRC 252478436 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\uantwerpendocs.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\uantwerpendocs.doc.bkz)
+/Name (uantwerpendocs)
+/Size 665248 
+/CRC 732235682 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\uantwerpendocs.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\uantwerpendocs.source.bkz)
+/Name (uantwerpendocs)
+/Size 19355 
+/CRC -395892092 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

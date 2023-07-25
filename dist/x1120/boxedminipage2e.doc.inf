@@ -1,0 +1,14 @@
+:boxedminipage2e.doc:x1120:0.211282:116110580:209507:9A47-2308:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+boxedminipage2e
+
+./doc/latex/boxedminipage2e:
+boxedminipage2e.pdf
+README

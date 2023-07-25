@@ -1,0 +1,14 @@
+:verse.source:x1120:0.061021:116110580:15191:490C-B22:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+verse
+
+./source/latex/verse:
+verse.dtx
+verse.ins

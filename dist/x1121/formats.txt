@@ -1,0 +1,25 @@
+2017-Jan-28 Revision adds search in plain forlder for all LaTeX formats.
+
+Really, only TEXMF.INI records will be changed.
+
+2010-Jun-08 Revision was changed in order to force update.
+
+Old:
+
+:formats:v903:0.015:109111972:6501:7B93-9BAE:
+
+New:
+
+:formats:v903:0.015:109111973:6501:7B93-9BAE:
+
+It is becasue Script/Resource.Dir file was ovrwriten by bakoma.bkz
+after filling form formats.bkz:Update/formats.ini
+Now I move filling of Script/Resource.Dir to bakoma.bkz:Update/bakoma.ini
+So, it will O'K for new installations. 
+However, by forcing reinstalling formats.bkz I will also fix old installations
+in update mode.
+
+
+NOTE: I needn't to rebuild new formats.bkz, because archive itself was unchanged.
+
+

@@ -1,0 +1,15 @@
+:mathtools:x1120:0.101915:116110580:17868:6335-B620:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mathtools
+
+./tex/latex/mathtools:
+empheq.sty
+mathtools.sty
+mhsetup.sty

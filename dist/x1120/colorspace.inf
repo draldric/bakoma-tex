@@ -1,0 +1,13 @@
+:colorspace:x1120:0.02108:116110580:6047:7C1D-4CE8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+colorspace
+
+./tex/latex/colorspace:
+colorspace.sty

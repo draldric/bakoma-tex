@@ -1,0 +1,13 @@
+:eqparbox:x1120:0.008197:116110580:2071:40DE-6CE1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+eqparbox
+
+./tex/latex/eqparbox:
+eqparbox.sty

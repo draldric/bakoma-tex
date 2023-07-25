@@ -1,0 +1,36 @@
+% Unpacking components of module [xfor] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\xfor.tds.zip)
+/Name (xfor)
+/Size 111968 
+/CRC 1066799268 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\xfor.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\xfor.bkz)
+/Name (xfor)
+/Size 1268 
+/CRC -657070707 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\xfor.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\xfor\\xfor.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\xfor\\xfor.sty)
+/OldSize 2689 
+/NewSize 2689 
+>>
+<<
+/Type /Status 
+/Name (xfor)
+/Status /Same 
+>> % distribution already includes this version

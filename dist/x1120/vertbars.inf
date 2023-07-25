@@ -1,0 +1,13 @@
+:vertbars:x1120:0.001479:116110580:706:2F2-D0B1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+vertbars
+
+./tex/latex/vertbars:
+vertbars.sty

@@ -1,0 +1,13 @@
+:metrix:x1120:0.027281:116110580:4650:F233-6FB2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+metrix
+
+./tex/latex/metrix:
+metrix.sty

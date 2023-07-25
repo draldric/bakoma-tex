@@ -1,0 +1,13 @@
+:animate:x1120:0.105115:116110580:18825:2CE-9404:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+animate
+
+./tex/latex/animate:
+animate.sty

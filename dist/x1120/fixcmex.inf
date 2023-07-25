@@ -1,0 +1,13 @@
+:fixcmex:x1120:0.001622:116110580:836:CC43-D97:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fixcmex
+
+./tex/latex/fixcmex:
+fixcmex.sty

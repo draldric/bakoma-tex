@@ -1,0 +1,13 @@
+:skmath.source:x1120:0.033536:116110580:7936:BD71-E3AE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+skmath
+
+./source/latex/skmath:
+skmath.tex

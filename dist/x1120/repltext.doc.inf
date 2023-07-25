@@ -1,0 +1,14 @@
+:repltext.doc:x1120:0.304795:116110580:291904:80A2-7C9F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+repltext
+
+./doc/latex/repltext:
+README
+repltext.pdf

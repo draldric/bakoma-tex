@@ -1,0 +1,48 @@
+% Unpacking components of module [gs1] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\gs1.tds.zip)
+/Name (gs1)
+/Size 1231713 
+/CRC -919042124 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (gs1)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\gs1.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gs1.bkz)
+/Name (gs1)
+/Size 3049 
+/CRC 468447006 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\gs1.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gs1.doc.bkz)
+/Name (gs1)
+/Size 1114643 
+/CRC 1433206215 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\gs1.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gs1.source.bkz)
+/Name (gs1)
+/Size 9351 
+/CRC 909113938 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

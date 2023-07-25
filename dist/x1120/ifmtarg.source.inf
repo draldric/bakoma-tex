@@ -1,0 +1,14 @@
+:ifmtarg.source:x1120:0.005821:116110580:2462:DEF6-957B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ifmtarg
+
+./source/latex/ifmtarg:
+ifmtarg.ins
+ifmtarg.tex

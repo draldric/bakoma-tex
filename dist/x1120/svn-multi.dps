@@ -1,0 +1,94 @@
+% Unpacking components of module [svn-multi] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\svn-multi.tds.zip)
+/Name (svn-multi)
+/Size 463336 
+/CRC -1907125514 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\svn-multi.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\svn-multi.bkz)
+/Name (svn-multi)
+/Size 11909 
+/CRC -1283151412 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\svn-multi.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\svn-multi\\svn-multi.pl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\svn-multi\\svn-multi.pl)
+/OldSize 11074 
+/NewSize 10976 
+/Line 7 
+/NewLine (# Copyright \(C\) 2006-2009 Martin Scharrer)
+/OldLine (# Copyright \(C\) 2006-2012 Martin Scharrer)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\svn-multi\\svn-multi.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\svn-multi\\svn-multi.sty)
+/OldSize 41664 
+/NewSize 42552 
+/Line 1 
+/NewLine (%%)
+/OldLine (%% Copyright \(C\) 2006-2012 by Martin Scharrer <martin@scharrer-online.de>)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\svn-multi\\svnkw.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\svn-multi\\svnkw.sty)
+/OldSize 1339 
+/NewSize 1171 
+/Line 1 
+/NewLine (%%)
+/OldLine (%% Copyright \(C\) 2006-2012 by Martin Scharrer <martin@scharrer-online.de>)
+>>
+<<
+/Type /Status 
+/Name (svn-multi)
+/Status /Updated 
+/Differences 3 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\svn-multi.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\svn-multi.bkz)
+/Name (svn-multi)
+/Size 11879 
+/CRC 2006757090 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\svn-multi.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\svn-multi.doc.bkz)
+/Name (svn-multi)
+/Size 402550 
+/CRC 1072580180 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\svn-multi.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\svn-multi.source.bkz)
+/Name (svn-multi)
+/Size 38710 
+/CRC -332275290 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

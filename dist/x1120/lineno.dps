@@ -1,0 +1,68 @@
+% Unpacking components of module [lineno] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\lineno.tds.zip)
+/Name (lineno)
+/Size 814656 
+/CRC 427371088 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1003\lineno.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1003\\lineno.bkz)
+/Name (lineno)
+/Size 61530 
+/CRC 1580012427 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1003\lineno.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lineno\\ednmath0.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lineno\\ednmath0.sty)
+/OldSize 7261 
+/NewSize 7261 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lineno\\edtable.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lineno\\edtable.sty)
+/OldSize 24993 
+/NewSize 24993 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lineno\\fnlineno.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lineno\\fnlineno.sty)
+/OldSize 48521 
+/NewSize 48521 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lineno\\lineno.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lineno\\lineno.sty)
+/OldSize 151738 
+/NewSize 151738 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lineno\\vplref.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lineno\\vplref.sty)
+/OldSize 2423 
+/NewSize 2423 
+>>
+<<
+/Type /Status 
+/Name (lineno)
+/Status /Same 
+>> % distribution already includes this version

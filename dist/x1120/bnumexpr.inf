@@ -1,0 +1,13 @@
+:bnumexpr:x1120:0.013199:116110580:3240:9FD2-9BFD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bnumexpr
+
+./tex/latex/bnumexpr:
+bnumexpr.sty

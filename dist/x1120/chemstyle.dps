@@ -1,0 +1,160 @@
+% Unpacking components of module [chemstyle] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\chemstyle.tds.zip)
+/Name (chemstyle)
+/Size 312045 
+/CRC -1164273448 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\chemstyle.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\chemstyle.bkz)
+/Name (chemstyle)
+/Size 5273 
+/CRC 148251481 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\chemstyle.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\chemstyle\\chemscheme.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\chemstyle\\chemscheme.sty)
+/OldSize 8899 
+/NewSize 9728 
+/Line 17 
+/NewLine (  [2009/08/23 v2.0a Schemes for chemistry])
+/OldLine (  [2013/07/03 v2.0m Schemes for chemistry])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\chemstyle\\chemstyle.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\chemstyle\\chemstyle.sty)
+/OldSize 12401 
+/NewSize 13041 
+/Line 17 
+/NewLine (  [2009/08/23 v2.0a Schemes and style for chemistry])
+/OldLine (  [2013/07/03 v2.0m Schemes and style for chemistry])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\chemstyle\\config\\angew.chemstyle.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\chemstyle\\config\\angew.chemstyle.cfg)
+/OldSize 1651 
+/NewSize 1719 
+/Line 16 
+/NewLine (  [2009/08/23 v2.0a Angew. Chem. journal style])
+/OldLine (  [2013/07/03 v2.0m Angew. Chem. journal style])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\chemstyle\\config\\ic.chemstyle.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\chemstyle\\config\\ic.chemstyle.cfg)
+/OldSize 1902 
+/NewSize 1970 
+/Line 16 
+/NewLine (  [2009/08/23 v2.0a Inorg. Chem. journal style])
+/OldLine (  [2013/07/03 v2.0m Inorg. Chem. journal style])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\chemstyle\\config\\jacs.chemstyle.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\chemstyle\\config\\jacs.chemstyle.cfg)
+/OldSize 1915 
+/NewSize 1984 
+/Line 16 
+/NewLine (  [2009/08/23 v2.0a J. Am. Chem. Soc. journal style])
+/OldLine (  [2013/07/03 v2.0m J. Am. Chem. Soc. journal style])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\chemstyle\\config\\jomc.chemstyle.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\chemstyle\\config\\jomc.chemstyle.cfg)
+/OldSize 1677 
+/NewSize 1745 
+/Line 16 
+/NewLine (  [2009/08/23 v2.0a J. Organomet. Chem. journal style])
+/OldLine (  [2013/07/03 v2.0m J. Organomet. Chem. journal style])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\chemstyle\\config\\orglett.chemstyle.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\chemstyle\\config\\orglett.chemstyle.cfg)
+/OldSize 3394 
+/NewSize 3462 
+/Line 16 
+/NewLine (  [2009/08/23 v2.0a Org. Lett. journal style])
+/OldLine (  [2013/07/03 v2.0m Org. Lett. journal style])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\chemstyle\\config\\rsc.chemstyle.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\chemstyle\\config\\rsc.chemstyle.cfg)
+/OldSize 1511 
+/NewSize 1579 
+/Line 16 
+/NewLine (  [2009/08/23 v2.0a RSC journal style])
+/OldLine (  [2013/07/03 v2.0m RSC journal style])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\chemstyle\\config\\tetlett.chemstyle.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\chemstyle\\config\\tetlett.chemstyle.cfg)
+/OldSize 1592 
+/NewSize 1660 
+/Line 16 
+/NewLine (  [2009/08/23 v2.0a Tetrahedron Lett. journal style])
+/OldLine (  [2013/07/03 v2.0m Tetrahedron Lett. journal style])
+>>
+<<
+/Type /Status 
+/Name (chemstyle)
+/Status /Updated 
+/Differences 9 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\chemstyle.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\chemstyle.bkz)
+/Name (chemstyle)
+/Size 5545 
+/CRC -414024328 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\chemstyle.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\chemstyle.doc.bkz)
+/Name (chemstyle)
+/Size 271720 
+/CRC 1047681966 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\chemstyle.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\chemstyle.source.bkz)
+/Name (chemstyle)
+/Size 24754 
+/CRC 1573633544 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

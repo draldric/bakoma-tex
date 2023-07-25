@@ -1,0 +1,13 @@
+:iftex:x1135:0.01024:117053072:774:DC44-CB46:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+iftex
+
+./tex/generic/iftex:
+iftex.sty

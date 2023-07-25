@@ -1,0 +1,14 @@
+:footmisc.doc:x1120:0.32696:116110580:325500:6083-5FF0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+footmisc
+
+./doc/latex/footmisc:
+footmisc.pdf
+README

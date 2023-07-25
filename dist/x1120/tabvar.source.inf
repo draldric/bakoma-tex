@@ -1,0 +1,14 @@
+:tabvar.source:x1120:0.038358:116110580:10960:79D3-DE5F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tabvar
+
+./source/latex/tabvar:
+tabvar.dtx
+tabvar.ins

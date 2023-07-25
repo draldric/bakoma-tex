@@ -1,0 +1,14 @@
+:newverbs.source:x1120:0.022889:116110580:5934:A6FF-C43B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+newverbs
+
+./source/latex/newverbs:
+newverbs.dtx
+newverbs.ins

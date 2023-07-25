@@ -1,0 +1,2599 @@
+% Unpacking components of module [oberdiek] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\oberdiek.tds.zip)
+/Name (oberdiek)
+/Size 19115352 
+/CRC 306210591 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1000\oberdiek.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1000\\oberdiek.bkz)
+/Name (oberdiek)
+/Size 218597 
+/CRC 212946446 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1000\oberdiek.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bib\\oberdiek\\oberdiek-bundle.bib)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bib\\oberdiek\\oberdiek-bundle.bib)
+/OldSize 26565 
+/NewSize 26565 
+/Line 274 
+/NewLine (  date={2012-05-28},)
+/OldLine (  date={2012-04-25},)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bib\\oberdiek\\oberdiek-source.bib)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bib\\oberdiek\\oberdiek-source.bib)
+/OldSize 963 
+/NewSize 963 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\oberdiek\\luacolor-pre065.lua)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\oberdiek\\luacolor-pre065.lua)
+/OldSize 5734 
+/NewSize 5815 
+/Line 12 
+/NewLine (--  Version: 2011/11/01 v1.8)
+/OldLine (--  Version: 2016/05/16 v1.10)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\oberdiek\\luacolor.lua)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\oberdiek\\luacolor.lua)
+/OldSize 5475 
+/NewSize 5556 
+/Line 12 
+/NewLine (--  Version: 2011/11/01 v1.8)
+/OldLine (--  Version: 2016/05/16 v1.10)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\oberdiek\\magicnum.lua)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\oberdiek\\magicnum.lua)
+/OldSize 5288 
+/NewSize 5288 
+/Line 12 
+/NewLine (--  Version: 2011/04/10 v1.4)
+/OldLine (--  Version: 2016/05/16 v1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\oberdiek\\oberdiek.luacolor-pre065.lua)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\oberdiek\\oberdiek.luacolor-pre065.lua)
+/OldSize 5752 
+/NewSize 5833 
+/Line 12 
+/NewLine (--  Version: 2011/11/01 v1.8)
+/OldLine (--  Version: 2016/05/16 v1.10)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\oberdiek\\oberdiek.luacolor.lua)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\oberdiek\\oberdiek.luacolor.lua)
+/OldSize 5493 
+/NewSize 5574 
+/Line 12 
+/NewLine (--  Version: 2011/11/01 v1.8)
+/OldLine (--  Version: 2016/05/16 v1.10)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\oberdiek\\oberdiek.luatex.lua)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\oberdiek\\oberdiek.luatex.lua)
+/OldSize 1951 
+/NewSize 1972 
+/Line 12 
+/NewLine (--  Version: 2010/03/09 v0.4)
+/OldLine (--  Version: 2016/05/16 v0.6)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\oberdiek\\oberdiek.magicnum.lua)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\oberdiek\\oberdiek.magicnum.lua)
+/OldSize 5306 
+/NewSize 5306 
+/Line 12 
+/NewLine (--  Version: 2011/04/10 v1.4)
+/OldLine (--  Version: 2016/05/16 v1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\oberdiek\\oberdiek.pdftexcmds.lua)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\oberdiek\\oberdiek.pdftexcmds.lua)
+/OldSize 9074 
+/NewSize 9120 
+/Line 12 
+/NewLine (--  Version: 2011/11/29 v0.20)
+/OldLine (--  Version: 2016/05/21 v0.22)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\oberdiek\\pdfatfi.pl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\oberdiek\\pdfatfi.pl)
+/OldSize 6442 
+/NewSize 6442 
+/Line 33 
+/NewLine (my $date        = "2012/04/18";)
+/OldLine (my $date        = "2016/05/16";)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\oberdiek\\pdftexcmds.lua)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\oberdiek\\pdftexcmds.lua)
+/OldSize 9056 
+/NewSize 9102 
+/Line 12 
+/NewLine (--  Version: 2011/11/29 v0.20)
+/OldLine (--  Version: 2016/05/21 v0.22)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\alphalph.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\alphalph.sty)
+/OldSize 11414 
+/NewSize 11414 
+/Line 12 
+/NewLine (%% Version: 2011/05/13 v2.4)
+/OldLine (%% Version: 2016/05/16 v2.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\atbegshi.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\atbegshi.sty)
+/OldSize 24460 
+/NewSize 24580 
+/Line 12 
+/NewLine (%% Version: 2011/10/05 v1.16)
+/OldLine (%% Version: 2016/06/09 v1.18)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\bigintcalc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\bigintcalc.sty)
+/OldSize 40505 
+/NewSize 40505 
+/Line 12 
+/NewLine (%% Version: 2012/04/08 v1.3)
+/OldLine (%% Version: 2016/05/16 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\bitset.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\bitset.sty)
+/OldSize 33835 
+/NewSize 33835 
+/Line 12 
+/NewLine (%% Version: 2011/01/30 v1.1)
+/OldLine (%% Version: 2016/05/16 v1.2)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\catchfile.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\catchfile.sty)
+/OldSize 8493 
+/NewSize 8493 
+/Line 12 
+/NewLine (%% Version: 2011/03/01 v1.6)
+/OldLine (%% Version: 2016/05/16 v1.7)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\embedfile.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\embedfile.sty)
+/OldSize 20252 
+/NewSize 20335 
+/Line 12 
+/NewLine (%% Version: 2011/04/13 v2.6)
+/OldLine (%% Version: 2016/05/15 v2.7)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\engord.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\engord.sty)
+/OldSize 6670 
+/NewSize 6670 
+/Line 12 
+/NewLine (%% Version: 2010/03/01 v1.8)
+/OldLine (%% Version: 2016/05/16 v1.9)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\eolgrab.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\eolgrab.sty)
+/OldSize 5675 
+/NewSize 5675 
+/Line 12 
+/NewLine (%% Version: 2011/01/12 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\etexcmds.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\etexcmds.sty)
+/OldSize 7612 
+/NewSize 7612 
+/Line 12 
+/NewLine (%% Version: 2011/02/16 v1.5)
+/OldLine (%% Version: 2016/05/16 v1.6)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\fibnum.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\fibnum.sty)
+/OldSize 8466 
+/NewSize 8466 
+/Line 12 
+/NewLine (%% Version: 2012/04/08 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\gettitlestring.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\gettitlestring.sty)
+/OldSize 8237 
+/NewSize 8237 
+/Line 12 
+/NewLine (%% Version: 2010/12/03 v1.4)
+/OldLine (%% Version: 2016/05/16 v1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\hobsub-generic.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\hobsub-generic.sty)
+/OldSize 189108 
+/NewSize 185033 
+/Line 42 
+/NewLine (%% Version: 2012/05/28 v1.13)
+/OldLine (%% Version: 2016/05/16 v1.14)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\hobsub-hyperref.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\hobsub-hyperref.sty)
+/OldSize 70752 
+/NewSize 70864 
+/Line 26 
+/NewLine (%% Version: 2012/05/28 v1.13)
+/OldLine (%% Version: 2016/05/16 v1.14)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\hobsub.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\hobsub.sty)
+/OldSize 6254 
+/NewSize 6254 
+/Line 12 
+/NewLine (%% Version: 2012/05/28 v1.13)
+/OldLine (%% Version: 2016/05/16 v1.14)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\hologo.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\hologo.sty)
+/OldSize 54113 
+/NewSize 54430 
+/Line 12 
+/NewLine (%% Version: 2012/04/26 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.12)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\hyphsubst.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\hyphsubst.sty)
+/OldSize 6412 
+/NewSize 6412 
+/Line 12 
+/NewLine (%% Version: 2008/06/09 v0.2)
+/OldLine (%% Version: 2016/05/16 v0.3)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\iflang.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\iflang.sty)
+/OldSize 8630 
+/NewSize 8630 
+/Line 12 
+/NewLine (%% Version: 2007/11/11 v1.5)
+/OldLine (%% Version: 2016/05/16 v1.6)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\ifluatex.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\ifluatex.sty)
+/OldSize 7324 
+/NewSize 7324 
+/Line 12 
+/NewLine (%% Version: 2010/03/01 v1.3)
+/OldLine (%% Version: 2016/05/16 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\ifpdf.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\ifpdf.sty)
+/OldSize 7140 
+/NewSize 1226 
+/Line 9 
+/NewLine (%% This is a generated file.)
+/OldLine (%% Source File: ifpdf.dtx)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\ifvtex.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\ifvtex.sty)
+/OldSize 6797 
+/NewSize 6797 
+/Line 12 
+/NewLine (%% Version: 2010/03/01 v1.5)
+/OldLine (%% Version: 2016/05/16 v1.6)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\infwarerr.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\infwarerr.sty)
+/OldSize 8253 
+/NewSize 8253 
+/Line 12 
+/NewLine (%% Version: 2010/04/08 v1.3)
+/OldLine (%% Version: 2016/05/16 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\intcalc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\intcalc.sty)
+/OldSize 31642 
+/NewSize 31642 
+/Line 12 
+/NewLine (%% Version: 2007/09/27 v1.1)
+/OldLine (%% Version: 2016/05/16 v1.2)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\kvdefinekeys.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\kvdefinekeys.sty)
+/OldSize 5152 
+/NewSize 5152 
+/Line 12 
+/NewLine (%% Version: 2011/04/07 v1.3)
+/OldLine (%% Version: 2016/05/16 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\kvsetkeys.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\kvsetkeys.sty)
+/OldSize 14040 
+/NewSize 14040 
+/Line 12 
+/NewLine (%% Version: 2012/04/25 v1.16)
+/OldLine (%% Version: 2016/05/16 v1.17)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\ltxcmds.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\ltxcmds.sty)
+/OldSize 18425 
+/NewSize 18425 
+/Line 12 
+/NewLine (%% Version: 2011/11/09 v1.22)
+/OldLine (%% Version: 2016/05/16 v1.23)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\luatex-loader.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\luatex-loader.sty)
+/OldSize 3848 
+/NewSize 3848 
+/Line 12 
+/NewLine (%% Version: 2010/03/09 v0.4)
+/OldLine (%% Version: 2016/05/16 v0.6)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\luatex.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\luatex.sty)
+/OldSize 13983 
+/NewSize 14120 
+/Line 12 
+/NewLine (%% Version: 2010/03/09 v0.4)
+/OldLine (%% Version: 2016/05/16 v0.6)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\magicnum.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\magicnum.sty)
+/OldSize 10808 
+/NewSize 10808 
+/Line 12 
+/NewLine (%% Version: 2011/04/10 v1.4)
+/OldLine (%% Version: 2016/05/16 v1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\mleftright.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\mleftright.sty)
+/OldSize 7318 
+/NewSize 7318 
+/Line 12 
+/NewLine (%% Version: 2010/09/25 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\pdfcol.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\pdfcol.sty)
+/OldSize 9329 
+/NewSize 9414 
+/Line 12 
+/NewLine (%% Version: 2007/12/12 v1.2)
+/OldLine (%% Version: 2016/05/17 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\pdfcrypt.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\pdfcrypt.sty)
+/OldSize 11658 
+/NewSize 11658 
+/Line 12 
+/NewLine (%% Version: 2007/04/26 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\pdfescape.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\pdfescape.sty)
+/OldSize 18878 
+/NewSize 18878 
+/Line 12 
+/NewLine (%% Version: 2011/11/25 v1.13)
+/OldLine (%% Version: 2016/05/16 v1.14)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\pdfrender.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\pdfrender.sty)
+/OldSize 22297 
+/NewSize 22385 
+/Line 12 
+/NewLine (%% Version: 2010/01/28 v1.2)
+/OldLine (%% Version: 2016/05/17 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\pdftexcmds.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\pdftexcmds.sty)
+/OldSize 19987 
+/NewSize 20115 
+/Line 12 
+/NewLine (%% Version: 2011/11/29 v0.20)
+/OldLine (%% Version: 2016/05/21 v0.22)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\protecteddef.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\protecteddef.sty)
+/OldSize 7299 
+/NewSize 7299 
+/Line 12 
+/NewLine (%% Version: 2011/01/31 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\rotchiffre.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\rotchiffre.sty)
+/OldSize 8077 
+/NewSize 8077 
+/Line 12 
+/NewLine (%% Version: 2010/11/12 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-ascii-print.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-ascii-print.def)
+/OldSize 3154 
+/NewSize 3154 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-ascii.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-ascii.def)
+/OldSize 2767 
+/NewSize 2767 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-clean7bit.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-clean7bit.def)
+/OldSize 3662 
+/NewSize 3662 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-cp1250.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-cp1250.def)
+/OldSize 10174 
+/NewSize 10174 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-cp1251.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-cp1251.def)
+/OldSize 10025 
+/NewSize 10025 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-cp1252.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-cp1252.def)
+/OldSize 4755 
+/NewSize 4755 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-cp1257.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-cp1257.def)
+/OldSize 9554 
+/NewSize 9554 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-cp437.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-cp437.def)
+/OldSize 10482 
+/NewSize 10482 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-cp850.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-cp850.def)
+/OldSize 10331 
+/NewSize 10331 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-cp852.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-cp852.def)
+/OldSize 10630 
+/NewSize 10630 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-cp855.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-cp855.def)
+/OldSize 10246 
+/NewSize 10246 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-cp858.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-cp858.def)
+/OldSize 10312 
+/NewSize 10312 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-cp865.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-cp865.def)
+/OldSize 10502 
+/NewSize 10502 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-cp866.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-cp866.def)
+/OldSize 10428 
+/NewSize 10428 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-dec-mcs.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-dec-mcs.def)
+/OldSize 7761 
+/NewSize 7761 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-1.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-1.def)
+/OldSize 3254 
+/NewSize 3254 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-10.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-10.def)
+/OldSize 9405 
+/NewSize 9405 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-11.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-11.def)
+/OldSize 7943 
+/NewSize 7943 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-13.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-13.def)
+/OldSize 9087 
+/NewSize 9087 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-14.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-14.def)
+/OldSize 9468 
+/NewSize 9468 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-15.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-15.def)
+/OldSize 9028 
+/NewSize 9028 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-16.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-16.def)
+/OldSize 9373 
+/NewSize 9373 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-2.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-2.def)
+/OldSize 9121 
+/NewSize 9121 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-3.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-3.def)
+/OldSize 8631 
+/NewSize 8631 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-4.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-4.def)
+/OldSize 9093 
+/NewSize 9093 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-5.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-5.def)
+/OldSize 8732 
+/NewSize 8732 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-6.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-6.def)
+/OldSize 5425 
+/NewSize 5425 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-7.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-7.def)
+/OldSize 8486 
+/NewSize 8486 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-8.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-8.def)
+/OldSize 5853 
+/NewSize 5853 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-9.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-iso-8859-9.def)
+/OldSize 8873 
+/NewSize 8873 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-koi8-r.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-koi8-r.def)
+/OldSize 10497 
+/NewSize 10497 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-mac-centeuro.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-mac-centeuro.def)
+/OldSize 11495 
+/NewSize 11495 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-mac-cyrillic.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-mac-cyrillic.def)
+/OldSize 10839 
+/NewSize 10839 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-mac-roman.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-mac-roman.def)
+/OldSize 10472 
+/NewSize 10472 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-nextstep.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-nextstep.def)
+/OldSize 10361 
+/NewSize 10361 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-pdfdoc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-pdfdoc.def)
+/OldSize 5005 
+/NewSize 5005 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-utf16le.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-utf16le.def)
+/OldSize 2661 
+/NewSize 2661 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-utf32be.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-utf32be.def)
+/OldSize 4419 
+/NewSize 4419 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-utf32le.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-utf32le.def)
+/OldSize 4615 
+/NewSize 4615 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\se-utf8.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\se-utf8.def)
+/OldSize 11532 
+/NewSize 11532 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\setouterhbox.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\setouterhbox.sty)
+/OldSize 8342 
+/NewSize 8342 
+/Line 12 
+/NewLine (%% Version: 2007/09/09 v1.7)
+/OldLine (%% Version: 2016/05/16 v1.8)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\soulutf8.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\soulutf8.sty)
+/OldSize 17462 
+/NewSize 17462 
+/Line 12 
+/NewLine (%% Version: 2007/09/09 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\stringenc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\stringenc.sty)
+/OldSize 21411 
+/NewSize 21411 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\telprint.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\telprint.sty)
+/OldSize 7000 
+/NewSize 7000 
+/Line 12 
+/NewLine (%% Version: 2008/08/11 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\thepdfnumber.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\thepdfnumber.sty)
+/OldSize 13489 
+/NewSize 13489 
+/Line 12 
+/NewLine (%% Version: 2011/11/24 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\oberdiek\\uniquecounter.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\oberdiek\\uniquecounter.sty)
+/OldSize 6875 
+/NewSize 6875 
+/Line 12 
+/NewLine (%% Version: 2011/01/30 v1.2)
+/OldLine (%% Version: 2016/05/16 v1.3)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\accsupp-dvipdfm.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\accsupp-dvipdfm.def)
+/OldSize 1509 
+/NewSize 1509 
+/Line 12 
+/NewLine (%% Version: 2010/01/16 v0.3)
+/OldLine (%% Version: 2016/05/16 v0.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\accsupp-dvips.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\accsupp-dvips.def)
+/OldSize 1500 
+/NewSize 1500 
+/Line 12 
+/NewLine (%% Version: 2010/01/16 v0.3)
+/OldLine (%% Version: 2016/05/16 v0.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\accsupp-pdftex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\accsupp-pdftex.def)
+/OldSize 1524 
+/NewSize 1524 
+/Line 12 
+/NewLine (%% Version: 2010/01/16 v0.3)
+/OldLine (%% Version: 2016/05/16 v0.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\accsupp.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\accsupp.sty)
+/OldSize 7669 
+/NewSize 7669 
+/Line 12 
+/NewLine (%% Version: 2010/01/16 v0.3)
+/OldLine (%% Version: 2016/05/16 v0.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\aliascnt.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\aliascnt.sty)
+/OldSize 2511 
+/NewSize 2511 
+/Line 12 
+/NewLine (%% Version: 2009/09/08 v1.3)
+/OldLine (%% Version: 2016/05/16 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\askinclude.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\askinclude.sty)
+/OldSize 19185 
+/NewSize 19251 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v2.2)
+/OldLine (%% Version: 2016/05/14 v2.3)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\atenddvi.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\atenddvi.sty)
+/OldSize 2877 
+/NewSize 2877 
+/Line 12 
+/NewLine (%% Version: 2007/04/17 v1.1)
+/OldLine (%% Version: 2016/05/16 v1.2)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\atfi-dvipdfmx.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\atfi-dvipdfmx.def)
+/OldSize 5660 
+/NewSize 5660 
+/Line 12 
+/NewLine (%% Version: 2012/04/18 v2.7)
+/OldLine (%% Version: 2016/05/16 v2.8)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\atfi-dvips.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\atfi-dvips.def)
+/OldSize 13950 
+/NewSize 13950 
+/Line 12 
+/NewLine (%% Version: 2012/04/18 v2.7)
+/OldLine (%% Version: 2016/05/16 v2.8)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\atfi-pdftex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\atfi-pdftex.def)
+/OldSize 5251 
+/NewSize 5251 
+/Line 12 
+/NewLine (%% Version: 2012/04/18 v2.7)
+/OldLine (%% Version: 2016/05/16 v2.8)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\attachfile2.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\attachfile2.sty)
+/OldSize 20961 
+/NewSize 20961 
+/Line 12 
+/NewLine (%% Version: 2012/04/18 v2.7)
+/OldLine (%% Version: 2016/05/16 v2.8)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\atveryend.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\atveryend.sty)
+/OldSize 19205 
+/NewSize 19205 
+/Line 12 
+/NewLine (%% Version: 2011/06/30 v1.8)
+/OldLine (%% Version: 2016/05/16 v1.9)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\auxhook.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\auxhook.sty)
+/OldSize 3834 
+/NewSize 3834 
+/Line 12 
+/NewLine (%% Version: 2011/03/04 v1.3)
+/OldLine (%% Version: 2016/05/16 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bkm-dvipdfm.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bkm-dvipdfm.def)
+/OldSize 5246 
+/NewSize 5246 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.24)
+/OldLine (%% Version: 2016/05/17 v1.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bkm-dvips.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bkm-dvips.def)
+/OldSize 9355 
+/NewSize 9355 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.24)
+/OldLine (%% Version: 2016/05/17 v1.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bkm-dvipsone.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bkm-dvipsone.def)
+/OldSize 9370 
+/NewSize 9370 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.24)
+/OldLine (%% Version: 2016/05/17 v1.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bkm-pdftex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bkm-pdftex.def)
+/OldSize 8382 
+/NewSize 8382 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.24)
+/OldLine (%% Version: 2016/05/17 v1.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bkm-textures.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bkm-textures.def)
+/OldSize 9381 
+/NewSize 9381 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.24)
+/OldLine (%% Version: 2016/05/17 v1.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bkm-vtex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bkm-vtex.def)
+/OldSize 7426 
+/NewSize 7426 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.24)
+/OldLine (%% Version: 2016/05/17 v1.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bmpsize-base.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bmpsize-base.sty)
+/OldSize 45464 
+/NewSize 45464 
+/Line 12 
+/NewLine (%% Version: 2009/09/04 v1.6)
+/OldLine (%% Version: 2016/05/16 v1.7)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bmpsize-dvipdfm.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bmpsize-dvipdfm.def)
+/OldSize 4315 
+/NewSize 4315 
+/Line 12 
+/NewLine (%% Version: 2009/09/04 v1.6)
+/OldLine (%% Version: 2016/05/16 v1.7)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bmpsize-dvipdfmx.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bmpsize-dvipdfmx.def)
+/OldSize 4881 
+/NewSize 4881 
+/Line 12 
+/NewLine (%% Version: 2009/09/04 v1.6)
+/OldLine (%% Version: 2016/05/16 v1.7)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bmpsize-dvips.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bmpsize-dvips.def)
+/OldSize 3459 
+/NewSize 3459 
+/Line 12 
+/NewLine (%% Version: 2009/09/04 v1.6)
+/OldLine (%% Version: 2016/05/16 v1.7)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bmpsize-test.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bmpsize-test.tex)
+/OldSize 4134 
+/NewSize 4134 
+/Line 12 
+/NewLine (%% Version: 2009/09/04 v1.6)
+/OldLine (%% Version: 2016/05/16 v1.7)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bmpsize.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bmpsize.sty)
+/OldSize 6090 
+/NewSize 6090 
+/Line 12 
+/NewLine (%% Version: 2009/09/04 v1.6)
+/OldLine (%% Version: 2016/05/16 v1.7)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\bookmark.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\bookmark.sty)
+/OldSize 18783 
+/NewSize 18920 
+/Line 12 
+/NewLine (%% Version: 2011/12/02 v1.24)
+/OldLine (%% Version: 2016/05/17 v1.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\centernot.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\centernot.sty)
+/OldSize 1538 
+/NewSize 1538 
+/Line 12 
+/NewLine (%% Version: 2011/07/11 v1.3)
+/OldLine (%% Version: 2016/05/16 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\chemarr.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\chemarr.sty)
+/OldSize 2079 
+/NewSize 2079 
+/Line 12 
+/NewLine (%% Version: 2006/02/20 v1.2)
+/OldLine (%% Version: 2016/05/16 v1.3)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\classlist.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\classlist.sty)
+/OldSize 3546 
+/NewSize 3546 
+/Line 12 
+/NewLine (%% Version: 2011/10/17 v1.4)
+/OldLine (%% Version: 2016/05/16 v1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\colonequals.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\colonequals.sty)
+/OldSize 2933 
+/NewSize 2933 
+/Line 12 
+/NewLine (%% Version: 2006/08/01 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\dtx-attach.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\dtx-attach.sty)
+/OldSize 1731 
+/NewSize 1731 
+/Line 12 
+/NewLine (%% Version: 2011/04/13 v2.6)
+/OldLine (%% Version: 2016/05/15 v2.7)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\dvipscol.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\dvipscol.sty)
+/OldSize 2068 
+/NewSize 2068 
+/Line 12 
+/NewLine (%% Version: 2008/08/11 v1.2)
+/OldLine (%% Version: 2016/05/16 v1.3)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\enparen.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\enparen.sty)
+/OldSize 7433 
+/NewSize 7433 
+/Line 12 
+/NewLine (%% Version: 2012/01/07 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\epstopdf-base.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\epstopdf-base.sty)
+/OldSize 12029 
+/NewSize 12095 
+/Line 12 
+/NewLine (%% Version: 2010/02/09 v2.5)
+/OldLine (%% Version: 2016/05/15 v2.6)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\epstopdf.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\epstopdf.sty)
+/OldSize 4167 
+/NewSize 4167 
+/Line 12 
+/NewLine (%% Version: 2010/02/09 v2.5)
+/OldLine (%% Version: 2016/05/15 v2.6)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\flags.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\flags.sty)
+/OldSize 4063 
+/NewSize 4063 
+/Line 12 
+/NewLine (%% Version: 2007/09/30 v0.4)
+/OldLine (%% Version: 2016/05/16 v0.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\grfext.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\grfext.sty)
+/OldSize 7075 
+/NewSize 7075 
+/Line 12 
+/NewLine (%% Version: 2010/08/19 v1.1)
+/OldLine (%% Version: 2016/05/16 v1.2)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\grffile.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\grffile.sty)
+/OldSize 13538 
+/NewSize 13538 
+/Line 12 
+/NewLine (%% Version: 2012/04/05 v1.16)
+/OldLine (%% Version: 2016/05/16 v1.17)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\holtxdoc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\holtxdoc.sty)
+/OldSize 6624 
+/NewSize 6623 
+/Line 12 
+/NewLine (%% Version: 2012/03/21 v0.24)
+/OldLine (%% Version: 2016/05/17 v0.27)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\hopatch.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\hopatch.sty)
+/OldSize 4929 
+/NewSize 4929 
+/Line 12 
+/NewLine (%% Version: 2012/05/28 v1.2)
+/OldLine (%% Version: 2016/05/16 v1.3)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\hycolor.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\hycolor.sty)
+/OldSize 15953 
+/NewSize 15953 
+/Line 12 
+/NewLine (%% Version: 2011/01/30 v1.7)
+/OldLine (%% Version: 2016/05/16 v1.8)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\hypbmsec.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\hypbmsec.sty)
+/OldSize 4348 
+/NewSize 4348 
+/Line 12 
+/NewLine (%% Version: 2007/04/11 v2.4)
+/OldLine (%% Version: 2016/05/16 v2.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\hypcap.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\hypcap.sty)
+/OldSize 3720 
+/NewSize 3720 
+/Line 12 
+/NewLine (%% Version: 2011/02/16 v1.11)
+/OldLine (%% Version: 2016/05/16 v1.12)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\hypdestopt.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\hypdestopt.sty)
+/OldSize 8960 
+/NewSize 9044 
+/Line 12 
+/NewLine (%% Version: 2011/05/13 v2.3)
+/OldLine (%% Version: 2016/05/21 v2.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\hypdoc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\hypdoc.sty)
+/OldSize 11700 
+/NewSize 11700 
+/Line 12 
+/NewLine (%% Version: 2011/08/19 v1.11)
+/OldLine (%% Version: 2016/05/16 v1.12)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\hypgotoe.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\hypgotoe.sty)
+/OldSize 4005 
+/NewSize 4005 
+/Line 12 
+/NewLine (%% Version: 2007/10/30 v0.1)
+/OldLine (%% Version: 2016/05/16 v0.2)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\ifdraft.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\ifdraft.sty)
+/OldSize 1820 
+/NewSize 1820 
+/Line 12 
+/NewLine (%% Version: 2008/08/11 v1.3)
+/OldLine (%% Version: 2016/05/16 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\inputenx.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\inputenx.sty)
+/OldSize 6346 
+/NewSize 6346 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\ix-alias.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\ix-alias.def)
+/OldSize 4115 
+/NewSize 4115 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\ix-math.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\ix-math.def)
+/OldSize 4823 
+/NewSize 4823 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\ix-name.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\ix-name.def)
+/OldSize 42280 
+/NewSize 42280 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\ix-slot.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\ix-slot.def)
+/OldSize 88644 
+/NewSize 88644 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\ix-uc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\ix-uc.def)
+/OldSize 29466 
+/NewSize 29466 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\ix-utf8enc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\ix-utf8enc.dfu)
+/OldSize 11887 
+/NewSize 11887 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\kvoptions-patch.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\kvoptions-patch.sty)
+/OldSize 14447 
+/NewSize 14447 
+/Line 12 
+/NewLine (%% Version: 2011/06/30 v3.11)
+/OldLine (%% Version: 2016/05/16 v3.12)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\kvoptions.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\kvoptions.sty)
+/OldSize 22417 
+/NewSize 22417 
+/Line 12 
+/NewLine (%% Version: 2011/06/30 v3.11)
+/OldLine (%% Version: 2016/05/16 v3.12)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\letltxmacro.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\letltxmacro.sty)
+/OldSize 5661 
+/NewSize 5661 
+/Line 12 
+/NewLine (%% Version: 2010/09/02 v1.4)
+/OldLine (%% Version: 2016/05/16 v1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\listingsutf8.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\listingsutf8.sty)
+/OldSize 5016 
+/NewSize 5016 
+/Line 12 
+/NewLine (%% Version: 2011/11/10 v1.2)
+/OldLine (%% Version: 2016/05/16 v1.3)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\luacolor.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\luacolor.sty)
+/OldSize 6346 
+/NewSize 6446 
+/Line 12 
+/NewLine (%% Version: 2011/11/01 v1.8)
+/OldLine (%% Version: 2016/05/16 v1.10)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\makerobust.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\makerobust.sty)
+/OldSize 2160 
+/NewSize 2160 
+/Line 12 
+/NewLine (%% Version: 2006/03/18 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\pagegrid.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\pagegrid.sty)
+/OldSize 11781 
+/NewSize 11781 
+/Line 12 
+/NewLine (%% Version: 2009/12/04 v1.4)
+/OldLine (%% Version: 2016/05/16 v1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\pagesel.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\pagesel.sty)
+/OldSize 5958 
+/NewSize 5958 
+/Line 12 
+/NewLine (%% Version: 2008/08/11 v1.8)
+/OldLine (%% Version: 2016/05/16 v1.9)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\pdfcolfoot.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\pdfcolfoot.sty)
+/OldSize 4522 
+/NewSize 4522 
+/Line 12 
+/NewLine (%% Version: 2012/01/02 v1.2)
+/OldLine (%% Version: 2016/05/16 v1.3)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\pdfcolmk.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\pdfcolmk.sty)
+/OldSize 11548 
+/NewSize 11548 
+/Line 12 
+/NewLine (%% Version: 2008/08/11 v1.2)
+/OldLine (%% Version: 2016/05/16 v1.3)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\pdfcolparallel.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\pdfcolparallel.sty)
+/OldSize 12623 
+/NewSize 12623 
+/Line 12 
+/NewLine (%% Version: 2010/01/11 v1.3)
+/OldLine (%% Version: 2016/05/16 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\pdfcolparcolumns.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\pdfcolparcolumns.sty)
+/OldSize 5357 
+/NewSize 5357 
+/Line 12 
+/NewLine (%% Version: 2010/01/11 v1.3)
+/OldLine (%% Version: 2016/05/16 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\pdflscape.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\pdflscape.sty)
+/OldSize 6534 
+/NewSize 6688 
+/Line 12 
+/NewLine (%% Version: 2008/08/11 v0.10)
+/OldLine (%% Version: 2016/05/14 v0.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\picture.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\picture.sty)
+/OldSize 5769 
+/NewSize 5769 
+/Line 12 
+/NewLine (%% Version: 2009/10/11 v1.3)
+/OldLine (%% Version: 2016/05/16 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\pmboxdraw.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\pmboxdraw.sty)
+/OldSize 85593 
+/NewSize 85593 
+/Line 12 
+/NewLine (%% Version: 2011/03/24 v1.1)
+/OldLine (%% Version: 2016/05/16 v1.2)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\pmboxdrawenc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\pmboxdrawenc.dfu)
+/OldSize 7851 
+/NewSize 7851 
+/Line 12 
+/NewLine (%% Version: 2011/03/24 v1.1)
+/OldLine (%% Version: 2016/05/16 v1.2)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\refcount.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\refcount.sty)
+/OldSize 9750 
+/NewSize 9750 
+/Line 12 
+/NewLine (%% Version: 2011/10/16 v3.4)
+/OldLine (%% Version: 2016/05/16 v3.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\rerunfilecheck.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\rerunfilecheck.sty)
+/OldSize 9581 
+/NewSize 9581 
+/Line 12 
+/NewLine (%% Version: 2011/04/15 v1.7)
+/OldLine (%% Version: 2016/05/16 v1.8)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\resizegather.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\resizegather.sty)
+/OldSize 8778 
+/NewSize 8778 
+/Line 12 
+/NewLine (%% Version: 2010/03/01 v1.2)
+/OldLine (%% Version: 2016/05/16 v1.3)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\scrindex.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\scrindex.sty)
+/OldSize 4951 
+/NewSize 4951 
+/Line 12 
+/NewLine (%% Version: 2008/08/11 v1.1)
+/OldLine (%% Version: 2016/05/16 v1.2)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\selinput.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\selinput.sty)
+/OldSize 7026 
+/NewSize 7026 
+/Line 12 
+/NewLine (%% Version: 2007/09/09 v1.2)
+/OldLine (%% Version: 2016/05/17 v1.4)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\settobox.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\settobox.sty)
+/OldSize 2595 
+/NewSize 2595 
+/Line 12 
+/NewLine (%% Version: 2008/08/11 v1.4)
+/OldLine (%% Version: 2016/05/16 v1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\stackrel.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\stackrel.sty)
+/OldSize 2320 
+/NewSize 2320 
+/Line 12 
+/NewLine (%% Version: 2007/11/11 v1.2)
+/OldLine (%% Version: 2016/05/16 v1.3)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\stampinclude.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\stampinclude.sty)
+/OldSize 3256 
+/NewSize 3256 
+/Line 12 
+/NewLine (%% Version: 2008/07/14 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\tabularht.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\tabularht.sty)
+/OldSize 13817 
+/NewSize 13817 
+/Line 12 
+/NewLine (%% Version: 2007/04/11 v2.5)
+/OldLine (%% Version: 2016/05/16 v2.6)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\tabularkv.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\tabularkv.sty)
+/OldSize 1955 
+/NewSize 1955 
+/Line 12 
+/NewLine (%% Version: 2006/02/20 v1.1)
+/OldLine (%% Version: 2016/05/16 v1.2)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\transparent.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\transparent.sty)
+/OldSize 3565 
+/NewSize 3565 
+/Line 12 
+/NewLine (%% Version: 2007/01/08 v1.0)
+/OldLine (%% Version: 2016/05/16 v1.1)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\twoopt.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\twoopt.sty)
+/OldSize 2846 
+/NewSize 2846 
+/Line 12 
+/NewLine (%% Version: 2008/08/11 v1.5)
+/OldLine (%% Version: 2016/05/16 v1.6)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-ascii.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-ascii.def)
+/OldSize 1967 
+/NewSize 1967 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-atarist.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-atarist.def)
+/OldSize 9161 
+/NewSize 9161 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp1250.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp1250.def)
+/OldSize 7132 
+/NewSize 7132 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp1251.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp1251.def)
+/OldSize 6971 
+/NewSize 6971 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp1252.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp1252.def)
+/OldSize 7781 
+/NewSize 7781 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp1255.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp1255.def)
+/OldSize 6253 
+/NewSize 6253 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp1257.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp1257.def)
+/OldSize 7445 
+/NewSize 7445 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp437.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp437.def)
+/OldSize 8944 
+/NewSize 8944 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp850.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp850.def)
+/OldSize 8255 
+/NewSize 8255 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp852.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp852.def)
+/OldSize 7067 
+/NewSize 7067 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp855.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp855.def)
+/OldSize 6642 
+/NewSize 6642 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp858.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp858.def)
+/OldSize 8338 
+/NewSize 8338 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp865.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp865.def)
+/OldSize 8863 
+/NewSize 8863 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-cp866.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-cp866.def)
+/OldSize 6806 
+/NewSize 6806 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-dec-mcs.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-dec-mcs.def)
+/OldSize 5570 
+/NewSize 5570 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-1.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-1.def)
+/OldSize 6694 
+/NewSize 6694 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-10.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-10.def)
+/OldSize 5520 
+/NewSize 5520 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-13.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-13.def)
+/OldSize 6396 
+/NewSize 6396 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-14.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-14.def)
+/OldSize 5174 
+/NewSize 5174 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-15.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-15.def)
+/OldSize 6186 
+/NewSize 6186 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-16.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-16.def)
+/OldSize 5786 
+/NewSize 5786 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-2.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-2.def)
+/OldSize 5781 
+/NewSize 5781 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-3.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-3.def)
+/OldSize 5899 
+/NewSize 5899 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-4.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-4.def)
+/OldSize 5907 
+/NewSize 5907 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-5.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-5.def)
+/OldSize 5329 
+/NewSize 5329 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-8.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-8.def)
+/OldSize 5734 
+/NewSize 5734 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-9.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-iso-8859-9.def)
+/OldSize 6671 
+/NewSize 6671 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-koi8-r.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-koi8-r.def)
+/OldSize 6817 
+/NewSize 6817 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-mac-centeuro.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-mac-centeuro.def)
+/OldSize 7335 
+/NewSize 7335 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-mac-cyrillic.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-mac-cyrillic.def)
+/OldSize 7455 
+/NewSize 7455 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-mac-roman.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-mac-roman.def)
+/OldSize 8555 
+/NewSize 8555 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-nextstep.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-nextstep.def)
+/OldSize 8045 
+/NewSize 8045 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\x-verbatim.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\x-verbatim.def)
+/OldSize 2327 
+/NewSize 2327 
+/Line 12 
+/NewLine (%% Version: 2011/05/27 v1.10)
+/OldLine (%% Version: 2016/05/16 v1.11)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\xcolor-patch.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\xcolor-patch.sty)
+/OldSize 4914 
+/NewSize 4914 
+/Line 12 
+/NewLine (%% Version: 2011/01/30 v1.7)
+/OldLine (%% Version: 2016/05/16 v1.8)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-abspage.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-abspage.sty)
+/OldSize 2153 
+/NewSize 2153 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-abspos.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-abspos.sty)
+/OldSize 9583 
+/NewSize 9583 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-base.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-base.sty)
+/OldSize 20510 
+/NewSize 20510 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-counter.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-counter.sty)
+/OldSize 2110 
+/NewSize 2110 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-dotfill.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-dotfill.sty)
+/OldSize 3040 
+/NewSize 3040 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-env.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-env.sty)
+/OldSize 2138 
+/NewSize 2138 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-hyperref.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-hyperref.sty)
+/OldSize 1944 
+/NewSize 1944 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-lastpage.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-lastpage.sty)
+/OldSize 2720 
+/NewSize 2720 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-marks.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-marks.sty)
+/OldSize 4351 
+/NewSize 4351 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-nextpage.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-nextpage.sty)
+/OldSize 4126 
+/NewSize 4126 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-pageattr.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-pageattr.sty)
+/OldSize 5717 
+/NewSize 5717 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-pagelayout.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-pagelayout.sty)
+/OldSize 6895 
+/NewSize 6895 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-perpage.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-perpage.sty)
+/OldSize 4037 
+/NewSize 4037 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-runs.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-runs.sty)
+/OldSize 2067 
+/NewSize 2067 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-savepos.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-savepos.sty)
+/OldSize 3280 
+/NewSize 3421 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-thepage.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-thepage.sty)
+/OldSize 2648 
+/NewSize 2648 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-titleref.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-titleref.sty)
+/OldSize 7882 
+/NewSize 7882 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-totpages.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-totpages.sty)
+/OldSize 2095 
+/NewSize 2095 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-user.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-user.sty)
+/OldSize 2472 
+/NewSize 2472 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref-xr.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref-xr.sty)
+/OldSize 12431 
+/NewSize 12431 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\oberdiek\\zref.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\oberdiek\\zref.sty)
+/OldSize 2332 
+/NewSize 2332 
+/Line 12 
+/NewLine (%% Version: 2012/04/04 v2.24)
+/OldLine (%% Version: 2016/05/21 v2.26)
+>>
+<<
+/Type /Status 
+/Name (oberdiek)
+/Status /Updated 
+/Differences 230 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\oberdiek.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\oberdiek.bkz)
+/Name (oberdiek)
+/Size 218072 
+/CRC 959902055 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\oberdiek.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\oberdiek.doc.bkz)
+/Name (oberdiek)
+/Size 14460432 
+/CRC -1522081606 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\oberdiek.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\oberdiek.source.bkz)
+/Name (oberdiek)
+/Size 496763 
+/CRC 1267430753 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

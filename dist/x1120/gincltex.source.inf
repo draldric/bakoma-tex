@@ -1,0 +1,14 @@
+:gincltex.source:x1120:0.015234:116110580:4886:9050-8E22:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+gincltex
+
+./source/latex/gincltex:
+gincltex.dtx
+gincltex.ins

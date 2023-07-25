@@ -1,0 +1,36 @@
+% Unpacking components of module [trimspaces] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\trimspaces.tds.zip)
+/Name (trimspaces)
+/Size 154480 
+/CRC 410791473 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\trimspaces.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\trimspaces.bkz)
+/Name (trimspaces)
+/Size 479 
+/CRC 777244067 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\trimspaces.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\trimspaces\\trimspaces.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\trimspaces\\trimspaces.sty)
+/OldSize 1380 
+/NewSize 1380 
+>>
+<<
+/Type /Status 
+/Name (trimspaces)
+/Status /Same 
+>> % distribution already includes this version

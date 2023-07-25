@@ -1,0 +1,48 @@
+% Unpacking components of module [imakeidx] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\imakeidx.tds.zip)
+/Name (imakeidx)
+/Size 542116 
+/CRC 177197640 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (imakeidx)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\imakeidx.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\imakeidx.bkz)
+/Name (imakeidx)
+/Size 3562 
+/CRC 1951913041 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\imakeidx.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\imakeidx.doc.bkz)
+/Name (imakeidx)
+/Size 519658 
+/CRC 1562126718 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\imakeidx.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\imakeidx.source.bkz)
+/Name (imakeidx)
+/Size 19904 
+/CRC 1042371947 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

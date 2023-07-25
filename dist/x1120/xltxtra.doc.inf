@@ -1,0 +1,14 @@
+:xltxtra.doc:x1120:0.135218:116110580:132179:48-3E5A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xltxtra
+
+./doc/latex/xltxtra:
+README
+xltxtra.pdf

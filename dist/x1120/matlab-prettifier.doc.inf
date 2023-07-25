@@ -1,0 +1,14 @@
+:matlab-prettifier.doc:x1120:0.666061:116110580:666682:884E-8C1F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+matlab-prettifier
+
+./doc/latex/matlab-prettifier:
+matlab-prettifier.pdf
+README

@@ -1,0 +1,72 @@
+% Unpacking components of module [docmfp] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\docmfp.tds.zip)
+/Name (docmfp)
+/Size 161853 
+/CRC -1855207005 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\docmfp.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\docmfp.bkz)
+/Name (docmfp)
+/Size 1594 
+/CRC -1072329515 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\docmfp.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\docmfp\\docmfp.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\docmfp\\docmfp.sty)
+/OldSize 5115 
+/NewSize 5052 
+/Line 10 
+/NewLine (%%   Author: Peter Wilson \(Herries Press\) herries dot press at earthlink dot net)
+/OldLine (%%   Author: Peter Wilson \(Herries Press\))
+>>
+<<
+/Type /Status 
+/Name (docmfp)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\docmfp.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\docmfp.bkz)
+/Name (docmfp)
+/Size 1575 
+/CRC -1657920030 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\docmfp.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\docmfp.doc.bkz)
+/Name (docmfp)
+/Size 147897 
+/CRC -1189707056 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\docmfp.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\docmfp.source.bkz)
+/Name (docmfp)
+/Size 7663 
+/CRC -1354962968 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

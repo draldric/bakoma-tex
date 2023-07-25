@@ -1,0 +1,17 @@
+:xsavebox.source:x1120:0.010385:116110580:4562:A946-1A7D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xsavebox
+
+./source/latex/xsavebox:
+files
+xsavebox.tex
+
+./source/latex/xsavebox/files:
+mailto.png

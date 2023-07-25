@@ -1,0 +1,14 @@
+:ifoddpage.doc:x1120:0.1351:116110580:134642:558E-1296:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ifoddpage
+
+./doc/latex/ifoddpage:
+ifoddpage.pdf
+README

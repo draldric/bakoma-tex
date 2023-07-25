@@ -1,0 +1,14 @@
+:download.doc:x1120:0.146304:116110580:144579:F6F0-1C96:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+download
+
+./doc/latex/download:
+download.pdf
+README

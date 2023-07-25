@@ -1,0 +1,14 @@
+:gitinfo2:x1120:0.012942:116110580:3016:368-8EBB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gitinfo2
+
+./tex/latex/gitinfo2:
+gitexinfo.sty
+gitinfo2.sty

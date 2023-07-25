@@ -1,0 +1,44 @@
+% Unpacking components of module [booklet] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\booklet.tds.zip)
+/Name (booklet)
+/Size 241226 
+/CRC -516465613 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\booklet.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\booklet.bkz)
+/Name (booklet)
+/Size 2671 
+/CRC 1834427986 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\booklet.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\booklet\\bkltprnt.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\booklet\\bkltprnt.sty)
+/OldSize 7925 
+/NewSize 7925 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\booklet\\booklet.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\booklet\\booklet.sty)
+/OldSize 2213 
+/NewSize 2213 
+>>
+<<
+/Type /Status 
+/Name (booklet)
+/Status /Same 
+>> % distribution already includes this version

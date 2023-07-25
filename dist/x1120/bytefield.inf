@@ -1,0 +1,13 @@
+:bytefield:x1120:0.017894:116110580:4069:B767-CBFD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bytefield
+
+./tex/latex/bytefield:
+bytefield.sty

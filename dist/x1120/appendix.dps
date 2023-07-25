@@ -1,0 +1,36 @@
+% Unpacking components of module [appendix] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\appendix.tds.zip)
+/Name (appendix)
+/Size 175772 
+/CRC 1174858683 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\appendix.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\appendix.bkz)
+/Name (appendix)
+/Size 2179 
+/CRC 1199686841 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\appendix.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\appendix\\appendix.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\appendix\\appendix.sty)
+/OldSize 8526 
+/NewSize 8526 
+>>
+<<
+/Type /Status 
+/Name (appendix)
+/Status /Same 
+>> % distribution already includes this version

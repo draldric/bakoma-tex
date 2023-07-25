@@ -1,0 +1,14 @@
+:impnattypo.source:x1120:0.038375:116110580:8974:799D-4FC5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+impnattypo
+
+./source/latex/impnattypo:
+impnattypo.dtx
+impnattypo.ins

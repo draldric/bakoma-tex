@@ -1,0 +1,48 @@
+% Unpacking components of module [inputtrc] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\inputtrc.tds.zip)
+/Name (inputtrc)
+/Size 351218 
+/CRC -1704500895 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (inputtrc)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\inputtrc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\inputtrc.bkz)
+/Name (inputtrc)
+/Size 2271 
+/CRC 237077045 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\inputtrc.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\inputtrc.doc.bkz)
+/Name (inputtrc)
+/Size 335505 
+/CRC 633372934 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\inputtrc.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\inputtrc.source.bkz)
+/Name (inputtrc)
+/Size 6862 
+/CRC 938319981 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

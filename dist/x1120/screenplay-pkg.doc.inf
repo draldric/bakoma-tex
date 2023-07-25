@@ -1,0 +1,17 @@
+:screenplay-pkg.doc:x1120:0.191764:116110580:185032:AC3F-BEE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+screenplay-pkg
+
+./doc/latex/screenplay-pkg:
+README
+screenplay-pkg-example.pdf
+screenplay-pkg-example.tex
+screenplay-pkg.pdf
+screenplay-pkg.tex

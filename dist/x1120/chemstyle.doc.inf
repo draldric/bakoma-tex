@@ -1,0 +1,16 @@
+:chemstyle.doc:x1120:0.282804:116110580:271720:3E72-5BAE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+chemstyle
+
+./doc/latex/chemstyle:
+chemscheme.cdx
+chemstyle-demo.tex
+chemstyle.pdf
+README

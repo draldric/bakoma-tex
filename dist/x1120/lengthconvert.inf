@@ -1,0 +1,13 @@
+:lengthconvert:x1120:0.005454:116110580:1640:9275-12FB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lengthconvert
+
+./tex/latex/lengthconvert:
+lengthconvert.sty

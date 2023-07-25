@@ -1,0 +1,14 @@
+:eqparbox.source:x1120:0.062662:116110580:15878:907D-75EC:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+eqparbox
+
+./source/latex/eqparbox:
+eqparbox.dtx
+eqparbox.ins

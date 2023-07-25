@@ -1,0 +1,14 @@
+:cleveref.source:x1132:0.57344:117050464:74856:E09B-9D06:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cleveref
+
+./source/latex/cleveref:
+cleveref.dtx
+cleveref.ins

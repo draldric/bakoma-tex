@@ -1,0 +1,48 @@
+% Unpacking components of module [mathtools] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\mathtools.tds.zip)
+/Name (mathtools)
+/Size 1092307 
+/CRC 1109006773 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (mathtools)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\mathtools.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mathtools.bkz)
+/Name (mathtools)
+/Size 17868 
+/CRC 1664464416 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mathtools.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mathtools.doc.bkz)
+/Name (mathtools)
+/Size 963156 
+/CRC -66194215 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mathtools.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mathtools.source.bkz)
+/Name (mathtools)
+/Size 78308 
+/CRC 1920100408 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

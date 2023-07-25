@@ -1,0 +1,14 @@
+:monofill:x1120:0.009365:116110580:3659:7B6E-1730:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+monofill
+
+./tex/latex/monofill:
+monofill.RLS
+monofill.sty

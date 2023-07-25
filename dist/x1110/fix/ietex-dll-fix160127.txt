@@ -1,0 +1,18 @@
+This fix (2016/01/27) is based on code base of V 11.10,
+which fix problem of crashing TeXWord when open docs
+with very long file names (more then 57 letters).
+
+Tech: is overflow of 64 byte buffer in savestate-rle algorithm.
+
+This pack includes BIN\Win32\ietex.dll and BIN\Win64\ietex.dll
+
+It should work with version 11.10
+
+To apply the fix just unpack 
+http://www.bakoma-tex.com/dist/x1110/fix/ietex-dll-fix160127.zip 
+in BaKoMa TeX folder. 
+
+Check that the files 
+C:\BaKoMa TeX\BIN\Win32\ietex.dll and C:\BaKoMa TeX\BIN\Win64\ietex.dll
+have been replaced. 
+

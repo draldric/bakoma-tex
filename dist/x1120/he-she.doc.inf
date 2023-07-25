@@ -1,0 +1,15 @@
+:he-she.doc:x1120:0.222571:116110580:213133:A23C-241:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+he-she
+
+./doc/latex/he-she:
+he-she.pdf
+he-she.tex
+README

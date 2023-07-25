@@ -1,0 +1,48 @@
+% Unpacking components of module [hardwrap] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\hardwrap.tds.zip)
+/Name (hardwrap)
+/Size 134911 
+/CRC -1371485549 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (hardwrap)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\hardwrap.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hardwrap.bkz)
+/Name (hardwrap)
+/Size 2198 
+/CRC -1511574786 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\hardwrap.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hardwrap.doc.bkz)
+/Name (hardwrap)
+/Size 119777 
+/CRC -1220987737 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\hardwrap.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hardwrap.source.bkz)
+/Name (hardwrap)
+/Size 10843 
+/CRC 1995749063 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

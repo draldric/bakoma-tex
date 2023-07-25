@@ -1,0 +1,72 @@
+% Unpacking components of module [frontespizio] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\frontespizio.tds.zip)
+/Name (frontespizio)
+/Size 1010253 
+/CRC 515829764 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\frontespizio.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\frontespizio.bkz)
+/Name (frontespizio)
+/Size 3883 
+/CRC 1900252547 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\frontespizio.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\frontespizio\\frontespizio.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\frontespizio\\frontespizio.sty)
+/OldSize 14679 
+/NewSize 20168 
+/Line 9 
+/NewLine (%%  Copyright 2008 Enrico Gregorio)
+/OldLine (%%  Copyright 2008-2011 Enrico Gregorio)
+>>
+<<
+/Type /Status 
+/Name (frontespizio)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\frontespizio.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\frontespizio.bkz)
+/Name (frontespizio)
+/Size 4905 
+/CRC -274820733 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\frontespizio.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\frontespizio.doc.bkz)
+/Name (frontespizio)
+/Size 887907 
+/CRC 293228019 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\frontespizio.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\frontespizio.source.bkz)
+/Name (frontespizio)
+/Size 22333 
+/CRC -456988443 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,15 @@
+:nonumonpart.source:x1120:0.020892:116110580:6423:89A8-AA8D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+nonumonpart
+
+./source/latex/nonumonpart:
+Makefile
+nonumonpart.dtx
+nonumonpart.ins

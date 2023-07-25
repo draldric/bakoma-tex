@@ -1,0 +1,14 @@
+:scrjrnl.source:x1120:0.016238:116110580:4659:82AE-F100:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+scrjrnl
+
+./source/latex/scrjrnl:
+scrjrnl.dtx
+scrjrnl.ins

@@ -1,0 +1,44 @@
+% Unpacking components of module [subfiles] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\subfiles.tds.zip)
+/Name (subfiles)
+/Size 61368 
+/CRC -920350571 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1050\subfiles.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1050\\subfiles.bkz)
+/Name (subfiles)
+/Size 924 
+/CRC -1853695828 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1050\subfiles.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\subfiles\\subfiles.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\subfiles\\subfiles.cls)
+/OldSize 1718 
+/NewSize 1668 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\subfiles\\subfiles.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\subfiles\\subfiles.sty)
+/OldSize 1359 
+/NewSize 1319 
+>>
+<<
+/Type /Status 
+/Name (subfiles)
+/Status /Same 
+>> % distribution already includes this version

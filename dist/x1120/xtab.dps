@@ -1,0 +1,72 @@
+% Unpacking components of module [xtab] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\xtab.tds.zip)
+/Name (xtab)
+/Size 387124 
+/CRC -1117162265 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\xtab.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\xtab.bkz)
+/Name (xtab)
+/Size 4297 
+/CRC 451936469 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\xtab.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\xtab\\xtab.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\xtab\\xtab.sty)
+/OldSize 20073 
+/NewSize 20106 
+/Line 10 
+/NewLine (%%   Author: Peter Wilson \(herries dot press \(at\) earthlink dot net\))
+/OldLine (%%   Author: Peter Wilson)
+>>
+<<
+/Type /Status 
+/Name (xtab)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\xtab.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xtab.bkz)
+/Name (xtab)
+/Size 4273 
+/CRC -863014580 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xtab.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xtab.doc.bkz)
+/Name (xtab)
+/Size 362857 
+/CRC -423252221 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xtab.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xtab.source.bkz)
+/Name (xtab)
+/Size 19281 
+/CRC 1092904486 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

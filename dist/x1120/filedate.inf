@@ -1,0 +1,14 @@
+:filedate:x1120:0.019711:116110580:6394:3B69-9C22:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+filedate
+
+./tex/latex/filedate:
+filedate.RLS
+filedate.sty

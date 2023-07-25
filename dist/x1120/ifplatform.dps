@@ -1,0 +1,72 @@
+% Unpacking components of module [ifplatform] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ifplatform.tds.zip)
+/Name (ifplatform)
+/Size 159429 
+/CRC 2033833606 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\ifplatform.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\ifplatform.bkz)
+/Name (ifplatform)
+/Size 1326 
+/CRC -508271312 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\ifplatform.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\ifplatform\\ifplatform.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\ifplatform\\ifplatform.sty)
+/OldSize 3600 
+/NewSize 3847 
+/Line 8 
+/NewLine (%%   _________________________________________________________)
+/OldLine (%%   ________________________________________________________)
+>>
+<<
+/Type /Status 
+/Name (ifplatform)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ifplatform.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifplatform.bkz)
+/Name (ifplatform)
+/Size 1418 
+/CRC -1237819639 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ifplatform.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifplatform.doc.bkz)
+/Name (ifplatform)
+/Size 151259 
+/CRC -1565862456 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ifplatform.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifplatform.source.bkz)
+/Name (ifplatform)
+/Size 5447 
+/CRC 471672885 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,13 @@
+:ksp-thesis:x1120:0.015784:116110580:3794:4056-4398:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ksp-thesis
+
+./tex/latex/ksp-thesis:
+ksp-thesis.cls

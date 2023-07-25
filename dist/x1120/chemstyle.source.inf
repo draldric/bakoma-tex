@@ -1,0 +1,14 @@
+:chemstyle.source:x1120:0.097998:116110580:24754:5DCB-BE08:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+chemstyle
+
+./source/latex/chemstyle:
+chemstyle.dtx
+chemstyle.ins

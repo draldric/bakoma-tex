@@ -1,0 +1,15 @@
+:paresse:x1120:0.011658:116110580:2976:B18D-645E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+paresse
+
+./tex/latex/paresse:
+paresse.sty
+paresseold.sto
+paresseutf8.sto

@@ -1,0 +1,13 @@
+:nonumonpart:x1120:0.001395:116110580:729:4398-5B0D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nonumonpart
+
+./tex/latex/nonumonpart:
+nonumonpart.sty

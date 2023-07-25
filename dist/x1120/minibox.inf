@@ -1,0 +1,13 @@
+:minibox:x1120:0.001641:116110580:577:83E3-B19B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+minibox
+
+./tex/latex/minibox:
+minibox.sty

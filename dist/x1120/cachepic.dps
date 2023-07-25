@@ -1,0 +1,38 @@
+% Unpacking components of module [cachepic] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\cachepic.tds.zip)
+/Name (cachepic)
+/Size 166291 
+/CRC -942474238 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (cachepic)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\cachepic.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\cachepic.bkz)
+/Name (cachepic)
+/Size 3915 
+/CRC -1003690903 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\cachepic.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\cachepic.doc.bkz)
+/Name (cachepic)
+/Size 159993 
+/CRC -1787891816 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

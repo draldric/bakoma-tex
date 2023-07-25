@@ -1,0 +1,48 @@
+% Unpacking components of module [udesoftec] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\udesoftec.tds.zip)
+/Name (udesoftec)
+/Size 661290 
+/CRC -543739407 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (udesoftec)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\udesoftec.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\udesoftec.bkz)
+/Name (udesoftec)
+/Size 107540 
+/CRC 677115362 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\udesoftec.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\udesoftec.doc.bkz)
+/Name (udesoftec)
+/Size 482363 
+/CRC -1623633714 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\udesoftec.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\udesoftec.source.bkz)
+/Name (udesoftec)
+/Size 44791 
+/CRC -1783455809 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

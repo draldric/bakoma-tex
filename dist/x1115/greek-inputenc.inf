@@ -1,0 +1,15 @@
+:greek-inputenc:x1115:0.043621:116022920:5875:DD10-82F0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+greek-inputenc
+
+./tex/latex/greek-inputenc:
+iso-8859-7.def
+lgrenc.dfu
+macgreek.def

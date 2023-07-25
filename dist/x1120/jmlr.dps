@@ -1,0 +1,48 @@
+% Unpacking components of module [jmlr] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\jmlr.tds.zip)
+/Name (jmlr)
+/Size 1987486 
+/CRC 723718292 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (jmlr)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\jmlr.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\jmlr.bkz)
+/Name (jmlr)
+/Size 22818 
+/CRC -1645543285 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\jmlr.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\jmlr.doc.bkz)
+/Name (jmlr)
+/Size 1643392 
+/CRC -2015564147 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\jmlr.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\jmlr.source.bkz)
+/Name (jmlr)
+/Size 39071 
+/CRC 2106796987 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,13 @@
+:tablefootnote:x1120:0.016837:116110580:3648:90E3-4DAC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tablefootnote
+
+./tex/latex/tablefootnote:
+tablefootnote.sty

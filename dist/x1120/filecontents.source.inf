@@ -1,0 +1,14 @@
+:filecontents.source:x1120:0.016559:116110580:5405:D20-C9F8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+filecontents
+
+./source/latex/filecontents:
+filecontents.dtx
+filecontents.ins

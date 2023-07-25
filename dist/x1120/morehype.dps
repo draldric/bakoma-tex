@@ -1,0 +1,48 @@
+% Unpacking components of module [morehype] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\morehype.tds.zip)
+/Name (morehype)
+/Size 2594087 
+/CRC -1867696397 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (morehype)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\morehype.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\morehype.bkz)
+/Name (morehype)
+/Size 61796 
+/CRC -1056586925 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\morehype.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\morehype.doc.bkz)
+/Name (morehype)
+/Size 2320922 
+/CRC -516441860 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\morehype.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\morehype.source.bkz)
+/Name (morehype)
+/Size 13970 
+/CRC 2141433927 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

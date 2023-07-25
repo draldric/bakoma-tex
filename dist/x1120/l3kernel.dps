@@ -1,0 +1,389 @@
+% Unpacking components of module [l3kernel] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\l3kernel.tds.zip)
+/Name (l3kernel)
+/Size 7772714 
+/CRC 1634415344 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1040\l3kernel.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1040\\l3kernel.bkz)
+/Name (l3kernel)
+/Size 83540 
+/CRC 1104625050 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1040\l3kernel.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\expl3-code.tex)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\expl3-generic.tex)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\expl3.lua)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\expl3.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\expl3.sty)
+/OldSize 13702 
+/NewSize 10238 
+/Line 7 
+/NewLine (%% expl3.dtx  \(with options: `package'\))
+/OldLine (%% expl3.dtx  \(with options: `package,loader'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3basics.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3basics.sty)
+/OldSize 31882 
+/NewSize 2648 
+/Line 7 
+/NewLine (%% l3basics.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3basics,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3bootstrap.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3bootstrap.sty)
+/OldSize 7659 
+/NewSize 2660 
+/Line 7 
+/NewLine (%% l3bootstrap.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3bootstrap,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3box.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3box.sty)
+/OldSize 11043 
+/NewSize 2636 
+/Line 7 
+/NewLine (%% l3box.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3box,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3candidates.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3candidates.sty)
+/OldSize 36583 
+/NewSize 2664 
+/Line 7 
+/NewLine (%% l3candidates.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3candidates,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3clist.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3clist.sty)
+/OldSize 16259 
+/NewSize 2644 
+/Line 7 
+/NewLine (%% l3clist.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3clist,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3coffins.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3coffins.sty)
+/OldSize 31250 
+/NewSize 2652 
+/Line 7 
+/NewLine (%% l3coffins.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3coffins,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3color.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3color.sty)
+/OldSize 2332 
+/NewSize 2644 
+/Line 7 
+/NewLine (%% l3color.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3color,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3doc.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3doc.cls)
+/OldSize 43923 
+/NewSize 69734 
+/Line 7 
+/NewLine (%% l3doc.dtx  \(with options: `class,cfg'\))
+/OldLine (%% l3doc.dtx  \(with options: `class'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3docstrip.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3docstrip.tex)
+/OldSize 2954 
+/NewSize 3173 
+/Line 104 
+/NewLine (%% )
+/OldLine (\\def\\doOption#1>#2\\endLine{%)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3dvipdfmx.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3dvipdfmx.def)
+/OldSize 4281 
+/NewSize 10445 
+/Line 16 
+/NewLine (%% File: l3drivers.dtx Copyright\(C\) 2011-2014 The LaTeX3 Project)
+/OldLine (%% File: l3drivers.dtx Copyright\(C\) 2011-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3dvips.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3dvips.def)
+/OldSize 4236 
+/NewSize 12738 
+/Line 16 
+/NewLine (%% File: l3drivers.dtx Copyright\(C\) 2011-2014 The LaTeX3 Project)
+/OldLine (%% File: l3drivers.dtx Copyright\(C\) 2011-2016 The LaTeX3 Project)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3dvisvgm.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3expan.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3expan.sty)
+/OldSize 16350 
+/NewSize 2644 
+/Line 7 
+/NewLine (%% l3expan.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3expan,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3file.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3file.sty)
+/OldSize 18829 
+/NewSize 2640 
+/Line 7 
+/NewLine (%% l3file.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3file,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3fp.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3fp.sty)
+/OldSize 189171 
+/NewSize 2632 
+/Line 7 
+/NewLine (%% l3fp.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3fp,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3int.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3int.sty)
+/OldSize 22825 
+/NewSize 2636 
+/Line 7 
+/NewLine (%% l3int.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3int,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3keys.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3keys.sty)
+/OldSize 30214 
+/NewSize 2640 
+/Line 7 
+/NewLine (%% l3keys.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3keys,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3msg.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3msg.sty)
+/OldSize 26420 
+/NewSize 2636 
+/Line 7 
+/NewLine (%% l3msg.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3msg,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3names.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3names.sty)
+/OldSize 30606 
+/NewSize 2644 
+/Line 7 
+/NewLine (%% l3names.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3names,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3pdfmode.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3pdfmode.def)
+/OldSize 5089 
+/NewSize 11199 
+/Line 16 
+/NewLine (%% File: l3drivers.dtx Copyright\(C\) 2011-2014 The LaTeX3 Project)
+/OldLine (%% File: l3drivers.dtx Copyright\(C\) 2011-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3prg.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3prg.sty)
+/OldSize 11855 
+/NewSize 2636 
+/Line 7 
+/NewLine (%% l3prg.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3prg,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3prop.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3prop.sty)
+/OldSize 10636 
+/NewSize 2640 
+/Line 7 
+/NewLine (%% l3prop.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3prop,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3quark.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3quark.sty)
+/OldSize 5290 
+/NewSize 2644 
+/Line 7 
+/NewLine (%% l3quark.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3quark,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3seq.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3seq.sty)
+/OldSize 17921 
+/NewSize 2636 
+/Line 7 
+/NewLine (%% l3seq.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3seq,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3skip.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3skip.sty)
+/OldSize 15513 
+/NewSize 2640 
+/Line 7 
+/NewLine (%% l3skip.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3skip,oldmodules'\))
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3str.sty)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3tl.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3tl.sty)
+/OldSize 25912 
+/NewSize 2632 
+/Line 7 
+/NewLine (%% l3tl.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3tl,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3token.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3token.sty)
+/OldSize 24973 
+/NewSize 2644 
+/Line 7 
+/NewLine (%% l3token.dtx  \(with options: `package'\))
+/OldLine (%% l3oldmodules.dtx  \(with options: `l3token,oldmodules'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3kernel\\l3xdvipdfmx.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3kernel\\l3xdvipdfmx.def)
+/OldSize 4286 
+/NewSize 10842 
+/Line 16 
+/NewLine (%% File: l3drivers.dtx Copyright\(C\) 2011-2014 The LaTeX3 Project)
+/OldLine (%% File: l3drivers.dtx Copyright\(C\) 2011-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Status 
+/Name (l3kernel)
+/Status /Updated 
+/Differences 33 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\l3kernel.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\l3kernel.bkz)
+/Name (l3kernel)
+/Size 100200 
+/CRC -423985376 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\l3kernel.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\l3kernel.doc.bkz)
+/Name (l3kernel)
+/Size 6374142 
+/CRC 205271418 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\l3kernel.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\l3kernel.source.bkz)
+/Name (l3kernel)
+/Size 388640 
+/CRC 2045299547 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

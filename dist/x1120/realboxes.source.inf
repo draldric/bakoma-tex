@@ -1,0 +1,14 @@
+:realboxes.source:x1120:0.029754:116110580:7144:8375-CFCA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+realboxes
+
+./source/latex/realboxes:
+realboxes.dtx
+realboxes.ins

@@ -1,0 +1,16 @@
+:doipubmed.doc:x1120:0.089447:116110580:73058:925A-1B25:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+doipubmed
+
+./doc/latex/doipubmed:
+CHANGES
+doipubmed-manual.html
+doipubmed.pdf
+README

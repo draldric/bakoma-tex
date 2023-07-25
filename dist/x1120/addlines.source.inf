@@ -1,0 +1,14 @@
+:addlines.source:x1120:0.011835:116110580:4076:1A39-37CA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+addlines
+
+./source/latex/addlines:
+addlines.dtx
+addlines.ins

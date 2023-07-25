@@ -1,0 +1,48 @@
+% Unpacking components of module [exsol] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\exsol.tds.zip)
+/Name (exsol)
+/Size 683228 
+/CRC -690015730 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (exsol)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\exsol.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\exsol.bkz)
+/Name (exsol)
+/Size 2741 
+/CRC 266218444 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\exsol.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\exsol.doc.bkz)
+/Name (exsol)
+/Size 597804 
+/CRC 1843317908 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\exsol.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\exsol.source.bkz)
+/Name (exsol)
+/Size 11906 
+/CRC 1303105994 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,13 @@
+:vpe.doc:x1120:0.016746:116110580:6478:54CF-6A66:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+vpe
+
+./doc/latex/vpe:
+README

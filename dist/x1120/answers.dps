@@ -1,0 +1,72 @@
+% Unpacking components of module [answers] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\answers.tds.zip)
+/Name (answers)
+/Size 220789 
+/CRC 156453365 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\answers.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\answers.bkz)
+/Name (answers)
+/Size 1701 
+/CRC 1071334095 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\answers.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\answers\\answers.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\answers\\answers.sty)
+/OldSize 5409 
+/NewSize 5640 
+/Line 24 
+/NewLine (\\def\\fileversion{2.12})
+/OldLine (\\NeedsTeXFormat{LaTeX2e})
+>>
+<<
+/Type /Status 
+/Name (answers)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\answers.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\answers.bkz)
+/Name (answers)
+/Size 1796 
+/CRC 1885623605 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\answers.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\answers.doc.bkz)
+/Name (answers)
+/Size 211421 
+/CRC -1495759375 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\answers.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\answers.source.bkz)
+/Name (answers)
+/Size 7594 
+/CRC -1722797680 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

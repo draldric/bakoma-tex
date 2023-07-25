@@ -1,0 +1,154 @@
+% Unpacking components of module [datatool] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\datatool.tds.zip)
+/Name (datatool)
+/Size 2930849 
+/CRC 371958359 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\datatool.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\datatool.bkz)
+/Name (datatool)
+/Size 35605 
+/CRC -1367386806 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\datatool.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\datatool\\databib.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\datatool\\databib.bst)
+/OldSize 24086 
+/NewSize 21961 
+/Line 1 
+/NewLine (%%)
+/OldLine (ENTRY)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\datatool\\databar.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\datatool\\databar.sty)
+/OldSize 28211 
+/NewSize 28285 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2016 Nicola Talbot)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\datatool\\databib.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\datatool\\databib.sty)
+/OldSize 51260 
+/NewSize 51896 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2016 Nicola Talbot)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\datatool\\datagidx.sty)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\datatool\\datapie.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\datatool\\datapie.sty)
+/OldSize 12425 
+/NewSize 14853 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2016 Nicola Talbot)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\datatool\\dataplot.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\datatool\\dataplot.sty)
+/OldSize 31225 
+/NewSize 33144 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2016 Nicola Talbot)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\datatool\\datatool-base.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\datatool\\datatool-fp.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\datatool\\datatool-pgfmath.sty)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\datatool\\datatool.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\datatool\\datatool.sty)
+/OldSize 140733 
+/NewSize 103708 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2016 Nicola Talbot)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\datatool\\person.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\datatool\\person.sty)
+/OldSize 17902 
+/NewSize 17152 
+/Line 10 
+/NewLine (%%  Copyright 2009 Nicola Talbot)
+/OldLine (%%  Copyright 2016 Nicola Talbot)
+>>
+<<
+/Type /Status 
+/Name (datatool)
+/Status /Updated 
+/Differences 11 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\datatool.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\datatool.bkz)
+/Name (datatool)
+/Size 53078 
+/CRC 303610842 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\datatool.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\datatool.doc.bkz)
+/Name (datatool)
+/Size 2656034 
+/CRC -1991886167 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\datatool.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\datatool.source.bkz)
+/Name (datatool)
+/Size 100862 
+/CRC 1543313363 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

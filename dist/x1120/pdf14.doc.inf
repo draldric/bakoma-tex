@@ -1,0 +1,15 @@
+:pdf14.doc:x1120:0.362529:116110580:363848:AF56-EEF7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pdf14
+
+./doc/latex/pdf14:
+pdf14.pdf
+README
+test-pdf14.tex

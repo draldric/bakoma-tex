@@ -1,0 +1,72 @@
+% Unpacking components of module [environ] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\environ.tds.zip)
+/Name (environ)
+/Size 164868 
+/CRC 764692586 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\environ.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\environ.bkz)
+/Name (environ)
+/Size 1545 
+/CRC 1641221198 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\environ.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\environ\\environ.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\environ\\environ.sty)
+/OldSize 5344 
+/NewSize 4378 
+/Line 14 
+/NewLine (\\ProvidesPackage{environ}[2008/06/18 v0.2 A new way to define environments])
+/OldLine (%% ^^A Test that \\RenewEnvironment works correctly:)
+>>
+<<
+/Type /Status 
+/Name (environ)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\environ.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\environ.bkz)
+/Name (environ)
+/Size 1401 
+/CRC 930062355 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\environ.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\environ.doc.bkz)
+/Name (environ)
+/Size 156064 
+/CRC -417171131 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\environ.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\environ.source.bkz)
+/Name (environ)
+/Size 6150 
+/CRC -1802206555 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

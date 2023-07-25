@@ -1,0 +1,14 @@
+:lettre:x1120:0.044876:116110580:8956:843E-42D0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lettre
+
+./tex/latex/lettre:
+default.ins
+lettre.cls

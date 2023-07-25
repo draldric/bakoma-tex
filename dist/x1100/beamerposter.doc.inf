@@ -1,0 +1,16 @@
+:beamerposter.doc:x1100:0.080492:115090132:76638:95F9-3D75:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+beamerposter
+
+./doc/latex/beamerposter:
+beamerposter.pdf
+beamerposter.tex
+example.tex
+README

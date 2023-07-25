@@ -1,0 +1,14 @@
+:ydoc.doc:x1120:0.329149:116110580:321541:4FA5-697C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ydoc
+
+./doc/latex/ydoc:
+README
+ydoc.pdf

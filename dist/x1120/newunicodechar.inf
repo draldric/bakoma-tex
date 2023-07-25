@@ -1,0 +1,13 @@
+:newunicodechar:x1120:0.004304:116110580:1682:9E8F-9B48:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+newunicodechar
+
+./tex/latex/newunicodechar:
+newunicodechar.sty

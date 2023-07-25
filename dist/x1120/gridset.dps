@@ -1,0 +1,65 @@
+% Unpacking components of module [gridset] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\gridset.tds.zip)
+/Name (gridset)
+/Size 122542 
+/CRC -1487794298 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1060\gridset.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1060\\gridset.bkz)
+/Name (gridset)
+/Size 1890 
+/CRC -1064001729 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1060\gridset.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\gridset\\gridset.sty)
+>>
+<<
+/Type /Status 
+/Name (gridset)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\gridset.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gridset.bkz)
+/Name (gridset)
+/Size 5391 
+/CRC -1729144628 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\gridset.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gridset.doc.bkz)
+/Name (gridset)
+/Size 106435 
+/CRC -76750403 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\gridset.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gridset.source.bkz)
+/Name (gridset)
+/Size 6138 
+/CRC -1928712340 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

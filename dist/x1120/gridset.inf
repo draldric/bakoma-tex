@@ -1,0 +1,13 @@
+:gridset:x1120:0.019531:116110580:5391:98EF-58CC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gridset
+
+./tex/latex/gridset:
+gridset.sty

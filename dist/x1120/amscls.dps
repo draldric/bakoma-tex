@@ -1,0 +1,169 @@
+% Unpacking components of module [amscls] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\\\macros\\latex\\required\\amscls.tds.zip)
+/Name (amscls)
+/Size 1432760 
+/CRC -180498362 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V901\amscls.bkz]
+<<
+/Type /BKZ 
+/File (.\\V901\\amscls.bkz)
+/Name (amscls)
+/Size 38585 
+/CRC 177091943 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V901\amscls.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\amscls\\amsalpha.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\amscls\\amsalpha.bst)
+/OldSize 29978 
+/NewSize 29978 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\amscls\\amsplain.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\amscls\\amsplain.bst)
+/OldSize 27098 
+/NewSize 27098 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amscls\\amsart.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amscls\\amsart.cls)
+/OldSize 61068 
+/NewSize 61293 
+/Line 11 
+/NewLine (%% Copyright 1995, 199, 2004, 2009 American Mathematical Society.)
+/OldLine (%% Copyright 1995, 199, 2004, 2009, 2015 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amscls\\amsbook.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amscls\\amsbook.cls)
+/OldSize 60956 
+/NewSize 61181 
+/Line 11 
+/NewLine (%% Copyright 1995, 199, 2004, 2009 American Mathematical Society.)
+/OldLine (%% Copyright 1995, 199, 2004, 2009, 2015 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amscls\\amsbooka.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amscls\\amsbooka.sty)
+/OldSize 7554 
+/NewSize 7967 
+/Line 8 
+/NewLine (%% )
+/OldLine (%% This is a generated file.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amscls\\amsdtx.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amscls\\amsdtx.cls)
+/OldSize 18129 
+/NewSize 17877 
+/Line 8 
+/NewLine (%% )
+/OldLine (%% This is a generated file.)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amscls\\amsldoc.cls)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amscls\\amsmidx.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amscls\\amsmidx.sty)
+/OldSize 4286 
+/NewSize 3104 
+/Line 8 
+/NewLine (%% )
+/OldLine (%% This is a generated file.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amscls\\amsproc.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amscls\\amsproc.cls)
+/OldSize 59421 
+/NewSize 59646 
+/Line 11 
+/NewLine (%% Copyright 1995, 199, 2004, 2009 American Mathematical Society.)
+/OldLine (%% Copyright 1995, 199, 2004, 2009, 2015 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amscls\\amsthm.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amscls\\amsthm.sty)
+/OldSize 13294 
+/NewSize 12225 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% This is a generated file.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amscls\\upref.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amscls\\upref.sty)
+/OldSize 3165 
+/NewSize 2043 
+/Line 8 
+/NewLine (%% )
+/OldLine (%% This is a generated file.)
+>>
+<<
+/Type /Status 
+/Name (amscls)
+/Status /Updated 
+/Differences 9 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\amscls.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\amscls.bkz)
+/Name (amscls)
+/Size 32216 
+/CRC -384756711 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\amscls.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\amscls.doc.bkz)
+/Name (amscls)
+/Size 1185905 
+/CRC -623776915 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\amscls.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\amscls.source.bkz)
+/Name (amscls)
+/Size 89722 
+/CRC 1967555511 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

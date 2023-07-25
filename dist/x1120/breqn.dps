@@ -1,0 +1,48 @@
+% Unpacking components of module [breqn] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\breqn.tds.zip)
+/Name (breqn)
+/Size 1266097 
+/CRC -2109006197 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (breqn)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\breqn.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\breqn.bkz)
+/Name (breqn)
+/Size 23518 
+/CRC 984014477 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\breqn.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\breqn.doc.bkz)
+/Name (breqn)
+/Size 1061742 
+/CRC 309117459 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\breqn.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\breqn.source.bkz)
+/Name (breqn)
+/Size 80096 
+/CRC 803433656 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

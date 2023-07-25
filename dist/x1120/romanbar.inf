@@ -1,0 +1,13 @@
+:romanbar:x1120:0.00501:116110580:1841:4ACE-FD1C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+romanbar
+
+./tex/latex/romanbar:
+romanbar.sty

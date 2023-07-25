@@ -1,0 +1,14 @@
+:savetrees.source:x1120:0.113836:116110580:25583:7DC1-9FE8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+savetrees
+
+./source/latex/savetrees:
+savetrees.dtx
+savetrees.ins

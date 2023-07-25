@@ -1,0 +1,13 @@
+:rsc.source:x1120:0.057141:116110580:14474:1A72-538F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+rsc
+
+./source/latex/rsc:
+rsc.dtx

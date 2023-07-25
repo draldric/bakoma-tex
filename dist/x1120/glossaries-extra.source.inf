@@ -1,0 +1,14 @@
+:glossaries-extra.source:x1120:0.393742:116110580:44678:7670-98F2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+glossaries-extra
+
+./source/latex/glossaries-extra:
+glossaries-extra.dtx
+glossaries-extra.ins

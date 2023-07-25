@@ -1,0 +1,48 @@
+% Unpacking components of module [calculator] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\calculator.tds.zip)
+/Name (calculator)
+/Size 625238 
+/CRC -1530483794 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (calculator)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\calculator.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\calculator.bkz)
+/Name (calculator)
+/Size 9391 
+/CRC -452146968 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\calculator.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\calculator.doc.bkz)
+/Name (calculator)
+/Size 565337 
+/CRC -142605609 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\calculator.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\calculator.source.bkz)
+/Name (calculator)
+/Size 29045 
+/CRC -385763072 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

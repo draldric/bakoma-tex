@@ -1,0 +1,48 @@
+% Unpacking components of module [hustthesis] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\hustthesis.tds.zip)
+/Name (hustthesis)
+/Size 960905 
+/CRC 1130611254 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (hustthesis)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\hustthesis.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hustthesis.bkz)
+/Name (hustthesis)
+/Size 57442 
+/CRC -304742553 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\hustthesis.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hustthesis.doc.bkz)
+/Name (hustthesis)
+/Size 757878 
+/CRC 1543124968 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\hustthesis.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hustthesis.source.bkz)
+/Name (hustthesis)
+/Size 24273 
+/CRC 1708447719 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

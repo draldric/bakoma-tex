@@ -1,0 +1,14 @@
+:morewrites:x1120:0.019433:116110580:3280:9600-7660:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+morewrites
+
+./tex/latex/morewrites:
+morewrites.sty
+primargs.sty

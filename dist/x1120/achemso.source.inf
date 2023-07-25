@@ -1,0 +1,13 @@
+:achemso.source:x1120:0.157794:116110580:32418:8187-2704:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+achemso
+
+./source/latex/achemso:
+achemso.dtx

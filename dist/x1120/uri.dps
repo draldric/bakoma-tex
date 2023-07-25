@@ -1,0 +1,48 @@
+% Unpacking components of module [uri] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\uri.tds.zip)
+/Name (uri)
+/Size 406903 
+/CRC 1711539797 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (uri)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\uri.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\uri.bkz)
+/Name (uri)
+/Size 2034 
+/CRC -1228042793 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\uri.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\uri.doc.bkz)
+/Name (uri)
+/Size 390525 
+/CRC 1206424219 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\uri.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\uri.source.bkz)
+/Name (uri)
+/Size 11625 
+/CRC -42302508 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

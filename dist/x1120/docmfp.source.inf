@@ -1,0 +1,14 @@
+:docmfp.source:x1120:0.029811:116110580:7663:AF3C-E7E8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+docmfp
+
+./source/latex/docmfp:
+docmfp.dtx
+docmfp.ins

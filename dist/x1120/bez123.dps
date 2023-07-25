@@ -1,0 +1,44 @@
+% Unpacking components of module [bez123] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\bez123.tds.zip)
+/Name (bez123)
+/Size 279114 
+/CRC -773803630 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\bez123.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\bez123.bkz)
+/Name (bez123)
+/Size 2172 
+/CRC -1135506106 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\bez123.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bez123\\bez123.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bez123\\bez123.sty)
+/OldSize 11162 
+/NewSize 11162 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bez123\\multiply.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bez123\\multiply.sty)
+/OldSize 2423 
+/NewSize 2423 
+>>
+<<
+/Type /Status 
+/Name (bez123)
+/Status /Same 
+>> % distribution already includes this version

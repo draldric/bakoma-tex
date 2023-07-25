@@ -1,0 +1,14 @@
+:filehook.doc:x1120:0.262363:116110580:259151:167E-D858:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+filehook
+
+./doc/latex/filehook:
+filehook.pdf
+README

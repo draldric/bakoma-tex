@@ -1,0 +1,72 @@
+% Unpacking components of module [modroman] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\modroman.tds.zip)
+/Name (modroman)
+/Size 1603258 
+/CRC -494952657 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\modroman.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\modroman.bkz)
+/Name (modroman)
+/Size 913 
+/CRC -1637054985 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\modroman.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\modroman\\modroman.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\modroman\\modroman.sty)
+/OldSize 2107 
+/NewSize 7330 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2003, 2004, 2008 by Yvon Henel,)
+/OldLine (%% Copyright \(C\) 2003, 2004, 2008, 2010 by Yvon Henel,)
+>>
+<<
+/Type /Status 
+/Name (modroman)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\modroman.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\modroman.bkz)
+/Name (modroman)
+/Size 1864 
+/CRC 1896834708 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\modroman.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\modroman.doc.bkz)
+/Name (modroman)
+/Size 1299479 
+/CRC -458337760 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\modroman.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\modroman.source.bkz)
+/Name (modroman)
+/Size 18412 
+/CRC 1526802573 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,14 @@
+:combine.source:x1120:0.148029:116110580:31061:7185-906B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+combine
+
+./source/latex/combine:
+combine.dtx
+combine.ins

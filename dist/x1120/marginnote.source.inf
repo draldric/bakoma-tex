@@ -1,0 +1,13 @@
+:marginnote.source:x1120:0.035757:116110580:8811:218C-1F53:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+marginnote
+
+./source/latex/marginnote:
+marginnote.dtx

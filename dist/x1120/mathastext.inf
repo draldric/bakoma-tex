@@ -1,0 +1,13 @@
+:mathastext:x1120:0.085672:116110580:14030:6ADE-E025:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mathastext
+
+./tex/latex/mathastext:
+mathastext.sty

@@ -1,0 +1,15 @@
+:acronym.doc:x1120:0.271976:116110580:268908:CFC8-15F6:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+acronym
+
+./doc/latex/acronym:
+acronym.pdf
+acrotest.tex
+README

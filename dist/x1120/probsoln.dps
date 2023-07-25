@@ -1,0 +1,72 @@
+% Unpacking components of module [probsoln] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\probsoln.tds.zip)
+/Name (probsoln)
+/Size 831383 
+/CRC 800906555 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\probsoln.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\probsoln.bkz)
+/Name (probsoln)
+/Size 3987 
+/CRC 403437878 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\probsoln.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\probsoln\\probsoln.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\probsoln\\probsoln.sty)
+/OldSize 14653 
+/NewSize 30684 
+/Line 10 
+/NewLine (%%  Copyright 2008 Nicola Talbot)
+/OldLine (%%  Copyright 2013 Nicola Talbot)
+>>
+<<
+/Type /Status 
+/Name (probsoln)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\probsoln.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\probsoln.bkz)
+/Name (probsoln)
+/Size 6366 
+/CRC -2064671389 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\probsoln.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\probsoln.doc.bkz)
+/Name (probsoln)
+/Size 731979 
+/CRC 506233243 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\probsoln.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\probsoln.source.bkz)
+/Name (probsoln)
+/Size 24908 
+/CRC -81972892 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

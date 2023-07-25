@@ -1,0 +1,36 @@
+% Unpacking components of module [epigraph] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\epigraph.tds.zip)
+/Name (epigraph)
+/Size 177024 
+/CRC -2013724951 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\epigraph.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\epigraph.bkz)
+/Name (epigraph)
+/Size 1541 
+/CRC -1795466839 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\epigraph.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\epigraph\\epigraph.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\epigraph\\epigraph.sty)
+/OldSize 4493 
+/NewSize 4493 
+>>
+<<
+/Type /Status 
+/Name (epigraph)
+/Status /Same 
+>> % distribution already includes this version

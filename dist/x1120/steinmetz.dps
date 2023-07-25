@@ -1,0 +1,36 @@
+% Unpacking components of module [steinmetz] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\steinmetz.tds.zip)
+/Name (steinmetz)
+/Size 111764 
+/CRC 948304461 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\steinmetz.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\steinmetz.bkz)
+/Name (steinmetz)
+/Size 923 
+/CRC 412391809 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\steinmetz.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\steinmetz\\steinmetz.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\steinmetz\\steinmetz.sty)
+/OldSize 1932 
+/NewSize 1932 
+>>
+<<
+/Type /Status 
+/Name (steinmetz)
+/Status /Same 
+>> % distribution already includes this version

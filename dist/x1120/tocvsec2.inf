@@ -1,0 +1,13 @@
+:tocvsec2:x1120:0.006444:116110580:1523:863D-374F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tocvsec2
+
+./tex/latex/tocvsec2:
+tocvsec2.sty

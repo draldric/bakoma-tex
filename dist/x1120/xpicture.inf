@@ -1,0 +1,13 @@
+:xpicture:x1120:0.048804:116110580:8519:C906-E87E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xpicture
+
+./tex/latex/xpicture:
+xpicture.sty

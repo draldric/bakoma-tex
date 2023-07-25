@@ -1,0 +1,13 @@
+:pgfopts.source:x1120:0.01977:116110580:5753:17D0-E905:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pgfopts
+
+./source/latex/pgfopts:
+pgfopts.dtx

@@ -1,0 +1,48 @@
+% Unpacking components of module [usebib] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\usebib.tds.zip)
+/Name (usebib)
+/Size 261959 
+/CRC 2126812297 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (usebib)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\usebib.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\usebib.bkz)
+/Name (usebib)
+/Size 1333 
+/CRC -396083691 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\usebib.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\usebib.doc.bkz)
+/Name (usebib)
+/Size 254943 
+/CRC -783122795 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\usebib.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\usebib.source.bkz)
+/Name (usebib)
+/Size 5694 
+/CRC 962907035 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

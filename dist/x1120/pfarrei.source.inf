@@ -1,0 +1,14 @@
+:pfarrei.source:x1120:0.045622:116110580:13203:CDC-2459:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pfarrei
+
+./source/latex/pfarrei:
+pfarrei.dtx
+README

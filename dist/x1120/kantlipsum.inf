@@ -1,0 +1,13 @@
+:kantlipsum:x1120:0.189773:116110580:23223:DA23-8369:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+kantlipsum
+
+./tex/latex/kantlipsum:
+kantlipsum.sty

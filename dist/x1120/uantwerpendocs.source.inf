@@ -1,0 +1,14 @@
+:uantwerpendocs.source:x1120:0.091578:116110580:19355:E867-2A84:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+uantwerpendocs
+
+./source/latex/uantwerpendocs:
+uantwerpendocs.dtx
+uantwerpendocs.ins

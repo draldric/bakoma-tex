@@ -1,0 +1,16 @@
+:combine:x1120:0.056478:116110580:9985:436F-2377:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+combine
+
+./tex/latex/combine:
+combcite.sty
+combine.cls
+combinet.sty
+combnat.sty

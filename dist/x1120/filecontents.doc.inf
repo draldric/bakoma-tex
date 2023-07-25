@@ -1,0 +1,14 @@
+:filecontents.doc:x1120:0.251779:116110580:235078:66DD-F256:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+filecontents
+
+./doc/latex/filecontents:
+filecontents.pdf
+README

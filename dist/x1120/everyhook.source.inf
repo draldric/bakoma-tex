@@ -1,0 +1,13 @@
+:everyhook.source:x1120:0.022617:116110580:7100:64B0-32A0:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+everyhook
+
+./source/latex/everyhook:
+everyhook.dtx

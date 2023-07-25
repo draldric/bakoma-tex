@@ -1,0 +1,14 @@
+:xcolor-solarized.source:x1120:0.013603:116110580:4513:ECE3-F9D6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xcolor-solarized
+
+./source/latex/xcolor-solarized:
+xcolor-solarized.dtx
+xcolor-solarized.ins

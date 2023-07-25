@@ -1,0 +1,17 @@
+:unicode-math.source:x1120:0.186998:116110580:34770:FCF-9A0:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+unicode-math
+
+./source/latex/unicode-math:
+unicode-math-alphabets.dtx
+unicode-math-compat.dtx
+unicode-math-msg.dtx
+unicode-math-usv.dtx
+unicode-math.dtx

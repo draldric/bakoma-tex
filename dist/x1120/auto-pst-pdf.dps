@@ -1,0 +1,36 @@
+% Unpacking components of module [auto-pst-pdf] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\auto-pst-pdf.tds.zip)
+/Name (auto-pst-pdf)
+/Size 347022 
+/CRC -1309221960 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\auto-pst-pdf.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\auto-pst-pdf.bkz)
+/Name (auto-pst-pdf)
+/Size 2080 
+/CRC -1149065748 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\auto-pst-pdf.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\auto-pst-pdf\\auto-pst-pdf.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\auto-pst-pdf\\auto-pst-pdf.sty)
+/OldSize 6042 
+/NewSize 6042 
+>>
+<<
+/Type /Status 
+/Name (auto-pst-pdf)
+/Status /Same 
+>> % distribution already includes this version

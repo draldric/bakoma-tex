@@ -1,0 +1,14 @@
+:ifoddpage.source:x1120:0.01108:116110580:3902:DACD-590C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ifoddpage
+
+./source/latex/ifoddpage:
+ifoddpage.dtx
+ifoddpage.ins

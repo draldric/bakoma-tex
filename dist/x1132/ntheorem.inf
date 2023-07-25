@@ -1,0 +1,14 @@
+:ntheorem:x1132:0.0512:117050464:9118:97B9-2610:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ntheorem
+
+./tex/latex/ntheorem:
+ntheorem.std
+ntheorem.sty

@@ -1,0 +1,14 @@
+:exsol.source:x1120:0.049413:116110580:11906:4DAB-D1CA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+exsol
+
+./source/latex/exsol:
+exsol.dtx
+exsol.ins

@@ -1,0 +1,14 @@
+:tqft.source:x1120:0.080759:116110580:11834:E507-CB04:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tqft
+
+./source/latex/tqft:
+tqft.dtx
+tqft.ins

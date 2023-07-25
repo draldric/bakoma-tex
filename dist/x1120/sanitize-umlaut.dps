@@ -1,0 +1,38 @@
+% Unpacking components of module [sanitize-umlaut] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\sanitize-umlaut.tds.zip)
+/Name (sanitize-umlaut)
+/Size 371979 
+/CRC 1748597466 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (sanitize-umlaut)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\sanitize-umlaut.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\sanitize-umlaut.bkz)
+/Name (sanitize-umlaut)
+/Size 1014 
+/CRC -1277279032 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\sanitize-umlaut.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\sanitize-umlaut.doc.bkz)
+/Name (sanitize-umlaut)
+/Size 368410 
+/CRC -149068564 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

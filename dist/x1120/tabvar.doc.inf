@@ -1,0 +1,16 @@
+:tabvar.doc:x1120:0.608613:116110580:592419:403D-82F2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tabvar
+
+./doc/latex/tabvar:
+demo.pdf
+demo.tex
+README
+tabvar.pdf

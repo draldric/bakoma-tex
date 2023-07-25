@@ -1,0 +1,73 @@
+% Unpacking components of module [doipubmed] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\doipubmed.tds.zip)
+/Name (doipubmed)
+/Size 83942 
+/CRC -563643887 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\doipubmed.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\doipubmed.bkz)
+/Name (doipubmed)
+/Size 1516 
+/CRC 636373558 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\doipubmed.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\latex2html\\styles\\doipubmed.perl)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\doipubmed\\doipubmed.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\doipubmed\\doipubmed.sty)
+/OldSize 3560 
+/NewSize 3560 
+>>
+<<
+/Type /Status 
+/Name (doipubmed)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\doipubmed.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\doipubmed.bkz)
+/Name (doipubmed)
+/Size 2007 
+/CRC -1041299450 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\doipubmed.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\doipubmed.doc.bkz)
+/Name (doipubmed)
+/Size 73058 
+/CRC -1839588571 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\doipubmed.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\doipubmed.source.bkz)
+/Name (doipubmed)
+/Size 3751 
+/CRC 2043949640 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

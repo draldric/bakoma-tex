@@ -1,0 +1,13 @@
+:ccaption:x1120:0.02304:116110580:4993:188E-63BC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ccaption
+
+./tex/latex/ccaption:
+ccaption.sty

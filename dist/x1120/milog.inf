@@ -1,0 +1,13 @@
+:milog:x1120:0.007683:116110580:2156:A82-E69A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+milog
+
+./tex/latex/milog:
+milog.cls

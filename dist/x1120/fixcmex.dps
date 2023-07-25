@@ -1,0 +1,48 @@
+% Unpacking components of module [fixcmex] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\fixcmex.tds.zip)
+/Name (fixcmex)
+/Size 203688 
+/CRC 115433040 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (fixcmex)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\fixcmex.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fixcmex.bkz)
+/Name (fixcmex)
+/Size 836 
+/CRC -868020841 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fixcmex.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fixcmex.doc.bkz)
+/Name (fixcmex)
+/Size 199857 
+/CRC -1497777422 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fixcmex.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fixcmex.source.bkz)
+/Name (fixcmex)
+/Size 2560 
+/CRC 1670051601 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,14 @@
+:boxedminipage2e.source:x1120:0.010666:116110580:3537:F752-8180:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+boxedminipage2e
+
+./source/latex/boxedminipage2e:
+boxedminipage2e.dtx
+boxedminipage2e.ins

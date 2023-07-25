@@ -1,0 +1,14 @@
+:filehook.source:x1120:0.062302:116110580:12430:8CD4-2940:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+filehook
+
+./source/latex/filehook:
+filehook.dtx
+filehook.ins

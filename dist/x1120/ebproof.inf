@@ -1,0 +1,13 @@
+:ebproof:x1120:0.01521:116110580:4383:37AB-C5CD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ebproof
+
+./tex/latex/ebproof:
+ebproof.sty

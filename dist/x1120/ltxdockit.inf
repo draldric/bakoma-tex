@@ -1,0 +1,17 @@
+:ltxdockit:x1120:0.025336:116110580:5635:76ED-87:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ltxdockit
+
+./tex/latex/ltxdockit:
+btxdockit.sty
+ltxdockit.cfg
+ltxdockit.cls
+ltxdockit.def
+ltxdockit.sty

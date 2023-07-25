@@ -1,0 +1,14 @@
+:ifplatform.doc:x1120:0.1519:116110580:151259:A2AA-D5C8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ifplatform
+
+./doc/latex/ifplatform:
+ifplatform.pdf
+README

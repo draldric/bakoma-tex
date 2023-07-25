@@ -1,0 +1,95 @@
+% Unpacking components of module [csquotes] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\csquotes.tds.zip)
+/Name (csquotes)
+/Size 336511 
+/CRC 847765200 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1060\csquotes.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1060\\csquotes.bkz)
+/Name (csquotes)
+/Size 16739 
+/CRC -903179796 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1060\csquotes.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\csquotes\\csq-compat.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\csquotes\\csq-compat.def)
+/OldSize 3867 
+/NewSize 3753 
+/Line 1 
+/NewLine (% $Id: csq-compat.def,v 5.1d 2011/10/22 19:17:39 lehman stable $)
+/OldLine (\\ProvidesFile{csq-compat.def})
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\csquotes\\csquotes.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\csquotes\\csquotes.cfg)
+/OldSize 7132 
+/NewSize 7068 
+/Line 1 
+/NewLine (% $Id: csquotes.cfg,v 5.1d 2011/10/22 19:17:39 lehman stable $)
+/OldLine (\\ProvidesFile{csquotes.cfg})
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\csquotes\\csquotes.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\csquotes\\csquotes.def)
+/OldSize 16271 
+/NewSize 18121 
+/Line 1 
+/NewLine (% $Id: csquotes.def,v 5.1d 2011/10/22 19:17:39 lehman stable $)
+/OldLine (\\ProvidesFile{csquotes.def})
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\csquotes\\csquotes.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\csquotes\\csquotes.sty)
+/OldSize 61724 
+/NewSize 61799 
+/Line 1 
+/NewLine (% $Id: csquotes.sty,v 5.1d 2011/10/22 19:17:39 lehman stable $)
+/OldLine (% Copyright \(c\) 2003-2011 Philipp Lehman.)
+>>
+<<
+/Type /Status 
+/Name (csquotes)
+/Status /Updated 
+/Differences 4 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\csquotes.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\csquotes.bkz)
+/Name (csquotes)
+/Size 16902 
+/CRC -1407724423 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\csquotes.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\csquotes.doc.bkz)
+/Name (csquotes)
+/Size 313697 
+/CRC 269222868 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

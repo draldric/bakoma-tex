@@ -1,0 +1,48 @@
+% Unpacking components of module [media9] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\media9.tds.zip)
+/Name (media9)
+/Size 6760321 
+/CRC -1153291430 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (media9)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\media9.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\media9.bkz)
+/Name (media9)
+/Size 1891388 
+/CRC -1736285157 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\media9.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\media9.doc.bkz)
+/Name (media9)
+/Size 3596364 
+/CRC 323788636 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\media9.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\media9.source.bkz)
+/Name (media9)
+/Size 1246310 
+/CRC -25143292 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

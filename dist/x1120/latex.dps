@@ -1,0 +1,1718 @@
+% Unpacking components of module [latex] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\\\macros\\latex\\latex-base.tds.zip)
+/Name (latex)
+/Size 10824810 
+/CRC -1440176360 
+>>
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\\\macros\\latex\\latex-doc.tds.zip)
+/Name (latex)
+/Size 4296678 
+/CRC -128975510 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1065\latex.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1065\\latex.bkz)
+/Name (latex)
+/Size 151288 
+/CRC 1642615524 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1065\latex.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\makeindex\\latex\\gglo.ist)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\makeindex\\latex\\gglo.ist)
+/OldSize 3391 
+/NewSize 2716 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\makeindex\\latex\\gind.ist)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\makeindex\\latex\\gind.ist)
+/OldSize 3367 
+/NewSize 2692 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\alltt.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\alltt.sty)
+/OldSize 2928 
+/NewSize 3140 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ansinew.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ansinew.def)
+/OldSize 7507 
+/NewSize 6832 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\applemac.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\applemac.def)
+/OldSize 7082 
+/NewSize 6407 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\article.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\article.cls)
+/OldSize 20496 
+/NewSize 19821 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\article.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\article.sty)
+/OldSize 2416 
+/NewSize 1741 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ascii.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ascii.def)
+/OldSize 2409 
+/NewSize 1734 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\bezier.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\bezier.sty)
+/OldSize 2736 
+/NewSize 2061 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\bk10.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\bk10.clo)
+/OldSize 8807 
+/NewSize 8132 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\bk11.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\bk11.clo)
+/OldSize 8822 
+/NewSize 8147 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\bk12.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\bk12.clo)
+/OldSize 8814 
+/NewSize 8139 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\book.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\book.cls)
+/OldSize 23620 
+/NewSize 22945 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\book.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\book.sty)
+/OldSize 2398 
+/NewSize 1723 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\cp1250.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\cp1250.def)
+/OldSize 6914 
+/NewSize 6239 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\cp1252.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\cp1252.def)
+/OldSize 7496 
+/NewSize 6821 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\cp1257.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\cp1257.def)
+/OldSize 7127 
+/NewSize 6452 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\cp437.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\cp437.def)
+/OldSize 5475 
+/NewSize 4800 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\cp437de.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\cp437de.def)
+/OldSize 5481 
+/NewSize 4806 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\cp850.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\cp850.def)
+/OldSize 6734 
+/NewSize 6059 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\cp852.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\cp852.def)
+/OldSize 6187 
+/NewSize 5512 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\cp858.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\cp858.def)
+/OldSize 6686 
+/NewSize 6011 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\cp865.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\cp865.def)
+/OldSize 5543 
+/NewSize 4868 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\decmulti.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\decmulti.def)
+/OldSize 5678 
+/NewSize 5003 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\doc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\doc.sty)
+/OldSize 31045 
+/NewSize 30632 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\docstrip.tex)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\exscale.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\exscale.sty)
+/OldSize 2227 
+/NewSize 2439 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\fix-cm.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\fix-cm.sty)
+/OldSize 15415 
+/NewSize 14742 
+/Line 7 
+/NewLine (%% fixltx2e.dtx  \(with options: `fix-cm'\))
+/OldLine (%% fix-cm.dtx  \(with options: `fix-cm'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\fixltx2e.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\fixltx2e.sty)
+/OldSize 15857 
+/NewSize 1953 
+/Line 7 
+/NewLine (%% fixltx2e.dtx  \(with options: `fixltx2e'\))
+/OldLine (%% latexrelease.dtx  \(with options: `fixltx2e'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\flafter.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\flafter.sty)
+/OldSize 5332 
+/NewSize 9830 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\fleqn.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\fleqn.clo)
+/OldSize 3632 
+/NewSize 4752 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\fleqn.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\fleqn.sty)
+/OldSize 2379 
+/NewSize 1704 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\fltrace.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\fltrace.sty)
+/OldSize 24991 
+/NewSize 38471 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\fontenc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\fontenc.sty)
+/OldSize 4360 
+/NewSize 4572 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\fontmath.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\fontmath.cfg)
+/OldSize 2872 
+/NewSize 1985 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% Copyright 1993-2016)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\fontmath.ltx)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\fontmath.ltx)
+/OldSize 24942 
+/NewSize 24055 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% Copyright 1993-2016)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\fonttext.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\fonttext.cfg)
+/OldSize 2872 
+/NewSize 1985 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% Copyright 1993-2016)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\fonttext.ltx)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\fonttext.ltx)
+/OldSize 3227 
+/NewSize 2340 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% Copyright 1993-2016)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\graphpap.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\graphpap.sty)
+/OldSize 3179 
+/NewSize 3391 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\hyphen.ltx)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\hyphen.ltx)
+/OldSize 2827 
+/NewSize 1940 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% Copyright 1993-2016)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\idx.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\idx.tex)
+/OldSize 2802 
+/NewSize 2802 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ifthen.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ifthen.sty)
+/OldSize 4947 
+/NewSize 5159 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\inputenc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\inputenc.sty)
+/OldSize 5295 
+/NewSize 4732 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\lablst.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\lablst.tex)
+/OldSize 4179 
+/NewSize 4179 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latex.ltx)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\latex.ltx)
+/OldSize 244697 
+/NewSize 253099 
+/Line 23 
+/NewLine (%% ltfsscmp.dtx  \(with options: `compat,2ekernel'\))
+/OldLine (%% ltfssdcl.dtx  \(with options: `compat,2ekernel'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latex209.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\latex209.def)
+/OldSize 14629 
+/NewSize 12115 
+/Line 13 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latexbug.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\latexbug.tex)
+/OldSize 22957 
+/NewSize 22957 
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latexrelease.sty)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latexsym.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\latexsym.sty)
+/OldSize 2642 
+/NewSize 2854 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latin1.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\latin1.def)
+/OldSize 6353 
+/NewSize 5678 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latin10.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\latin10.def)
+/OldSize 6069 
+/NewSize 5394 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latin2.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\latin2.def)
+/OldSize 5632 
+/NewSize 4957 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latin3.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\latin3.def)
+/OldSize 5745 
+/NewSize 5070 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latin4.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\latin4.def)
+/OldSize 5869 
+/NewSize 5194 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latin5.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\latin5.def)
+/OldSize 6330 
+/NewSize 5655 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\latin9.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\latin9.def)
+/OldSize 5999 
+/NewSize 5324 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\lcyenc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\lcyenc.dfu)
+/OldSize 6912 
+/NewSize 7175 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\leqno.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\leqno.clo)
+/OldSize 1747 
+/NewSize 1959 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\leqno.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\leqno.sty)
+/OldSize 2379 
+/NewSize 1704 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\letter.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\letter.cls)
+/OldSize 14340 
+/NewSize 13665 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\letter.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\letter.sty)
+/OldSize 2410 
+/NewSize 1735 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\lppl.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\lppl.tex)
+/OldSize 23491 
+/NewSize 23436 
+/Line 2 
+/NewLine (% $Id: lppl.tex 5882 2008-05-04 17:28:59Z mittelba $)
+/OldLine (% Copyright 1999 2002-2011 LaTeX3 Project)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ltluatex.lua)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ltluatex.tex)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ltnews.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ltnews.cls)
+/OldSize 19397 
+/NewSize 20199 
+/Line 45 
+/NewLine (\\ProvidesClass{ltnews}[2014/05/01 v1.03  Standard LaTeX class])
+/OldLine (\\ProvidesClass{ltnews}[2015/02/15 v1.04  Standard LaTeX class])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ltxcheck.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ltxcheck.tex)
+/OldSize 27239 
+/NewSize 27140 
+/Line 3 
+/NewLine (% Copyright 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009)
+/OldLine (% Copyright 1993-2016)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ltxdoc.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ltxdoc.cls)
+/OldSize 6788 
+/NewSize 7779 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ltxguide.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ltxguide.cls)
+/OldSize 7658 
+/NewSize 7658 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ly1enc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ly1enc.dfu)
+/OldSize 6048 
+/NewSize 6684 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\macce.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\macce.def)
+/OldSize 4444 
+/NewSize 3769 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\makeidx.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\makeidx.sty)
+/OldSize 1728 
+/NewSize 1940 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\minimal.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\minimal.cls)
+/OldSize 2028 
+/NewSize 2028 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\newlfont.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\newlfont.sty)
+/OldSize 3587 
+/NewSize 2912 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\next.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\next.def)
+/OldSize 7386 
+/NewSize 6711 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\nfssfont.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\nfssfont.tex)
+/OldSize 13814 
+/NewSize 13161 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\oldlfont.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\oldlfont.sty)
+/OldSize 4126 
+/NewSize 3451 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\omlcmm.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\omlcmm.fd)
+/OldSize 1907 
+/NewSize 2119 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\omlcmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\omlcmr.fd)
+/OldSize 2045 
+/NewSize 2257 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\omlenc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\omlenc.def)
+/OldSize 1694 
+/NewSize 1906 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\omllcmm.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\omllcmm.fd)
+/OldSize 1817 
+/NewSize 2029 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\omscmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\omscmr.fd)
+/OldSize 2044 
+/NewSize 2256 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\omscmsy.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\omscmsy.fd)
+/OldSize 1837 
+/NewSize 2049 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\omsenc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\omsenc.def)
+/OldSize 2486 
+/NewSize 2698 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\omsenc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\omsenc.dfu)
+/OldSize 1793 
+/NewSize 2004 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\omslcmsy.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\omslcmsy.fd)
+/OldSize 1821 
+/NewSize 2033 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\omxcmex.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\omxcmex.fd)
+/OldSize 1615 
+/NewSize 1827 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\omxlcmex.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\omxlcmex.fd)
+/OldSize 1724 
+/NewSize 1936 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\openbib.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\openbib.sty)
+/OldSize 2597 
+/NewSize 1922 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot1cmdh.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot1cmdh.fd)
+/OldSize 1634 
+/NewSize 1846 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot1cmfib.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot1cmfib.fd)
+/OldSize 1637 
+/NewSize 1849 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot1cmfr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot1cmfr.fd)
+/OldSize 1696 
+/NewSize 1908 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot1cmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot1cmr.fd)
+/OldSize 3280 
+/NewSize 3492 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot1cmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot1cmss.fd)
+/OldSize 2728 
+/NewSize 2940 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot1cmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot1cmtt.fd)
+/OldSize 2424 
+/NewSize 2636 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot1cmvtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot1cmvtt.fd)
+/OldSize 1846 
+/NewSize 2058 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot1enc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot1enc.def)
+/OldSize 4139 
+/NewSize 4452 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot1enc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot1enc.dfu)
+/OldSize 2545 
+/NewSize 3181 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot1lcmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot1lcmss.fd)
+/OldSize 2572 
+/NewSize 2784 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot1lcmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot1lcmtt.fd)
+/OldSize 2062 
+/NewSize 2274 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot2enc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot2enc.dfu)
+/OldSize 7132 
+/NewSize 7395 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ot4enc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ot4enc.def)
+/OldSize 4438 
+/NewSize 4650 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\preload.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\preload.cfg)
+/OldSize 2871 
+/NewSize 1984 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% Copyright 1993-2016)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\preload.ltx)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\preload.ltx)
+/OldSize 2913 
+/NewSize 2026 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% Copyright 1993-2016)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\proc.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\proc.cls)
+/OldSize 4613 
+/NewSize 3938 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\proc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\proc.sty)
+/OldSize 4429 
+/NewSize 3754 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\report.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\report.cls)
+/OldSize 23555 
+/NewSize 22880 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\report.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\report.sty)
+/OldSize 2410 
+/NewSize 1735 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\sample2e.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\sample2e.tex)
+/OldSize 7247 
+/NewSize 7247 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\sfonts.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\sfonts.def)
+/OldSize 1509 
+/NewSize 1509 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% Copyright 1993-2016)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\shortvrb.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\shortvrb.sty)
+/OldSize 4462 
+/NewSize 3787 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\showidx.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\showidx.sty)
+/OldSize 3155 
+/NewSize 3367 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\size10.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\size10.clo)
+/OldSize 8967 
+/NewSize 8292 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\size11.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\size11.clo)
+/OldSize 8983 
+/NewSize 8308 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\size12.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\size12.clo)
+/OldSize 8978 
+/NewSize 8303 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\slides.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\slides.cls)
+/OldSize 17386 
+/NewSize 16711 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\slides.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\slides.def)
+/OldSize 18678 
+/NewSize 18239 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\slides.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\slides.sty)
+/OldSize 2410 
+/NewSize 1735 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\small2e.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\small2e.tex)
+/OldSize 1700 
+/NewSize 1700 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\source2e.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\source2e.tex)
+/OldSize 13835 
+/NewSize 13966 
+/Line 3 
+/NewLine (% Copyright 1993-2014)
+/OldLine (% Copyright 1993-2016)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\syntonly.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\syntonly.sty)
+/OldSize 3535 
+/NewSize 2842 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1cmdh.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1cmdh.fd)
+/OldSize 1745 
+/NewSize 1957 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1cmfib.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1cmfib.fd)
+/OldSize 1786 
+/NewSize 1998 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1cmfr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1cmfr.fd)
+/OldSize 1779 
+/NewSize 1991 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1cmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1cmr.fd)
+/OldSize 2038 
+/NewSize 2250 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1cmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1cmss.fd)
+/OldSize 2196 
+/NewSize 2408 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1cmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1cmtt.fd)
+/OldSize 2018 
+/NewSize 2230 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1cmvtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1cmvtt.fd)
+/OldSize 1804 
+/NewSize 2016 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1enc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1enc.def)
+/OldSize 9097 
+/NewSize 10007 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1enc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1enc.dfu)
+/OldSize 7405 
+/NewSize 11059 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1enc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1enc.sty)
+/OldSize 2473 
+/NewSize 1798 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1lcmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1lcmss.fd)
+/OldSize 2788 
+/NewSize 3000 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t1lcmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t1lcmtt.fd)
+/OldSize 1936 
+/NewSize 2148 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t2aenc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t2aenc.dfu)
+/OldSize 9173 
+/NewSize 9436 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t2benc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t2benc.dfu)
+/OldSize 8943 
+/NewSize 9206 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\t2cenc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\t2cenc.dfu)
+/OldSize 8803 
+/NewSize 9066 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\testpage.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\testpage.tex)
+/OldSize 12613 
+/NewSize 12613 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\texsys.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\texsys.cfg)
+/OldSize 8026 
+/NewSize 8026 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\textcomp.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\textcomp.sty)
+/OldSize 15434 
+/NewSize 16155 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\tracefnt.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\tracefnt.sty)
+/OldSize 8425 
+/NewSize 8595 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ts1cmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ts1cmr.fd)
+/OldSize 2005 
+/NewSize 2217 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ts1cmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ts1cmss.fd)
+/OldSize 1949 
+/NewSize 2161 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ts1cmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ts1cmtt.fd)
+/OldSize 1862 
+/NewSize 2074 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ts1cmvtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ts1cmvtt.fd)
+/OldSize 1811 
+/NewSize 2023 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ts1enc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ts1enc.def)
+/OldSize 7555 
+/NewSize 7767 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ts1enc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ts1enc.dfu)
+/OldSize 4723 
+/NewSize 4919 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ucmr.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ucmr.fd)
+/OldSize 3255 
+/NewSize 3467 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ucmss.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ucmss.fd)
+/OldSize 2710 
+/NewSize 2922 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ucmtt.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ucmtt.fd)
+/OldSize 2395 
+/NewSize 2607 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ulasy.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ulasy.fd)
+/OldSize 1808 
+/NewSize 2020 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\ullasy.fd)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\ullasy.fd)
+/OldSize 1764 
+/NewSize 1976 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\utf8-test.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\utf8-test.tex)
+/OldSize 2240 
+/NewSize 2452 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\utf8.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\utf8.def)
+/OldSize 6275 
+/NewSize 7784 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\utf8enc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\utf8enc.dfu)
+/OldSize 19512 
+/NewSize 23203 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\utf8test.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\utf8test.tex)
+/OldSize 2238 
+/NewSize 2450 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\base\\x2enc.dfu)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\base\\x2enc.dfu)
+/OldSize 10787 
+/NewSize 11050 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Status 
+/Name (latex)
+/Status /Updated 
+/Differences 146 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\latex.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\latex.bkz)
+/Name (latex)
+/Size 160796 
+/CRC -1141698728 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\latex.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\latex.doc.bkz)
+/Name (latex)
+/Size 12450566 
+/CRC -840848145 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\latex.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\latex.source.bkz)
+/Name (latex)
+/Size 499661 
+/CRC 877521278 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

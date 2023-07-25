@@ -1,0 +1,15 @@
+:euenc.doc:x1120:0.152165:116110580:145972:8DEB-2892:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+euenc
+
+./doc/latex/euenc:
+euenc.pdf
+README
+test-euxlm.ltx

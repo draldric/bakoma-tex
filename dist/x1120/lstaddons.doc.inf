@@ -1,0 +1,15 @@
+:lstaddons.doc:x1120:0.398536:116110580:366532:58C0-120F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lstaddons
+
+./doc/latex/lstaddons:
+lstautogobble.pdf
+lstlinebgrd.pdf
+README

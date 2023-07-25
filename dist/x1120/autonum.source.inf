@@ -1,0 +1,14 @@
+:autonum.source:x1120:0.071033:116110580:16884:4C86-2501:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+autonum
+
+./source/latex/autonum:
+autonum.dtx
+autonum.ins

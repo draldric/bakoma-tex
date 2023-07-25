@@ -1,0 +1,17 @@
+:paresse.doc:x1120:1.65878:116110580:1413407:4016-DC14:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+paresse
+
+./doc/latex/paresse:
+paresse-en.pdf
+paresse-ex-en.pdf
+paresse-ex-fr.pdf
+paresse-fr.pdf
+paresse.pdf

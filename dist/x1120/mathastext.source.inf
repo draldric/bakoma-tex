@@ -1,0 +1,14 @@
+:mathastext.source:x1120:0.350592:116110580:85031:622B-9E1A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mathastext
+
+./source/latex/mathastext:
+mathastext.dtx
+mathastext.ins

@@ -1,0 +1,14 @@
+:thalie.source:x1120:0.058801:116110580:14812:75AB-B9CD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+thalie
+
+./source/latex/thalie:
+thalie.dtx
+thalie.ins

@@ -1,0 +1,48 @@
+% Unpacking components of module [ifetex] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ifetex.tds.zip)
+/Name (ifetex)
+/Size 136298 
+/CRC -920725153 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (ifetex)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ifetex.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifetex.bkz)
+/Name (ifetex)
+/Size 882 
+/CRC 178365571 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ifetex.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifetex.doc.bkz)
+/Name (ifetex)
+/Size 131135 
+/CRC 596637464 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ifetex.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifetex.source.bkz)
+/Name (ifetex)
+/Size 2553 
+/CRC 382699805 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

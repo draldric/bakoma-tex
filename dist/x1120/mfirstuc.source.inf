@@ -1,0 +1,14 @@
+:mfirstuc.source:x1120:0.036966:116110580:7951:4A3B-ABFB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mfirstuc
+
+./source/latex/mfirstuc:
+mfirstuc.dtx
+mfirstuc.ins

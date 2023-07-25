@@ -1,0 +1,14 @@
+:verse.doc:x1120:0.426046:116110580:423372:B639-5A83:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+verse
+
+./doc/latex/verse:
+README
+verse.pdf

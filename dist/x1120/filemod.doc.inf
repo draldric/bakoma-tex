@@ -1,0 +1,14 @@
+:filemod.doc:x1120:0.281212:116110580:277890:C726-1B88:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+filemod
+
+./doc/latex/filemod:
+filemod.pdf
+README

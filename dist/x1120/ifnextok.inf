@@ -1,0 +1,13 @@
+:ifnextok:x1120:0.030564:116110580:10233:E286-A0F8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ifnextok
+
+./tex/latex/ifnextok:
+ifnextok.sty

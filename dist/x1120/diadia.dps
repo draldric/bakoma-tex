@@ -1,0 +1,38 @@
+% Unpacking components of module [diadia] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\diadia.tds.zip)
+/Name (diadia)
+/Size 478156 
+/CRC 856508571 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (diadia)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\diadia.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\diadia.bkz)
+/Name (diadia)
+/Size 5608 
+/CRC 194989507 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\diadia.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\diadia.doc.bkz)
+/Name (diadia)
+/Size 452352 
+/CRC -1191357620 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

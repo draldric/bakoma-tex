@@ -1,0 +1,15 @@
+:mwe.doc:x1120:0.404491:116110580:394406:781F-DAF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mwe
+
+./doc/latex/mwe:
+INSTALL
+mwe.pdf
+README

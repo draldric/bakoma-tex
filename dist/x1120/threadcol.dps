@@ -1,0 +1,48 @@
+% Unpacking components of module [threadcol] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\threadcol.tds.zip)
+/Name (threadcol)
+/Size 389729 
+/CRC 991392976 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (threadcol)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\threadcol.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\threadcol.bkz)
+/Name (threadcol)
+/Size 1190 
+/CRC 1426379845 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\threadcol.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\threadcol.doc.bkz)
+/Name (threadcol)
+/Size 290571 
+/CRC -371459284 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\threadcol.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\threadcol.source.bkz)
+/Name (threadcol)
+/Size 92853 
+/CRC -697219321 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

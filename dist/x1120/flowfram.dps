@@ -1,0 +1,76 @@
+% Unpacking components of module [flowfram] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\flowfram.tds.zip)
+/Name (flowfram)
+/Size 2083562 
+/CRC -1859750222 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\flowfram.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\flowfram.bkz)
+/Name (flowfram)
+/Size 18333 
+/CRC -1596617961 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\flowfram.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\flowfram\\flowfram.perl)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\flowfram\\flowfram.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\flowfram\\flowfram.sty)
+/OldSize 136615 
+/NewSize 207080 
+/Line 10 
+/NewLine (%%  Copyright 2008 Nicola Talbot)
+/OldLine (%%  Copyright 2014 Nicola Talbot)
+>>
+<<
+/Type /Status 
+/Name (flowfram)
+/Status /Updated 
+/Differences 2 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\flowfram.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\flowfram.bkz)
+/Name (flowfram)
+/Size 23584 
+/CRC -617941792 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\flowfram.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\flowfram.doc.bkz)
+/Name (flowfram)
+/Size 1763370 
+/CRC 806301989 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\flowfram.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\flowfram.source.bkz)
+/Name (flowfram)
+/Size 55119 
+/CRC -1571811118 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

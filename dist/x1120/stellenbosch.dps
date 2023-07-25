@@ -1,0 +1,609 @@
+% Unpacking components of module [stellenbosch] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\stellenbosch.tds.zip)
+/Name (stellenbosch)
+/Size 4736442 
+/CRC -499420959 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V904\stellenbosch.bkz]
+<<
+/Type /BKZ 
+/File (.\\V904\\stellenbosch.bkz)
+/Name (stellenbosch)
+/Size 700980 
+/CRC 1080295564 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V904\stellenbosch.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\stellenbosch\\usmeg-a.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\stellenbosch\\usmeg-a.bst)
+/OldSize 33230 
+/NewSize 33230 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\stellenbosch\\usmeg-n.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\stellenbosch\\usmeg-n.bst)
+/OldSize 33456 
+/NewSize 33456 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\stellenbosch\\ussagus.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\stellenbosch\\ussagus.bst)
+/OldSize 33183 
+/NewSize 33183 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-BW.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-BW.eps)
+/OldSize 50374 
+/NewSize 50374 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-BW.jpg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-BW.jpg)
+/OldSize 60628 
+/NewSize 60628 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-stack.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-stack.eps)
+/OldSize 106411 
+/NewSize 108098 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-stack.jpg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-stack.jpg)
+/OldSize 83102 
+/NewSize 83102 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-top.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-top.eps)
+/OldSize 114216 
+/NewSize 116013 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-top.jpg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-top.jpg)
+/OldSize 89266 
+/NewSize 89266 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-WM.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-WM.eps)
+/OldSize 43450 
+/NewSize 43450 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-WM.jpg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest-WM.jpg)
+/OldSize 32990 
+/NewSize 32990 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest.eps)
+/OldSize 64240 
+/NewSize 64240 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest.jpg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\UScrest.jpg)
+/OldSize 63547 
+/NewSize 63547 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-BW-top.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-BW-top.eps)
+/OldSize 34534 
+/NewSize 34788 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-BW-top.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-BW-top.pdf)
+/OldSize 9768 
+/NewSize 9818 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-BW.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-BW.eps)
+/OldSize 9845 
+/NewSize 10075 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-BW.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-BW.pdf)
+/OldSize 2822 
+/NewSize 2945 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-top.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-top.eps)
+/OldSize 34553 
+/NewSize 34788 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-top.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo-top.pdf)
+/OldSize 9779 
+/NewSize 9825 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo.eps)
+/OldSize 9861 
+/NewSize 10072 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USEngLogo.pdf)
+/OldSize 2830 
+/NewSize 2951 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-BW.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-BW.eps)
+/OldSize 13016 
+/NewSize 13250 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-BW.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-BW.pdf)
+/OldSize 3377 
+/NewSize 3514 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-gold.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-gold.eps)
+/OldSize 13047 
+/NewSize 13270 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-gold.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-gold.pdf)
+/OldSize 3395 
+/NewSize 3531 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-grey.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-grey.eps)
+/OldSize 13047 
+/NewSize 13270 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-grey.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-grey.pdf)
+/OldSize 3395 
+/NewSize 3531 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-maroon.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-maroon.eps)
+/OldSize 13047 
+/NewSize 13281 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-maroon.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USleaf-maroon.pdf)
+/OldSize 3391 
+/NewSize 3534 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-left.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-left.eps)
+/OldSize 60522 
+/NewSize 60807 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-left.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-left.pdf)
+/OldSize 9289 
+/NewSize 9438 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-stack.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-stack.eps)
+/OldSize 36232 
+/NewSize 36516 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-stack.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-stack.pdf)
+/OldSize 6314 
+/NewSize 6433 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-top.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-top.eps)
+/OldSize 60568 
+/NewSize 60850 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-top.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW-top.pdf)
+/OldSize 9225 
+/NewSize 9361 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW.eps)
+/OldSize 12571 
+/NewSize 12793 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-BW.pdf)
+/OldSize 3903 
+/NewSize 4029 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-left.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-left.eps)
+/OldSize 60569 
+/NewSize 60835 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-left.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-left.pdf)
+/OldSize 9314 
+/NewSize 9459 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-stack.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-stack.eps)
+/OldSize 36282 
+/NewSize 36547 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-stack.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-stack.pdf)
+/OldSize 6344 
+/NewSize 6461 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-top.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-top.eps)
+/OldSize 60615 
+/NewSize 60878 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-top.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo-top.pdf)
+/OldSize 9251 
+/NewSize 9385 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo.eps)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo.eps)
+/OldSize 12621 
+/NewSize 12824 
+/Line 2 
+/NewLine (%%Creator: dvips\(k\) 5.95b Copyright 2005 Radical Eye Software)
+/OldLine (%%Creator: dvips\(k\) 5.994 Copyright 2014 Radical Eye Software)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo.pdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\logos\\USlogo.pdf)
+/OldSize 3926 
+/NewSize 4051 
+/Line 1 
+/NewLine (%PDF-1.4)
+/OldLine (%PDF-1.5)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\usbib.afr)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\usbib.afr)
+/OldSize 1300 
+/NewSize 1300 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\usbib.eng)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\usbib.eng)
+/OldSize 1211 
+/NewSize 1211 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\usbib.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\usbib.sty)
+/OldSize 1032 
+/NewSize 1032 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\usnomencl.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\usnomencl.sty)
+/OldSize 2711 
+/NewSize 2711 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\ussummary.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\ussummary.sty)
+/OldSize 3767 
+/NewSize 3767 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\usthesis.afr)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\usthesis.afr)
+/OldSize 2506 
+/NewSize 2639 
+/Line 19 
+/NewLine (\\ProvidesFile{usthesis.afr}[2008/05/29)
+/OldLine (\\ProvidesFile{usthesis.afr}[2014/11/28  )
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\usthesis.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\usthesis.cls)
+/OldSize 24289 
+/NewSize 25936 
+/Line 8 
+/NewLine (%%  Copyright \(C\) 2003--2009 Danie Els)
+/OldLine (%%  Copyright \(C\) 2003--2014 Danie Els)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\usthesis.eng)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\usthesis.eng)
+/OldSize 2429 
+/NewSize 2623 
+/Line 19 
+/NewLine (\\ProvidesFile{usthesis.eng}[2009/02/17  )
+/OldLine (\\ProvidesFile{usthesis.eng}[2014/11/28  )
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\usthesis.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\usthesis.sty)
+/OldSize 19824 
+/NewSize 21481 
+/Line 8 
+/NewLine (%% Copyright \(C\) 2003--2009 Danie Els)
+/OldLine (%% Copyright \(C\) 2003--2014 Danie Els)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stellenbosch\\ustitle.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stellenbosch\\ustitle.sty)
+/OldSize 7331 
+/NewSize 7331 
+>>
+<<
+/Type /Status 
+/Name (stellenbosch)
+/Status /Updated 
+/Differences 36 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\stellenbosch.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\stellenbosch.bkz)
+/Name (stellenbosch)
+/Size 701160 
+/CRC -318778053 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\stellenbosch.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\stellenbosch.doc.bkz)
+/Name (stellenbosch)
+/Size 3080041 
+/CRC -1641521960 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\stellenbosch.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\stellenbosch.source.bkz)
+/Name (stellenbosch)
+/Size 415463 
+/CRC 450448413 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

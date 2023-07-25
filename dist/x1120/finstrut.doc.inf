@@ -1,0 +1,16 @@
+:finstrut.doc:x1120:0.211138:116110580:174037:2E1B-750E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+finstrut
+
+./doc/latex/finstrut:
+finstrut.pdf
+fstrutst.pdf
+README
+SRCFILEs.txt

@@ -1,0 +1,15 @@
+:morefloats.source:x1120:0.087052:116110580:14180:7257-A1C9:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+morefloats
+
+./source/latex/morefloats:
+morefloats.drv
+morefloats.dtx
+morefloats.ins

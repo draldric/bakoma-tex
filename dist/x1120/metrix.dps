@@ -1,0 +1,48 @@
+% Unpacking components of module [metrix] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\metrix.tds.zip)
+/Name (metrix)
+/Size 535924 
+/CRC -1559258906 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (metrix)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\metrix.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\metrix.bkz)
+/Name (metrix)
+/Size 4650 
+/CRC -231510094 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\metrix.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\metrix.doc.bkz)
+/Name (metrix)
+/Size 516028 
+/CRC -2022504527 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\metrix.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\metrix.source.bkz)
+/Name (metrix)
+/Size 16252 
+/CRC -3456306 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

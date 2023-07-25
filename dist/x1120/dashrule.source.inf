@@ -1,0 +1,14 @@
+:dashrule.source:x1120:0.018588:116110580:5808:BD43-2DD8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dashrule
+
+./source/latex/dashrule:
+dashrule.dtx
+dashrule.ins

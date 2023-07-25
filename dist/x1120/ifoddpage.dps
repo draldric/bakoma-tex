@@ -1,0 +1,48 @@
+% Unpacking components of module [ifoddpage] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ifoddpage.tds.zip)
+/Name (ifoddpage)
+/Size 140462 
+/CRC -1046583985 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (ifoddpage)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ifoddpage.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifoddpage.bkz)
+/Name (ifoddpage)
+/Size 884 
+/CRC 520661925 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ifoddpage.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifoddpage.doc.bkz)
+/Name (ifoddpage)
+/Size 134642 
+/CRC 1435374230 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ifoddpage.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifoddpage.source.bkz)
+/Name (ifoddpage)
+/Size 3902 
+/CRC -624076532 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

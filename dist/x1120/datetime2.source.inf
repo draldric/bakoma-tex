@@ -1,0 +1,14 @@
+:datetime2.source:x1120:0.308229:116110580:49950:F6-8268:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+datetime2
+
+./source/latex/datetime2:
+datetime2.dtx
+datetime2.ins

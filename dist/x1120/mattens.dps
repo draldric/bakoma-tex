@@ -1,0 +1,72 @@
+% Unpacking components of module [mattens] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\mattens.tds.zip)
+/Name (mattens)
+/Size 732372 
+/CRC 875902661 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\mattens.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\mattens.bkz)
+/Name (mattens)
+/Size 2404 
+/CRC 317575933 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\mattens.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\mattens\\mattens.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\mattens\\mattens.sty)
+/OldSize 9795 
+/NewSize 9795 
+/Line 9 
+/NewLine (%% Copyright \(C\) 2001--2009 Danie Els)
+/OldLine (%% Copyright \(C\) 2001--2010 Danie Els)
+>>
+<<
+/Type /Status 
+/Name (mattens)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\mattens.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mattens.bkz)
+/Name (mattens)
+/Size 2405 
+/CRC -985450203 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mattens.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mattens.doc.bkz)
+/Name (mattens)
+/Size 708546 
+/CRC -537464587 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mattens.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mattens.source.bkz)
+/Name (mattens)
+/Size 14097 
+/CRC -2009950188 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

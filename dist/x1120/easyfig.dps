@@ -1,0 +1,48 @@
+% Unpacking components of module [easyfig] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\easyfig.tds.zip)
+/Name (easyfig)
+/Size 252372 
+/CRC 534771386 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (easyfig)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\easyfig.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\easyfig.bkz)
+/Name (easyfig)
+/Size 1248 
+/CRC -1222682243 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\easyfig.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\easyfig.doc.bkz)
+/Name (easyfig)
+/Size 246298 
+/CRC 2076296108 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\easyfig.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\easyfig.source.bkz)
+/Name (easyfig)
+/Size 4801 
+/CRC -976764247 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

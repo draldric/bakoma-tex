@@ -1,0 +1,16 @@
+:mattens.doc:x1120:0.774362:116110580:708546:DFF6-F0F5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mattens
+
+./doc/latex/mattens:
+mattens.pdf
+mattens_sample.pdf
+mattens_sample_src.zip
+README

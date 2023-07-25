@@ -1,0 +1,13 @@
+:moderntimeline:x1120:0.007574:116110580:1847:9D1F-4522:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+moderntimeline
+
+./tex/latex/moderntimeline:
+moderntimeline.sty

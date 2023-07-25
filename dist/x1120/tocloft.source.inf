@@ -1,0 +1,14 @@
+:tocloft.source:x1120:0.137179:116110580:27772:A66D-BD74:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tocloft
+
+./source/latex/tocloft:
+tocloft.dtx
+tocloft.ins

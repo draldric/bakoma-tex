@@ -1,0 +1,13 @@
+:ifoddpage:x1120:0.002196:116110580:884:1F08-ABA5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ifoddpage
+
+./tex/latex/ifoddpage:
+ifoddpage.sty

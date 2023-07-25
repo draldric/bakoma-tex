@@ -1,0 +1,2482 @@
+% Unpacking components of module [minitoc] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\minitoc.tds.zip)
+/Name (minitoc)
+/Size 6912683 
+/CRC 1402127454 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\minitoc.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\minitoc.bkz)
+/Name (minitoc)
+/Size 50040 
+/CRC 251783745 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\minitoc.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\acadian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\acadian.mld)
+/OldSize 1195 
+/NewSize 1234 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\acadien.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\acadien.mld)
+/OldSize 1195 
+/NewSize 1234 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\afrikaan.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\afrikaan.mld)
+/OldSize 1520 
+/NewSize 1559 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\afrikaans.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\afrikaans.mld)
+/OldSize 1205 
+/NewSize 1244 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\albanian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\albanian.mld)
+/OldSize 1507 
+/NewSize 1546 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\american.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\american.mld)
+/OldSize 1200 
+/NewSize 1239 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\arab.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\arab.mld)
+/OldSize 1546 
+/NewSize 1585 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\arab2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\arab2.mld)
+/OldSize 1715 
+/NewSize 1754 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\arabi.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\arabi.mld)
+/OldSize 1958 
+/NewSize 1997 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\arabic.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\arabic.mld)
+/OldSize 1189 
+/NewSize 1228 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\armenian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\armenian.mld)
+/OldSize 1581 
+/NewSize 1620 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\australian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\australian.mld)
+/OldSize 1208 
+/NewSize 1247 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\austrian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\austrian.mld)
+/OldSize 1199 
+/NewSize 1238 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\bahasa.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\bahasa.mld)
+/OldSize 1192 
+/NewSize 1231 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\bahasai.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\bahasai.mld)
+/OldSize 1523 
+/NewSize 1562 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\bahasam.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\bahasam.mld)
+/OldSize 1544 
+/NewSize 1583 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\bangla.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\bangla.mld)
+/OldSize 1528 
+/NewSize 1567 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\basque.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\basque.mld)
+/OldSize 1718 
+/NewSize 1757 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\bengali.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\bengali.mld)
+/OldSize 1195 
+/NewSize 1234 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\bicig.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\bicig.mld)
+/OldSize 1547 
+/NewSize 1586 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\bicig2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\bicig2.mld)
+/OldSize 1515 
+/NewSize 1554 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\bicig3.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\bicig3.mld)
+/OldSize 1524 
+/NewSize 1563 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\bithe.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\bithe.mld)
+/OldSize 1485 
+/NewSize 1524 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\brazil.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\brazil.mld)
+/OldSize 1550 
+/NewSize 1589 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\brazilian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\brazilian.mld)
+/OldSize 1203 
+/NewSize 1242 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\breton.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\breton.mld)
+/OldSize 1537 
+/NewSize 1576 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\british.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\british.mld)
+/OldSize 1196 
+/NewSize 1235 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\bulgarian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\bulgarian.mld)
+/OldSize 2294 
+/NewSize 2333 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\bulgarianb.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\bulgarianb.mld)
+/OldSize 1957 
+/NewSize 1996 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\buryat.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\buryat.mld)
+/OldSize 1573 
+/NewSize 1612 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\buryat2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\buryat2.mld)
+/OldSize 1569 
+/NewSize 1608 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\canadian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\canadian.mld)
+/OldSize 1200 
+/NewSize 1239 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\canadien.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\canadien.mld)
+/OldSize 1199 
+/NewSize 1238 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\castillan.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\castillan.mld)
+/OldSize 1204 
+/NewSize 1243 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\castillian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\castillian.mld)
+/OldSize 1208 
+/NewSize 1247 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\catalan.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\catalan.mld)
+/OldSize 1468 
+/NewSize 1507 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\chinese1.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\chinese1.mld)
+/OldSize 1404 
+/NewSize 1443 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\chinese1.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\chinese1.mlo)
+/OldSize 645 
+/NewSize 645 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\chinese2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\chinese2.mld)
+/OldSize 1418 
+/NewSize 1457 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\chinese2.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\chinese2.mlo)
+/OldSize 910 
+/NewSize 910 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\croatian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\croatian.mld)
+/OldSize 1481 
+/NewSize 1520 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\czech.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\czech.mld)
+/OldSize 1506 
+/NewSize 1545 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\danish.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\danish.mld)
+/OldSize 1466 
+/NewSize 1505 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\devanagari.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\devanagari.mld)
+/OldSize 1766 
+/NewSize 1805 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\dutch.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\dutch.mld)
+/OldSize 1519 
+/NewSize 1558 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\english.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\english.mld)
+/OldSize 1478 
+/NewSize 1517 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\english1.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\english1.mld)
+/OldSize 1835 
+/NewSize 1874 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\english2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\english2.mld)
+/OldSize 2071 
+/NewSize 2110 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\esperant.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\esperant.mld)
+/OldSize 1522 
+/NewSize 1561 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\esperanto.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\esperanto.mld)
+/OldSize 1205 
+/NewSize 1244 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\estonian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\estonian.mld)
+/OldSize 1450 
+/NewSize 1489 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\ethiopia.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\ethiopia.mld)
+/OldSize 1832 
+/NewSize 1871 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\ethiopian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\ethiopian.mld)
+/OldSize 1205 
+/NewSize 1244 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\ethiopian2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\ethiopian2.mld)
+/OldSize 1878 
+/NewSize 1917 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\farsi1.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\farsi1.mld)
+/OldSize 1349 
+/NewSize 1388 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\farsi1.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\farsi1.mlo)
+/OldSize 667 
+/NewSize 577 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\farsi2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\farsi2.mld)
+/OldSize 1340 
+/NewSize 1379 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\farsi2.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\farsi2.mlo)
+/OldSize 667 
+/NewSize 577 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\farsi3.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\farsi3.mld)
+/OldSize 1830 
+/NewSize 1869 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\finnish.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\finnish.mld)
+/OldSize 1470 
+/NewSize 1509 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\finnish2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\finnish2.mld)
+/OldSize 1481 
+/NewSize 1520 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\francais.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\francais.mld)
+/OldSize 1199 
+/NewSize 1238 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\french.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\french.mld)
+/OldSize 1479 
+/NewSize 1518 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\french1.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\french1.mld)
+/OldSize 1856 
+/NewSize 1895 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\french2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\french2.mld)
+/OldSize 2296 
+/NewSize 2335 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\frenchb.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\frenchb.mld)
+/OldSize 1195 
+/NewSize 1234 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\frenchle.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\frenchle.mld)
+/OldSize 1199 
+/NewSize 1238 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\frenchpro.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\frenchpro.mld)
+/OldSize 1203 
+/NewSize 1242 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\galician.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\galician.mld)
+/OldSize 1865 
+/NewSize 1904 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\german.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\german.mld)
+/OldSize 1419 
+/NewSize 1458 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\germanb.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\germanb.mld)
+/OldSize 1556 
+/NewSize 1595 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\germanb2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\germanb2.mld)
+/OldSize 1428 
+/NewSize 1467 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\greek-mono.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\greek-mono.mld)
+/OldSize 2662 
+/NewSize 2701 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\greek-polydemo.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\greek-polydemo.mld)
+/OldSize 2677 
+/NewSize 2716 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\greek-polykatha.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\greek-polykatha.mld)
+/OldSize 2672 
+/NewSize 2711 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\greek.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\greek.mld)
+/OldSize 1551 
+/NewSize 1590 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\guarani.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\guarani.mld)
+/OldSize 1570 
+/NewSize 1609 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hangul-u8.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hangul-u8.mld)
+/OldSize 1319 
+/NewSize 1358 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hangul-u8.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hangul-u8.mlo)
+/OldSize 617 
+/NewSize 599 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hangul1.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hangul1.mld)
+/OldSize 1469 
+/NewSize 1508 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hangul1.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hangul1.mlo)
+/OldSize 668 
+/NewSize 668 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hangul2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hangul2.mld)
+/OldSize 1480 
+/NewSize 1519 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hangul2.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hangul2.mlo)
+/OldSize 982 
+/NewSize 982 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hangul3.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hangul3.mld)
+/OldSize 1476 
+/NewSize 1515 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hangul3.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hangul3.mlo)
+/OldSize 675 
+/NewSize 675 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hangul4.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hangul4.mld)
+/OldSize 1494 
+/NewSize 1533 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hangul4.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hangul4.mlo)
+/OldSize 989 
+/NewSize 989 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hanja-u8.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hanja-u8.mld)
+/OldSize 1313 
+/NewSize 1352 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hanja-u8.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hanja-u8.mlo)
+/OldSize 623 
+/NewSize 596 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hanja1.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hanja1.mld)
+/OldSize 1481 
+/NewSize 1520 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hanja1.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hanja1.mlo)
+/OldSize 978 
+/NewSize 978 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hanja2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hanja2.mld)
+/OldSize 1484 
+/NewSize 1523 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hanja2.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hanja2.mlo)
+/OldSize 680 
+/NewSize 680 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hebrew.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hebrew.mld)
+/OldSize 1859 
+/NewSize 1898 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hebrew2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hebrew2.mld)
+/OldSize 2347 
+/NewSize 2386 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hindi-modern.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hindi-modern.mld)
+/OldSize 1791 
+/NewSize 1830 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hindi.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hindi.mld)
+/OldSize 1191 
+/NewSize 1230 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\hungarian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\hungarian.mld)
+/OldSize 1203 
+/NewSize 1242 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\icelandic.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\icelandic.mld)
+/OldSize 1539 
+/NewSize 1578 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\indon.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\indon.mld)
+/OldSize 1188 
+/NewSize 1227 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\indonesian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\indonesian.mld)
+/OldSize 1208 
+/NewSize 1247 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\interlingua.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\interlingua.mld)
+/OldSize 1492 
+/NewSize 1531 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\irish.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\irish.mld)
+/OldSize 1527 
+/NewSize 1566 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\italian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\italian.mld)
+/OldSize 1601 
+/NewSize 1640 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\italian2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\italian2.mld)
+/OldSize 1538 
+/NewSize 1577 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese.mld)
+/OldSize 1394 
+/NewSize 1433 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese.mlo)
+/OldSize 832 
+/NewSize 751 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese2.mld)
+/OldSize 1454 
+/NewSize 1493 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese2.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese2.mlo)
+/OldSize 652 
+/NewSize 652 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese3.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese3.mld)
+/OldSize 1468 
+/NewSize 1507 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese3.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese3.mlo)
+/OldSize 933 
+/NewSize 933 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese4.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese4.mld)
+/OldSize 1429 
+/NewSize 1468 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese4.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese4.mlo)
+/OldSize 834 
+/NewSize 753 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese5.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese5.mld)
+/OldSize 1470 
+/NewSize 1509 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese5.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese5.mlo)
+/OldSize 996 
+/NewSize 924 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese6.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese6.mld)
+/OldSize 1400 
+/NewSize 1439 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\japanese6.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\japanese6.mlo)
+/OldSize 741 
+/NewSize 678 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\kannada.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\kannada.mld)
+/OldSize 1609 
+/NewSize 1648 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\khalkha.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\khalkha.mld)
+/OldSize 1193 
+/NewSize 1232 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\latin.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\latin.mld)
+/OldSize 1587 
+/NewSize 1626 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\latin2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\latin2.mld)
+/OldSize 1563 
+/NewSize 1602 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\latinc.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\latinc.mld)
+/OldSize 1572 
+/NewSize 1611 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\latinc2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\latinc2.mld)
+/OldSize 1542 
+/NewSize 1581 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\latvian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\latvian.mld)
+/OldSize 1676 
+/NewSize 1715 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\latvian2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\latvian2.mld)
+/OldSize 1509 
+/NewSize 1548 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\letton.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\letton.mld)
+/OldSize 1192 
+/NewSize 1231 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\letton2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\letton2.mld)
+/OldSize 1197 
+/NewSize 1236 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\lithuanian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\lithuanian.mld)
+/OldSize 1693 
+/NewSize 1732 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\lithuanian2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\lithuanian2.mld)
+/OldSize 1684 
+/NewSize 1723 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\lowersorbian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\lowersorbian.mld)
+/OldSize 1536 
+/NewSize 1575 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\lsorbian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\lsorbian.mld)
+/OldSize 1205 
+/NewSize 1244 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\magyar.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\magyar.mld)
+/OldSize 1482 
+/NewSize 1521 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\magyar2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\magyar2.mld)
+/OldSize 1560 
+/NewSize 1599 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\magyar3.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\magyar3.mld)
+/OldSize 1593 
+/NewSize 1632 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\malay.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\malay.mld)
+/OldSize 1188 
+/NewSize 1227 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\malayalam-b.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\malayalam-b.mld)
+/OldSize 1851 
+/NewSize 1890 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\malayalam-keli.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\malayalam-keli.mld)
+/OldSize 1888 
+/NewSize 1927 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\malayalam-keli2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\malayalam-keli2.mld)
+/OldSize 1864 
+/NewSize 1903 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\malayalam-mr.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\malayalam-mr.mld)
+/OldSize 1846 
+/NewSize 1885 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\malayalam-omega.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\malayalam-omega.mld)
+/OldSize 1277 
+/NewSize 1316 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\malayalam-omega.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\malayalam-omega.mlo)
+/OldSize 905 
+/NewSize 707 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\malayalam-rachana.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\malayalam-rachana.mld)
+/OldSize 1903 
+/NewSize 1942 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\malayalam-rachana2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\malayalam-rachana2.mld)
+/OldSize 1918 
+/NewSize 1957 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\malayalam-rachana3.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\malayalam-rachana3.mld)
+/OldSize 1894 
+/NewSize 1933 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\manju.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\manju.mld)
+/OldSize 1186 
+/NewSize 1225 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\mexican.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\mexican.mld)
+/OldSize 1623 
+/NewSize 1662 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\meyalu.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\meyalu.mld)
+/OldSize 1192 
+/NewSize 1231 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\minitoc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\minitoc.sty)
+/OldSize 172571 
+/NewSize 172603 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\mongol.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\mongol.mld)
+/OldSize 1560 
+/NewSize 1599 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\mongolb.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\mongolb.mld)
+/OldSize 2699 
+/NewSize 2738 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\mongolian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\mongolian.mld)
+/OldSize 1204 
+/NewSize 1243 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\mtcmess.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\mtcmess.sty)
+/OldSize 1548 
+/NewSize 1587 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\mtcoff.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\mtcoff.sty)
+/OldSize 16645 
+/NewSize 16684 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\mtcpatchmem.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\mtcpatchmem.sty)
+/OldSize 2610 
+/NewSize 2649 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\naustrian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\naustrian.mld)
+/OldSize 1205 
+/NewSize 1244 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\newzealand.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\newzealand.mld)
+/OldSize 1208 
+/NewSize 1247 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\ngerman.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\ngerman.mld)
+/OldSize 1197 
+/NewSize 1236 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\ngermanb.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\ngermanb.mld)
+/OldSize 1592 
+/NewSize 1631 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\ngermanb2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\ngermanb2.mld)
+/OldSize 1440 
+/NewSize 1479 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\norsk.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\norsk.mld)
+/OldSize 1595 
+/NewSize 1634 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\norsk2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\norsk2.mld)
+/OldSize 1462 
+/NewSize 1501 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\nynorsk.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\nynorsk.mld)
+/OldSize 1604 
+/NewSize 1643 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\nynorsk2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\nynorsk2.mld)
+/OldSize 1465 
+/NewSize 1504 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\occitan.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\occitan.mld)
+/OldSize 1565 
+/NewSize 1604 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\occitan2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\occitan2.mld)
+/OldSize 1512 
+/NewSize 1551 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\polish.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\polish.mld)
+/OldSize 1511 
+/NewSize 1550 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\polish2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\polish2.mld)
+/OldSize 1678 
+/NewSize 1717 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\polski.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\polski.mld)
+/OldSize 1502 
+/NewSize 1541 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\portuges.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\portuges.mld)
+/OldSize 1203 
+/NewSize 1242 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\portuguese.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\portuguese.mld)
+/OldSize 1533 
+/NewSize 1572 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\romanian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\romanian.mld)
+/OldSize 1544 
+/NewSize 1583 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\romanian2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\romanian2.mld)
+/OldSize 1575 
+/NewSize 1614 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\romanian3.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\romanian3.mld)
+/OldSize 1599 
+/NewSize 1638 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-cca.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-cca.mld)
+/OldSize 1395 
+/NewSize 1434 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-cca.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-cca.mlo)
+/OldSize 738 
+/NewSize 711 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-cca1.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-cca1.mld)
+/OldSize 1442 
+/NewSize 1481 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-cca1.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-cca1.mlo)
+/OldSize 608 
+/NewSize 581 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-lh.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-lh.mld)
+/OldSize 1335 
+/NewSize 1374 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-lh.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-lh.mlo)
+/OldSize 718 
+/NewSize 688 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-lhcyralt.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-lhcyralt.mld)
+/OldSize 1394 
+/NewSize 1433 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-lhcyralt.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-lhcyralt.mlo)
+/OldSize 576 
+/NewSize 549 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-lhcyrkoi.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-lhcyrkoi.mld)
+/OldSize 1385 
+/NewSize 1424 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-lhcyrkoi.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-lhcyrkoi.mlo)
+/OldSize 549 
+/NewSize 549 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-lhcyrwin.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-lhcyrwin.mld)
+/OldSize 1369 
+/NewSize 1408 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian-lhcyrwin.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian-lhcyrwin.mlo)
+/OldSize 549 
+/NewSize 549 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian.mld)
+/OldSize 1514 
+/NewSize 1553 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian2m.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian2m.mld)
+/OldSize 2569 
+/NewSize 2608 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russian2o.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russian2o.mld)
+/OldSize 2639 
+/NewSize 2678 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russianb.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russianb.mld)
+/OldSize 2330 
+/NewSize 2369 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\russianc.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\russianc.mld)
+/OldSize 1558 
+/NewSize 1597 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\samin.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\samin.mld)
+/OldSize 1465 
+/NewSize 1504 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\scottish.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\scottish.mld)
+/OldSize 1509 
+/NewSize 1548 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\serbian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\serbian.mld)
+/OldSize 1474 
+/NewSize 1513 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\serbianc.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\serbianc.mld)
+/OldSize 1786 
+/NewSize 1825 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\slovak.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\slovak.mld)
+/OldSize 1522 
+/NewSize 1561 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\slovene.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\slovene.mld)
+/OldSize 1455 
+/NewSize 1494 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\spanish.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\spanish.mld)
+/OldSize 1618 
+/NewSize 1657 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\spanish2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\spanish2.mld)
+/OldSize 1423 
+/NewSize 1462 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\spanish3.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\spanish3.mld)
+/OldSize 1734 
+/NewSize 1773 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\spanish4.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\spanish4.mld)
+/OldSize 1620 
+/NewSize 1659 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\swahili.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\swahili.mld)
+/OldSize 1614 
+/NewSize 1653 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\swedish.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\swedish.mld)
+/OldSize 1525 
+/NewSize 1564 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\swedish2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\swedish2.mld)
+/OldSize 1600 
+/NewSize 1639 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\thai.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\thai.mld)
+/OldSize 1272 
+/NewSize 1311 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\thai.mlo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\thai.mlo)
+/OldSize 490 
+/NewSize 490 
+/Line 3 
+/NewLine (%% from source `minitoc' on 2008/07/16.)
+/OldLine (%% from source `minitoc' on 2015/07/13.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\turkish.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\turkish.mld)
+/OldSize 1515 
+/NewSize 1554 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\uighur.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\uighur.mld)
+/OldSize 1190 
+/NewSize 1229 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\uighur2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\uighur2.mld)
+/OldSize 1195 
+/NewSize 1234 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\uighur3.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\uighur3.mld)
+/OldSize 1195 
+/NewSize 1234 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\UKenglish.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\UKenglish.mld)
+/OldSize 1204 
+/NewSize 1243 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\ukraineb.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\ukraineb.mld)
+/OldSize 1202 
+/NewSize 1241 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\ukrainian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\ukrainian.mld)
+/OldSize 2127 
+/NewSize 2166 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\uppersorbian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\uppersorbian.mld)
+/OldSize 1532 
+/NewSize 1571 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\USenglish.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\USenglish.mld)
+/OldSize 1204 
+/NewSize 1243 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\usorbian.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\usorbian.mld)
+/OldSize 1205 
+/NewSize 1244 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\vietnam.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\vietnam.mld)
+/OldSize 1514 
+/NewSize 1553 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\vietnamese.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\vietnamese.mld)
+/OldSize 1208 
+/NewSize 1247 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\welsh.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\welsh.mld)
+/OldSize 1488 
+/NewSize 1527 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\xalx.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\xalx.mld)
+/OldSize 1532 
+/NewSize 1571 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\xalx2.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\xalx2.mld)
+/OldSize 1540 
+/NewSize 1579 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minitoc\\xalx3.mld)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minitoc\\xalx3.mld)
+/OldSize 1516 
+/NewSize 1555 
+/Line 21 
+/NewLine (%% This work has the LPPL maintenance status "author-maintained".)
+/OldLine (%% This work has the LPPL maintenance status "unmaintained".)
+>>
+<<
+/Type /Status 
+/Name (minitoc)
+/Status /Updated 
+/Differences 221 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\minitoc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\minitoc.bkz)
+/Name (minitoc)
+/Size 37727 
+/CRC -1390814116 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\minitoc.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\minitoc.doc.bkz)
+/Name (minitoc)
+/Size 6270047 
+/CRC -1186335995 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

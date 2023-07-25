@@ -1,0 +1,72 @@
+% Unpacking components of module [vertbars] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\vertbars.tds.zip)
+/Name (vertbars)
+/Size 38771 
+/CRC 1089463145 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\vertbars.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\vertbars.bkz)
+/Name (vertbars)
+/Size 1557 
+/CRC 2064095435 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\vertbars.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\vertbars\\vertbars.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\vertbars\\vertbars.sty)
+/OldSize 3505 
+/NewSize 1433 
+/Line 1 
+/NewLine (% vertbars.sty  The VERTical BARS package)
+/OldLine (%% LaTeX2e file `vertbars.sty')
+>>
+<<
+/Type /Status 
+/Name (vertbars)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\vertbars.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\vertbars.bkz)
+/Name (vertbars)
+/Size 706 
+/CRC 49467569 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\vertbars.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\vertbars.doc.bkz)
+/Name (vertbars)
+/Size 33768 
+/CRC 980464530 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\vertbars.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\vertbars.source.bkz)
+/Name (vertbars)
+/Size 2422 
+/CRC 1923845391 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

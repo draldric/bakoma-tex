@@ -1,0 +1,48 @@
+% Unpacking components of module [download] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\download.tds.zip)
+/Name (download)
+/Size 152227 
+/CRC 1468157228 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (download)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\download.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\download.bkz)
+/Name (download)
+/Size 1507 
+/CRC 1226234690 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\download.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\download.doc.bkz)
+/Name (download)
+/Size 144579 
+/CRC -152036202 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\download.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\download.source.bkz)
+/Name (download)
+/Size 5175 
+/CRC 618310720 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,14 @@
+:acmart.source:x1135:0.16384:117053088:33586:7970-DF23:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+acmart
+
+./source/latex/acmart:
+acmart.dtx
+acmart.ins

@@ -1,0 +1,15 @@
+:regstats.source:x1120:0.056596:116110580:13004:6B3A-8646:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+regstats
+
+./source/latex/regstats:
+regstats.drv
+regstats.dtx
+regstats.ins

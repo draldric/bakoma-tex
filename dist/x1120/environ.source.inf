@@ -1,0 +1,14 @@
+:environ.source:x1120:0.020319:116110580:6150:9494-82A5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+environ
+
+./source/latex/environ:
+environ.dtx
+environ.ins

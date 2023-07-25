@@ -1,0 +1,14 @@
+:xcjk2uni.source:x1120:0.034721:116110580:6917:7D95-794A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xcjk2uni
+
+./source/latex/xcjk2uni:
+xCJK2uni.dtx
+xCJK2uni.ins

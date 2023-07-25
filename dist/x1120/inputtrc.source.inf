@@ -1,0 +1,15 @@
+:inputtrc.source:x1120:0.022113:116110580:6862:37ED-A06D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+inputtrc
+
+./source/latex/inputtrc:
+inputtrc.tex
+README.tex
+srcfiles.tex

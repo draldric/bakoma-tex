@@ -1,0 +1,14 @@
+:datatool.source:x1120:0.822904:116110580:100862:5BFD-17D3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+datatool
+
+./source/latex/datatool:
+datatool.dtx
+datatool.ins

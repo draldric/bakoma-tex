@@ -1,0 +1,13 @@
+:verse:x1120:0.009076:116110580:2738:5825-D534:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+verse
+
+./tex/latex/verse:
+verse.sty

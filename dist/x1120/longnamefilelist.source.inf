@@ -1,0 +1,14 @@
+:longnamefilelist.source:x1120:0.002898:116110580:1393:7842-2FF1:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+longnamefilelist
+
+./source/latex/longnamefilelist:
+longnamefilelist.tex
+srcfiles.tex

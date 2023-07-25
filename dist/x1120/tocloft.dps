@@ -1,0 +1,72 @@
+% Unpacking components of module [tocloft] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\tocloft.tds.zip)
+/Name (tocloft)
+/Size 484409 
+/CRC 2109061469 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\tocloft.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\tocloft.bkz)
+/Name (tocloft)
+/Size 5342 
+/CRC -45887148 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\tocloft.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tocloft\\tocloft.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tocloft\\tocloft.sty)
+/OldSize 34541 
+/NewSize 34706 
+/Line 26 
+/NewLine (\\ProvidesPackage{tocloft}[2009/09/04 v2.3d parameterised ToC, etc., typesetting])
+/OldLine (\\ProvidesPackage{tocloft}[2013/05/02 v2.3f parameterised ToC, etc., typesetting])
+>>
+<<
+/Type /Status 
+/Name (tocloft)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\tocloft.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tocloft.bkz)
+/Name (tocloft)
+/Size 5358 
+/CRC 356404411 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tocloft.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tocloft.doc.bkz)
+/Name (tocloft)
+/Size 448711 
+/CRC -1501601949 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tocloft.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tocloft.source.bkz)
+/Name (tocloft)
+/Size 27772 
+/CRC -1502757516 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

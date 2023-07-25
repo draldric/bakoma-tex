@@ -1,0 +1,14 @@
+:acroterm.doc:x1120:0.174014:116110580:157645:A893-1B0F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+acroterm
+
+./doc/latex/acroterm:
+acroterm.pdf
+README

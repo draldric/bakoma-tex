@@ -1,0 +1,38 @@
+% Unpacking components of module [gitinfo] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\gitinfo.tds.zip)
+/Name (gitinfo)
+/Size 87502 
+/CRC -489397687 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (gitinfo)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\gitinfo.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gitinfo.bkz)
+/Name (gitinfo)
+/Size 1424 
+/CRC 1201016956 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\gitinfo.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gitinfo.doc.bkz)
+/Name (gitinfo)
+/Size 83572 
+/CRC 349251165 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

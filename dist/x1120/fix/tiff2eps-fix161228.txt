@@ -1,0 +1,17 @@
+This fix (2016/12/28) is based on code base of V 11.20,
+which fix error/warning reporting in TIFF2EPS stream filter.
+
+This pack includes BIN\Win32\TIFF2EPS.exe and BIN\Win64\TIFF2EPS.exe
+
+It work only with version 11.20 (IT IS INCOMPATIBLE WITH PREVIOUS VERSIONS !!!)
+
+To apply the fix just unpack 
+http://www.bakoma-tex.com/dist/x1120/fix/tiff2eps-fix161228.zip 
+in BaKoMa TeX folder. 
+
+Check that the files 
+BIN\Win32\TIFF2EPS.exe and BIN\Win64\TIFF2EPS.exe
+have been replaced. 
+
+NOTE: This fix will be included into next versions.
+

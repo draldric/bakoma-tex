@@ -1,0 +1,36 @@
+% Unpacking components of module [gmiflink] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\gmiflink.tds.zip)
+/Name (gmiflink)
+/Size 47818 
+/CRC -1899132651 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\gmiflink.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\gmiflink.bkz)
+/Name (gmiflink)
+/Size 3057 
+/CRC -1573611527 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\gmiflink.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\gmiflink\\gmiflink.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\gmiflink\\gmiflink.sty)
+/OldSize 7080 
+/NewSize 7080 
+>>
+<<
+/Type /Status 
+/Name (gmiflink)
+/Status /Same 
+>> % distribution already includes this version

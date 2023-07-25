@@ -1,0 +1,48 @@
+% Unpacking components of module [mwe] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\mwe.tds.zip)
+/Name (mwe)
+/Size 1523161 
+/CRC 708798527 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (mwe)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\mwe.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mwe.bkz)
+/Name (mwe)
+/Size 684806 
+/CRC 1433993432 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mwe.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mwe.doc.bkz)
+/Name (mwe)
+/Size 394406 
+/CRC 2015301039 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mwe.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mwe.source.bkz)
+/Name (mwe)
+/Size 6869 
+/CRC 1200364259 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

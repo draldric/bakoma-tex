@@ -1,0 +1,14 @@
+:marginnote.doc:x1120:0.295634:116110580:294833:6F3D-B659:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+marginnote
+
+./doc/latex/marginnote:
+marginnote.pdf
+README.txt

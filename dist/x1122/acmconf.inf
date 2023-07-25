@@ -1,0 +1,13 @@
+:acmconf:x1122:0.02048:117021152:3808:C2C4-AF07:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+acmconf
+
+./tex/latex/acmconf:
+acmconf.cls

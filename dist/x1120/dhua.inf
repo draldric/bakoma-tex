@@ -1,0 +1,14 @@
+:dhua:x1120:0.011207:116110580:4055:23A1-F63:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dhua
+
+./tex/latex/dhua:
+dhua.cfg
+dhua.sty

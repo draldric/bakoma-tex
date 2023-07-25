@@ -1,0 +1,16 @@
+:rcs-multi.source:x1120:0.04885:116110580:13301:9C56-DB36:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+rcs-multi
+
+./source/latex/rcs-multi:
+example.tex
+Makefile
+rcs-multi.dtx
+rcs-multi.ins

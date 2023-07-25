@@ -1,0 +1,48 @@
+% Unpacking components of module [footnoterange] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\footnoterange.tds.zip)
+/Name (footnoterange)
+/Size 396332 
+/CRC 2058324576 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (footnoterange)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\footnoterange.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\footnoterange.bkz)
+/Name (footnoterange)
+/Size 1658 
+/CRC -2122325398 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\footnoterange.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\footnoterange.doc.bkz)
+/Name (footnoterange)
+/Size 384361 
+/CRC 528340752 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\footnoterange.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\footnoterange.source.bkz)
+/Name (footnoterange)
+/Size 9305 
+/CRC 1785941768 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

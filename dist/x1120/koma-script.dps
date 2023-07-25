@@ -1,0 +1,526 @@
+% Unpacking components of module [koma-script] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\koma-script.tds.zip)
+/Name (koma-script)
+/Size 21078162 
+/CRC -1002596351 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\koma-script.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\koma-script.bkz)
+/Name (koma-script)
+/Size 73346 
+/CRC 537150079 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\koma-script.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\DIN.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\DIN.lco)
+/OldSize 4624 
+/NewSize 4834 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\DINmtext.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\DINmtext.lco)
+/OldSize 5130 
+/NewSize 4937 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\float.hak)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\float.hak)
+/OldSize 5272 
+/NewSize 6124 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\floatrow.hak)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\hyperref.hak)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\hyperref.hak)
+/OldSize 4688 
+/NewSize 5543 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\KakuLL.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\KakuLL.lco)
+/OldSize 4634 
+/NewSize 4758 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\KOMAold.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\KOMAold.lco)
+/OldSize 7134 
+/NewSize 7404 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\listings.hak)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\listings.hak)
+/OldSize 3968 
+/NewSize 4823 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\lscape.hak)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\NF.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\NF.lco)
+/OldSize 4105 
+/NewSize 4315 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\NipponEH.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\NipponEH.lco)
+/OldSize 4644 
+/NewSize 4768 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\NipponEL.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\NipponEL.lco)
+/OldSize 4642 
+/NewSize 4766 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\NipponLH.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\NipponLH.lco)
+/OldSize 4642 
+/NewSize 4766 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\NipponLL.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\NipponLL.lco)
+/OldSize 4640 
+/NewSize 4764 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\NipponRL.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\NipponRL.lco)
+/OldSize 4643 
+/NewSize 4767 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scraddr.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scraddr.sty)
+/OldSize 4782 
+/NewSize 4845 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrartcl.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrartcl.cls)
+/OldSize 96768 
+/NewSize 187816 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrbase.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrbase.sty)
+/OldSize 24710 
+/NewSize 74889 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrbook.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrbook.cls)
+/OldSize 113059 
+/NewSize 213646 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrdate.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrdate.sty)
+/OldSize 6745 
+/NewSize 10399 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrdoc.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrdoc.cls)
+/OldSize 12970 
+/NewSize 13290 
+/Line 3 
+/NewLine (% Copyright \(C\) 2002-2009 Markus Kohm)
+/OldLine (% Copyright \(c\) Markus Kohm, 2002-2016)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrextend.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrextend.sty)
+/OldSize 37414 
+/NewSize 49638 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrfontsizes.sty)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrhack.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrhack.sty)
+/OldSize 4383 
+/NewSize 6718 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrjura.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrjura.sty)
+/OldSize 20930 
+/NewSize 36501 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrkbase.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrkbase.sty)
+/OldSize 8464 
+/NewSize 20089 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrlayer-notecolumn.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrlayer-scrpage.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrlayer.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrletter.sty)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrlfile.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrlfile.sty)
+/OldSize 7861 
+/NewSize 15975 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrlttr2.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrlttr2.cls)
+/OldSize 124428 
+/NewSize 165146 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrpage2.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrpage2.sty)
+/OldSize 41466 
+/NewSize 39960 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrreprt.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrreprt.cls)
+/OldSize 111736 
+/NewSize 212871 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrsize10pt.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrsize10pt.clo)
+/OldSize 6087 
+/NewSize 6314 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrsize11pt.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrsize11pt.clo)
+/OldSize 6103 
+/NewSize 6330 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrsize12pt.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrsize12pt.clo)
+/OldSize 6140 
+/NewSize 6367 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrtime.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\scrtime.sty)
+/OldSize 2660 
+/NewSize 4072 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\scrwfile.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\setspace.hak)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\SN.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\SN.lco)
+/OldSize 4618 
+/NewSize 4828 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\SNleft.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\SNleft.lco)
+/OldSize 4653 
+/NewSize 4863 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\tocbasic.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\tocbasic.sty)
+/OldSize 13040 
+/NewSize 78622 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\tocstyle.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\tocstyle.sty)
+/OldSize 30158 
+/NewSize 35427 
+/Line 10 
+/NewLine (%% Copyright \(c\) 2007-2009 by Markus Kohm <komascript\(at\)gmx.info>)
+/OldLine (%% Copyright \(c\) 2007-2016 by Markus Kohm <komascript\(at\)gmx.info>)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\typearea.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\typearea.sty)
+/OldSize 34773 
+/NewSize 48854 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\UScommercial9.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\UScommercial9.lco)
+/OldSize 5335 
+/NewSize 4963 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\UScommercial9DW.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\UScommercial9DW.lco)
+/OldSize 5610 
+/NewSize 5234 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\koma-script\\visualize.lco)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\koma-script\\visualize.lco)
+/OldSize 19581 
+/NewSize 20224 
+/Line 3 
+/NewLine (%% generated with the docstrip utility.)
+/OldLine (%% generated with the docstrip utility, extended by scrdocstrip.)
+>>
+<<
+/Type /Status 
+/Name (koma-script)
+/Status /Updated 
+/Differences 48 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\koma-script.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\koma-script.bkz)
+/Name (koma-script)
+/Size 123888 
+/CRC 1705078739 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\koma-script.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\koma-script.doc.bkz)
+/Name (koma-script)
+/Size 6349639 
+/CRC -1865315861 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\koma-script.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\koma-script.source.bkz)
+/Name (koma-script)
+/Size 5927469 
+/CRC -1668199509 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

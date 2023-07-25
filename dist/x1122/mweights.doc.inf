@@ -1,0 +1,13 @@
+:mweights.doc:x1122:0.01024:117021152:1008:BFFB-C1A8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mweights
+
+./doc/latex/mweights:
+README

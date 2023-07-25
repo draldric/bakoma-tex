@@ -1,0 +1,15 @@
+:pdfpages.source:x1120:0.17566:116110580:33846:D1CA-9E66:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pdfpages
+
+./source/latex/pdfpages:
+pdfpages.dtx
+pdfpages.ins
+README

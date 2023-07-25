@@ -1,0 +1,14 @@
+:impnattypo.doc:x1120:0.16289:116110580:144754:E949-C43:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+impnattypo
+
+./doc/latex/impnattypo:
+impnattypo-fr.pdf
+impnattypo.pdf

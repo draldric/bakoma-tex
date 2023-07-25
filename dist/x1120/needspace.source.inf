@@ -1,0 +1,14 @@
+:needspace.source:x1120:0.004395:116110580:1857:EBA4-C75A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+needspace
+
+./source/latex/needspace:
+needspace.ins
+needspace.tex

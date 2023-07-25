@@ -1,0 +1,14 @@
+:hardwrap.source:x1120:0.041224:116110580:10843:76F4-B6C7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+hardwrap
+
+./source/latex/hardwrap:
+hardwrap.dtx
+hardwrap.ins

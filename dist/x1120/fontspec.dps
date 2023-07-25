@@ -1,0 +1,105 @@
+% Unpacking components of module [fontspec] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\fontspec.tds.zip)
+/Name (fontspec)
+/Size 883494 
+/CRC -1997670960 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\fontspec.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\fontspec.bkz)
+/Name (fontspec)
+/Size 11534 
+/CRC -1459427402 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\fontspec.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fontspec\\fontspec-luatex.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fontspec\\fontspec-xetex.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fontspec\\fontspec.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fontspec\\fontspec.lua)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fontspec\\fontspec.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fontspec\\tuenc.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fontspec\\tufontrange-T1.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fontspec\\tufontrange-TS1.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fontspec\\tulmr.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fontspec\\tulmss.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fontspec\\tulmtt.fd)
+>>
+<<
+/Type /Status 
+/Name (fontspec)
+/Status /Updated 
+/Differences 11 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\fontspec.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fontspec.bkz)
+/Name (fontspec)
+/Size 23392 
+/CRC -1893743729 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fontspec.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fontspec.doc.bkz)
+/Name (fontspec)
+/Size 750573 
+/CRC 1884758972 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fontspec.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fontspec.source.bkz)
+/Name (fontspec)
+/Size 66641 
+/CRC -1105823887 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

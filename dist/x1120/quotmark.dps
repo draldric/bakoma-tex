@@ -1,0 +1,324 @@
+% Unpacking components of module [quotmark] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\quotmark.tds.zip)
+/Name (quotmark)
+/Size 208540 
+/CRC 954237881 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\quotmark.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\quotmark.bkz)
+/Name (quotmark)
+/Size 4150 
+/CRC 1746978819 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\quotmark.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-afrikaans.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-afrikaans.def)
+/OldSize 2789 
+/NewSize 2789 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-brazil.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-brazil.def)
+/OldSize 2777 
+/NewSize 2777 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-bulgarian.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-bulgarian.def)
+/OldSize 2776 
+/NewSize 2776 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-catalan.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-catalan.def)
+/OldSize 2783 
+/NewSize 2783 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-croatian.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-croatian.def)
+/OldSize 2785 
+/NewSize 2785 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-czech.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-czech.def)
+/OldSize 2773 
+/NewSize 2773 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-danish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-danish.def)
+/OldSize 2777 
+/NewSize 2777 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-dutch.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-dutch.def)
+/OldSize 2773 
+/NewSize 2773 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-estonian.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-estonian.def)
+/OldSize 2772 
+/NewSize 2772 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-finnish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-finnish.def)
+/OldSize 2781 
+/NewSize 2781 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-frenchb.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-frenchb.def)
+/OldSize 2820 
+/NewSize 2820 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-germanb.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-germanb.def)
+/OldSize 2781 
+/NewSize 2781 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-greek.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-greek.def)
+/OldSize 2806 
+/NewSize 2806 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-hebrew.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-hebrew.def)
+/OldSize 2764 
+/NewSize 2764 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-icelandic.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-icelandic.def)
+/OldSize 2789 
+/NewSize 2789 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-irish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-irish.def)
+/OldSize 2934 
+/NewSize 2934 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-italian.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-italian.def)
+/OldSize 2838 
+/NewSize 2838 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-magyar.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-magyar.def)
+/OldSize 2779 
+/NewSize 2779 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-ngermanb.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-ngermanb.def)
+/OldSize 2785 
+/NewSize 2785 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-norsk.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-norsk.def)
+/OldSize 2773 
+/NewSize 2773 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-polish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-polish.def)
+/OldSize 2777 
+/NewSize 2777 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-portuges.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-portuges.def)
+/OldSize 2787 
+/NewSize 2787 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-romanian.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-romanian.def)
+/OldSize 2787 
+/NewSize 2787 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-russianb.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-russianb.def)
+/OldSize 2787 
+/NewSize 2787 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-serbian.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-serbian.def)
+/OldSize 2781 
+/NewSize 2781 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-slovak.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-slovak.def)
+/OldSize 2777 
+/NewSize 2777 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-slovene.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-slovene.def)
+/OldSize 2781 
+/NewSize 2781 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-sorbian.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-sorbian.def)
+/OldSize 2781 
+/NewSize 2781 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-spanish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-spanish.def)
+/OldSize 2801 
+/NewSize 2801 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-swedish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-swedish.def)
+/OldSize 2781 
+/NewSize 2781 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-swiss.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-swiss.def)
+/OldSize 3341 
+/NewSize 3341 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-turkish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-turkish.def)
+/OldSize 2923 
+/NewSize 2923 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-UKenglish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-UKenglish.def)
+/OldSize 2806 
+/NewSize 2806 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-ukraineb.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-ukraineb.def)
+/OldSize 2772 
+/NewSize 2772 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-USenglish.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-USenglish.def)
+/OldSize 2806 
+/NewSize 2806 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark-welsh.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark-welsh.def)
+/OldSize 2930 
+/NewSize 2930 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\quotmark\\quotmark.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\quotmark\\quotmark.sty)
+/OldSize 11501 
+/NewSize 11501 
+>>
+<<
+/Type /Status 
+/Name (quotmark)
+/Status /Same 
+>> % distribution already includes this version

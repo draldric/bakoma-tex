@@ -1,0 +1,14 @@
+:ccaption.source:x1120:0.147986:116110580:34217:5BC8-7D7B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ccaption
+
+./source/latex/ccaption:
+ccaption.dtx
+ccaption.ins

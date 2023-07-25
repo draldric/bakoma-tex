@@ -1,0 +1,76 @@
+% Unpacking components of module [lastpage] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\lastpage.tds.zip)
+/Name (lastpage)
+/Size 573323 
+/CRC 118629695 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\lastpage.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\lastpage.bkz)
+/Name (lastpage)
+/Size 1108 
+/CRC -886241065 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\lastpage.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lastpage\\lastpage.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lastpage\\lastpage.sty)
+/OldSize 2007 
+/NewSize 9922 
+/Line 9 
+/NewLine (%% IMPORTANT NOTICE:)
+/OldLine (%% This is a generated file.)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lastpage\\lastpage209.sty)
+>>
+<<
+/Type /Status 
+/Name (lastpage)
+/Status /Updated 
+/Differences 2 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\lastpage.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\lastpage.bkz)
+/Name (lastpage)
+/Size 3103 
+/CRC -1779953527 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\lastpage.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\lastpage.doc.bkz)
+/Name (lastpage)
+/Size 547091 
+/CRC -591143587 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\lastpage.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\lastpage.source.bkz)
+/Name (lastpage)
+/Size 19508 
+/CRC -291901106 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

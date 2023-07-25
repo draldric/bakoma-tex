@@ -1,0 +1,14 @@
+:acroterm.source:x1120:0.012848:116110580:3570:4F51-5018:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+acroterm
+
+./source/latex/acroterm:
+acroterm.dtx
+acroterm.ins

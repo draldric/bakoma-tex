@@ -1,0 +1,14 @@
+:dynamicnumber.source:x1120:0.008032:116110580:2983:B35A-E37C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dynamicnumber
+
+./source/latex/dynamicnumber:
+dynamicnumber.dtx
+dynamicnumber.ins

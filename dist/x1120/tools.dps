@@ -1,0 +1,487 @@
+% Unpacking components of module [tools] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\\\macros\\latex\\required\\latex-tools.tds.zip)
+/Name (tools)
+/Size 6891169 
+/CRC 1765988630 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1050\tools.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1050\\tools.bkz)
+/Name (tools)
+/Size 36792 
+/CRC -161797804 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1050\tools.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\.tex)
+/OldSize 1209 
+/NewSize 1385 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\afterpage.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\afterpage.sty)
+/OldSize 4008 
+/NewSize 4084 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\array.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\array.sty)
+/OldSize 13442 
+/NewSize 12398 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\bm.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\bm.sty)
+/OldSize 12173 
+/NewSize 12559 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\calc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\calc.sty)
+/OldSize 10286 
+/NewSize 10214 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\dcolumn.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\dcolumn.sty)
+/OldSize 2624 
+/NewSize 2757 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\delarray.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\delarray.sty)
+/OldSize 2000 
+/NewSize 2156 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\e.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\e.tex)
+/OldSize 1240 
+/NewSize 1416 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\enumerate.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\enumerate.sty)
+/OldSize 3338 
+/NewSize 3467 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\fontsmpl.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\fontsmpl.sty)
+/OldSize 7216 
+/NewSize 6345 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\fontsmpl.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\fontsmpl.tex)
+/OldSize 3248 
+/NewSize 2485 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\ftnright.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\ftnright.sty)
+/OldSize 7057 
+/NewSize 6143 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\h.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\h.tex)
+/OldSize 1440 
+/NewSize 1609 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\hhline.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\hhline.sty)
+/OldSize 3599 
+/NewSize 3720 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\indentfirst.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\indentfirst.sty)
+/OldSize 1446 
+/NewSize 1617 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\layout.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\layout.sty)
+/OldSize 14733 
+/NewSize 14493 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\longtable.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\longtable.sty)
+/OldSize 12317 
+/NewSize 12083 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\multicol.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\multicol.sty)
+/OldSize 30197 
+/NewSize 29824 
+/Line 7 
+/NewLine (%% multicol.dtx  \(with options: `package,badness,check,marktrace,nobalance,colbreak'\))
+/OldLine (%% multicol.dtx  \(with options: `package,badness,check,marktrace,nobalance'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\q.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\q.tex)
+/OldSize 1235 
+/NewSize 1410 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\r.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\r.tex)
+/OldSize 1237 
+/NewSize 1412 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\rawfonts.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\rawfonts.sty)
+/OldSize 6643 
+/NewSize 6734 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\s.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\s.tex)
+/OldSize 1236 
+/NewSize 1411 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\shellesc.sty)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\showkeys.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\showkeys.sty)
+/OldSize 8696 
+/NewSize 8641 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\somedefs.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\somedefs.sty)
+/OldSize 2341 
+/NewSize 2484 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\tabularx.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\tabularx.sty)
+/OldSize 7147 
+/NewSize 7141 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\thb.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\thb.sty)
+/OldSize 2782 
+/NewSize 2038 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\thc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\thc.sty)
+/OldSize 2646 
+/NewSize 1905 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\thcb.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\thcb.sty)
+/OldSize 2791 
+/NewSize 2047 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\theorem.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\theorem.sty)
+/OldSize 5778 
+/NewSize 4955 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\thm.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\thm.sty)
+/OldSize 2656 
+/NewSize 1915 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\thmb.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\thmb.sty)
+/OldSize 2821 
+/NewSize 2076 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\thp.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\thp.sty)
+/OldSize 2648 
+/NewSize 1907 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\trace.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\trace.sty)
+/OldSize 4625 
+/NewSize 4617 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\varioref.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\varioref.sty)
+/OldSize 35104 
+/NewSize 33874 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\verbatim.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\verbatim.sty)
+/OldSize 7259 
+/NewSize 7264 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\verbtest.tex)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\x.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\x.tex)
+/OldSize 1240 
+/NewSize 1416 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\xr.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\xr.sty)
+/OldSize 2235 
+/NewSize 2377 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tools\\xspace.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tools\\xspace.sty)
+/OldSize 4479 
+/NewSize 4544 
+/Line 11 
+/NewLine (%% Copyright 1993-2014)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Status 
+/Name (tools)
+/Status /Updated 
+/Differences 40 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\tools.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tools.bkz)
+/Name (tools)
+/Size 37799 
+/CRC -1931451140 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tools.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tools.doc.bkz)
+/Name (tools)
+/Size 5150271 
+/CRC -1685981370 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tools.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tools.source.bkz)
+/Name (tools)
+/Size 214963 
+/CRC -1067595240 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

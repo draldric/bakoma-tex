@@ -1,0 +1,84 @@
+% Unpacking components of module [siunitx] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\siunitx.tds.zip)
+/Name (siunitx)
+/Size 778931 
+/CRC 1458154395 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1040\siunitx.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1040\\siunitx.bkz)
+/Name (siunitx)
+/Size 33089 
+/CRC -649361686 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1040\siunitx.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\siunitx\\siunitx-abbreviations.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\siunitx\\siunitx-binary.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\siunitx\\siunitx-version-1.cfg)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\siunitx\\siunitx.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\siunitx\\siunitx.sty)
+/OldSize 273420 
+/NewSize 277736 
+/Line 16 
+/NewLine (\\RequirePackage{expl3,xparse})
+/OldLine (\\RequirePackage{expl3}[2015/09/11])
+>>
+<<
+/Type /Status 
+/Name (siunitx)
+/Status /Updated 
+/Differences 4 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\siunitx.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\siunitx.bkz)
+/Name (siunitx)
+/Size 33737 
+/CRC 379485902 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\siunitx.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\siunitx.doc.bkz)
+/Name (siunitx)
+/Size 610962 
+/CRC 1019155340 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\siunitx.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\siunitx.source.bkz)
+/Name (siunitx)
+/Size 102823 
+/CRC 1624940043 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

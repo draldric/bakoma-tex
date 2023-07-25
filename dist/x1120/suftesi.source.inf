@@ -1,0 +1,13 @@
+:suftesi.source:x1120:0.172713:116110580:33761:2F51-E8AF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+suftesi
+
+./source/latex/suftesi:
+suftesi.dtx

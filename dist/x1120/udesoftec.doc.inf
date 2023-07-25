@@ -1,0 +1,13 @@
+:udesoftec.doc:x1120:0.483125:116110580:482363:9F39-50CE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+udesoftec
+
+./doc/latex/udesoftec:
+udesoftec-doc.pdf

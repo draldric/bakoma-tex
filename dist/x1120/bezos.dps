@@ -1,0 +1,100 @@
+% Unpacking components of module [bezos] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\bezos.tds.zip)
+/Name (bezos)
+/Size 1110968 
+/CRC 110735650 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1060\bezos.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1060\\bezos.bkz)
+/Name (bezos)
+/Size 11515 
+/CRC -1911984054 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1060\bezos.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bezos\\accents.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bezos\\accents.sty)
+/OldSize 6919 
+/NewSize 7199 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bezos\\arabicfront.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bezos\\arabicfront.sty)
+/OldSize 1835 
+/NewSize 1894 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bezos\\babeltools.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bezos\\babeltools.sty)
+/OldSize 9936 
+/NewSize 10298 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bezos\\checkend.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bezos\\checkend.sty)
+/OldSize 1543 
+/NewSize 1597 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bezos\\dotlessi.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bezos\\dotlessi.sty)
+/OldSize 1813 
+/NewSize 1872 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bezos\\esindex.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bezos\\esindex.sty)
+/OldSize 5547 
+/NewSize 5750 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bezos\\soulpos.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bezos\\soulpos.sty)
+/OldSize 6979 
+/NewSize 7254 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bezos\\subdocs.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bezos\\subdocs.sty)
+/OldSize 4578 
+/NewSize 4729 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bezos\\tensind.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bezos\\tensind.sty)
+/OldSize 6801 
+/NewSize 7085 
+>>
+<<
+/Type /Status 
+/Name (bezos)
+/Status /Same 
+>> % distribution already includes this version

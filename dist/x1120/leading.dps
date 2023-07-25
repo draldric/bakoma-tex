@@ -1,0 +1,36 @@
+% Unpacking components of module [leading] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\leading.tds.zip)
+/Name (leading)
+/Size 90768 
+/CRC -1774940113 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\leading.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\leading.bkz)
+/Name (leading)
+/Size 666 
+/CRC -1223355291 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\leading.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\leading\\leading.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\leading\\leading.sty)
+/OldSize 1132 
+/NewSize 1132 
+>>
+<<
+/Type /Status 
+/Name (leading)
+/Status /Same 
+>> % distribution already includes this version

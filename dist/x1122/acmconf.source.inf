@@ -1,0 +1,15 @@
+:acmconf.source:x1122:0.08192:117021152:18369:862E-C258:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+acmconf
+
+./source/latex/acmconf:
+acmconf.dtx
+acmconf.ins
+Makefile

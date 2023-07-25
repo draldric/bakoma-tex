@@ -1,0 +1,36 @@
+% Unpacking components of module [drac] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\drac.tds.zip)
+/Name (drac)
+/Size 729212 
+/CRC 959242817 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\drac.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\drac.bkz)
+/Name (drac)
+/Size 874 
+/CRC -1361648354 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\drac.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\drac\\drac.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\drac\\drac.sty)
+/OldSize 1895 
+/NewSize 1895 
+>>
+<<
+/Type /Status 
+/Name (drac)
+/Status /Same 
+>> % distribution already includes this version

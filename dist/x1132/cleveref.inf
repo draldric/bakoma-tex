@@ -1,0 +1,13 @@
+:cleveref:x1132:0.34816:117050464:27656:8276-6296:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cleveref
+
+./tex/latex/cleveref:
+cleveref.sty

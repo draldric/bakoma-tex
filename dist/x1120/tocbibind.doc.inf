@@ -1,0 +1,14 @@
+:tocbibind.doc:x1120:0.314112:116110580:311833:892A-ED0D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tocbibind
+
+./doc/latex/tocbibind:
+README
+tocbibind.pdf

@@ -1,0 +1,14 @@
+:monofill.source:x1120:0.007173:116110580:2730:3931-CCDE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+monofill
+
+./source/latex/monofill:
+monofill.tex
+srcfiles.tex

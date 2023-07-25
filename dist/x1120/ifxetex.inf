@@ -1,0 +1,13 @@
+:ifxetex:x1120:0.001504:116111680:764:8D78-10A2:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+ifxetex
+
+./tex/generic/ifxetex:
+ifxetex.sty

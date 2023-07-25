@@ -1,0 +1,72 @@
+% Unpacking components of module [tocbibind] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\tocbibind.tds.zip)
+/Name (tocbibind)
+/Size 327240 
+/CRC -1134591262 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\tocbibind.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\tocbibind.bkz)
+/Name (tocbibind)
+/Size 2548 
+/CRC 913294535 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\tocbibind.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tocbibind\\tocbibind.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tocbibind\\tocbibind.sty)
+/OldSize 9107 
+/NewSize 8927 
+/Line 26 
+/NewLine (\\ProvidesPackage{tocbibind}[2009/09/04 v1.5i extra ToC listings])
+/OldLine (\\ProvidesPackage{tocbibind}[2010/10/13 v1.5k extra ToC listings])
+>>
+<<
+/Type /Status 
+/Name (tocbibind)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\tocbibind.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tocbibind.bkz)
+/Name (tocbibind)
+/Size 2533 
+/CRC 2004636003 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tocbibind.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tocbibind.doc.bkz)
+/Name (tocbibind)
+/Size 311833 
+/CRC -1993675507 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tocbibind.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tocbibind.source.bkz)
+/Name (tocbibind)
+/Size 12529 
+/CRC 536009182 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

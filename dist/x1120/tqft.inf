@@ -1,0 +1,14 @@
+:tqft:x1120:0.051334:116110580:5994:1B77-C026:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tqft
+
+./tex/latex/tqft:
+tikzlibrarytqft.code.tex
+tqft.sty

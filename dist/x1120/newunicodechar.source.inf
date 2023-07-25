@@ -1,0 +1,14 @@
+:newunicodechar.source:x1120:0.021084:116110580:6598:A563-33C2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+newunicodechar
+
+./source/latex/newunicodechar:
+newunicodechar.dtx
+newunicodechar.ins

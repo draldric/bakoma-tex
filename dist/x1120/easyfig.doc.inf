@@ -1,0 +1,14 @@
+:easyfig.doc:x1120:0.246091:116110580:246298:7BC1-C3AC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+easyfig
+
+./doc/latex/easyfig:
+easyfig.pdf
+README

@@ -1,0 +1,18 @@
+This fix (2017/05/24) is based on code base of V 11.23,
+which fix problem of handling fonts without FullName in FontInfo dict.
+One sample: txex-bar from newtx font package.
+
+This pack includes BaKoMa\Category\Level2\Font.cat
+
+It should work with version 11.20 ... 11.33
+
+This fix will be applied in V 11.34 and later ...
+
+To apply the fix just unpack 
+http://www.bakoma-tex.com/dist/x1123/fix/font-fix170524.zip 
+in BaKoMa TeX folder. 
+
+Check that the file
+C:\BaKoMa TeX\BaKoMa\Category\Level2\Font.cat
+have been replaced. 
+

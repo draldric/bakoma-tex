@@ -1,0 +1,14 @@
+:l3build:x1120:0.072275:116110580:18698:CA26-42:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+l3build
+
+./tex/latex/l3build:
+l3build.lua
+regression-test.tex

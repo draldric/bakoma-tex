@@ -1,0 +1,14 @@
+:xltxtra.source:x1120:0.020239:116110580:6323:A321-3ADA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xltxtra
+
+./source/latex/xltxtra:
+xltxtra.dtx
+xltxtra.ins

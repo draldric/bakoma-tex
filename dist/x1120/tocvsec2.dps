@@ -1,0 +1,72 @@
+% Unpacking components of module [tocvsec2] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\tocvsec2.tds.zip)
+/Name (tocvsec2)
+/Size 311835 
+/CRC -640492126 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\tocvsec2.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\tocvsec2.bkz)
+/Name (tocvsec2)
+/Size 1176 
+/CRC -2044080692 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\tocvsec2.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tocvsec2\\tocvsec2.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tocvsec2\\tocvsec2.sty)
+/OldSize 4420 
+/NewSize 6398 
+/Line 13 
+/NewLine (%% )
+/OldLine (%%   Copyright 2010 Will Robertson)
+>>
+<<
+/Type /Status 
+/Name (tocvsec2)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\tocvsec2.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tocvsec2.bkz)
+/Name (tocvsec2)
+/Size 1523 
+/CRC -2042808497 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tocvsec2.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tocvsec2.doc.bkz)
+/Name (tocvsec2)
+/Size 302349 
+/CRC 806609113 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tocvsec2.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tocvsec2.source.bkz)
+/Name (tocvsec2)
+/Size 7759 
+/CRC -1374190820 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

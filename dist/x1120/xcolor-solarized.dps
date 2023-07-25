@@ -1,0 +1,48 @@
+% Unpacking components of module [xcolor-solarized] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\xcolor-solarized.tds.zip)
+/Name (xcolor-solarized)
+/Size 475695 
+/CRC 1794199235 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xcolor-solarized)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\xcolor-solarized.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xcolor-solarized.bkz)
+/Name (xcolor-solarized)
+/Size 1235 
+/CRC -395114125 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xcolor-solarized.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xcolor-solarized.doc.bkz)
+/Name (xcolor-solarized)
+/Size 471082 
+/CRC -278476046 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xcolor-solarized.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xcolor-solarized.source.bkz)
+/Name (xcolor-solarized)
+/Size 4513 
+/CRC -320603690 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

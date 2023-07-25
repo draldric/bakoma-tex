@@ -1,0 +1,48 @@
+% Unpacking components of module [fancytabs] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\fancytabs.tds.zip)
+/Name (fancytabs)
+/Size 190038 
+/CRC -2134496847 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (fancytabs)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\fancytabs.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fancytabs.bkz)
+/Name (fancytabs)
+/Size 1235 
+/CRC 1870677122 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fancytabs.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fancytabs.doc.bkz)
+/Name (fancytabs)
+/Size 184354 
+/CRC -1525679209 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fancytabs.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fancytabs.source.bkz)
+/Name (fancytabs)
+/Size 3698 
+/CRC -1701506838 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,36 @@
+% Unpacking components of module [engpron] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\engpron.tds.zip)
+/Name (engpron)
+/Size 2277719 
+/CRC -1715498606 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\engpron.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\engpron.bkz)
+/Name (engpron)
+/Size 2601 
+/CRC 23974995 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\engpron.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\engpron\\engpron.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\engpron\\engpron.sty)
+/OldSize 9873 
+/NewSize 9873 
+>>
+<<
+/Type /Status 
+/Name (engpron)
+/Status /Same 
+>> % distribution already includes this version

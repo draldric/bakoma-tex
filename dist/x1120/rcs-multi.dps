@@ -1,0 +1,72 @@
+% Unpacking components of module [rcs-multi] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\rcs-multi.tds.zip)
+/Name (rcs-multi)
+/Size 677933 
+/CRC 1743347157 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\rcs-multi.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\rcs-multi.bkz)
+/Name (rcs-multi)
+/Size 2551 
+/CRC 591963859 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\rcs-multi.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\rcs-multi\\rcs-multi.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\rcs-multi\\rcs-multi.sty)
+/OldSize 9356 
+/NewSize 9329 
+/Line 28 
+/NewLine ( \\year#4\\month#5\\day#6\\relax)
+/OldLine ( \\def\\filedate{#4/#5/#6}%)
+>>
+<<
+/Type /Status 
+/Name (rcs-multi)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\rcs-multi.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\rcs-multi.bkz)
+/Name (rcs-multi)
+/Size 2538 
+/CRC 1534955590 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\rcs-multi.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\rcs-multi.doc.bkz)
+/Name (rcs-multi)
+/Size 652272 
+/CRC 2016544037 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\rcs-multi.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\rcs-multi.source.bkz)
+/Name (rcs-multi)
+/Size 13301 
+/CRC -1672029386 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

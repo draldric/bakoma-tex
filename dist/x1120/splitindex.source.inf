@@ -1,0 +1,17 @@
+:splitindex.source:x1120:0.106984:116110580:23968:520-61C4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+splitindex
+
+./source/latex/splitindex:
+install.sh
+splitidx.dtx
+splitidx.ins
+splitindex.c
+splitindex.java

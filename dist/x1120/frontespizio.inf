@@ -1,0 +1,13 @@
+:frontespizio:x1120:0.020222:116110580:4905:EF9E-9183:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+frontespizio
+
+./tex/latex/frontespizio:
+frontespizio.sty

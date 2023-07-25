@@ -1,0 +1,48 @@
+% Unpacking components of module [xcjk2uni] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\xcjk2uni.tds.zip)
+/Name (xcjk2uni)
+/Size 954428 
+/CRC 172237166 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xcjk2uni)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\xcjk2uni.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xcjk2uni.bkz)
+/Name (xcjk2uni)
+/Size 203438 
+/CRC 1402219981 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xcjk2uni.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xcjk2uni.doc.bkz)
+/Name (xcjk2uni)
+/Size 138687 
+/CRC -411011359 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xcjk2uni.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xcjk2uni.source.bkz)
+/Name (xcjk2uni)
+/Size 6917 
+/CRC 2106947914 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

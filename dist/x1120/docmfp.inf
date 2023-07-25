@@ -1,0 +1,13 @@
+:docmfp:x1120:0.005094:116110580:1575:9D2E-25E2:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+docmfp
+
+./tex/latex/docmfp:
+docmfp.sty

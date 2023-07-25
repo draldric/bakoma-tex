@@ -1,0 +1,13 @@
+:longnamefilelist:x1120:0.008091:116110580:3124:483E-DDE5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+longnamefilelist
+
+./tex/latex/longnamefilelist:
+longnamefilelist.sty

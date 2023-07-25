@@ -1,0 +1,14 @@
+:hardwrap.doc:x1120:0.121666:116110580:119777:B739-34A7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hardwrap
+
+./doc/latex/hardwrap:
+hardwrap.pdf
+README

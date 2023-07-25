@@ -1,0 +1,181 @@
+% Unpacking components of module [stex] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\stex.tds.zip)
+/Name (stex)
+/Size 7453514 
+/CRC -1785832474 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\stex.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\stex.bkz)
+/Name (stex)
+/Size 22740 
+/CRC 1709284389 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\stex.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\cmath\\cmath.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\dcm\\dcm.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\hwexam\\hwexam.cls)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\hwexam\\hwexam.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\metakeys\\metakeys.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\mikoslides\\beamerthemeJacobs.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\mikoslides\\cc-by-sa.png)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\mikoslides\\cc_somerights.png)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\mikoslides\\dangerous-bend.png)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\mikoslides\\jacobs-logo.png)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\mikoslides\\mikoaffiliation.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\mikoslides\\mikoslides.cls)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\mikoslides\\mikoslides.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\mikoslides\\shading-l2r.png)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\modules\\modules.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\omdoc\\omdoc.cls)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\omdoc\\omdoc.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\omtext\\omtext.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\presentation\\presentation.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\problem\\problem.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\rfdmeta\\rdfmeta.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\smglom\\smglom.cls)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\smultiling\\smultiling.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\sproof\\sproof.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\sref\\sref.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\statements\\statements.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\stex\\stex.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\structview\\structview.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\tikzinput\\tikzinput.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stex\\workaddress\\workaddress.sty)
+>>
+<<
+/Type /Status 
+/Name (stex)
+/Status /Updated 
+/Differences 30 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\stex.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\stex.bkz)
+/Name (stex)
+/Size 38239 
+/CRC -2079823442 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\stex.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\stex.doc.bkz)
+/Name (stex)
+/Size 5295430 
+/CRC 1620353656 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\stex.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\stex.source.bkz)
+/Name (stex)
+/Size 480384 
+/CRC 170736557 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

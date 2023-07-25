@@ -1,0 +1,14 @@
+:bytefield.source:x1120:0.129793:116110580:27026:47F5-C0FF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+bytefield
+
+./source/latex/bytefield:
+bytefield.dtx
+bytefield.ins

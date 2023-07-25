@@ -1,0 +1,18 @@
+This fix (2016/10/25) is based on code base of V 11.16,
+which fix problem of running from TeXWord 
+command lines longer then 512 bytes.
+
+This pack includes BIN\Win32\TeXWord.exe and BIN\Win64\TeXWord.exe
+
+It work only with version 11.16 (IT IS INCOMPATIBLE WITH PREVIOUS VERSIONS !!!)
+
+To apply the fix just unpack 
+http://www.bakoma-tex.com/dist/x1116/fix/texword-fix161025.zip 
+in BaKoMa TeX folder. 
+
+Check that the files 
+BIN\Win32\TeXWord.exe and BIN\Win64\TeXWord.exe
+have been replaced. 
+
+NOTE: This fix will be included into next versions.
+

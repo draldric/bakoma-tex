@@ -1,0 +1,16 @@
+:unicode-math:x1120:0.421564:116110580:39515:C9E5-D53:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+unicode-math
+
+./tex/latex/unicode-math:
+unicode-math-luatex.sty
+unicode-math-table.tex
+unicode-math-xetex.sty
+unicode-math.sty

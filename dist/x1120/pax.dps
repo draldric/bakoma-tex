@@ -1,0 +1,94 @@
+% Unpacking components of module [pax] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\pax.tds.zip)
+/Name (pax)
+/Size 48496 
+/CRC 1521216083 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\pax.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\pax.bkz)
+/Name (pax)
+/Size 17506 
+/CRC -1608383245 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\pax.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\pax\\pax.jar)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\pax\\pax.jar)
+/OldSize 11465 
+/NewSize 11465 
+/Line 2 
+/NewLine (\000\000\000\000\000ù–A9\000\000\000\000\000\000\000\000\000\000\000\000	\000\000META-INF/þÊ\000\000PK)
+/OldLine (\000\000\000\000\000c’@\000\000\000\000\000\000\000\000\000\000\000\000	\000\000META-INF/þÊ\000\000PK)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\pax\\pdfannotextractor.pl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\pax\\pdfannotextractor.pl)
+/OldSize 11550 
+/NewSize 11775 
+/Line 5 
+/NewLine (# Copyright \(C\) 2008 Heiko Oberdiek)
+/OldLine (# Copyright \(C\) 2008, 2011, 2012 Heiko Oberdiek)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pax\\pax.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\pax\\pax.sty)
+/OldSize 15350 
+/NewSize 15150 
+/Line 2 
+/NewLine (%% Copyright 2006, 2007 Heiko Oberdiek)
+/OldLine (%% Copyright 2006-2008, 2011, 2012 Heiko Oberdiek)
+>>
+<<
+/Type /Status 
+/Name (pax)
+/Status /Updated 
+/Differences 3 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\pax.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pax.bkz)
+/Name (pax)
+/Size 17530 
+/CRC -1886774503 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pax.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pax.doc.bkz)
+/Name (pax)
+/Size 2803 
+/CRC -1925968822 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pax.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pax.source.bkz)
+/Name (pax)
+/Size 18346 
+/CRC 1589965011 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

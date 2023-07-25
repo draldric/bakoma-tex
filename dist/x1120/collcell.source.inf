@@ -1,0 +1,16 @@
+:collcell.source:x1120:0.025091:116110580:7222:B92A-B973:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+collcell
+
+./source/latex/collcell:
+collcell.dtx
+collcell.ins
+Makefile
+README

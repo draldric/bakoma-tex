@@ -1,0 +1,16 @@
+:papermas.doc:x1120:0.432065:116110580:409575:F014-9CDD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+papermas
+
+./doc/latex/papermas:
+papermas-example.pdf
+papermas-example.tex
+papermas.pdf
+README

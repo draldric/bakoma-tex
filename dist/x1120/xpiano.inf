@@ -1,0 +1,13 @@
+:xpiano:x1120:0.012314:116110580:2203:ACFE-75E5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xpiano
+
+./tex/latex/xpiano:
+xpiano.sty

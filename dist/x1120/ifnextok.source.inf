@@ -1,0 +1,16 @@
+:ifnextok.source:x1120:0.005953:116110580:2520:DE8D-83E6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ifnextok
+
+./source/latex/ifnextok:
+ifnextok.tex
+makedoc.cfg
+srcfiles.tex
+testIfNT.tex

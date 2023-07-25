@@ -1,0 +1,48 @@
+% Unpacking components of module [morewrites] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\morewrites.tds.zip)
+/Name (morewrites)
+/Size 1135855 
+/CRC 46998460 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (morewrites)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\morewrites.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\morewrites.bkz)
+/Name (morewrites)
+/Size 3280 
+/CRC -1778354592 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\morewrites.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\morewrites.doc.bkz)
+/Name (morewrites)
+/Size 1040231 
+/CRC -922330689 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\morewrites.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\morewrites.source.bkz)
+/Name (morewrites)
+/Size 13658 
+/CRC 1267703903 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

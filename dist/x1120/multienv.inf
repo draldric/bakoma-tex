@@ -1,0 +1,13 @@
+:multienv:x1120:0.005494:116110580:1462:69CC-1C8B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+multienv
+
+./tex/latex/multienv:
+multienv.sty

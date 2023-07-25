@@ -1,0 +1,13 @@
+:tagging:x1120:0.001894:116110580:728:3B18-E078:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tagging
+
+./tex/latex/tagging:
+tagging.sty

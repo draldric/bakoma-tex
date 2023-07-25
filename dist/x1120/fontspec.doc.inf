@@ -1,0 +1,15 @@
+:fontspec.doc:x1120:0.824667:116110580:750573:7057-23BC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fontspec
+
+./doc/latex/fontspec:
+fontspec-example.tex
+fontspec.pdf
+README.md

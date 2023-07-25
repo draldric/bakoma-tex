@@ -1,0 +1,80 @@
+% Unpacking components of module [abc] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\abc.tds.zip)
+/Name (abc)
+/Size 295442 
+/CRC 1074388834 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\abc.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\abc.bkz)
+/Name (abc)
+/Size 2015 
+/CRC 269625015 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\abc.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\abc\\abc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\abc\\abc.sty)
+/OldSize 6153 
+/NewSize 6407 
+/Line 22 
+/NewLine (  [2008/03/03 v2.0 Enrico Gregorio])
+/OldLine (  [2016/05/15 v2.0b Enrico Gregorio])
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\abc\\mup.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\abc\\mup.sty)
+/OldSize 688 
+/NewSize 688 
+>>
+<<
+/Type /Status 
+/Name (abc)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\abc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\abc.bkz)
+/Name (abc)
+/Size 2090 
+/CRC 663697948 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\abc.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\abc.doc.bkz)
+/Name (abc)
+/Size 281597 
+/CRC 1545979110 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\abc.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\abc.source.bkz)
+/Name (abc)
+/Size 9361 
+/CRC 565888779 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

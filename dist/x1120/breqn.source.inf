@@ -1,0 +1,15 @@
+:breqn.source:x1120:0.335694:116110580:80096:2FE3-6CB8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+breqn
+
+./source/latex/breqn:
+breqn.dtx
+flexisym.dtx
+mathstyle.dtx

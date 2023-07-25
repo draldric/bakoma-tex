@@ -1,0 +1,13 @@
+:venndiagram:x1120:0.043669:116110580:3667:54A0-7788:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+venndiagram
+
+./tex/latex/venndiagram:
+venndiagram.sty

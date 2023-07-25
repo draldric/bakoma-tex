@@ -1,0 +1,13 @@
+:download:x1120:0.005829:116110580:1507:4916-DB42:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+download
+
+./tex/latex/download:
+download.sty

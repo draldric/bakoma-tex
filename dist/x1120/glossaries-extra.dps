@@ -1,0 +1,48 @@
+% Unpacking components of module [glossaries-extra] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\glossaries-extra.tds.zip)
+/Name (glossaries-extra)
+/Size 3850127 
+/CRC -285782102 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (glossaries-extra)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\glossaries-extra.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\glossaries-extra.bkz)
+/Name (glossaries-extra)
+/Size 22302 
+/CRC 1609742021 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\glossaries-extra.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\glossaries-extra.doc.bkz)
+/Name (glossaries-extra)
+/Size 3365300 
+/CRC -1550279467 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\glossaries-extra.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\glossaries-extra.source.bkz)
+/Name (glossaries-extra)
+/Size 44678 
+/CRC 1987090674 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,14 @@
+:xcolor-solarized.doc:x1120:0.469342:116110580:471082:EF66-CAF2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xcolor-solarized
+
+./doc/latex/xcolor-solarized:
+README
+xcolor-solarized.pdf

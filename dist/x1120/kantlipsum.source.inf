@@ -1,0 +1,14 @@
+:kantlipsum.source:x1120:0.199649:116110580:26482:FC36-4F8C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+kantlipsum
+
+./source/latex/kantlipsum:
+kantlipsum.dtx
+kantlipsum.ins

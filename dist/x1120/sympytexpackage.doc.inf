@@ -1,0 +1,15 @@
+:sympytexpackage.doc:x1120:0.774316:116110580:686980:FBC7-5A9C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sympytexpackage
+
+./doc/latex/sympytexpackage:
+example.pdf
+README
+sympytexpackage.pdf

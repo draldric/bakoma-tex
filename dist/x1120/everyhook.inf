@@ -1,0 +1,13 @@
+:everyhook:x1120:0.005579:116110580:1607:6C17-EB73:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+everyhook
+
+./tex/latex/everyhook:
+everyhook.sty

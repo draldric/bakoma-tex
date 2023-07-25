@@ -1,0 +1,17 @@
+:regstats.doc:x1120:0.41911:116110580:399206:5DE3-727C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+regstats
+
+./doc/latex/regstats:
+README
+regstats-example.log
+regstats-example.pdf
+regstats-example.tex
+regstats.pdf

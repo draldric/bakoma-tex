@@ -1,0 +1,48 @@
+% Unpacking components of module [feynmp-auto] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\feynmp-auto.tds.zip)
+/Name (feynmp-auto)
+/Size 382005 
+/CRC 1376992429 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (feynmp-auto)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\feynmp-auto.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\feynmp-auto.bkz)
+/Name (feynmp-auto)
+/Size 1492 
+/CRC -685308020 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\feynmp-auto.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\feynmp-auto.doc.bkz)
+/Name (feynmp-auto)
+/Size 376560 
+/CRC 1989314 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\feynmp-auto.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\feynmp-auto.source.bkz)
+/Name (feynmp-auto)
+/Size 4514 
+/CRC 1005545178 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

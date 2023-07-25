@@ -1,0 +1,231 @@
+% Unpacking components of module [memoir] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\memoir.tds.zip)
+/Name (memoir)
+/Size 3484368 
+/CRC -673047849 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1100\memoir.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1100\\memoir.bkz)
+/Name (memoir)
+/Size 72846 
+/CRC -978889295 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1100\memoir.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\makeindex\\memoir\\basic.gst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\makeindex\\memoir\\basic.gst)
+/OldSize 1253 
+/NewSize 1253 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem10.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem10.clo)
+/OldSize 4019 
+/NewSize 4019 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem11.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem11.clo)
+/OldSize 4077 
+/NewSize 4077 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem12.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem12.clo)
+/OldSize 4116 
+/NewSize 4116 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem14.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem14.clo)
+/OldSize 4129 
+/NewSize 4129 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem17.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem17.clo)
+/OldSize 4095 
+/NewSize 4095 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem20.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem20.clo)
+/OldSize 3753 
+/NewSize 3753 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem25.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem25.clo)
+/OldSize 3761 
+/NewSize 3761 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem30.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem30.clo)
+/OldSize 3767 
+/NewSize 3767 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem36.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem36.clo)
+/OldSize 3768 
+/NewSize 3768 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem48.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem48.clo)
+/OldSize 3777 
+/NewSize 3777 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem60.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem60.clo)
+/OldSize 3789 
+/NewSize 3789 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mem9.clo)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mem9.clo)
+/OldSize 4131 
+/NewSize 4131 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\memhfixc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\memhfixc.sty)
+/OldSize 11285 
+/NewSize 11285 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\memoir.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\memoir.cls)
+/OldSize 403196 
+/NewSize 403550 
+/Line 12 
+/NewLine (%%   Copyright 2011--2013 Lars Madsen)
+/OldLine (%%   Copyright 2011--     Lars Madsen)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\memoir\\mempatch.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\memoir\\mempatch.sty)
+/OldSize 1325 
+/NewSize 1325 
+>>
+<<
+/Type /Status 
+/Name (memoir)
+/Status /Updated 
+/Differences 14 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\memoir.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\memoir.bkz)
+/Name (memoir)
+/Size 72940 
+/CRC 1293523243 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\memoir.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\memoir.doc.bkz)
+/Name (memoir)
+/Size 3009510 
+/CRC 1186483699 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\memoir.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\memoir.source.bkz)
+/Name (memoir)
+/Size 230731 
+/CRC 1766547642 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

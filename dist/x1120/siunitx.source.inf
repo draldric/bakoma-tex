@@ -1,0 +1,13 @@
+:siunitx.source:x1120:0.616647:116110580:102823:60DA-9E0B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+siunitx
+
+./source/latex/siunitx:
+siunitx.dtx

@@ -1,0 +1,48 @@
+% Unpacking components of module [nonumonpart] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\nonumonpart.tds.zip)
+/Name (nonumonpart)
+/Size 852802 
+/CRC -245793630 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (nonumonpart)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\nonumonpart.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nonumonpart.bkz)
+/Name (nonumonpart)
+/Size 729 
+/CRC 1134058253 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\nonumonpart.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nonumonpart.doc.bkz)
+/Name (nonumonpart)
+/Size 784195 
+/CRC 1866608457 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\nonumonpart.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nonumonpart.source.bkz)
+/Name (nonumonpart)
+/Size 6423 
+/CRC -1985434995 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

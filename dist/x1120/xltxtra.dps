@@ -1,0 +1,65 @@
+% Unpacking components of module [xltxtra] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\xltxtra.tds.zip)
+/Name (xltxtra)
+/Size 142391 
+/CRC -509263709 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\xltxtra.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\xltxtra.bkz)
+/Name (xltxtra)
+/Size 2699 
+/CRC 1177701301 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\xltxtra.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\xltxtra\\xltxtra.sty)
+>>
+<<
+/Type /Status 
+/Name (xltxtra)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\xltxtra.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xltxtra.bkz)
+/Name (xltxtra)
+/Size 2075 
+/CRC 851938681 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xltxtra.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xltxtra.doc.bkz)
+/Name (xltxtra)
+/Size 132179 
+/CRC 4734554 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xltxtra.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xltxtra.source.bkz)
+/Name (xltxtra)
+/Size 6323 
+/CRC -1558103334 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

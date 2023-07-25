@@ -1,0 +1,48 @@
+% Unpacking components of module [tablefootnote] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\tablefootnote.tds.zip)
+/Name (tablefootnote)
+/Size 526292 
+/CRC 702964652 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (tablefootnote)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\tablefootnote.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tablefootnote.bkz)
+/Name (tablefootnote)
+/Size 3648 
+/CRC -1864151636 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tablefootnote.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tablefootnote.doc.bkz)
+/Name (tablefootnote)
+/Size 505155 
+/CRC 605220460 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tablefootnote.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tablefootnote.source.bkz)
+/Name (tablefootnote)
+/Size 16024 
+/CRC 1334651577 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

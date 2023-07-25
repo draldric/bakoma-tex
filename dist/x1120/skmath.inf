@@ -1,0 +1,13 @@
+:skmath:x1120:0.013045:116110580:3085:F9E7-156F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+skmath
+
+./tex/latex/skmath:
+skmath.sty

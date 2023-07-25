@@ -1,0 +1,48 @@
+% Unpacking components of module [fithesis] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\fithesis.tds.zip)
+/Name (fithesis)
+/Size 5947749 
+/CRC 680223504 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (fithesis)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\fithesis.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fithesis.bkz)
+/Name (fithesis)
+/Size 996942 
+/CRC 2052194635 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fithesis.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fithesis.doc.bkz)
+/Name (fithesis)
+/Size 1962652 
+/CRC -1959485195 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fithesis.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fithesis.source.bkz)
+/Name (fithesis)
+/Size 37022 
+/CRC -1225706604 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,14 @@
+:realscripts.source:x1120:0.015394:116110580:4218:941C-3E7E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+realscripts
+
+./source/latex/realscripts:
+realscripts.dtx
+realscripts.ins

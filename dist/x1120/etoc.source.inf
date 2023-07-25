@@ -1,0 +1,14 @@
+:etoc.source:x1120:0.534952:116110580:115026:DC7F-835C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+etoc
+
+./source/latex/etoc:
+etoc.dtx
+etoc.ins

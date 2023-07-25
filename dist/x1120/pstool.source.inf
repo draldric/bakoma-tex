@@ -1,0 +1,14 @@
+:pstool.source:x1120:0.048158:116110580:14802:DDD7-56D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pstool
+
+./source/latex/pstool:
+pstool.ins
+pstool.tex

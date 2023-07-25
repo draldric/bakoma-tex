@@ -1,0 +1,48 @@
+% Unpacking components of module [ocgx] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ocgx.tds.zip)
+/Name (ocgx)
+/Size 1025300 
+/CRC -648776088 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (ocgx)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ocgx.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ocgx.bkz)
+/Name (ocgx)
+/Size 1550 
+/CRC -590353271 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ocgx.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ocgx.doc.bkz)
+/Name (ocgx)
+/Size 993053 
+/CRC 213882034 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ocgx.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ocgx.source.bkz)
+/Name (ocgx)
+/Size 7482 
+/CRC -710099918 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

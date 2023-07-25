@@ -1,0 +1,14 @@
+:moderntimeline.doc:x1120:0.184315:116110580:183672:703A-AF9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+moderntimeline
+
+./doc/latex/moderntimeline:
+moderntimeline.pdf
+README

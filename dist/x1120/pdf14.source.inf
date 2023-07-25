@@ -1,0 +1,14 @@
+:pdf14.source:x1120:0.009751:116110580:3893:BE63-A7F9:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pdf14
+
+./source/latex/pdf14:
+Makefile
+pdf14.dtx

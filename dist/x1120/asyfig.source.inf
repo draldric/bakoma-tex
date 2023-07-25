@@ -1,0 +1,14 @@
+:asyfig.source:x1120:0.018285:116110580:6315:A3A5-40EE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+asyfig
+
+./source/latex/asyfig:
+asyfig.ins
+asyfig.tex

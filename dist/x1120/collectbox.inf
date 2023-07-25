@@ -1,0 +1,13 @@
+:collectbox:x1120:0.009166:116110580:2205:794D-1A3F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+collectbox
+
+./tex/latex/collectbox:
+collectbox.sty

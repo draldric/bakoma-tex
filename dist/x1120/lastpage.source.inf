@@ -1,0 +1,15 @@
+:lastpage.source:x1120:0.084149:116110580:19508:EE99-F14E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+lastpage
+
+./source/latex/lastpage:
+lastpage.drv
+lastpage.dtx
+lastpage.ins

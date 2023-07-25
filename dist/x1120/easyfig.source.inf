@@ -1,0 +1,14 @@
+:easyfig.source:x1120:0.01571:116110580:4801:C5C7-C2A9:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+easyfig
+
+./source/latex/easyfig:
+easyfig.dtx
+easyfig.ins

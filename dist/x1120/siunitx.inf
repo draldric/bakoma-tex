@@ -1,0 +1,16 @@
+:siunitx:x1120:0.315956:116110580:33737:169E-7ECE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+siunitx
+
+./tex/latex/siunitx:
+siunitx-abbreviations.cfg
+siunitx-binary.cfg
+siunitx-version-1.cfg
+siunitx.sty

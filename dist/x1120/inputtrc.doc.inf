@@ -1,0 +1,17 @@
+:inputtrc.doc:x1120:0.375422:116110580:335505:25C0-8106:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+inputtrc
+
+./doc/latex/inputtrc:
+inputtrc.pdf
+README
+README.pdf
+RELEASE.txt
+SrcFILEs.txt

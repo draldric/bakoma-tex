@@ -1,0 +1,15 @@
+:tablefootnote.source:x1120:0.074176:116110580:16024:4F8D-2AB9:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tablefootnote
+
+./source/latex/tablefootnote:
+tablefootnote.drv
+tablefootnote.dtx
+tablefootnote.ins

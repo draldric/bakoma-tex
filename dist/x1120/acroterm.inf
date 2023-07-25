@@ -1,0 +1,13 @@
+:acroterm:x1120:0.002825:116110580:992:4158-B0AA:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+acroterm
+
+./tex/latex/acroterm:
+acroterm.sty

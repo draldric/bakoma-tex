@@ -1,0 +1,15 @@
+:filedate.source:x1120:0.008778:116110580:3540:58E8-F0C3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+filedate
+
+./source/latex/filedate:
+fdatechk.tex
+filedate.tex
+srcfiles.tex

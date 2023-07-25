@@ -1,0 +1,13 @@
+:skrapport.source:x1120:0.160587:116110580:30863:9CB2-15FA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+skrapport
+
+./source/latex/skrapport:
+skrapport.tex

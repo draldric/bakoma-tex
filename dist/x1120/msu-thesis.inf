@@ -1,0 +1,14 @@
+:msu-thesis:x1120:0.023003:116110580:7477:F3FF-7F8B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+msu-thesis
+
+./tex/latex/msu-thesis:
+gb4e-compat.tex
+msu-thesis.cls

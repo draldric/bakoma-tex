@@ -1,0 +1,48 @@
+% Unpacking components of module [regstats] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\regstats.tds.zip)
+/Name (regstats)
+/Size 417984 
+/CRC -593007566 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (regstats)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\regstats.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\regstats.bkz)
+/Name (regstats)
+/Size 3277 
+/CRC -548297358 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\regstats.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\regstats.doc.bkz)
+/Name (regstats)
+/Size 399206 
+/CRC 1575187068 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\regstats.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\regstats.source.bkz)
+/Name (regstats)
+/Size 13004 
+/CRC 1798997574 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

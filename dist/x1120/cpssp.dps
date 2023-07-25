@@ -1,0 +1,48 @@
+% Unpacking components of module [cpssp] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\cpssp.tds.zip)
+/Name (cpssp)
+/Size 535939 
+/CRC -38210550 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (cpssp)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\cpssp.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\cpssp.bkz)
+/Name (cpssp)
+/Size 6047 
+/CRC -659561591 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\cpssp.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\cpssp.doc.bkz)
+/Name (cpssp)
+/Size 508414 
+/CRC 660562129 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\cpssp.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\cpssp.source.bkz)
+/Name (cpssp)
+/Size 15756 
+/CRC -759071242 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

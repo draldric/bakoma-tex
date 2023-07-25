@@ -1,0 +1,13 @@
+:answers:x1120:0.005684:116110580:1796:7064-5535:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+answers
+
+./tex/latex/answers:
+answers.sty

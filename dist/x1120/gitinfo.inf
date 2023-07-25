@@ -1,0 +1,14 @@
+:gitinfo:x1120:0.00556:116110580:1424:4796-107C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gitinfo
+
+./tex/latex/gitinfo:
+gitinfo.sty
+gitsetinfo.sty

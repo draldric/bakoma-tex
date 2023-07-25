@@ -1,0 +1,48 @@
+% Unpacking components of module [l3build] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\l3build.tds.zip)
+/Name (l3build)
+/Size 650633 
+/CRC -742053477 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (l3build)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\l3build.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\l3build.bkz)
+/Name (l3build)
+/Size 18698 
+/CRC -903479230 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\l3build.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\l3build.doc.bkz)
+/Name (l3build)
+/Size 611721 
+/CRC 2099341127 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\l3build.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\l3build.source.bkz)
+/Name (l3build)
+/Size 19503 
+/CRC 1039425277 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

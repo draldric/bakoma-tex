@@ -1,0 +1,17 @@
+:ifnextok.doc:x1120:0.273446:116110580:215186:65A4-1479:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ifnextok
+
+./doc/latex/ifnextok:
+ifnextok.pdf
+README
+RELEASEs.txt
+SRCFILEs.txt
+testIfNT.pdf

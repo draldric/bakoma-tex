@@ -1,0 +1,15 @@
+:cachepic.doc:x1120:0.175536:116110580:159993:956E-EF98:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cachepic
+
+./doc/latex/cachepic:
+cachepic.pdf
+cachepic.tex
+README

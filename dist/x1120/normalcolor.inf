@@ -1,0 +1,13 @@
+:normalcolor:x1120:0.002876:116110580:981:BDEE-619C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+normalcolor
+
+./tex/latex/normalcolor:
+normalcolor.sty

@@ -1,0 +1,14 @@
+:threadcol.doc:x1120:0.328711:116110580:290571:E9DB-FB2C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+threadcol
+
+./doc/latex/threadcol:
+README
+threadcol.pdf

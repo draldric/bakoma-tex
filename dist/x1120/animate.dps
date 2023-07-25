@@ -1,0 +1,72 @@
+% Unpacking components of module [animate] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\animate.tds.zip)
+/Name (animate)
+/Size 3207040 
+/CRC 522209113 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1000\animate.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1000\\animate.bkz)
+/Name (animate)
+/Size 21470 
+/CRC 461738145 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1000\animate.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\animate\\animate.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\animate\\animate.sty)
+/OldSize 117782 
+/NewSize 105071 
+/Line 4 
+/NewLine (%   http://www.ctan.org/tex-archive/help/Catalogue/licenses.lppl.html)
+/OldLine (%   http://mirrors.ctan.org/help/Catalogue/licenses.lppl.html)
+>>
+<<
+/Type /Status 
+/Name (animate)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\animate.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\animate.bkz)
+/Name (animate)
+/Size 18825 
+/CRC 47092740 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\animate.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\animate.doc.bkz)
+/Name (animate)
+/Size 3132697 
+/CRC 1701060343 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\animate.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\animate.source.bkz)
+/Name (animate)
+/Size 27655 
+/CRC 629693532 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

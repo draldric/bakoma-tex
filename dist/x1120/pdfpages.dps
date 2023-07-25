@@ -1,0 +1,128 @@
+% Unpacking components of module [pdfpages] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\pdfpages.tds.zip)
+/Name (pdfpages)
+/Size 380005 
+/CRC 1808945458 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\pdfpages.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\pdfpages.bkz)
+/Name (pdfpages)
+/Size 11458 
+/CRC -548259760 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\pdfpages.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pdfpages\\pdfpages.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\pdfpages\\pdfpages.sty)
+/OldSize 50832 
+/NewSize 52766 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2001-2006 Andreas MATTHIAS)
+/OldLine (%% Copyright \(C\) 2001-2016 Andreas MATTHIAS)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pdfpages\\ppdvipdfmx.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pdfpages\\ppdvips.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pdfpages\\ppluatex.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pdfpages\\ppnull.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\pdfpages\\ppnull.def)
+/OldSize 2538 
+/NewSize 2828 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2001-2006 Andreas MATTHIAS)
+/OldLine (%% Copyright \(C\) 2001-2016 Andreas MATTHIAS)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pdfpages\\pppdftex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\pdfpages\\pppdftex.def)
+/OldSize 5629 
+/NewSize 6363 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2001-2006 Andreas MATTHIAS)
+/OldLine (%% Copyright \(C\) 2001-2016 Andreas MATTHIAS)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pdfpages\\ppvtex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\pdfpages\\ppvtex.def)
+/OldSize 3321 
+/NewSize 3450 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2001-2006 Andreas MATTHIAS)
+/OldLine (%% Copyright \(C\) 2001-2016 Andreas MATTHIAS)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pdfpages\\ppxetex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\pdfpages\\ppxetex.def)
+/OldSize 5296 
+/NewSize 6328 
+/Line 11 
+/NewLine (%%)
+/OldLine (%% Copyright \(C\) 2001-2016 Andreas MATTHIAS)
+>>
+<<
+/Type /Status 
+/Name (pdfpages)
+/Status /Updated 
+/Differences 8 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\pdfpages.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pdfpages.bkz)
+/Name (pdfpages)
+/Size 12967 
+/CRC -1114094371 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pdfpages.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pdfpages.doc.bkz)
+/Name (pdfpages)
+/Size 313110 
+/CRC 1623864963 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pdfpages.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pdfpages.source.bkz)
+/Name (pdfpages)
+/Size 33846 
+/CRC -775250330 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

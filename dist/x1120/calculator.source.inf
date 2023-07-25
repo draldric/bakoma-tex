@@ -1,0 +1,14 @@
+:calculator.source:x1120:0.181901:116110580:29045:E901-B900:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+calculator
+
+./source/latex/calculator:
+calculator.dtx
+calculator.ins

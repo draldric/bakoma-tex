@@ -1,0 +1,48 @@
+% Unpacking components of module [tqft] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\tqft.tds.zip)
+/Name (tqft)
+/Size 457289 
+/CRC -1274500435 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (tqft)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\tqft.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tqft.bkz)
+/Name (tqft)
+/Size 5994 
+/CRC 460832806 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tqft.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tqft.doc.bkz)
+/Name (tqft)
+/Size 437507 
+/CRC -1673362447 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tqft.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tqft.source.bkz)
+/Name (tqft)
+/Size 11834 
+/CRC -452474108 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

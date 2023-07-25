@@ -1,0 +1,21 @@
+This fix (2015/09/07) is based on code base of V 11.0,
+which should improve speed of openning files under Windows 10.
+
+This pack includes TDSearch-*.dll in both Win32 and Win64 builds
+
+It should work with version 11.0
+
+To apply the fix just unpack 
+http://www.bakoma-tex.com/dist/x1100/fix/tdsearch-150907.zip 
+in BaKoMa TeX folder. 
+
+Check that the files 
+C:\BaKoMa TeX\BIN\Win32\tdsearch-x86.dll
+C:\BaKoMa TeX\BIN\Win64\tdsearch-x64.dll
+have been replaced. 
+
+Fix background:
+
+We avoid attempt of creating arbitrary not found TEX files (running mktextex).
+This run is allowed only for *.FD files.
+

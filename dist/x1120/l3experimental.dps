@@ -1,0 +1,424 @@
+% Unpacking components of module [l3experimental] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\l3experimental.tds.zip)
+/Name (l3experimental)
+/Size 4077555 
+/CRC -1207788125 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1040\l3experimental.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1040\\l3experimental.bkz)
+/Name (l3experimental)
+/Size 38037 
+/CRC -1640627381 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1040\l3experimental.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3sort\\l3sort.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3sort\\l3sort.sty)
+/OldSize 9765 
+/NewSize 10054 
+/Line 16 
+/NewLine (%% File l3sort.dtx \(C\) Copyright 2012 The LaTeX3 Project)
+/OldLine (%% File l3sort.dtx \(C\) Copyright 2012,2014-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3flag.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3flag.sty)
+/OldSize 3394 
+/NewSize 3761 
+/Line 16 
+/NewLine (%% File: l3flag.dtx Copyright \(C\) 2011-2012 The LaTeX3 Project)
+/OldLine (%% File: l3flag.dtx Copyright \(C\) 2011-2012,2014-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3regex-trace.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3regex-trace.sty)
+/OldSize 98807 
+/NewSize 99538 
+/Line 16 
+/NewLine (%% File: l3regex.dtx Copyright \(C\) 2011-2013 The LaTeX3 Project)
+/OldLine (%% File: l3regex.dtx Copyright \(C\) 2011-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3regex.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3regex.sty)
+/OldSize 97229 
+/NewSize 97880 
+/Line 16 
+/NewLine (%% File: l3regex.dtx Copyright \(C\) 2011-2013 The LaTeX3 Project)
+/OldLine (%% File: l3regex.dtx Copyright \(C\) 2011-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-convert.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-convert.sty)
+/OldSize 21850 
+/NewSize 21594 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88591.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88591.def)
+/OldSize 1667 
+/NewSize 1672 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885910.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885910.def)
+/OldSize 2591 
+/NewSize 2596 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885911.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885911.def)
+/OldSize 3455 
+/NewSize 3460 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885913.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885913.def)
+/OldSize 2791 
+/NewSize 2796 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885914.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885914.def)
+/OldSize 2291 
+/NewSize 2296 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885915.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885915.def)
+/OldSize 1831 
+/NewSize 1836 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885916.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso885916.def)
+/OldSize 2471 
+/NewSize 2476 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88592.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88592.def)
+/OldSize 2807 
+/NewSize 2812 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88593.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88593.def)
+/OldSize 2304 
+/NewSize 2309 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88594.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88594.def)
+/OldSize 2667 
+/NewSize 2672 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88595.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88595.def)
+/OldSize 3547 
+/NewSize 3552 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88596.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88596.def)
+/OldSize 2979 
+/NewSize 2984 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88597.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88597.def)
+/OldSize 3229 
+/NewSize 3234 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88598.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88598.def)
+/OldSize 2692 
+/NewSize 2697 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88599.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-iso88599.def)
+/OldSize 1787 
+/NewSize 1792 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-utf16.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-utf16.def)
+/OldSize 7896 
+/NewSize 7865 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-utf32.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-utf32.def)
+/OldSize 6109 
+/NewSize 6078 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-utf8.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-enc-utf8.def)
+/OldSize 6851 
+/NewSize 6850 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-esc-hex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-esc-hex.def)
+/OldSize 3087 
+/NewSize 3080 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-esc-name.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-esc-name.def)
+/OldSize 3904 
+/NewSize 3903 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-esc-string.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-esc-string.def)
+/OldSize 5482 
+/NewSize 5473 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-esc-url.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-esc-url.def)
+/OldSize 3759 
+/NewSize 3758 
+/Line 16 
+/NewLine (%% File: l3str-convert.dtx Copyright \(C\) 2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-convert.dtx Copyright \(C\) 2013-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-format.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3str-format.sty)
+/OldSize 14042 
+/NewSize 13774 
+/Line 16 
+/NewLine (%% File: l3str-format.dtx Copyright \(C\) 2012-2013 The LaTeX3 Project)
+/OldLine (%% File: l3str-format.dtx Copyright \(C\) 2012-2013,2015 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3tl-analysis.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3tl-analysis.sty)
+/OldSize 14753 
+/NewSize 14852 
+/Line 16 
+/NewLine (%% File: l3tl-analysis.dtx Copyright \(C\) 2011-2012 The LaTeX3 Project)
+/OldLine (%% File: l3tl-analysis.dtx Copyright \(C\) 2011-2012,2015,2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\l3str\\l3tl-build.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\l3str\\l3tl-build.sty)
+/OldSize 3961 
+/NewSize 4276 
+/Line 16 
+/NewLine (%% File: l3tl-build.dtx Copyright \(C\) 2011-2012 The LaTeX3 Project)
+/OldLine (%% File: l3tl-build.dtx Copyright \(C\) 2011-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\xcoffins\\xcoffins.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\xcoffins\\xcoffins.sty)
+/OldSize 6677 
+/NewSize 6683 
+/Line 16 
+/NewLine (%% File: xcoffins.dtx Copyright\(C\) 2010,2011 The LaTeX3 Project)
+/OldLine (%% File: xcoffins.dtx Copyright\(C\) 2010-2012,2014 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\xgalley\\l3galley.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\xgalley\\l3galley.sty)
+/OldSize 32924 
+/NewSize 34837 
+/Line 17 
+/NewLine (%%                              \(C\) 2010-2013 The LaTeX3 Project)
+/OldLine (%%                              \(C\) 2010-2016 The LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\l3experimental\\xgalley\\xgalley.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\l3experimental\\xgalley\\xgalley.sty)
+/OldSize 22474 
+/NewSize 22480 
+/Line 17 
+/NewLine (%%                             \(C\) 2010-2012 The LaTeX3 Project)
+/OldLine (%%                             \(C\) 2010-2012,2014 The LaTeX3 Project)
+>>
+<<
+/Type /Status 
+/Name (l3experimental)
+/Status /Updated 
+/Differences 33 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\l3experimental.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\l3experimental.bkz)
+/Name (l3experimental)
+/Size 35444 
+/CRC 251364535 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\l3experimental.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\l3experimental.doc.bkz)
+/Name (l3experimental)
+/Size 3416873 
+/CRC -1121249074 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\l3experimental.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\l3experimental.source.bkz)
+/Name (l3experimental)
+/Size 122824 
+/CRC -12174423 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

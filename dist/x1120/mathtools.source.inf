@@ -1,0 +1,15 @@
+:mathtools.source:x1120:0.376518:116110580:78308:7272-6838:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mathtools
+
+./source/latex/mathtools:
+empheq.dtx
+mathtools.dtx
+mhsetup.dtx

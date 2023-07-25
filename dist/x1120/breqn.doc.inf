@@ -1,0 +1,15 @@
+:breqn.doc:x1120:1.14662:116110580:1061742:126C-C213:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+breqn
+
+./doc/latex/breqn:
+breqn.pdf
+flexisym.pdf
+mathstyle.pdf

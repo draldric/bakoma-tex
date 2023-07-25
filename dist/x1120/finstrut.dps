@@ -1,0 +1,48 @@
+% Unpacking components of module [finstrut] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\finstrut.tds.zip)
+/Name (finstrut)
+/Size 186225 
+/CRC 1911111987 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (finstrut)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\finstrut.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\finstrut.bkz)
+/Name (finstrut)
+/Size 2880 
+/CRC 1453536121 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\finstrut.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\finstrut.doc.bkz)
+/Name (finstrut)
+/Size 174037 
+/CRC 773551374 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\finstrut.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\finstrut.source.bkz)
+/Name (finstrut)
+/Size 2444 
+/CRC -1551468180 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

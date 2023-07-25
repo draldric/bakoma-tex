@@ -1,0 +1,80 @@
+% Unpacking components of module [paresse] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\paresse.tds.zip)
+/Name (paresse)
+/Size 1685407 
+/CRC -105176751 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\paresse.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\paresse.bkz)
+/Name (paresse)
+/Size 1508 
+/CRC 1897159891 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\paresse.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\paresse\\paresse.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\paresse\\paresse.sty)
+/OldSize 4387 
+/NewSize 4559 
+/Line 7 
+/NewLine (%% paresse.dtx  \(with options: `package'\))
+/OldLine (%% paresse.dtx  \(with options: `common,package'\))
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\paresse\\paresseold.sto)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\paresse\\paresseutf8.sto)
+>>
+<<
+/Type /Status 
+/Name (paresse)
+/Status /Updated 
+/Differences 3 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\paresse.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\paresse.bkz)
+/Name (paresse)
+/Size 2976 
+/CRC -1316133794 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\paresse.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\paresse.doc.bkz)
+/Name (paresse)
+/Size 1413407 
+/CRC 1075239956 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\paresse.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\paresse.source.bkz)
+/Name (paresse)
+/Size 23077 
+/CRC -1422530294 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

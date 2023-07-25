@@ -1,0 +1,36 @@
+% Unpacking components of module [engrec] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\engrec.tds.zip)
+/Name (engrec)
+/Size 281587 
+/CRC 1901342299 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\engrec.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\engrec.bkz)
+/Name (engrec)
+/Size 1341 
+/CRC -946307245 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\engrec.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\engrec\\engrec.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\engrec\\engrec.sty)
+/OldSize 5313 
+/NewSize 5313 
+>>
+<<
+/Type /Status 
+/Name (engrec)
+/Status /Same 
+>> % distribution already includes this version

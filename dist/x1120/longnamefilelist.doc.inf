@@ -1,0 +1,15 @@
+:longnamefilelist.doc:x1120:0.340276:116110580:308969:C288-914E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+longnamefilelist
+
+./doc/latex/longnamefilelist:
+longnamefilelist.pdf
+README
+SrcFILEs.txt

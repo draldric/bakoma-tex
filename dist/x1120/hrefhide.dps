@@ -1,0 +1,48 @@
+% Unpacking components of module [hrefhide] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\hrefhide.tds.zip)
+/Name (hrefhide)
+/Size 449052 
+/CRC -1592060008 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (hrefhide)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\hrefhide.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hrefhide.bkz)
+/Name (hrefhide)
+/Size 1940 
+/CRC -125031208 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\hrefhide.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hrefhide.doc.bkz)
+/Name (hrefhide)
+/Size 434579 
+/CRC -160030197 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\hrefhide.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hrefhide.source.bkz)
+/Name (hrefhide)
+/Size 11455 
+/CRC 1128075437 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

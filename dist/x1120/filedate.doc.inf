@@ -1,0 +1,16 @@
+:filedate.doc:x1120:0.614728:116110580:560962:747C-65F9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+filedate
+
+./doc/latex/filedate:
+Announce.txt
+filedate.pdf
+README
+SrcFILEs.txt

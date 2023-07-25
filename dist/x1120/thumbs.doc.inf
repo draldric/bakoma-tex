@@ -1,0 +1,16 @@
+:thumbs.doc:x1120:0.736966:116110580:702389:2763-688E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+thumbs
+
+./doc/latex/thumbs:
+README
+thumbs-example.pdf
+thumbs-example.tex
+thumbs.pdf

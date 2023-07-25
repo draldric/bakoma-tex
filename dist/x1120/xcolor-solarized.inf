@@ -1,0 +1,13 @@
+:xcolor-solarized:x1120:0.003336:116110580:1235:E873-973:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xcolor-solarized
+
+./tex/latex/xcolor-solarized:
+xcolor-solarized.sty

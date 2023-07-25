@@ -1,0 +1,13 @@
+:hrefhide:x1120:0.00575:116110580:1940:F88C-2CD8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hrefhide
+
+./tex/latex/hrefhide:
+hrefhide.sty

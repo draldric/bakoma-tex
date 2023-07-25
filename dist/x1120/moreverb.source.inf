@@ -1,0 +1,14 @@
+:moreverb.source:x1120:0.02146:116110580:6822:6105-ABBA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+moreverb
+
+./source/latex/moreverb:
+moreverb.dtx
+moreverb.ins

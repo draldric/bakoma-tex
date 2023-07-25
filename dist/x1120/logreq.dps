@@ -1,0 +1,44 @@
+% Unpacking components of module [logreq] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\logreq.tds.zip)
+/Name (logreq)
+/Size 13722 
+/CRC -653953391 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1050\logreq.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1050\\logreq.bkz)
+/Name (logreq)
+/Size 2484 
+/CRC -435190584 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1050\logreq.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\logreq\\logreq.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\logreq\\logreq.def)
+/OldSize 1620 
+/NewSize 1620 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\logreq\\logreq.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\logreq\\logreq.sty)
+/OldSize 6187 
+/NewSize 6187 
+>>
+<<
+/Type /Status 
+/Name (logreq)
+/Status /Same 
+>> % distribution already includes this version

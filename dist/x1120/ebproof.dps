@@ -1,0 +1,38 @@
+% Unpacking components of module [ebproof] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ebproof.tds.zip)
+/Name (ebproof)
+/Size 203444 
+/CRC -1856548292 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (ebproof)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ebproof.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ebproof.bkz)
+/Name (ebproof)
+/Size 4383 
+/CRC 934004173 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ebproof.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ebproof.doc.bkz)
+/Name (ebproof)
+/Size 199486 
+/CRC 1375331792 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

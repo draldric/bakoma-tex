@@ -1,0 +1,15 @@
+:edfnotes.source:x1120:0.005239:116110580:2432:21E9-6BD6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+edfnotes
+
+./source/latex/edfnotes:
+edfnotes.tex
+README.tex
+srcfiles.tex

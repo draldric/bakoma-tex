@@ -1,0 +1,298 @@
+% Unpacking components of module [microtype] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\microtype.tds.zip)
+/Name (microtype)
+/Size 1882589 
+/CRC -339465810 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\microtype.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\microtype.bkz)
+/Name (microtype)
+/Size 33152 
+/CRC -1137638504 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\microtype.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\letterspace.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\letterspace.sty)
+/OldSize 13969 
+/NewSize 16731 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\microtype-luatex.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\microtype-pdftex.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\microtype-xetex.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\microtype.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\microtype.cfg)
+/OldSize 18665 
+/NewSize 23387 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\microtype.lua)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\microtype.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\microtype.sty)
+/OldSize 112235 
+/NewSize 69336 
+/Line 7 
+/NewLine (%% microtype.dtx  \(with options: `package,lua'\))
+/OldLine (%% microtype.dtx  \(with options: `package'\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-bch.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-bch.cfg)
+/OldSize 8849 
+/NewSize 8928 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-blg.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-blg.cfg)
+/OldSize 5699 
+/NewSize 5778 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-CharisSIL.cfg)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-cmr.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-cmr.cfg)
+/OldSize 18958 
+/NewSize 22870 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-euf.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-euf.cfg)
+/OldSize 2909 
+/NewSize 2988 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-eur.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-eur.cfg)
+/OldSize 3574 
+/NewSize 3653 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-euroitc.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-euroitc.cfg)
+/OldSize 2105 
+/NewSize 2184 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-eus.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-eus.cfg)
+/OldSize 4760 
+/NewSize 4839 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-LatinModernRoman.cfg)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-msa.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-msa.cfg)
+/OldSize 5814 
+/NewSize 5893 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-msb.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-msb.cfg)
+/OldSize 5479 
+/NewSize 5558 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-mvs.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-mvs.cfg)
+/OldSize 2333 
+/NewSize 2318 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-pad.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-pad.cfg)
+/OldSize 9592 
+/NewSize 9671 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-PalatinoLinotype.cfg)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-pmn.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-pmn.cfg)
+/OldSize 13978 
+/NewSize 16203 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-ppl.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-ppl.cfg)
+/OldSize 6259 
+/NewSize 6338 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-ptm.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-ptm.cfg)
+/OldSize 12292 
+/NewSize 12391 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-ugm.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-ugm.cfg)
+/OldSize 8196 
+/NewSize 8275 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\microtype\\mt-zpeu.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\microtype\\mt-zpeu.cfg)
+/OldSize 2491 
+/NewSize 2570 
+/Line 12 
+/NewLine (%%        An interface to the micro-typographic extensions of pdfTeX)
+/OldLine (%%         Subliminal refinements towards typographical perfection)
+>>
+<<
+/Type /Status 
+/Name (microtype)
+/Status /Updated 
+/Differences 26 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\microtype.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\microtype.bkz)
+/Name (microtype)
+/Size 43029 
+/CRC 1430951574 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\microtype.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\microtype.doc.bkz)
+/Name (microtype)
+/Size 1576104 
+/CRC 2103244192 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\microtype.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\microtype.source.bkz)
+/Name (microtype)
+/Size 137397 
+/CRC -1220750677 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,17 @@
+:beamer-fuberlin:x1100:0.012412:115090132:2636:2018-9CFB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+beamer-FUBerlin
+
+./tex/latex/beamer-FUBerlin:
+beamercolorthemeBerlinFU.sty
+beamerfontthemeBerlinFU.sty
+beamerouterthemeBerlinFU.sty
+beamerthemeBerlinFU.sty
+FUbeamer.cls

@@ -1,0 +1,14 @@
+:moderntimeline.source:x1120:0.022662:116110580:5692:7D69-5667:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+moderntimeline
+
+./source/latex/moderntimeline:
+moderntimeline.dtx
+moderntimeline.ins

@@ -1,0 +1,48 @@
+% Unpacking components of module [adjustbox] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\adjustbox.tds.zip)
+/Name (adjustbox)
+/Size 824399 
+/CRC -259204271 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (adjustbox)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\adjustbox.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\adjustbox.bkz)
+/Name (adjustbox)
+/Size 9164 
+/CRC -343607023 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\adjustbox.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\adjustbox.doc.bkz)
+/Name (adjustbox)
+/Size 749848 
+/CRC 870729992 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\adjustbox.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\adjustbox.source.bkz)
+/Name (adjustbox)
+/Size 39727 
+/CRC -1910835997 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

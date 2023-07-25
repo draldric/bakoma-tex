@@ -1,0 +1,72 @@
+% Unpacking components of module [verse] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\verse.tds.zip)
+/Name (verse)
+/Size 440916 
+/CRC -1146547611 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\verse.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\verse.bkz)
+/Name (verse)
+/Size 2758 
+/CRC 1965253154 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\verse.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\verse\\verse.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\verse\\verse.sty)
+/OldSize 9076 
+/NewSize 9036 
+/Line 28 
+/NewLine ()
+/OldLine (\\newcounter{vslineno})
+>>
+<<
+/Type /Status 
+/Name (verse)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\verse.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\verse.bkz)
+/Name (verse)
+/Size 2738 
+/CRC 1478874420 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\verse.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\verse.doc.bkz)
+/Name (verse)
+/Size 423372 
+/CRC -1237755261 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\verse.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\verse.source.bkz)
+/Name (verse)
+/Size 15191 
+/CRC 1225526050 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

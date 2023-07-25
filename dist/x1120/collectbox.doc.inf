@@ -1,0 +1,14 @@
+:collectbox.doc:x1120:0.27126:116110580:271578:DA15-CCF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+collectbox
+
+./doc/latex/collectbox:
+collectbox.pdf
+README

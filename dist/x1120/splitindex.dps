@@ -1,0 +1,48 @@
+% Unpacking components of module [splitindex] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\splitindex.tds.zip)
+/Name (splitindex)
+/Size 469004 
+/CRC 1496719675 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (splitindex)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\splitindex.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\splitindex.bkz)
+/Name (splitindex)
+/Size 7490 
+/CRC -932719415 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\splitindex.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\splitindex.doc.bkz)
+/Name (splitindex)
+/Size 426356 
+/CRC -1706537265 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\splitindex.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\splitindex.source.bkz)
+/Name (splitindex)
+/Size 23968 
+/CRC 86008260 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

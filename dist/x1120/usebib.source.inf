@@ -1,0 +1,14 @@
+:usebib.source:x1120:0.017463:116110580:5694:3964-CB9B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+usebib
+
+./source/latex/usebib:
+usebib.dtx
+usebib.ins

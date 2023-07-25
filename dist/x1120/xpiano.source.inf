@@ -1,0 +1,14 @@
+:xpiano.source:x1120:0.024828:116110580:6074:3BF6-7863:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xpiano
+
+./source/latex/xpiano:
+xpiano.dtx
+xpiano.ins

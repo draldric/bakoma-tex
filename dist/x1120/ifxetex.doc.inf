@@ -1,0 +1,14 @@
+:ifxetex.doc:x1120:0.165967:116111680:165446:A25D-C999:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+ifxetex
+
+./doc/generic/ifxetex:
+ifxetex.pdf
+README

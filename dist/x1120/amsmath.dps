@@ -1,0 +1,149 @@
+% Unpacking components of module [amsmath] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\\\macros\\latex\\required\\latex-amsmath.tds.zip)
+/Name (amsmath)
+/Size 2508250 
+/CRC 643597309 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\amsmath.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\amsmath.bkz)
+/Name (amsmath)
+/Size 29186 
+/CRC -175995136 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\amsmath.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsmath\\amsbsy.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsmath\\amsbsy.sty)
+/OldSize 3535 
+/NewSize 2210 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 1995, 1999 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsmath\\amscd.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsmath\\amscd.sty)
+/OldSize 6487 
+/NewSize 5310 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 1995, 1999 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsmath\\amsgen.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsmath\\amsgen.sty)
+/OldSize 5453 
+/NewSize 4160 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 1995, 1999 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsmath\\amsmath.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsmath\\amsmath.sty)
+/OldSize 79756 
+/NewSize 82033 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 1995, 1999, 2000, 2013 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsmath\\amsopn.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsmath\\amsopn.sty)
+/OldSize 5082 
+/NewSize 4115 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 1995, 1999 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsmath\\amstex.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsmath\\amstex.sty)
+/OldSize 71018 
+/NewSize 69721 
+/Line 1 
+/NewLine (%%% ====================================================================)
+/OldLine (%)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsmath\\amstext.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsmath\\amstext.sty)
+/OldSize 3745 
+/NewSize 2431 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 1995, 1999 American Mathematical Society.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\amsmath\\amsxtra.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\amsmath\\amsxtra.sty)
+/OldSize 3186 
+/NewSize 2029 
+/Line 9 
+/NewLine (%%% ====================================================================)
+/OldLine (%% Copyright 1995, 1999 American Mathematical Society.)
+>>
+<<
+/Type /Status 
+/Name (amsmath)
+/Status /Updated 
+/Differences 8 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\amsmath.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\amsmath.bkz)
+/Name (amsmath)
+/Size 28723 
+/CRC -330175778 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\amsmath.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\amsmath.doc.bkz)
+/Name (amsmath)
+/Size 2240933 
+/CRC -1915305757 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\amsmath.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\amsmath.source.bkz)
+/Name (amsmath)
+/Size 62035 
+/CRC 1518660565 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

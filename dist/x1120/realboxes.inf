@@ -1,0 +1,13 @@
+:realboxes:x1120:0.008988:116110580:2361:78FC-DF26:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+realboxes
+
+./tex/latex/realboxes:
+realboxes.sty

@@ -1,0 +1,14 @@
+:xpinyin.source:x1120:0.04718:116110580:10692:2BDB-2D9D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xpinyin
+
+./source/latex/xpinyin:
+xpinyin.dtx
+xpinyin.ins

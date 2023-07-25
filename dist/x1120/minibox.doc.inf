@@ -1,0 +1,14 @@
+:minibox.doc:x1120:0.281146:116110580:282273:7D7E-5A42:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+minibox
+
+./doc/latex/minibox:
+minibox.pdf
+README

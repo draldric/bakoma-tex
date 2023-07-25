@@ -1,0 +1,13 @@
+:environ:x1120:0.004422:116110580:1401:376F-A013:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+environ
+
+./tex/latex/environ:
+environ.sty

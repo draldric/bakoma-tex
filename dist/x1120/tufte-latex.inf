@@ -1,0 +1,16 @@
+:tufte-latex:x1120:0.100446:116110580:21028:D2D6-8835:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tufte-latex
+
+./tex/latex/tufte-latex:
+tufte-book.cls
+tufte-common.def
+tufte-handout.cls
+tufte.bst

@@ -1,0 +1,14 @@
+:tocbibind.source:x1120:0.046659:116110580:12529:1FF2-D9DE:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+tocbibind
+
+./source/latex/tocbibind:
+tocbibind.dtx
+tocbibind.ins

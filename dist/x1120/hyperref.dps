@@ -1,0 +1,343 @@
+% Unpacking components of module [hyperref] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\hyperref.tds.zip)
+/Name (hyperref)
+/Size 4035229 
+/CRC -711969891 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1000\hyperref.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1000\\hyperref.bkz)
+/Name (hyperref)
+/Size 87692 
+/CRC 1823259910 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1000\hyperref.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\backref.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\backref.sty)
+/OldSize 12089 
+/NewSize 12876 
+/Line 11 
+/NewLine (%%               2001-2010 Heiko Oberdiek)
+/OldLine (%%               2001-2012 Heiko Oberdiek)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hdvipdfm.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hdvipdfm.def)
+/OldSize 43182 
+/NewSize 43545 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hdvips.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hdvips.def)
+/OldSize 3302 
+/NewSize 3559 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hdvipson.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hdvipson.def)
+/OldSize 5491 
+/NewSize 5747 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hdviwind.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hdviwind.def)
+/OldSize 17079 
+/NewSize 17529 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hluatex.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hpdftex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hpdftex.def)
+/OldSize 46827 
+/NewSize 51978 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\htex4ht.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\htex4ht.cfg)
+/OldSize 1368 
+/NewSize 1456 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\htex4ht.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\htex4ht.def)
+/OldSize 7515 
+/NewSize 7606 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\htexture.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\htexture.def)
+/OldSize 5858 
+/NewSize 6115 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hvtex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hvtex.def)
+/OldSize 27434 
+/NewSize 27522 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hvtexhtm.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hvtexhtm.def)
+/OldSize 4044 
+/NewSize 4132 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hvtexmrk.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hvtexmrk.def)
+/OldSize 2594 
+/NewSize 2834 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hxetex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hxetex.def)
+/OldSize 44741 
+/NewSize 45104 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hylatex.ltx)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hylatex.ltx)
+/OldSize 1094 
+/NewSize 1094 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hyperref.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hyperref.sty)
+/OldSize 214680 
+/NewSize 233481 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\hypertex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\hypertex.def)
+/OldSize 7653 
+/NewSize 7759 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\minitoc-hyper.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\minitoc-hyper.sty)
+/OldSize 86550 
+/NewSize 86550 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\nameref.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\nameref.sty)
+/OldSize 12492 
+/NewSize 12949 
+/Line 12 
+/NewLine (%%               2001-2010 Heiko Oberdiek)
+/OldLine (%%               2001-2012 Heiko Oberdiek)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\nohyperref.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\nohyperref.sty)
+/OldSize 2242 
+/NewSize 2330 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\ntheorem-hyper.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\ntheorem-hyper.sty)
+/OldSize 33660 
+/NewSize 33660 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\pd1enc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\pd1enc.def)
+/OldSize 13744 
+/NewSize 14093 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\pdfmark.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\pdfmark.def)
+/OldSize 47252 
+/NewSize 49456 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\psdextra.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\puarenc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\puarenc.def)
+/OldSize 5149 
+/NewSize 3816 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\puenc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\puenc.def)
+/OldSize 57231 
+/NewSize 122351 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\puvnenc.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\puvnenc.def)
+/OldSize 8308 
+/NewSize 9376 
+/Line 12 
+/NewLine (%%)
+/OldLine (%% 2016 Oberdiek Package Suport Group)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperref\\xr-hyper.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperref\\xr-hyper.sty)
+/OldSize 3830 
+/NewSize 3830 
+>>
+<<
+/Type /Status 
+/Name (hyperref)
+/Status /Updated 
+/Differences 24 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\hyperref.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hyperref.bkz)
+/Name (hyperref)
+/Size 106455 
+/CRC 1234497237 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\hyperref.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hyperref.doc.bkz)
+/Name (hyperref)
+/Size 3366314 
+/CRC -278053169 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\hyperref.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hyperref.source.bkz)
+/Name (hyperref)
+/Size 286772 
+/CRC -896972753 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

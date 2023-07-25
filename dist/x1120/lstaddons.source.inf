@@ -1,0 +1,15 @@
+:lstaddons.source:x1120:0.020127:116110580:5294:4C81-C8AF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+lstaddons
+
+./source/latex/lstaddons:
+lstaddons.ins
+lstautogobble.dtx
+lstlinebgrd.dtx

@@ -1,0 +1,16 @@
+:uri.doc:x1120:0.397277:116110580:390525:47E8-929B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+uri
+
+./doc/latex/uri:
+README
+uri-example.pdf
+uri-example.tex
+uri.pdf

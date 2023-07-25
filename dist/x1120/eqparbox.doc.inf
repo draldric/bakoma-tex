@@ -1,0 +1,14 @@
+:eqparbox.doc:x1120:0.414787:116110580:365556:725C-7C95:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+eqparbox
+
+./doc/latex/eqparbox:
+eqparbox.pdf
+README

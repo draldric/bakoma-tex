@@ -1,0 +1,36 @@
+% Unpacking components of module [chappg] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\chappg.tds.zip)
+/Name (chappg)
+/Size 200532 
+/CRC -2042400663 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\chappg.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\chappg.bkz)
+/Name (chappg)
+/Size 1476 
+/CRC 1561789984 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\chappg.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\chappg\\chappg.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\chappg\\chappg.sty)
+/OldSize 3918 
+/NewSize 3918 
+>>
+<<
+/Type /Status 
+/Name (chappg)
+/Status /Same 
+>> % distribution already includes this version

@@ -1,0 +1,13 @@
+:bibleref-german:x1120:0.067906:116110580:7025:DBEC-BFB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+bibleref-german
+
+./tex/latex/bibleref-german:
+bibleref-german.sty

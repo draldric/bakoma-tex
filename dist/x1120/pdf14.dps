@@ -1,0 +1,48 @@
+% Unpacking components of module [pdf14] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\pdf14.tds.zip)
+/Name (pdf14)
+/Size 367318 
+/CRC -1753171239 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (pdf14)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\pdf14.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pdf14.bkz)
+/Name (pdf14)
+/Size 620 
+/CRC -1491615908 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pdf14.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pdf14.doc.bkz)
+/Name (pdf14)
+/Size 363848 
+/CRC -1353257225 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pdf14.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pdf14.source.bkz)
+/Name (pdf14)
+/Size 3893 
+/CRC -1100765191 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

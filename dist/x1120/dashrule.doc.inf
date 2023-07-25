@@ -1,0 +1,14 @@
+:dashrule.doc:x1120:0.258278:116110580:230653:C7E9-8564:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dashrule
+
+./doc/latex/dashrule:
+dashrule.pdf
+README

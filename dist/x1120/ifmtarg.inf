@@ -1,0 +1,13 @@
+:ifmtarg:x1120:0.000482:116110580:326:7588-7B1A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ifmtarg
+
+./tex/latex/ifmtarg:
+ifmtarg.sty

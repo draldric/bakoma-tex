@@ -1,0 +1,13 @@
+:boxedminipage2e:x1120:0.001768:116110580:785:B74A-B84D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+boxedminipage2e
+
+./tex/latex/boxedminipage2e:
+boxedminipage2e.sty

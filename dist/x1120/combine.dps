@@ -1,0 +1,105 @@
+% Unpacking components of module [combine] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\combine.tds.zip)
+/Name (combine)
+/Size 510716 
+/CRC -1486707989 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\combine.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\combine.bkz)
+/Name (combine)
+/Size 10038 
+/CRC -1941555443 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\combine.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\combine\\combcite.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\combine\\combcite.sty)
+/OldSize 4351 
+/NewSize 4257 
+/Line 9 
+/NewLine (%%   Author: Peter Wilson \(CUA\) now at peter.r.wilson@boeing.com)
+/OldLine (%%   Author: Peter Wilson, Herries Press)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\combine\\combine.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\combine\\combine.cls)
+/OldSize 29034 
+/NewSize 28944 
+/Line 9 
+/NewLine (%%   Author: Peter Wilson \(CUA\) now at peter.r.wilson@boeing.com)
+/OldLine (%%   Author: Peter Wilson, Herries Press)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\combine\\combinet.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\combine\\combinet.sty)
+/OldSize 3528 
+/NewSize 3439 
+/Line 9 
+/NewLine (%%   Author: Peter Wilson \(CUA\) now at peter.r.wilson@boeing.com)
+/OldLine (%%   Author: Peter Wilson, Herries Press)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\combine\\combnat.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\combine\\combnat.sty)
+/OldSize 19728 
+/NewSize 19660 
+/Line 9 
+/NewLine (%%   Author: Peter Wilson \(CUA\) now at peter.r.wilson@boeing.com)
+/OldLine (%%   Author: Peter Wilson, Herries Press)
+>>
+<<
+/Type /Status 
+/Name (combine)
+/Status /Updated 
+/Differences 4 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\combine.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\combine.bkz)
+/Name (combine)
+/Size 9985 
+/CRC 1131357047 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\combine.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\combine.doc.bkz)
+/Name (combine)
+/Size 463493 
+/CRC 505462209 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\combine.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\combine.source.bkz)
+/Name (combine)
+/Size 31061 
+/CRC 1904578667 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

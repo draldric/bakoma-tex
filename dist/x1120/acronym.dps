@@ -1,0 +1,72 @@
+% Unpacking components of module [acronym] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\acronym.tds.zip)
+/Name (acronym)
+/Size 289471 
+/CRC 55467639 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\acronym.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\acronym.bkz)
+/Name (acronym)
+/Size 3489 
+/CRC -1946587345 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\acronym.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\acronym\\acronym.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\acronym\\acronym.sty)
+/OldSize 13580 
+/NewSize 16493 
+/Line 8 
+/NewLine (%%  Copyright 1995--2005  by Tobias Oetiker \(oetiker@ee.ethz.ch\))
+/OldLine (%%  Copyright 1995--2009  by Tobias Oetiker \(tobi@oetiker.ch\))
+>>
+<<
+/Type /Status 
+/Name (acronym)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\acronym.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\acronym.bkz)
+/Name (acronym)
+/Size 3886 
+/CRC 1422755944 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\acronym.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\acronym.doc.bkz)
+/Name (acronym)
+/Size 268908 
+/CRC -808970762 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\acronym.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\acronym.source.bkz)
+/Name (acronym)
+/Size 15066 
+/CRC -2100931662 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

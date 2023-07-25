@@ -1,0 +1,15 @@
+:tocvsec2.doc:x1120:0.304528:116110580:302349:3013-E0D9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tocvsec2
+
+./doc/latex/tocvsec2:
+README
+tocvsec2-example.tex
+tocvsec2.pdf

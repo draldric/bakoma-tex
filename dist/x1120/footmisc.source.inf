@@ -1,0 +1,14 @@
+:footmisc.source:x1120:0.077781:116110580:19513:ECFA-D6F8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+footmisc
+
+./source/latex/footmisc:
+footmisc.dtx
+footmisc.ins

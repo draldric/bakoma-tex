@@ -1,0 +1,48 @@
+% Unpacking components of module [sympytexpackage] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\sympytexpackage.tds.zip)
+/Name (sympytexpackage)
+/Size 721827 
+/CRC 422262404 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (sympytexpackage)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\sympytexpackage.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\sympytexpackage.bkz)
+/Name (sympytexpackage)
+/Size 3165 
+/CRC 1244792685 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\sympytexpackage.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\sympytexpackage.doc.bkz)
+/Name (sympytexpackage)
+/Size 686980 
+/CRC -70821220 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\sympytexpackage.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\sympytexpackage.source.bkz)
+/Name (sympytexpackage)
+/Size 16846 
+/CRC 146640826 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

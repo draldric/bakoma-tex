@@ -1,0 +1,15 @@
+:ocgx.source:x1120:0.028915:116110580:7482:D5AC-BC32:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ocgx
+
+./source/latex/ocgx:
+demo-ocgx.tex
+ocgx-example-1.tex
+ocgx-manual-en.tex

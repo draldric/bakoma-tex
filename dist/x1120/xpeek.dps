@@ -1,0 +1,36 @@
+% Unpacking components of module [xpeek] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\xpeek.tds.zip)
+/Name (xpeek)
+/Size 566590 
+/CRC 1520930484 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1040\xpeek.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1040\\xpeek.bkz)
+/Name (xpeek)
+/Size 949 
+/CRC 1931674494 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1040\xpeek.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\xpeek\\xpeek.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\xpeek\\xpeek.sty)
+/OldSize 2308 
+/NewSize 2308 
+>>
+<<
+/Type /Status 
+/Name (xpeek)
+/Status /Same 
+>> % distribution already includes this version

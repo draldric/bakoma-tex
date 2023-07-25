@@ -1,0 +1,80 @@
+% Unpacking components of module [imtekda] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\imtekda.tds.zip)
+/Name (imtekda)
+/Size 925674 
+/CRC 2025485430 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\imtekda.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\imtekda.bkz)
+/Name (imtekda)
+/Size 3776 
+/CRC 528274963 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\imtekda.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\imtekda\\figures\\bild.eps)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\imtekda\\figures\\bild.pdf)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\imtekda\\IMTEKda.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\imtekda\\IMTEKda.cls)
+/OldSize 14653 
+/NewSize 15491 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2005-09 by Simon Dreher)
+/OldLine (%% Copyright \(C\) 2005-10 by Simon Dreher)
+>>
+<<
+/Type /Status 
+/Name (imtekda)
+/Status /Updated 
+/Differences 3 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\imtekda.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\imtekda.bkz)
+/Name (imtekda)
+/Size 7385 
+/CRC 549531977 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\imtekda.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\imtekda.doc.bkz)
+/Name (imtekda)
+/Size 856235 
+/CRC 688026116 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\imtekda.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\imtekda.source.bkz)
+/Name (imtekda)
+/Size 30811 
+/CRC 363724708 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

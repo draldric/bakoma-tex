@@ -1,0 +1,48 @@
+% Unpacking components of module [xpinyin] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\xpinyin.tds.zip)
+/Name (xpinyin)
+/Size 580276 
+/CRC -1310149392 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xpinyin)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\xpinyin.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xpinyin.bkz)
+/Name (xpinyin)
+/Size 200731 
+/CRC -240898135 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xpinyin.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xpinyin.doc.bkz)
+/Name (xpinyin)
+/Size 213225 
+/CRC -225674235 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xpinyin.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xpinyin.source.bkz)
+/Name (xpinyin)
+/Size 10692 
+/CRC 735784349 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

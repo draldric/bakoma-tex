@@ -1,0 +1,48 @@
+% Unpacking components of module [everyhook] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\everyhook.tds.zip)
+/Name (everyhook)
+/Size 125896 
+/CRC 1632989103 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (everyhook)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\everyhook.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\everyhook.bkz)
+/Name (everyhook)
+/Size 1607 
+/CRC 1813506931 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\everyhook.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\everyhook.doc.bkz)
+/Name (everyhook)
+/Size 115989 
+/CRC -68308715 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\everyhook.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\everyhook.source.bkz)
+/Name (everyhook)
+/Size 7100 
+/CRC 1689268896 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,13 @@
+:morefloats:x1120:0.040438:116110580:3884:DCAA-77B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+morefloats
+
+./tex/latex/morefloats:
+morefloats.sty

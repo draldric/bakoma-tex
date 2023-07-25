@@ -1,0 +1,14 @@
+:xpiano.doc:x1120:0.559458:116110580:557929:A5BC-CDA8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xpiano
+
+./doc/latex/xpiano:
+README.txt
+xpiano.pdf

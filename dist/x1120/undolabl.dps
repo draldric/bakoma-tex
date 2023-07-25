@@ -1,0 +1,48 @@
+% Unpacking components of module [undolabl] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\undolabl.tds.zip)
+/Name (undolabl)
+/Size 371816 
+/CRC -365601782 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (undolabl)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\undolabl.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\undolabl.bkz)
+/Name (undolabl)
+/Size 2003 
+/CRC -212292719 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\undolabl.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\undolabl.doc.bkz)
+/Name (undolabl)
+/Size 354985 
+/CRC -1116198273 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\undolabl.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\undolabl.source.bkz)
+/Name (undolabl)
+/Size 11580 
+/CRC 1644915750 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

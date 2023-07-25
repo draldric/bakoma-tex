@@ -1,0 +1,13 @@
+:suftesi:x1120:0.084635:116110580:12709:6046-DB75:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+suftesi
+
+./tex/latex/suftesi:
+suftesi.cls

@@ -1,0 +1,15 @@
+:tagging.doc:x1120:0.097435:116110580:85877:15E5-7CF8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tagging
+
+./doc/latex/tagging:
+README
+tagging.pdf
+tagging.tex

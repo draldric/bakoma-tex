@@ -1,0 +1,14 @@
+:moreverb.doc:x1120:0.134422:116110580:114645:F959-E793:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+moreverb
+
+./doc/latex/moreverb:
+moreverb.pdf
+README

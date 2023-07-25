@@ -1,0 +1,15 @@
+:morewrites.doc:x1120:1.11924:116110580:1040231:C906-59BF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+morewrites
+
+./doc/latex/morewrites:
+morewrites.pdf
+primargs.pdf
+README

@@ -1,0 +1,36 @@
+% Unpacking components of module [hyphenat] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\hyphenat.tds.zip)
+/Name (hyphenat)
+/Size 167274 
+/CRC -1310954611 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\hyphenat.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\hyphenat.bkz)
+/Name (hyphenat)
+/Size 1244 
+/CRC 357501138 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\hyphenat.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyphenat\\hyphenat.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyphenat\\hyphenat.sty)
+/OldSize 5798 
+/NewSize 5798 
+>>
+<<
+/Type /Status 
+/Name (hyphenat)
+/Status /Same 
+>> % distribution already includes this version

@@ -1,0 +1,14 @@
+:avremu.doc:x1120:0.149332:116110580:148066:3C63-478C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+avremu
+
+./doc/latex/avremu:
+avremu.pdf
+README

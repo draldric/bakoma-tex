@@ -1,0 +1,14 @@
+:realboxes.doc:x1120:0.191492:116110580:175492:3ED4-1547:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+realboxes
+
+./doc/latex/realboxes:
+README
+realboxes.pdf

@@ -1,0 +1,13 @@
+:pstool:x1120:0.020074:116110580:6025:26C7-BAF5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pstool
+
+./tex/latex/pstool:
+pstool.sty

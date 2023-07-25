@@ -1,0 +1,36 @@
+% Unpacking components of module [xpatch] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\xpatch.tds.zip)
+/Name (xpatch)
+/Size 459360 
+/CRC -209170853 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1040\xpatch.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1040\\xpatch.bkz)
+/Name (xpatch)
+/Size 1559 
+/CRC -323047232 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1040\xpatch.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\xpatch\\xpatch.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\xpatch\\xpatch.sty)
+/OldSize 8322 
+/NewSize 8322 
+>>
+<<
+/Type /Status 
+/Name (xpatch)
+/Status /Same 
+>> % distribution already includes this version

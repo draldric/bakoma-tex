@@ -1,0 +1,48 @@
+% Unpacking components of module [normalcolor] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\normalcolor.tds.zip)
+/Name (normalcolor)
+/Size 162114 
+/CRC -2083209480 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (normalcolor)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\normalcolor.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\normalcolor.bkz)
+/Name (normalcolor)
+/Size 981 
+/CRC -1108450916 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\normalcolor.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\normalcolor.doc.bkz)
+/Name (normalcolor)
+/Size 156354 
+/CRC -1344381604 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\normalcolor.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\normalcolor.source.bkz)
+/Name (normalcolor)
+/Size 3805 
+/CRC 397383392 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

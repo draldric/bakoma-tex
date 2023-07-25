@@ -1,0 +1,14 @@
+:standalone.source:x1120:0.182758:116110580:37279:A314-5F6C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+standalone
+
+./source/latex/standalone:
+standalone.dtx
+standalone.ins

@@ -1,0 +1,36 @@
+% Unpacking components of module [pst-vowel] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\pst-vowel.tds.zip)
+/Name (pst-vowel)
+/Size 86429 
+/CRC 2129206971 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\pst-vowel.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\pst-vowel.bkz)
+/Name (pst-vowel)
+/Size 1607 
+/CRC 1298063063 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\pst-vowel.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pst-vowel\\pst-vowel.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\pst-vowel\\pst-vowel.sty)
+/OldSize 4500 
+/NewSize 4500 
+>>
+<<
+/Type /Status 
+/Name (pst-vowel)
+/Status /Same 
+>> % distribution already includes this version

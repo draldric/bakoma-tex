@@ -1,0 +1,48 @@
+% Unpacking components of module [realboxes] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\realboxes.tds.zip)
+/Name (realboxes)
+/Size 189089 
+/CRC -1140274373 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (realboxes)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\realboxes.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\realboxes.bkz)
+/Name (realboxes)
+/Size 2361 
+/CRC 2029838118 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\realboxes.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\realboxes.doc.bkz)
+/Name (realboxes)
+/Size 175492 
+/CRC 1054086471 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\realboxes.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\realboxes.source.bkz)
+/Name (realboxes)
+/Size 7144 
+/CRC -2089431094 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

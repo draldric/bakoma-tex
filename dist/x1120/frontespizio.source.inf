@@ -1,0 +1,14 @@
+:frontespizio.source:x1120:0.081798:116110580:22333:E4C2-E8E5:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+frontespizio
+
+./source/latex/frontespizio:
+frontespizio.dtx
+frontespizio.ins

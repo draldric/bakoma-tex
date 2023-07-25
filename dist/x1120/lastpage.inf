@@ -1,0 +1,14 @@
+:lastpage:x1120:0.012546:116110580:3103:95E8-1089:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lastpage
+
+./tex/latex/lastpage:
+lastpage.sty
+lastpage209.sty

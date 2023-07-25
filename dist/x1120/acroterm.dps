@@ -1,0 +1,48 @@
+% Unpacking components of module [acroterm] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\acroterm.tds.zip)
+/Name (acroterm)
+/Size 165549 
+/CRC -1668467833 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (acroterm)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\acroterm.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\acroterm.bkz)
+/Name (acroterm)
+/Size 992 
+/CRC 1096331434 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\acroterm.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\acroterm.doc.bkz)
+/Name (acroterm)
+/Size 157645 
+/CRC -1466754289 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\acroterm.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\acroterm.source.bkz)
+/Name (acroterm)
+/Size 3570 
+/CRC 1330728984 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

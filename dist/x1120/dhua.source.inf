@@ -1,0 +1,15 @@
+:dhua.source:x1120:0.006229:116110580:2844:DE47-9C90:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+dhua
+
+./source/latex/dhua:
+dhua.tex
+README.tex
+srcfiles.tex

@@ -1,0 +1,13 @@
+:dashrule:x1120:0.001889:116110580:870:B252-472E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+dashrule
+
+./tex/latex/dashrule:
+dashrule.sty

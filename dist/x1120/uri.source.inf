@@ -1,0 +1,16 @@
+:uri.source:x1120:0.050066:116110580:11625:FD7A-83D4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+uri
+
+./source/latex/uri:
+ltxdoc.cfg
+uri.drv
+uri.dtx
+uri.ins

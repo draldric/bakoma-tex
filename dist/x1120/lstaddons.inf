@@ -1,0 +1,14 @@
+:lstaddons:x1120:0.005886:116110580:1730:B89E-AD61:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lstaddons
+
+./tex/latex/lstaddons:
+lstautogobble.sty
+lstlinebgrd.sty

@@ -1,0 +1,14 @@
+:flowfram.source:x1120:0.481037:116110580:55119:A250-10D2:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+flowfram
+
+./source/latex/flowfram:
+flowfram.dtx
+flowfram.ins

@@ -1,0 +1,48 @@
+% Unpacking components of module [sclang-prettifier] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\sclang-prettifier.tds.zip)
+/Name (sclang-prettifier)
+/Size 524706 
+/CRC -1219596083 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (sclang-prettifier)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\sclang-prettifier.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\sclang-prettifier.bkz)
+/Name (sclang-prettifier)
+/Size 1861 
+/CRC -804081866 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\sclang-prettifier.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\sclang-prettifier.doc.bkz)
+/Name (sclang-prettifier)
+/Size 515747 
+/CRC 115267244 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\sclang-prettifier.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\sclang-prettifier.source.bkz)
+/Name (sclang-prettifier)
+/Size 9014 
+/CRC -134527540 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

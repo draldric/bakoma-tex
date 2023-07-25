@@ -1,0 +1,48 @@
+% Unpacking components of module [xpicture] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\xpicture.tds.zip)
+/Name (xpicture)
+/Size 1365925 
+/CRC 705735944 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xpicture)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\xpicture.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xpicture.bkz)
+/Name (xpicture)
+/Size 8519 
+/CRC -922294146 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xpicture.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xpicture.doc.bkz)
+/Name (xpicture)
+/Size 1301444 
+/CRC 1480750557 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xpicture.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xpicture.source.bkz)
+/Name (xpicture)
+/Size 24138 
+/CRC 999532711 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

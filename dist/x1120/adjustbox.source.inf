@@ -1,0 +1,16 @@
+:adjustbox.source:x1120:0.228606:116110580:39727:8E1A-F4E3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+adjustbox
+
+./source/latex/adjustbox:
+adjcalc.dtx
+adjustbox.dtx
+adjustbox.ins
+trimclip.dtx

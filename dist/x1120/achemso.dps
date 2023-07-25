@@ -1,0 +1,312 @@
+% Unpacking components of module [achemso] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\achemso.tds.zip)
+/Name (achemso)
+/Size 980418 
+/CRC -903497950 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\achemso.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\achemso.bkz)
+/Name (achemso)
+/Size 15912 
+/CRC 1585830810 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\achemso.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\achemso\\achemso.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\achemso\\achemso.bst)
+/OldSize 30871 
+/NewSize 30125 
+/Line 18 
+/NewLine (  { address)
+/OldLine (  {)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\achemso\\biochem.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\achemso\\biochem.bst)
+/OldSize 30966 
+/NewSize 30281 
+/Line 18 
+/NewLine (  { address)
+/OldLine (  {)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-aamick.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-acbcct.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-accacs.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-achre4.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-acncdm.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-acsccc.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-acsodf.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-aelccp.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-amclct.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-amlccd.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-ancac3.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-ancham.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-apchd5.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-asbcd6.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-asccii.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-ascecg.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-bcches.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-bichaw.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-bomaf6.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-cgdefu.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-chreay.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-cmatex.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-crtoec.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-enfuem.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-esthag.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-estlcu.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-iecred.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-inoraj.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jacsat.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jafcau.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jceaax.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jceda8.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jcisd8.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jctcce.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jmcmar.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jnprdf.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-joceah.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jpcafh.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jpcbfk.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jpccck.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jpclcd.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-jprobs.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-langd5.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-mamobx.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-mpohbp.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-nalefd.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-oprdfk.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-orgnd7.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso-orlef7.cfg)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\achemso\\achemso.cls)
+/OldSize 35418 
+/NewSize 38528 
+/Line 17 
+/NewLine ()
+/OldLine (\\ProvidesClass{achemso})
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\achemso.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\achemso\\achemso.sty)
+/OldSize 8981 
+/NewSize 10290 
+/Line 17 
+/NewLine ()
+/OldLine (\\ProvidesPackage{achemso})
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\achemso\\natmove.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\achemso\\natmove.sty)
+/OldSize 4224 
+/NewSize 4286 
+/Line 17 
+/NewLine ()
+/OldLine (\\ProvidesPackage{natmove})
+>>
+<<
+/Type /Status 
+/Name (achemso)
+/Status /Updated 
+/Differences 54 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\achemso.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\achemso.bkz)
+/Name (achemso)
+/Size 16714 
+/CRC -993878162 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\achemso.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\achemso.doc.bkz)
+/Name (achemso)
+/Size 866796 
+/CRC -1254745956 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\achemso.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\achemso.source.bkz)
+/Name (achemso)
+/Size 32418 
+/CRC -2121849084 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

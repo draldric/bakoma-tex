@@ -1,0 +1,72 @@
+% Unpacking components of module [eqparbox] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\eqparbox.tds.zip)
+/Name (eqparbox)
+/Size 390865 
+/CRC 322896006 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\eqparbox.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\eqparbox.bkz)
+/Name (eqparbox)
+/Size 1228 
+/CRC 523253702 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\eqparbox.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\eqparbox\\eqparbox.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\eqparbox\\eqparbox.sty)
+/OldSize 3490 
+/NewSize 8151 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2004 Scott Pakin <scott+eqp@pakin.org>)
+/OldLine (%% Copyright \(C\) 2013 Scott Pakin <scott+eqp@pakin.org>)
+>>
+<<
+/Type /Status 
+/Name (eqparbox)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\eqparbox.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\eqparbox.bkz)
+/Name (eqparbox)
+/Size 2071 
+/CRC 1088318689 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\eqparbox.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\eqparbox.doc.bkz)
+/Name (eqparbox)
+/Size 365556 
+/CRC 1918663829 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\eqparbox.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\eqparbox.source.bkz)
+/Name (eqparbox)
+/Size 15878 
+/CRC -1870826004 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

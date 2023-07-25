@@ -1,0 +1,16 @@
+:tablefootnote.doc:x1120:0.519106:116110580:505155:2412-EE6C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tablefootnote
+
+./doc/latex/tablefootnote:
+README
+tablefootnote-example.pdf
+tablefootnote-example.tex
+tablefootnote.pdf

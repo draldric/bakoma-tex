@@ -1,0 +1,52 @@
+% Unpacking components of module [tdsfrmath] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\tdsfrmath.tds.zip)
+/Name (tdsfrmath)
+/Size 771373 
+/CRC 1793036232 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\tdsfrmath.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\tdsfrmath.bkz)
+/Name (tdsfrmath)
+/Size 5019 
+/CRC -2125885604 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\tdsfrmath.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tdsfrmath\\suite.sto)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tdsfrmath\\suite.sto)
+/OldSize 2378 
+/NewSize 2378 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tdsfrmath\\taupe.sto)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tdsfrmath\\taupe.sto)
+/OldSize 4032 
+/NewSize 4032 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tdsfrmath\\tdsfrmath.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tdsfrmath\\tdsfrmath.sty)
+/OldSize 16666 
+/NewSize 16666 
+>>
+<<
+/Type /Status 
+/Name (tdsfrmath)
+/Status /Same 
+>> % distribution already includes this version

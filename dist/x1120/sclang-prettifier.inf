@@ -1,0 +1,13 @@
+:sclang-prettifier:x1120:0.005253:116110580:1861:D012-AF36:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sclang-prettifier
+
+./tex/latex/sclang-prettifier:
+sclang-prettifier.sty

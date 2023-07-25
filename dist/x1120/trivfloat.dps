@@ -1,0 +1,36 @@
+% Unpacking components of module [trivfloat] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\trivfloat.tds.zip)
+/Name (trivfloat)
+/Size 141712 
+/CRC -1264585453 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\trivfloat.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\trivfloat.bkz)
+/Name (trivfloat)
+/Size 2023 
+/CRC -1651190306 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\trivfloat.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\trivfloat\\trivfloat.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\trivfloat\\trivfloat.sty)
+/OldSize 6787 
+/NewSize 6787 
+>>
+<<
+/Type /Status 
+/Name (trivfloat)
+/Status /Same 
+>> % distribution already includes this version

@@ -1,0 +1,13 @@
+:xsavebox:x1120:0.006687:116110580:2303:ED18-C263:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xsavebox
+
+./tex/latex/xsavebox:
+xsavebox.sty

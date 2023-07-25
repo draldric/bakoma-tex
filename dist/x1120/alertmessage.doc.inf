@@ -1,0 +1,14 @@
+:alertmessage.doc:x1120:0.109956:116110580:106432:ADF3-E220:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+alertmessage
+
+./doc/latex/alertmessage:
+alertmessage.pdf
+README.md

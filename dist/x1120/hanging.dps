@@ -1,0 +1,36 @@
+% Unpacking components of module [hanging] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\hanging.tds.zip)
+/Name (hanging)
+/Size 158493 
+/CRC 1054700360 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\hanging.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\hanging.bkz)
+/Name (hanging)
+/Size 1400 
+/CRC -2050644410 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\hanging.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hanging\\hanging.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hanging\\hanging.sty)
+/OldSize 4463 
+/NewSize 4463 
+>>
+<<
+/Type /Status 
+/Name (hanging)
+/Status /Same 
+>> % distribution already includes this version

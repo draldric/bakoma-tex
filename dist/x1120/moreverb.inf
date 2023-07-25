@@ -1,0 +1,13 @@
+:moreverb:x1120:0.005909:116110580:1771:141C-B6F3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+moreverb
+
+./tex/latex/moreverb:
+moreverb.sty

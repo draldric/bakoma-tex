@@ -1,0 +1,89 @@
+% Unpacking components of module [gmdoc] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\gmdoc.tds.zip)
+/Name (gmdoc)
+/Size 1169660 
+/CRC 532903266 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\gmdoc.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\gmdoc.bkz)
+/Name (gmdoc)
+/Size 95678 
+/CRC -525239201 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\gmdoc.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\makeindex\\gmdoc\\gmglo.ist)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\makeindex\\gmdoc\\gmglo.ist)
+/OldSize 152 
+/NewSize 152 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\gmdoc\\gmdoc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\gmdoc\\gmdoc.sty)
+/OldSize 322230 
+/NewSize 149670 
+/Line 1 
+/NewLine (%)
+/OldLine (%% )
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\gmdoc\\gmdocc.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\gmdoc\\gmdocc.cls)
+/OldSize 16749 
+/NewSize 10308 
+/Line 1 
+/NewLine (%)
+/OldLine (%% )
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\gmdoc\\gmoldcomm.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\gmdoc\\gmoldcomm.sty)
+/OldSize 2083 
+/NewSize 2083 
+>>
+<<
+/Type /Status 
+/Name (gmdoc)
+/Status /Updated 
+/Differences 2 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\gmdoc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gmdoc.bkz)
+/Name (gmdoc)
+/Size 45787 
+/CRC 244388633 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\gmdoc.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gmdoc.doc.bkz)
+/Name (gmdoc)
+/Size 912271 
+/CRC -661425708 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

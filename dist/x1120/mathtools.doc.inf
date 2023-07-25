@@ -1,0 +1,16 @@
+:mathtools.doc:x1120:0.982315:116110580:963156:FC0D-F4D9:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+mathtools
+
+./doc/latex/mathtools:
+empheq.pdf
+mathtools.pdf
+mhsetup.pdf
+README

@@ -1,0 +1,14 @@
+:skmath.doc:x1120:0.246027:116110580:245237:316A-5E56:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+skmath
+
+./doc/latex/skmath:
+README
+skmath.pdf

@@ -1,0 +1,48 @@
+% Unpacking components of module [dynamicnumber] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\dynamicnumber.tds.zip)
+/Name (dynamicnumber)
+/Size 163771 
+/CRC 1139993048 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (dynamicnumber)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\dynamicnumber.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dynamicnumber.bkz)
+/Name (dynamicnumber)
+/Size 858 
+/CRC -2108134310 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\dynamicnumber.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dynamicnumber.doc.bkz)
+/Name (dynamicnumber)
+/Size 158966 
+/CRC 1024810331 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\dynamicnumber.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dynamicnumber.source.bkz)
+/Name (dynamicnumber)
+/Size 2983 
+/CRC -1285889156 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

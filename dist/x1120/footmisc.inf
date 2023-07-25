@@ -1,0 +1,13 @@
+:footmisc:x1120:0.025822:116110580:5141:6F21-A7AC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+footmisc
+
+./tex/latex/footmisc:
+footmisc.sty

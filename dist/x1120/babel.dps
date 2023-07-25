@@ -1,0 +1,734 @@
+% Comment also added all babel-%language% modules.
+
+% Unpacking components of module [babel] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\\\macros\\latex\\required\\babel-base.tds.zip)
+/Name (babel)
+/Size 643909 
+/CRC 596610211 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1050\babel.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1050\\babel.bkz)
+/Name (babel)
+/Size 154256 
+/CRC -1095482055 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1050\babel.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\afrikaans.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\afrikaans.sty)
+/OldSize 3783 
+/NewSize 3699 
+/Line 2 
+/NewLine (%% This is file `afrikaans.sty',)
+/OldLine (%% This is file `compat/afrikaans.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\albanian.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\albanian.sty)
+/OldSize 3782 
+/NewSize 3698 
+/Line 2 
+/NewLine (%% This is file `albanian.sty',)
+/OldLine (%% This is file `compat/albanian.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\american.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\american.sty)
+/OldSize 3781 
+/NewSize 3697 
+/Line 2 
+/NewLine (%% This is file `american.sty',)
+/OldLine (%% This is file `compat/american.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\austrian.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\austrian.sty)
+/OldSize 3781 
+/NewSize 3697 
+/Line 2 
+/NewLine (%% This is file `austrian.sty',)
+/OldLine (%% This is file `compat/austrian.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\babel.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\babel.def)
+/OldSize 51006 
+/NewSize 50112 
+/Line 10 
+/NewLine (%% Copyright 2012-2014 Javier Bezos and Johannes L. Braams.)
+/OldLine (%% Copyright 2012-2016 Javier Bezos and Johannes L. Braams.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\babel.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\babel.sty)
+/OldSize 13512 
+/NewSize 13499 
+/Line 10 
+/NewLine (%% Copyright 2012-2014 Javier Bezos and Johannes L. Braams.)
+/OldLine (%% Copyright 2012-2016 Javier Bezos and Johannes L. Braams.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\bahasa.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\bahasa.sty)
+/OldSize 3774 
+/NewSize 3690 
+/Line 2 
+/NewLine (%% This is file `bahasa.sty',)
+/OldLine (%% This is file `compat/bahasa.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\bahasam.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\bahasam.sty)
+/OldSize 3777 
+/NewSize 3693 
+/Line 2 
+/NewLine (%% This is file `bahasam.sty',)
+/OldLine (%% This is file `compat/bahasam.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\basque.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\basque.sty)
+/OldSize 3719 
+/NewSize 3637 
+/Line 2 
+/NewLine (%% This is file `basque.sty',)
+/OldLine (%% This is file `compat/basque.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\blplain.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\blplain.tex)
+/OldSize 3281 
+/NewSize 3198 
+/Line 10 
+/NewLine (%% Copyright 2012-2014 Javier Bezos and Johannes L. Braams.)
+/OldLine (%% Copyright 2012-2016 Javier Bezos and Johannes L. Braams.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\bplain.tex)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\bplain.tex)
+/OldSize 3276 
+/NewSize 3193 
+/Line 10 
+/NewLine (%% Copyright 2012-2014 Javier Bezos and Johannes L. Braams.)
+/OldLine (%% Copyright 2012-2016 Javier Bezos and Johannes L. Braams.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\breton.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\breton.sty)
+/OldSize 3772 
+/NewSize 3688 
+/Line 2 
+/NewLine (%% This is file `breton.sty',)
+/OldLine (%% This is file `compat/breton.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\british.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\british.sty)
+/OldSize 3777 
+/NewSize 3693 
+/Line 2 
+/NewLine (%% This is file `british.sty',)
+/OldLine (%% This is file `compat/british.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\bulgarian.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\bulgarian.sty)
+/OldSize 3787 
+/NewSize 3703 
+/Line 2 
+/NewLine (%% This is file `bulgarian.sty',)
+/OldLine (%% This is file `compat/bulgarian.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\catalan.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\catalan.sty)
+/OldSize 3777 
+/NewSize 3693 
+/Line 2 
+/NewLine (%% This is file `catalan.sty',)
+/OldLine (%% This is file `compat/catalan.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\croatian.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\croatian.sty)
+/OldSize 3782 
+/NewSize 3698 
+/Line 2 
+/NewLine (%% This is file `croatian.sty',)
+/OldLine (%% This is file `compat/croatian.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\czech.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\czech.sty)
+/OldSize 3767 
+/NewSize 3683 
+/Line 2 
+/NewLine (%% This is file `czech.sty',)
+/OldLine (%% This is file `compat/czech.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\danish.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\danish.sty)
+/OldSize 3772 
+/NewSize 3688 
+/Line 2 
+/NewLine (%% This is file `danish.sty',)
+/OldLine (%% This is file `compat/danish.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\dutch.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\dutch.sty)
+/OldSize 3767 
+/NewSize 3683 
+/Line 2 
+/NewLine (%% This is file `dutch.sty',)
+/OldLine (%% This is file `compat/dutch.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\english.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\english.sty)
+/OldSize 3777 
+/NewSize 3693 
+/Line 2 
+/NewLine (%% This is file `english.sty',)
+/OldLine (%% This is file `compat/english.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\esperanto.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\esperanto.sty)
+/OldSize 3787 
+/NewSize 3703 
+/Line 2 
+/NewLine (%% This is file `esperanto.sty',)
+/OldLine (%% This is file `compat/esperanto.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\estonian.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\estonian.sty)
+/OldSize 3782 
+/NewSize 3698 
+/Line 2 
+/NewLine (%% This is file `estonian.sty',)
+/OldLine (%% This is file `compat/estonian.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\finnish.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\finnish.sty)
+/OldSize 3777 
+/NewSize 3693 
+/Line 2 
+/NewLine (%% This is file `finnish.sty',)
+/OldLine (%% This is file `compat/finnish.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\francais.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\francais.sty)
+/OldSize 3781 
+/NewSize 3697 
+/Line 2 
+/NewLine (%% This is file `francais.sty',)
+/OldLine (%% This is file `compat/francais.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\galician.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\galician.sty)
+/OldSize 3782 
+/NewSize 3698 
+/Line 2 
+/NewLine (%% This is file `galician.sty',)
+/OldLine (%% This is file `compat/galician.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\germanb.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\germanb.sty)
+/OldSize 3776 
+/NewSize 3692 
+/Line 2 
+/NewLine (%% This is file `germanb.sty',)
+/OldLine (%% This is file `compat/germanb.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\greek.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\greek.sty)
+/OldSize 3767 
+/NewSize 3683 
+/Line 2 
+/NewLine (%% This is file `greek.sty',)
+/OldLine (%% This is file `compat/greek.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\hebrew.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\hebrew.sty)
+/OldSize 3790 
+/NewSize 3706 
+/Line 2 
+/NewLine (%% This is file `hebrew.sty',)
+/OldLine (%% This is file `compat/hebrew.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\hyphen.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\hyphen.cfg)
+/OldSize 7857 
+/NewSize 7676 
+/Line 10 
+/NewLine (%% Copyright 2012-2014 Javier Bezos and Johannes L. Braams.)
+/OldLine (%% Copyright 2012-2016 Javier Bezos and Johannes L. Braams.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\icelandic.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\icelandic.sty)
+/OldSize 3787 
+/NewSize 3703 
+/Line 2 
+/NewLine (%% This is file `icelandic.sty',)
+/OldLine (%% This is file `compat/icelandic.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\interlingua.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\interlingua.sty)
+/OldSize 3797 
+/NewSize 3713 
+/Line 2 
+/NewLine (%% This is file `interlingua.sty',)
+/OldLine (%% This is file `compat/interlingua.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\irish.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\irish.sty)
+/OldSize 3767 
+/NewSize 3683 
+/Line 2 
+/NewLine (%% This is file `irish.sty',)
+/OldLine (%% This is file `compat/irish.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\italian.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\italian.sty)
+/OldSize 3777 
+/NewSize 3693 
+/Line 2 
+/NewLine (%% This is file `italian.sty',)
+/OldLine (%% This is file `compat/italian.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\latin.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\latin.sty)
+/OldSize 3767 
+/NewSize 3683 
+/Line 2 
+/NewLine (%% This is file `latin.sty',)
+/OldLine (%% This is file `compat/latin.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\lsorbian.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\lsorbian.sty)
+/OldSize 3782 
+/NewSize 3698 
+/Line 2 
+/NewLine (%% This is file `lsorbian.sty',)
+/OldLine (%% This is file `compat/lsorbian.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\luababel.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\luababel.def)
+/OldSize 6033 
+/NewSize 12715 
+/Line 10 
+/NewLine (%% Copyright 2012-2014 Javier Bezos and Johannes L. Braams.)
+/OldLine (%% Copyright 2012-2016 Javier Bezos and Johannes L. Braams.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\magyar.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\magyar.sty)
+/OldSize 3772 
+/NewSize 3688 
+/Line 2 
+/NewLine (%% This is file `magyar.sty',)
+/OldLine (%% This is file `compat/magyar.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\naustrian.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\naustrian.sty)
+/OldSize 3786 
+/NewSize 3702 
+/Line 2 
+/NewLine (%% This is file `naustrian.sty',)
+/OldLine (%% This is file `compat/naustrian.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\ngermanb.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\ngermanb.sty)
+/OldSize 3725 
+/NewSize 3643 
+/Line 2 
+/NewLine (%% This is file `ngermanb.sty',)
+/OldLine (%% This is file `compat/ngermanb.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\nil.ldf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\nil.ldf)
+/OldSize 3233 
+/NewSize 3153 
+/Line 10 
+/NewLine (%% Copyright 2012-2014 Javier Bezos and Johannes L. Braams.)
+/OldLine (%% Copyright 2012-2016 Javier Bezos and Johannes L. Braams.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\norsk.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\norsk.sty)
+/OldSize 3767 
+/NewSize 3683 
+/Line 2 
+/NewLine (%% This is file `norsk.sty',)
+/OldLine (%% This is file `compat/norsk.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\plain.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\plain.def)
+/OldSize 12988 
+/NewSize 12579 
+/Line 10 
+/NewLine (%% Copyright 2012-2014 Javier Bezos and Johannes L. Braams.)
+/OldLine (%% Copyright 2012-2016 Javier Bezos and Johannes L. Braams.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\polish.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\polish.sty)
+/OldSize 3772 
+/NewSize 3688 
+/Line 2 
+/NewLine (%% This is file `polish.sty',)
+/OldLine (%% This is file `compat/polish.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\portuges.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\portuges.sty)
+/OldSize 3782 
+/NewSize 3698 
+/Line 2 
+/NewLine (%% This is file `portuges.sty',)
+/OldLine (%% This is file `compat/portuges.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\romanian.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\romanian.sty)
+/OldSize 3782 
+/NewSize 3698 
+/Line 2 
+/NewLine (%% This is file `romanian.sty',)
+/OldLine (%% This is file `compat/romanian.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\russianb.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\russianb.sty)
+/OldSize 3782 
+/NewSize 3698 
+/Line 2 
+/NewLine (%% This is file `russianb.sty',)
+/OldLine (%% This is file `compat/russianb.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\samin.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\samin.sty)
+/OldSize 3767 
+/NewSize 3683 
+/Line 2 
+/NewLine (%% This is file `samin.sty',)
+/OldLine (%% This is file `compat/samin.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\scottish.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\scottish.sty)
+/OldSize 3782 
+/NewSize 3698 
+/Line 2 
+/NewLine (%% This is file `scottish.sty',)
+/OldLine (%% This is file `compat/scottish.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\serbian.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\serbian.sty)
+/OldSize 3722 
+/NewSize 3640 
+/Line 2 
+/NewLine (%% This is file `serbian.sty',)
+/OldLine (%% This is file `compat/serbian.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\slovak.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\slovak.sty)
+/OldSize 3772 
+/NewSize 3688 
+/Line 2 
+/NewLine (%% This is file `slovak.sty',)
+/OldLine (%% This is file `compat/slovak.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\slovene.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\slovene.sty)
+/OldSize 3777 
+/NewSize 3693 
+/Line 2 
+/NewLine (%% This is file `slovene.sty',)
+/OldLine (%% This is file `compat/slovene.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\spanish.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\spanish.sty)
+/OldSize 3777 
+/NewSize 3693 
+/Line 2 
+/NewLine (%% This is file `spanish.sty',)
+/OldLine (%% This is file `compat/spanish.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\swedish.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\swedish.sty)
+/OldSize 3777 
+/NewSize 3693 
+/Line 2 
+/NewLine (%% This is file `swedish.sty',)
+/OldLine (%% This is file `compat/swedish.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\switch.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\switch.def)
+/OldSize 13027 
+/NewSize 12792 
+/Line 10 
+/NewLine (%% Copyright 2012-2014 Javier Bezos and Johannes L. Braams.)
+/OldLine (%% Copyright 2012-2016 Javier Bezos and Johannes L. Braams.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\turkish.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\turkish.sty)
+/OldSize 3777 
+/NewSize 3693 
+/Line 2 
+/NewLine (%% This is file `turkish.sty',)
+/OldLine (%% This is file `compat/turkish.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\UKenglish.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\UKenglish.sty)
+/OldSize 3785 
+/NewSize 3701 
+/Line 2 
+/NewLine (%% This is file `UKenglish.sty',)
+/OldLine (%% This is file `compat/UKenglish.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\ukraineb.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\ukraineb.sty)
+/OldSize 3782 
+/NewSize 3698 
+/Line 2 
+/NewLine (%% This is file `ukraineb.sty',)
+/OldLine (%% This is file `compat/ukraineb.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\USenglish.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\USenglish.sty)
+/OldSize 3785 
+/NewSize 3701 
+/Line 2 
+/NewLine (%% This is file `USenglish.sty',)
+/OldLine (%% This is file `compat/USenglish.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\usorbian.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\usorbian.sty)
+/OldSize 3782 
+/NewSize 3698 
+/Line 2 
+/NewLine (%% This is file `usorbian.sty',)
+/OldLine (%% This is file `compat/usorbian.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\welsh.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\welsh.sty)
+/OldSize 3767 
+/NewSize 3683 
+/Line 2 
+/NewLine (%% This is file `welsh.sty',)
+/OldLine (%% This is file `compat/welsh.sty',)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\generic\\babel\\xebabel.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\generic\\babel\\xebabel.def)
+/OldSize 4054 
+/NewSize 3932 
+/Line 10 
+/NewLine (%% Copyright 2012-2014 Javier Bezos and Johannes L. Braams.)
+/OldLine (%% Copyright 2012-2016 Javier Bezos and Johannes L. Braams.)
+>>
+<<
+/Type /Status 
+/Name (babel)
+/Status /Updated 
+/Differences 61 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\babel.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\babel.bkz)
+/Name (babel)
+/Size 22364 
+/CRC -463978148 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\babel.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\babel.doc.bkz)
+/Name (babel)
+/Size 396753 
+/CRC -1465682039 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\babel.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\babel.source.bkz)
+/Name (babel)
+/Size 94946 
+/CRC 450886825 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

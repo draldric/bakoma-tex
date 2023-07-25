@@ -1,0 +1,13 @@
+:normalcolor.source:x1120:0.012387:116110580:3805:17AF-96E0:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+normalcolor
+
+./source/latex/normalcolor:
+normalcolor.dtx

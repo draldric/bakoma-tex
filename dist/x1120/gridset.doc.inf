@@ -1,0 +1,13 @@
+:gridset.doc:x1120:0.122169:116110580:106435:FB6C-E1BD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gridset
+
+./doc/latex/gridset:
+gridset.pdf

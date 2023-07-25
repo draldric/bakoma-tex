@@ -1,0 +1,48 @@
+% Unpacking components of module [datetime2] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\datetime2.tds.zip)
+/Name (datetime2)
+/Size 1052235 
+/CRC -1196719823 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (datetime2)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\datetime2.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\datetime2.bkz)
+/Name (datetime2)
+/Size 7851 
+/CRC -749059556 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\datetime2.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\datetime2.doc.bkz)
+/Name (datetime2)
+/Size 979531 
+/CRC 1184701044 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\datetime2.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\datetime2.source.bkz)
+/Name (datetime2)
+/Size 49950 
+/CRC 16155240 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

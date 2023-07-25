@@ -1,0 +1,14 @@
+:nowidow.source:x1120:0.010075:116110580:3068:58DE-1CE4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+nowidow
+
+./source/latex/nowidow:
+nowidow.dtx
+nowidow.ins

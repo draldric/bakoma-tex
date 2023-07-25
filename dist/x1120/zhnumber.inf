@@ -1,0 +1,16 @@
+:zhnumber:x1120:0.048344:116110580:7378:53CD-6848:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+zhnumber
+
+./tex/latex/zhnumber:
+zhnumber-big5.cfg
+zhnumber-gbk.cfg
+zhnumber-utf8.cfg
+zhnumber.sty

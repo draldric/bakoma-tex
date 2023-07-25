@@ -1,0 +1,36 @@
+% Unpacking components of module [spverbatim] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\spverbatim.tds.zip)
+/Name (spverbatim)
+/Size 109289 
+/CRC -592980267 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\spverbatim.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\spverbatim.bkz)
+/Name (spverbatim)
+/Size 689 
+/CRC -1520197975 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\spverbatim.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\spverbatim\\spverbatim.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\spverbatim\\spverbatim.sty)
+/OldSize 1246 
+/NewSize 1246 
+>>
+<<
+/Type /Status 
+/Name (spverbatim)
+/Status /Same 
+>> % distribution already includes this version

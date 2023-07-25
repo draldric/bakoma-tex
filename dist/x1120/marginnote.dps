@@ -1,0 +1,72 @@
+% Unpacking components of module [marginnote] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\marginnote.tds.zip)
+/Name (marginnote)
+/Size 306285 
+/CRC 614042774 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1060\marginnote.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1060\\marginnote.bkz)
+/Name (marginnote)
+/Size 2994 
+/CRC 803496078 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1060\marginnote.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\marginnote\\marginnote.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\marginnote\\marginnote.sty)
+/OldSize 13623 
+/NewSize 13505 
+/Line 9 
+/NewLine (%% IMPORTANT NOTE:)
+/OldLine (%% IMPORTANT NOTICE:)
+>>
+<<
+/Type /Status 
+/Name (marginnote)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\marginnote.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\marginnote.bkz)
+/Name (marginnote)
+/Size 2907 
+/CRC 91334758 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\marginnote.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\marginnote.doc.bkz)
+/Name (marginnote)
+/Size 294833 
+/CRC 1866315353 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\marginnote.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\marginnote.source.bkz)
+/Name (marginnote)
+/Size 8811 
+/CRC 562831187 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

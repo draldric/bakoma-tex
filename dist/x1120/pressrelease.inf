@@ -1,0 +1,14 @@
+:pressrelease:x1120:0.017767:116110580:3656:DC54-207:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pressrelease
+
+./tex/latex/pressrelease:
+pressrelease-symbols.sty
+pressrelease.cls

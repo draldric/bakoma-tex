@@ -1,0 +1,13 @@
+:regstats:x1120:0.014019:116110580:3277:DF51-A572:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+regstats
+
+./tex/latex/regstats:
+regstats.sty

@@ -1,0 +1,14 @@
+:feynmp-auto.doc:x1120:0.375997:116110580:376560:1E-5AC2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+feynmp-auto
+
+./doc/latex/feynmp-auto:
+feynmp-auto.pdf
+README

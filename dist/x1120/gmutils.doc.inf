@@ -1,0 +1,14 @@
+:gmutils.doc:x1120:1.76181:116110580:1671471:64EF-43DF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gmutils
+
+./doc/latex/gmutils:
+gmutils.pdf
+README

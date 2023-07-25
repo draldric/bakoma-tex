@@ -1,0 +1,174 @@
+% Unpacking components of module [nicetext] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\nicetext.tds.zip)
+/Name (nicetext)
+/Size 2745330 
+/CRC 1513664792 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\nicetext.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\nicetext.bkz)
+/Name (nicetext)
+/Size 22123 
+/CRC 1614829630 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\nicetext.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\fifinddo.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\nicetext\\fifinddo.sty)
+/OldSize 32768 
+/NewSize 54666 
+/Line 2 
+/NewLine (%% copyright \(C\) 2009 Uwe L\\"uck, )
+/OldLine (%% copyright \(C\) 2009-2012 Uwe L\\"uck, )
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\makedoc.cfg)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\makedoc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\nicetext\\makedoc.sty)
+/OldSize 17392 
+/NewSize 30343 
+/Line 2 
+/NewLine (%% copyright \(C\) 2009 Uwe L\\"uck, )
+/OldLine (%% copyright \(C\) 2009-2012 Uwe L\\"uck, )
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\mdoccorr.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\nicetext.RLS)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\niceverb.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\nicetext\\niceverb.sty)
+/OldSize 8519 
+/NewSize 58695 
+/Line 2 
+/NewLine (\\ProvidesPackage{niceverb}[2009/04/15 v0.2)
+/OldLine (\\ProvidesPackage{niceverb}[2015/11/21 v0.62)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\arseneau.tex)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\atari.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\atari.txt)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\copyfile.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\copyfile.tex)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\fddial0g.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\fdtxttex.cfg)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\fdtxttex.tex)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\fdtxttex.tpl)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\lines.txt)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\makedoc.tpl)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\README-run.txt)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\sample.txt)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\substr.tex)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\run\\u8atablg.fdf)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\nicetext\\wiki.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\nicetext\\wiki.sty)
+/OldSize 12819 
+/NewSize 12819 
+>>
+<<
+/Type /Status 
+/Name (nicetext)
+/Status /Updated 
+/Differences 21 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\nicetext.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nicetext.bkz)
+/Name (nicetext)
+/Size 53652 
+/CRC -44843966 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\nicetext.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nicetext.doc.bkz)
+/Name (nicetext)
+/Size 2473139 
+/CRC -2108519583 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\nicetext.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\nicetext.source.bkz)
+/Name (nicetext)
+/Size 28483 
+/CRC 1378307329 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,13 @@
+:footnoterange:x1120:0.006345:116110580:1658:817F-E26A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+footnoterange
+
+./tex/latex/footnoterange:
+footnoterange.sty

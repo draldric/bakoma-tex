@@ -1,0 +1,14 @@
+:ccaption.doc:x1120:0.473882:116110580:468768:56F8-C3EB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ccaption
+
+./doc/latex/ccaption:
+ccaption.pdf
+README

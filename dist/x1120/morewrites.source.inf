@@ -1,0 +1,15 @@
+:morewrites.source:x1120:0.05657:116110580:13658:4B8F-A05F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+morewrites
+
+./source/latex/morewrites:
+morewrites.dtx
+morewrites.ins
+primargs.dtx

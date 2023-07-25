@@ -1,0 +1,48 @@
+% Unpacking components of module [filehook] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\filehook.tds.zip)
+/Name (filehook)
+/Size 280289 
+/CRC 851690788 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (filehook)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\filehook.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\filehook.bkz)
+/Name (filehook)
+/Size 3454 
+/CRC 1035809582 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\filehook.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\filehook.doc.bkz)
+/Name (filehook)
+/Size 259151 
+/CRC 377411672 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\filehook.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\filehook.source.bkz)
+/Name (filehook)
+/Size 12430 
+/CRC -1932252864 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

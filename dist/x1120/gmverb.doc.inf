@@ -1,0 +1,14 @@
+:gmverb.doc:x1120:0.219085:116110580:211812:D758-5B78:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gmverb
+
+./doc/latex/gmverb:
+gmverb.pdf
+README

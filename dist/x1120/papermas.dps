@@ -1,0 +1,48 @@
+% Unpacking components of module [papermas] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\papermas.tds.zip)
+/Name (papermas)
+/Size 435116 
+/CRC 1456516828 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (papermas)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\papermas.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\papermas.bkz)
+/Name (papermas)
+/Size 3266 
+/CRC -569704087 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\papermas.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\papermas.doc.bkz)
+/Name (papermas)
+/Size 409575 
+/CRC -267084579 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\papermas.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\papermas.source.bkz)
+/Name (papermas)
+/Size 13779 
+/CRC -248513832 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

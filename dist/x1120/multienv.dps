@@ -1,0 +1,48 @@
+% Unpacking components of module [multienv] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\multienv.tds.zip)
+/Name (multienv)
+/Size 215196 
+/CRC 151515081 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (multienv)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\multienv.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\multienv.bkz)
+/Name (multienv)
+/Size 1462 
+/CRC 1774984331 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\multienv.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\multienv.doc.bkz)
+/Name (multienv)
+/Size 209152 
+/CRC 1457848555 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\multienv.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\multienv.source.bkz)
+/Name (multienv)
+/Size 4334 
+/CRC 1440562526 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,62 @@
+% Unpacking components of module [gmverb] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\gmverb.tds.zip)
+/Name (gmverb)
+/Size 228094 
+/CRC -1831914672 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\gmverb.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\gmverb.bkz)
+/Name (gmverb)
+/Size 9895 
+/CRC 1519546170 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\gmverb.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\gmverb\\gmverb.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\gmverb\\gmverb.sty)
+/OldSize 27918 
+/NewSize 46720 
+/Line 1 
+/NewLine (%)
+/OldLine (%% )
+>>
+<<
+/Type /Status 
+/Name (gmverb)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\gmverb.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gmverb.bkz)
+/Name (gmverb)
+/Size 15894 
+/CRC -1079427583 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\gmverb.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gmverb.doc.bkz)
+/Name (gmverb)
+/Size 211812 
+/CRC -682075272 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

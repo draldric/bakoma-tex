@@ -1,0 +1,72 @@
+% Unpacking components of module [morefloats] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\morefloats.tds.zip)
+/Name (morefloats)
+/Size 581662 
+/CRC 592044208 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\morefloats.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\morefloats.bkz)
+/Name (morefloats)
+/Size 901 
+/CRC -213779350 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\morefloats.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\morefloats\\morefloats.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\morefloats\\morefloats.sty)
+/OldSize 2039 
+/NewSize 40388 
+/Line 1 
+/NewLine (% This file is public domain.)
+/OldLine (%%)
+>>
+<<
+/Type /Status 
+/Name (morefloats)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\morefloats.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\morefloats.bkz)
+/Name (morefloats)
+/Size 3884 
+/CRC -592836741 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\morefloats.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\morefloats.doc.bkz)
+/Name (morefloats)
+/Size 556622 
+/CRC 2003390341 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\morefloats.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\morefloats.source.bkz)
+/Name (morefloats)
+/Size 14180 
+/CRC 1918345673 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

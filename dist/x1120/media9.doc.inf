@@ -1,0 +1,15 @@
+:media9.doc:x1120:3.61749:116110580:3596364:134C-9F5C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+media9
+
+./doc/latex/media9:
+ChangeLog
+media9.pdf
+README

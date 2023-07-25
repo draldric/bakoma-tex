@@ -1,0 +1,48 @@
+% Unpacking components of module [collcell] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\collcell.tds.zip)
+/Name (collcell)
+/Size 239584 
+/CRC -718242384 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (collcell)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\collcell.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\collcell.bkz)
+/Name (collcell)
+/Size 1750 
+/CRC 1895652147 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\collcell.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\collcell.doc.bkz)
+/Name (collcell)
+/Size 221299 
+/CRC 1199957187 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\collcell.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\collcell.source.bkz)
+/Name (collcell)
+/Size 7222 
+/CRC -1188382349 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

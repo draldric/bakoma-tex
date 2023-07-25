@@ -1,0 +1,72 @@
+% Unpacking components of module [pstool] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\pstool.tds.zip)
+/Name (pstool)
+/Size 412334 
+/CRC -843562563 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\pstool.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\pstool.bkz)
+/Name (pstool)
+/Size 4499 
+/CRC 13218025 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\pstool.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pstool\\pstool.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\pstool\\pstool.sty)
+/OldSize 14168 
+/NewSize 20032 
+/Line 1 
+/NewLine (%% LaTeX2e file `pstool.sty')
+/OldLine (% TODO: convert this package into expl3 syntax \(will save many lines of code\).)
+>>
+<<
+/Type /Status 
+/Name (pstool)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\pstool.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pstool.bkz)
+/Name (pstool)
+/Size 6025 
+/CRC 650623733 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pstool.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pstool.doc.bkz)
+/Name (pstool)
+/Size 355123 
+/CRC -2024959566 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pstool.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pstool.source.bkz)
+/Name (pstool)
+/Size 14802 
+/CRC -573110931 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

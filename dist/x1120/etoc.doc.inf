@@ -1,0 +1,15 @@
+:etoc.doc:x1120:1.19671:116110580:1110355:1BF4-1D2B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+etoc
+
+./doc/latex/etoc:
+etoc-DE.pdf
+etoc.pdf
+README.md

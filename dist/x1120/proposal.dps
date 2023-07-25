@@ -1,0 +1,48 @@
+% Unpacking components of module [proposal] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\proposal.tds.zip)
+/Name (proposal)
+/Size 1441089 
+/CRC -1104862727 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (proposal)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\proposal.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\proposal.bkz)
+/Name (proposal)
+/Size 16432 
+/CRC 2100034396 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\proposal.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\proposal.doc.bkz)
+/Name (proposal)
+/Size 1079210 
+/CRC 1306971334 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\proposal.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\proposal.source.bkz)
+/Name (proposal)
+/Size 49017 
+/CRC 2072036868 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

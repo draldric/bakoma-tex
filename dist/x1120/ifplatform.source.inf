@@ -1,0 +1,14 @@
+:ifplatform.source:x1120:0.016881:116110580:5447:1C1D-2835:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ifplatform
+
+./source/latex/ifplatform:
+ifplatform.dtx
+ifplatform.ins

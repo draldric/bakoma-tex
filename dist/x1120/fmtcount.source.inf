@@ -1,0 +1,14 @@
+:fmtcount.source:x1120:0.291385:116110580:43525:1AD-AF6C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fmtcount
+
+./source/latex/fmtcount:
+fmtcount.dtx
+fmtcount.ins

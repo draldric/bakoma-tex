@@ -1,0 +1,17 @@
+:autonum.doc:x1120:0.413302:116110580:401769:8C7C-A7CB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+autonum
+
+./doc/latex/autonum:
+autonum.pdf
+README
+test-autonum.pdf
+test-autonum.tex
+test-freeze.tex

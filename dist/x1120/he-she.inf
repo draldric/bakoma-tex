@@ -1,0 +1,13 @@
+:he-she:x1120:0.009319:116110580:2678:3C92-EBC1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+he-she
+
+./tex/latex/he-she:
+he-she.sty

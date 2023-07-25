@@ -1,0 +1,14 @@
+:vertbars.doc:x1120:0.035263:116110580:33768:3A70-B392:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+vertbars
+
+./doc/latex/vertbars:
+README
+vertbars.pdf

@@ -1,0 +1,17 @@
+:fileinfo.source:x1120:0.012213:116110580:4185:6098-F47F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fileinfo
+
+./source/latex/fileinfo:
+fdatechk.tex
+gather.tex
+myfilist.tex
+README.tex
+readprov.tex

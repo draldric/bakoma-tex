@@ -1,0 +1,14 @@
+:fixcmex.doc:x1120:0.200199:116110580:199857:A6B9-BAF2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fixcmex
+
+./doc/latex/fixcmex:
+fixcmex.pdf
+README

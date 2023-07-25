@@ -1,0 +1,48 @@
+% Unpacking components of module [newverbs] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\newverbs.tds.zip)
+/Name (newverbs)
+/Size 190137 
+/CRC -32569243 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (newverbs)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\newverbs.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\newverbs.bkz)
+/Name (newverbs)
+/Size 1991 
+/CRC 64099761 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\newverbs.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\newverbs.doc.bkz)
+/Name (newverbs)
+/Size 181367 
+/CRC -1660269904 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\newverbs.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\newverbs.source.bkz)
+/Name (newverbs)
+/Size 5934 
+/CRC -1493187525 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

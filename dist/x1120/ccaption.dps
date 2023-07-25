@@ -1,0 +1,72 @@
+% Unpacking components of module [ccaption] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ccaption.tds.zip)
+/Name (ccaption)
+/Size 511024 
+/CRC -106439826 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\ccaption.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\ccaption.bkz)
+/Name (ccaption)
+/Size 5018 
+/CRC 207136224 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\ccaption.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\ccaption\\ccaption.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\ccaption\\ccaption.sty)
+/OldSize 23062 
+/NewSize 22994 
+/Line 23 
+/NewLine (\\NeedsTeXFormat{LaTeX2e})
+/OldLine (\\ProvidesPackage{ccaption})
+>>
+<<
+/Type /Status 
+/Name (ccaption)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ccaption.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ccaption.bkz)
+/Name (ccaption)
+/Size 4993 
+/CRC 411984828 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ccaption.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ccaption.doc.bkz)
+/Name (ccaption)
+/Size 468768 
+/CRC 1459143659 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ccaption.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ccaption.source.bkz)
+/Name (ccaption)
+/Size 34217 
+/CRC 1539865979 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

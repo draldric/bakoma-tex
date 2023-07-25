@@ -1,0 +1,13 @@
+:thumbs:x1120:0.054819:116110580:10397:8644-11FB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+thumbs
+
+./tex/latex/thumbs:
+thumbs.sty

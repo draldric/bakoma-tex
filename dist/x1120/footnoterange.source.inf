@@ -1,0 +1,15 @@
+:footnoterange.source:x1120:0.041009:116110580:9305:6A73-4F08:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+footnoterange
+
+./source/latex/footnoterange:
+footnoterange.drv
+footnoterange.dtx
+footnoterange.ins

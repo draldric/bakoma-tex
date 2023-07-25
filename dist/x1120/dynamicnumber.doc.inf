@@ -1,0 +1,14 @@
+:dynamicnumber.doc:x1120:0.159398:116110580:158966:3D15-5D5B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+dynamicnumber
+
+./doc/latex/dynamicnumber:
+dynamicnumber.pdf
+LICENSE.txt

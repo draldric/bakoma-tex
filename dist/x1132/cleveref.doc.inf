@@ -1,0 +1,14 @@
+:cleveref.doc:x1132:0.38912:117050464:382412:B587-7CD7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cleveref
+
+./doc/latex/cleveref:
+cleveref.pdf
+README

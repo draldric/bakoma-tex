@@ -1,0 +1,48 @@
+% Unpacking components of module [bnumexpr] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\bnumexpr.tds.zip)
+/Name (bnumexpr)
+/Size 98101 
+/CRC -2074051477 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (bnumexpr)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\bnumexpr.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\bnumexpr.bkz)
+/Name (bnumexpr)
+/Size 3240 
+/CRC -1613587459 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\bnumexpr.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\bnumexpr.doc.bkz)
+/Name (bnumexpr)
+/Size 76958 
+/CRC 1210310667 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\bnumexpr.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\bnumexpr.source.bkz)
+/Name (bnumexpr)
+/Size 14928 
+/CRC 19020566 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

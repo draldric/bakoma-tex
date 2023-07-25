@@ -1,0 +1,15 @@
+:threadcol.source:x1120:0.108216:116110580:92853:D671-4707:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+threadcol
+
+./source/latex/threadcol:
+articles-ar9.png
+threadcol.dtx
+threadcol.ins

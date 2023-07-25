@@ -1,0 +1,14 @@
+:mattens.source:x1120:0.058515:116110580:14097:8832-9814:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mattens
+
+./source/latex/mattens:
+mattens.dtx
+mattens.ins

@@ -1,0 +1,13 @@
+:hypdvips:x1132:0.12288:117050492:23361:F44D-F3D8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hypdvips
+
+./tex/latex/hypdvips:
+hypdvips.sty

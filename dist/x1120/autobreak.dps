@@ -1,0 +1,48 @@
+% Unpacking components of module [autobreak] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\autobreak.tds.zip)
+/Name (autobreak)
+/Size 548607 
+/CRC -775408889 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (autobreak)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\autobreak.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\autobreak.bkz)
+/Name (autobreak)
+/Size 1926 
+/CRC -2029673842 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\autobreak.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\autobreak.doc.bkz)
+/Name (autobreak)
+/Size 539742 
+/CRC -1687656753 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\autobreak.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\autobreak.source.bkz)
+/Name (autobreak)
+/Size 8451 
+/CRC -166688044 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,13 @@
+:fonttable:x1120:0.013772:116110580:5129:E7C1-78F8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fonttable
+
+./tex/latex/fonttable:
+fonttable.sty

@@ -1,0 +1,14 @@
+:ifmtarg.doc:x1120:0.172244:116110580:172260:EBF3-605C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ifmtarg
+
+./doc/latex/ifmtarg:
+ifmtarg.pdf
+README

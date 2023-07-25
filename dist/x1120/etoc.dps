@@ -1,0 +1,48 @@
+% Unpacking components of module [etoc] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\etoc.tds.zip)
+/Name (etoc)
+/Size 1300313 
+/CRC -256960966 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (etoc)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\etoc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\etoc.bkz)
+/Name (etoc)
+/Size 9247 
+/CRC -955035919 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\etoc.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\etoc.doc.bkz)
+/Name (etoc)
+/Size 1110355 
+/CRC 468983083 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\etoc.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\etoc.source.bkz)
+/Name (etoc)
+/Size 115026 
+/CRC -595623076 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

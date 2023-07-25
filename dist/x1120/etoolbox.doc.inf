@@ -1,0 +1,15 @@
+:etoolbox.doc:x1120:0.295716:116110580:232249:A856-38CA:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+etoolbox
+
+./doc/latex/etoolbox:
+etoolbox.pdf
+etoolbox.tex
+README.md

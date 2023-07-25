@@ -1,0 +1,15 @@
+:hrefhide.source:x1120:0.047317:116110580:11455:433D-10AD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+hrefhide
+
+./source/latex/hrefhide:
+hrefhide.drv
+hrefhide.dtx
+hrefhide.ins

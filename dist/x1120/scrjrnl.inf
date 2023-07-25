@@ -1,0 +1,13 @@
+:scrjrnl:x1120:0.00732:116110580:2271:95A0-D576:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+scrjrnl
+
+./tex/latex/scrjrnl:
+scrjrnl.cls

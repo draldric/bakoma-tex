@@ -1,0 +1,36 @@
+% Unpacking components of module [notes2bib] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\notes2bib.tds.zip)
+/Name (notes2bib)
+/Size 217181 
+/CRC -1148325283 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1040\notes2bib.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1040\\notes2bib.bkz)
+/Name (notes2bib)
+/Size 3654 
+/CRC -836751475 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1040\notes2bib.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\notes2bib\\notes2bib.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\notes2bib\\notes2bib.sty)
+/OldSize 19878 
+/NewSize 19878 
+>>
+<<
+/Type /Status 
+/Name (notes2bib)
+/Status /Same 
+>> % distribution already includes this version

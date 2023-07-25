@@ -1,0 +1,13 @@
+:ucbthesis:x1120:0.024229:116110580:6921:5DF1-40A9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ucbthesis
+
+./tex/latex/ucbthesis:
+ucbthesis.cls

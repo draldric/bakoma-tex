@@ -1,0 +1,48 @@
+% Unpacking components of module [lengthconvert] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\lengthconvert.tds.zip)
+/Name (lengthconvert)
+/Size 449281 
+/CRC 330528867 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (lengthconvert)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\lengthconvert.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\lengthconvert.bkz)
+/Name (lengthconvert)
+/Size 1640 
+/CRC -1837821189 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\lengthconvert.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\lengthconvert.doc.bkz)
+/Name (lengthconvert)
+/Size 444745 
+/CRC 2009099001 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\lengthconvert.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\lengthconvert.source.bkz)
+/Name (lengthconvert)
+/Size 3919 
+/CRC 95143975 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

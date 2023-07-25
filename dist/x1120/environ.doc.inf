@@ -1,0 +1,14 @@
+:environ.doc:x1120:0.156587:116110580:156064:E722-7945:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+environ
+
+./doc/latex/environ:
+environ.pdf
+README

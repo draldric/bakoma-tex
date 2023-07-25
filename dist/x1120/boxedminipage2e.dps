@@ -1,0 +1,48 @@
+% Unpacking components of module [boxedminipage2e] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\boxedminipage2e.tds.zip)
+/Name (boxedminipage2e)
+/Size 214797 
+/CRC -2060698802 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (boxedminipage2e)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\boxedminipage2e.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\boxedminipage2e.bkz)
+/Name (boxedminipage2e)
+/Size 785 
+/CRC -1219839923 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\boxedminipage2e.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\boxedminipage2e.doc.bkz)
+/Name (boxedminipage2e)
+/Size 209507 
+/CRC -1706614008 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\boxedminipage2e.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\boxedminipage2e.source.bkz)
+/Name (boxedminipage2e)
+/Size 3537 
+/CRC -145587840 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

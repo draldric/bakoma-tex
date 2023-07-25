@@ -1,0 +1,17 @@
+:linguex.doc:x1120:0.307641:116110580:274524:CB61-F2B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+linguex
+
+./doc/latex/linguex:
+linguex-doc.pdf
+linguex-doc.tex
+ps-trees-doc.pdf
+ps-trees-doc.tex
+README

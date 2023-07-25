@@ -1,0 +1,13 @@
+:threadcol:x1120:0.003075:116110580:1190:5504-D445:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+threadcol
+
+./tex/latex/threadcol:
+threadcol.sty

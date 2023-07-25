@@ -1,0 +1,14 @@
+:multienv.source:x1120:0.016664:116110580:4334:55DD-3D5E:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+multienv
+
+./source/latex/multienv:
+multienv.dtx
+multienv.ins

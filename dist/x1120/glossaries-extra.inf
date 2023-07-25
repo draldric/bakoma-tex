@@ -1,0 +1,14 @@
+:glossaries-extra:x1120:0.206502:116110580:22302:5FF2-B6C5:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+glossaries-extra
+
+./tex/latex/glossaries-extra:
+glossaries-extra-stylemods.sty
+glossaries-extra.sty

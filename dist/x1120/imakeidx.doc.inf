@@ -1,0 +1,15 @@
+:imakeidx.doc:x1120:0.520528:116110580:519658:5D1C-297E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+imakeidx
+
+./doc/latex/imakeidx:
+imakeidx.pdf
+manifest.txt
+README

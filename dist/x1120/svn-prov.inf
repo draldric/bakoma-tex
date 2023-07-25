@@ -1,0 +1,13 @@
+:svn-prov:x1120:0.006898:116110580:1942:6A10-96CB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+svn-prov
+
+./tex/latex/svn-prov:
+svn-prov.sty

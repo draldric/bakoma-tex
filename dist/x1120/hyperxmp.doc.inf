@@ -1,0 +1,14 @@
+:hyperxmp.doc:x1120:0.575241:116110580:539789:AA76-F934:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hyperxmp
+
+./doc/latex/hyperxmp:
+hyperxmp.pdf
+README

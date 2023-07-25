@@ -1,0 +1,14 @@
+:xpinyin:x1120:1.23011:116110580:200731:F1A4-2FA9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xpinyin
+
+./tex/latex/xpinyin:
+xpinyin-database.def
+xpinyin.sty

@@ -1,0 +1,48 @@
+% Unpacking components of module [collectbox] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\collectbox.tds.zip)
+/Name (collectbox)
+/Size 281586 
+/CRC 247595732 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (collectbox)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\collectbox.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\collectbox.bkz)
+/Name (collectbox)
+/Size 2205 
+/CRC 2035096127 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\collectbox.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\collectbox.doc.bkz)
+/Name (collectbox)
+/Size 271578 
+/CRC -636154673 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\collectbox.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\collectbox.source.bkz)
+/Name (collectbox)
+/Size 7785 
+/CRC 489658321 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

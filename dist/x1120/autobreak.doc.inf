@@ -1,0 +1,14 @@
+:autobreak.doc:x1120:0.540453:116110580:539742:9B68-66CF:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+autobreak
+
+./doc/latex/autobreak:
+autobreak.pdf
+README.md

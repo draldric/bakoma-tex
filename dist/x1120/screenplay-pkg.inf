@@ -1,0 +1,13 @@
+:screenplay-pkg:x1120:0.005931:116110580:2051:7A48-5B8F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+screenplay-pkg
+
+./tex/latex/screenplay-pkg:
+screenplay-pkg.sty

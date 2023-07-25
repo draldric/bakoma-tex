@@ -1,0 +1,16 @@
+:footnoterange.doc:x1120:0.391731:116110580:384361:1F7D-D710:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+footnoterange
+
+./doc/latex/footnoterange:
+footnoterange-example.pdf
+footnoterange-example.tex
+footnoterange.pdf
+README

@@ -1,0 +1,15 @@
+:svn-prov.source:x1120:0.034653:116110580:9704:3DEF-6F5D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+svn-prov
+
+./source/latex/svn-prov:
+Makefile
+svn-prov.dtx
+svn-prov.ins

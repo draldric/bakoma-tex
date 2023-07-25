@@ -1,0 +1,17 @@
+:gitinfo.doc:x1120:0.096416:116110580:83572:14D1-265D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gitinfo
+
+./doc/latex/gitinfo:
+gitHeadInfo.gin
+gitinfo.pdf
+gitinfo.tex
+post-xxx-sample.txt
+README

@@ -1,0 +1,14 @@
+:xpinyin.doc:x1120:0.21883:116110580:213225:F28C-7C05:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xpinyin
+
+./doc/latex/xpinyin:
+README.md
+xpinyin.pdf

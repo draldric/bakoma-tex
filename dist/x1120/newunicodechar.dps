@@ -1,0 +1,48 @@
+% Unpacking components of module [newunicodechar] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\newunicodechar.tds.zip)
+/Name (newunicodechar)
+/Size 396944 
+/CRC 84971962 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (newunicodechar)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\newunicodechar.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\newunicodechar.bkz)
+/Name (newunicodechar)
+/Size 1682 
+/CRC -1634755768 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\newunicodechar.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\newunicodechar.doc.bkz)
+/Name (newunicodechar)
+/Size 389586 
+/CRC 935219377 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\newunicodechar.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\newunicodechar.source.bkz)
+/Name (newunicodechar)
+/Size 6598 
+/CRC -1520225342 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

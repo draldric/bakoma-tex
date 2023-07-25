@@ -1,0 +1,94 @@
+% Unpacking components of module [asyfig] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\asyfig.tds.zip)
+/Name (asyfig)
+/Size 235440 
+/CRC -1738363880 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\asyfig.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\asyfig.bkz)
+/Name (asyfig)
+/Size 2663 
+/CRC 203411380 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\asyfig.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\asyfig\\asyalign.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\asyfig\\asyalign.sty)
+/OldSize 2184 
+/NewSize 2184 
+/Line 3 
+/NewLine (%% from source `asyfig' on 2009/06/30.)
+/OldLine (%% from source `asyfig' on 2010/03/20.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\asyfig\\asyfig.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\asyfig\\asyfig.sty)
+/OldSize 4007 
+/NewSize 4007 
+/Line 3 
+/NewLine (%% from source `asyfig' on 2009/06/30.)
+/OldLine (%% from source `asyfig' on 2010/03/20.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\asyfig\\asyprocess.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\asyfig\\asyprocess.sty)
+/OldSize 1692 
+/NewSize 1709 
+/Line 3 
+/NewLine (%% from source `asyfig' on 2009/06/30.)
+/OldLine (%% from source `asyfig' on 2010/03/20.)
+>>
+<<
+/Type /Status 
+/Name (asyfig)
+/Status /Updated 
+/Differences 3 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\asyfig.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\asyfig.bkz)
+/Name (asyfig)
+/Size 2669 
+/CRC -2079300095 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\asyfig.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\asyfig.doc.bkz)
+/Name (asyfig)
+/Size 213724 
+/CRC 1667760782 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\asyfig.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\asyfig.source.bkz)
+/Name (asyfig)
+/Size 6315 
+/CRC -1549451026 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

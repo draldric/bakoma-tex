@@ -1,0 +1,15 @@
+:microtype.doc:x1120:1.94214:116110580:1576104:7D5C-F5A0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+microtype
+
+./doc/latex/microtype:
+microtype.pdf
+README.md
+test-microtype.tex

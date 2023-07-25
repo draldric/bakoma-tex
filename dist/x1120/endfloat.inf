@@ -1,0 +1,14 @@
+:endfloat:x1120:0.017183:116110580:4214:7C75-AD68:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+endfloat
+
+./tex/latex/endfloat:
+efxmpl.cfg
+endfloat.sty

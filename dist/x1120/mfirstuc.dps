@@ -1,0 +1,48 @@
+% Unpacking components of module [mfirstuc] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\mfirstuc.tds.zip)
+/Name (mfirstuc)
+/Size 701657 
+/CRC -1708591683 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (mfirstuc)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\mfirstuc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mfirstuc.bkz)
+/Name (mfirstuc)
+/Size 3661 
+/CRC 427751802 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mfirstuc.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mfirstuc.doc.bkz)
+/Name (mfirstuc)
+/Size 660549 
+/CRC 1048986431 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mfirstuc.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mfirstuc.source.bkz)
+/Name (mfirstuc)
+/Size 7951 
+/CRC 1245424635 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

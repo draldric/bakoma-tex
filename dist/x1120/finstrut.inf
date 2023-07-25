@@ -1,0 +1,13 @@
+:finstrut:x1120:0.007156:116110580:2880:56A3-3379:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+finstrut
+
+./tex/latex/finstrut:
+finstrut.sty

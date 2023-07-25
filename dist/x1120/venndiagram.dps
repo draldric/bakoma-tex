@@ -1,0 +1,48 @@
+% Unpacking components of module [venndiagram] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\venndiagram.tds.zip)
+/Name (venndiagram)
+/Size 354409 
+/CRC -1262667895 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (venndiagram)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\venndiagram.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\venndiagram.bkz)
+/Name (venndiagram)
+/Size 3667 
+/CRC 1419802504 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\venndiagram.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\venndiagram.doc.bkz)
+/Name (venndiagram)
+/Size 338410 
+/CRC -854351532 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\venndiagram.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\venndiagram.source.bkz)
+/Name (venndiagram)
+/Size 9289 
+/CRC 1328016989 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

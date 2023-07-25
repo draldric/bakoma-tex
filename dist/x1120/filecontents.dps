@@ -1,0 +1,72 @@
+% Unpacking components of module [filecontents] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\filecontents.tds.zip)
+/Name (filecontents)
+/Size 245477 
+/CRC -797438616 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\filecontents.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\filecontents.bkz)
+/Name (filecontents)
+/Size 1250 
+/CRC 1721310811 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\filecontents.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\filecontents\\filecontents.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\filecontents\\filecontents.sty)
+/OldSize 3026 
+/NewSize 3051 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2009 Scott Pakin <scott+fc@pakin.org>)
+/OldLine (%% Copyright \(C\) 2011 Scott Pakin <scott+fc@pakin.org>)
+>>
+<<
+/Type /Status 
+/Name (filecontents)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\filecontents.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\filecontents.bkz)
+/Name (filecontents)
+/Size 1256 
+/CRC -950947537 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\filecontents.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\filecontents.doc.bkz)
+/Name (filecontents)
+/Size 235078 
+/CRC 1725821526 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\filecontents.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\filecontents.source.bkz)
+/Name (filecontents)
+/Size 5405 
+/CRC 220252664 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

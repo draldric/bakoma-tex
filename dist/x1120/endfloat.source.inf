@@ -1,0 +1,14 @@
+:endfloat.source:x1120:0.102927:116110580:27379:36C0-9B7A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+endfloat
+
+./source/latex/endfloat:
+endfloat.dtx
+endfloat.ins

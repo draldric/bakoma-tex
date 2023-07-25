@@ -1,0 +1,48 @@
+% Unpacking components of module [romanbar] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\romanbar.tds.zip)
+/Name (romanbar)
+/Size 374622 
+/CRC -1907129569 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (romanbar)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\romanbar.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\romanbar.bkz)
+/Name (romanbar)
+/Size 1841 
+/CRC 1255079196 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\romanbar.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\romanbar.doc.bkz)
+/Name (romanbar)
+/Size 362409 
+/CRC -1282898360 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\romanbar.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\romanbar.source.bkz)
+/Name (romanbar)
+/Size 9331 
+/CRC -912131101 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

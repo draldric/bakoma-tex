@@ -1,0 +1,48 @@
+% Unpacking components of module [repltext] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\repltext.tds.zip)
+/Name (repltext)
+/Size 300019 
+/CRC 790795997 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (repltext)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\repltext.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\repltext.bkz)
+/Name (repltext)
+/Size 761 
+/CRC -1591604876 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\repltext.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\repltext.doc.bkz)
+/Name (repltext)
+/Size 291904 
+/CRC -2136834913 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\repltext.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\repltext.source.bkz)
+/Name (repltext)
+/Size 6327 
+/CRC -1409002858 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,14 @@
+:l3build.doc:x1120:0.611691:116110580:611721:7D21-6747:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+l3build
+
+./doc/latex/l3build:
+l3build.pdf
+README.md

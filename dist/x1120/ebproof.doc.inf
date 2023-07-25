@@ -1,0 +1,14 @@
+:ebproof.doc:x1120:0.200154:116110580:199486:51F9-E5D0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ebproof
+
+./doc/latex/ebproof:
+ebproof.pdf
+README

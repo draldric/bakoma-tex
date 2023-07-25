@@ -1,0 +1,73 @@
+% Unpacking components of module [etoolbox] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\etoolbox.tds.zip)
+/Name (etoolbox)
+/Size 241369 
+/CRC 1133239118 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V905\etoolbox.bkz]
+<<
+/Type /BKZ 
+/File (.\\V905\\etoolbox.bkz)
+/Name (etoolbox)
+/Size 7405 
+/CRC -183928707 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V905\etoolbox.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\etoolbox\\etoolbox.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\etoolbox\\etoolbox.def)
+/OldSize 2506 
+/NewSize 2379 
+/Line 1 
+/NewLine (% $Id: etoolbox.def,v 2.1 2011/01/03 19:14:10 lehman stable $)
+/OldLine (\\ProvidesFile{etoolbox.def})
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\etoolbox\\etoolbox.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\etoolbox\\etoolbox.sty)
+/OldSize 41188 
+/NewSize 41547 
+/Line 1 
+/NewLine (% $Id: etoolbox.sty,v 2.1 2011/01/03 19:14:10 lehman stable $)
+/OldLine (% Copyright \(c\) 2007-2011 Philipp Lehman.)
+>>
+<<
+/Type /Status 
+/Name (etoolbox)
+/Status /Updated 
+/Differences 2 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\etoolbox.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\etoolbox.bkz)
+/Name (etoolbox)
+/Size 7406 
+/CRC 1810623533 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\etoolbox.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\etoolbox.doc.bkz)
+/Name (etoolbox)
+/Size 232249 
+/CRC -1470744374 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

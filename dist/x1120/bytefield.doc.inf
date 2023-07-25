@@ -1,0 +1,16 @@
+:bytefield.doc:x1120:0.960859:116110580:776008:F2D9-576B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bytefield
+
+./doc/latex/bytefield:
+bf-example.pdf
+bf-example.tex
+bytefield.pdf
+README

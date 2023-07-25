@@ -1,0 +1,14 @@
+:skrapport.doc:x1120:0.272882:116110580:271191:162E-A41D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+skrapport
+
+./doc/latex/skrapport:
+README
+skrapport.pdf

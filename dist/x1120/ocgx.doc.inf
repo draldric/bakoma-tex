@@ -1,0 +1,15 @@
+:ocgx.doc:x1120:1.02838:116110580:993053:CBF-94B2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ocgx
+
+./doc/latex/ocgx:
+demo-ocgx.pdf
+ocgx-manual-en.pdf
+README

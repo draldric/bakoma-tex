@@ -1,0 +1,36 @@
+% Unpacking components of module [romannum] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\romannum.tds.zip)
+/Name (romannum)
+/Size 137206 
+/CRC 1704010254 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\romannum.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\romannum.bkz)
+/Name (romannum)
+/Size 1276 
+/CRC 1658663184 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\romannum.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\romannum\\romannum.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\romannum\\romannum.sty)
+/OldSize 4641 
+/NewSize 4641 
+>>
+<<
+/Type /Status 
+/Name (romannum)
+/Status /Same 
+>> % distribution already includes this version

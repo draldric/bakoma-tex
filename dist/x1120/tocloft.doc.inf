@@ -1,0 +1,14 @@
+:tocloft.doc:x1120:0.453707:116110580:448711:A67F-5F63:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tocloft
+
+./doc/latex/tocloft:
+README
+tocloft.pdf

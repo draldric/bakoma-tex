@@ -1,0 +1,17 @@
+:modroman.source:x1120:0.066888:116110580:18412:5B01-288D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+modroman
+
+./source/latex/modroman:
+LISEZMOI
+Makefile
+modroman.dtx
+modroman.ins
+README

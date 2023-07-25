@@ -1,0 +1,36 @@
+% Unpacking components of module [varsfromjobname] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\varsfromjobname.tds.zip)
+/Name (varsfromjobname)
+/Size 35852 
+/CRC 1040383945 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\varsfromjobname.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\varsfromjobname.bkz)
+/Name (varsfromjobname)
+/Size 787 
+/CRC 922364177 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\varsfromjobname.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\varsfromjobname\\varsfromjobname.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\varsfromjobname\\varsfromjobname.sty)
+/OldSize 2852 
+/NewSize 2852 
+>>
+<<
+/Type /Status 
+/Name (varsfromjobname)
+/Status /Same 
+>> % distribution already includes this version

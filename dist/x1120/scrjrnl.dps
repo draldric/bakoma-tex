@@ -1,0 +1,48 @@
+% Unpacking components of module [scrjrnl] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\scrjrnl.tds.zip)
+/Name (scrjrnl)
+/Size 130991 
+/CRC -1665963139 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (scrjrnl)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\scrjrnl.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\scrjrnl.bkz)
+/Name (scrjrnl)
+/Size 2271 
+/CRC -1784621706 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\scrjrnl.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\scrjrnl.doc.bkz)
+/Name (scrjrnl)
+/Size 121782 
+/CRC 514322423 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\scrjrnl.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\scrjrnl.source.bkz)
+/Name (scrjrnl)
+/Size 4659 
+/CRC -2102464256 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

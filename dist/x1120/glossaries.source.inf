@@ -1,0 +1,14 @@
+:glossaries.source:x1120:1.15721:116110580:135826:FB9B-4AED:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+glossaries
+
+./source/latex/glossaries:
+glossaries.dtx
+glossaries.ins

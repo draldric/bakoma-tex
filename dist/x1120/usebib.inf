@@ -1,0 +1,13 @@
+:usebib:x1120:0.003155:116110580:1333:E864-3E15:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+usebib
+
+./tex/latex/usebib:
+usebib.sty

@@ -1,0 +1,13 @@
+:xpicture.source:x1120:0.128269:116110580:24138:3B93-A8A7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xpicture
+
+./source/latex/xpicture:
+xpicture.dtx

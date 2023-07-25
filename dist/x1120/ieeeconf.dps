@@ -1,0 +1,36 @@
+% Unpacking components of module [ieeeconf] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ieeeconf.tds.zip)
+/Name (ieeeconf)
+/Size 198256 
+/CRC -1795489183 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\ieeeconf.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\ieeeconf.bkz)
+/Name (ieeeconf)
+/Size 2196 
+/CRC -1878657897 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\ieeeconf.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\ieeeconf\\IEEEconf.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\ieeeconf\\IEEEconf.cls)
+/OldSize 6629 
+/NewSize 6629 
+>>
+<<
+/Type /Status 
+/Name (ieeeconf)
+/Status /Same 
+>> % distribution already includes this version

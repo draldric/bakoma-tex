@@ -1,0 +1,16 @@
+:romanbar.doc:x1120:0.369263:116110580:362409:B388-8648:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+romanbar
+
+./doc/latex/romanbar:
+README
+romanbar-example.pdf
+romanbar-example.tex
+romanbar.pdf

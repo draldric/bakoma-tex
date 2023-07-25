@@ -1,0 +1,263 @@
+% Unpacking components of module [graphics] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\\\macros\\latex\\required\\latex-graphics.tds.zip)
+/Name (graphics)
+/Size 2510475 
+/CRC -56326681 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1050\graphics.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1050\\graphics.bkz)
+/Name (graphics)
+/Size 12066 
+/CRC 1811475988 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1050\graphics.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\color.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\color.sty)
+/OldSize 6747 
+/NewSize 7031 
+/Line 9 
+/NewLine (%% color.dtx Copyright \(C\) 1994--1999 David Carlisle)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\dvipdf.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\dvipdf.def)
+/OldSize 4640 
+/NewSize 4515 
+/Line 11 
+/NewLine (%%)
+/OldLine (%%             Copyright \(C\) 2000--2016 David Carlisle, LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\dvipsnam.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\dvipsnam.def)
+/OldSize 4963 
+/NewSize 4945 
+/Line 11 
+/NewLine (%%)
+/OldLine (%%             Copyright \(C\) 2000--2016 David Carlisle, LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\dvipsone.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\dvipsone.def)
+/OldSize 4612 
+/NewSize 4544 
+/Line 11 
+/NewLine (%%)
+/OldLine (%%             Copyright \(C\) 2000--2016 David Carlisle, LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\dviwin.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\dviwin.def)
+/OldSize 1161 
+/NewSize 1198 
+/Line 11 
+/NewLine (%%)
+/OldLine (%%             Copyright \(C\) 2000--2016 David Carlisle, LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\emtex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\emtex.def)
+/OldSize 1141 
+/NewSize 1179 
+/Line 11 
+/NewLine (%%)
+/OldLine (%%             Copyright \(C\) 2000--2016 David Carlisle, LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\epsfig.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\epsfig.sty)
+/OldSize 3206 
+/NewSize 3388 
+/Line 9 
+/NewLine (%% epsfig.dtx Copyright \(C\) 1994-1996 1999 Sebastian Rahtz)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\graphics.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\graphics.sty)
+/OldSize 14666 
+/NewSize 14539 
+/Line 9 
+/NewLine (%% graphics.dtx Copyright \(C\) 1994      David Carlisle Sebastian Rahtz)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\graphicx.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\graphicx.sty)
+/OldSize 8150 
+/NewSize 8125 
+/Line 9 
+/NewLine (%% graphicx.dtx Copyright \(C\) 1994      David Carlisle Sebastian Rahtz)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\keyval.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\keyval.sty)
+/OldSize 2398 
+/NewSize 2594 
+/Line 9 
+/NewLine (%% keyval.dtx Copyright \(C\) 1993 1994 1995 1997 1998 1999 2014 David Carlisle)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\lscape.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\lscape.sty)
+/OldSize 1530 
+/NewSize 1757 
+/Line 9 
+/NewLine (%% lscape.dtx Copyright \(C\) 1994 1999-2000 David Carlisle)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\pctex32.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\pctex32.def)
+/OldSize 4460 
+/NewSize 4392 
+/Line 11 
+/NewLine (%%)
+/OldLine (%%             Copyright \(C\) 2000--2016 David Carlisle, LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\pctexhp.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\pctexhp.def)
+/OldSize 1152 
+/NewSize 1189 
+/Line 11 
+/NewLine (%%)
+/OldLine (%%             Copyright \(C\) 2000--2016 David Carlisle, LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\pctexps.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\pctexps.def)
+/OldSize 3972 
+/NewSize 3924 
+/Line 11 
+/NewLine (%%)
+/OldLine (%%             Copyright \(C\) 2000--2016 David Carlisle, LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\pctexwin.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\pctexwin.def)
+/OldSize 2465 
+/NewSize 2466 
+/Line 11 
+/NewLine (%%)
+/OldLine (%%             Copyright \(C\) 2000--2016 David Carlisle, LaTeX3 Project)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\rotating.sty)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\tcidvi.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\tcidvi.def)
+/OldSize 4884 
+/NewSize 4797 
+/Line 11 
+/NewLine (%%)
+/OldLine (%%             Copyright \(C\) 2000--2016 David Carlisle, LaTeX3 Project)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\trig.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\trig.sty)
+/OldSize 3252 
+/NewSize 3980 
+/Line 9 
+/NewLine (%% File: trig.dtx Copyright \(C\) 1993 1994 1995 1996 1997 1999 David Carlisle)
+/OldLine (%% The source is maintained by the LaTeX Project team and bug)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\graphics\\truetex.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\graphics\\truetex.def)
+/OldSize 3580 
+/NewSize 3531 
+/Line 11 
+/NewLine (%%)
+/OldLine (%%             Copyright \(C\) 2000--2016 David Carlisle, LaTeX3 Project)
+>>
+<<
+/Type /Status 
+/Name (graphics)
+/Status /Updated 
+/Differences 19 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\graphics.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\graphics.bkz)
+/Name (graphics)
+/Size 13373 
+/CRC -1726888548 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\graphics.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\graphics.doc.bkz)
+/Name (graphics)
+/Size 1983559 
+/CRC -1502156262 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\graphics.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\graphics.source.bkz)
+/Name (graphics)
+/Size 49475 
+/CRC -1711175624 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

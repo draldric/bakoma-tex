@@ -1,0 +1,48 @@
+% Unpacking components of module [monofill] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\monofill.tds.zip)
+/Name (monofill)
+/Size 302018 
+/CRC -1786734309 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (monofill)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\monofill.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\monofill.bkz)
+/Name (monofill)
+/Size 3659 
+/CRC 2070812464 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\monofill.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\monofill.doc.bkz)
+/Name (monofill)
+/Size 290311 
+/CRC -1147965139 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\monofill.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\monofill.source.bkz)
+/Name (monofill)
+/Size 2730 
+/CRC 959565022 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

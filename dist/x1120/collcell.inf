@@ -1,0 +1,13 @@
+:collcell:x1120:0.006:116110580:1750:70FD-5B33:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+collcell
+
+./tex/latex/collcell:
+collcell.sty

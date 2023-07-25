@@ -1,0 +1,72 @@
+% Unpacking components of module [dashrule] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\dashrule.tds.zip)
+/Name (dashrule)
+/Size 241651 
+/CRC 1299914208 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\dashrule.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\dashrule.bkz)
+/Name (dashrule)
+/Size 870 
+/CRC 2025373526 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\dashrule.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dashrule\\dashrule.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dashrule\\dashrule.sty)
+/OldSize 1841 
+/NewSize 1843 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2009 by Scott Pakin <scott+dash@pakin.org>)
+/OldLine (%% Copyright \(C\) 2013 by Scott Pakin <scott+dash@pakin.org>)
+>>
+<<
+/Type /Status 
+/Name (dashrule)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\dashrule.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dashrule.bkz)
+/Name (dashrule)
+/Size 870 
+/CRC -1303230674 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\dashrule.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dashrule.doc.bkz)
+/Name (dashrule)
+/Size 230653 
+/CRC -940997276 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\dashrule.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dashrule.source.bkz)
+/Name (dashrule)
+/Size 5808 
+/CRC -1119670824 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,84 @@
+% Unpacking components of module [linguex] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\linguex.tds.zip)
+/Name (linguex)
+/Size 283699 
+/CRC 1284292983 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\linguex.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\linguex.bkz)
+/Name (linguex)
+/Size 5462 
+/CRC 1220234202 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\linguex.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\linguex\\linguex.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\linguex\\linguex.sty)
+/OldSize 14057 
+/NewSize 17958 
+/Line 1 
+/NewLine (%% Copyright 1996 by Wolfgang Sternefeld)
+/OldLine (%% Copyright 1996-2013 by Wolfgang Sternefeld)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\linguex\\linguho.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\linguex\\linguho.sty)
+/OldSize 4354 
+/NewSize 4454 
+/Line 8 
+/NewLine (%% fileversion 2.0)
+/OldLine (%% Status: maintained)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\linguex\\ps-trees.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\linguex\\ps-trees.sty)
+/OldSize 3628 
+/NewSize 3708 
+/Line 6 
+/NewLine (%% ps-trees.sty version 2 )
+/OldLine (%% ps-trees.sty version 2.0)
+>>
+<<
+/Type /Status 
+/Name (linguex)
+/Status /Updated 
+/Differences 3 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\linguex.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\linguex.bkz)
+/Name (linguex)
+/Size 6390 
+/CRC 1587072397 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\linguex.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\linguex.doc.bkz)
+/Name (linguex)
+/Size 274524 
+/CRC -882831573 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

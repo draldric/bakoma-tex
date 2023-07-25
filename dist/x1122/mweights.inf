@@ -1,0 +1,13 @@
+:mweights:x1122:0.01024:117021152:661:19A9-6F37:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mweights
+
+./tex/latex/mweights:
+mweights.sty

@@ -1,0 +1,13 @@
+:autonum:x1120:0.010777:116110580:3050:DDEA-507C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+autonum
+
+./tex/latex/autonum:
+autonum.sty

@@ -1,0 +1,14 @@
+:fonttable.doc:x1120:0.312969:116110580:310833:1ABC-AA72:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fonttable
+
+./doc/latex/fonttable:
+fonttable.pdf
+README

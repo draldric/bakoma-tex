@@ -1,0 +1,72 @@
+% Unpacking components of module [moreverb] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\moreverb.tds.zip)
+/Name (moreverb)
+/Size 126939 
+/CRC 1708562263 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\moreverb.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\moreverb.bkz)
+/Name (moreverb)
+/Size 1765 
+/CRC 2070582095 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\moreverb.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\moreverb\\moreverb.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\moreverb\\moreverb.sty)
+/OldSize 5829 
+/NewSize 5863 
+/Line 17 
+/NewLine (        [2008/06/03 v2.3)
+/OldLine (        [2008/06/03 v2.3a)
+>>
+<<
+/Type /Status 
+/Name (moreverb)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\moreverb.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\moreverb.bkz)
+/Name (moreverb)
+/Size 1771 
+/CRC 337426163 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\moreverb.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\moreverb.doc.bkz)
+/Name (moreverb)
+/Size 114645 
+/CRC -111548525 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\moreverb.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\moreverb.source.bkz)
+/Name (moreverb)
+/Size 6822 
+/CRC 1627761594 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

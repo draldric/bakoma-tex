@@ -1,0 +1,13 @@
+:tocloft:x1120:0.03475:116110580:5358:153E-4CBB:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tocloft
+
+./tex/latex/tocloft:
+tocloft.sty

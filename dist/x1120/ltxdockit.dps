@@ -1,0 +1,106 @@
+% Unpacking components of module [ltxdockit] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ltxdockit.tds.zip)
+/Name (ltxdockit)
+/Size 10183 
+/CRC -1956578970 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\ltxdockit.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\ltxdockit.bkz)
+/Name (ltxdockit)
+/Size 5293 
+/CRC 465609265 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\ltxdockit.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\ltxdockit\\btxdockit.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\ltxdockit\\btxdockit.sty)
+/OldSize 2257 
+/NewSize 2289 
+/Line 1 
+/NewLine (% $Id: btxdockit.sty,v 1.2 2009/05/24 19:10:45 lehman stable $)
+/OldLine (% $Id: btxdockit.sty,v 1.2d 2011/03/25 20:33:14 lehman stable $)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\ltxdockit\\ltxdockit.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\ltxdockit\\ltxdockit.cfg)
+/OldSize 2099 
+/NewSize 2649 
+/Line 1 
+/NewLine (% $Id: ltxdockit.cfg,v 1.2 2009/05/24 19:10:45 lehman stable $)
+/OldLine (% $Id: ltxdockit.cfg,v 1.2d 2011/03/25 20:33:14 lehman stable $)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\ltxdockit\\ltxdockit.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\ltxdockit\\ltxdockit.cls)
+/OldSize 3791 
+/NewSize 3948 
+/Line 1 
+/NewLine (% $Id: ltxdockit.cls,v 1.2 2009/05/24 19:10:45 lehman stable $)
+/OldLine (% $Id: ltxdockit.cls,v 1.2d 2011/03/25 20:33:14 lehman stable $)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\ltxdockit\\ltxdockit.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\ltxdockit\\ltxdockit.def)
+/OldSize 1051 
+/NewSize 1117 
+/Line 1 
+/NewLine (% $Id: ltxdockit.def,v 1.2 2009/05/24 19:10:45 lehman stable $)
+/OldLine (% $Id: ltxdockit.def,v 1.2d 2011/03/25 20:33:14 lehman stable $)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\ltxdockit\\ltxdockit.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\ltxdockit\\ltxdockit.sty)
+/OldSize 13554 
+/NewSize 15093 
+/Line 1 
+/NewLine (% $Id: ltxdockit.sty,v 1.2 2009/05/24 19:10:45 lehman stable $)
+/OldLine (% $Id: ltxdockit.sty,v 1.2d 2011/03/25 20:33:14 lehman stable $)
+>>
+<<
+/Type /Status 
+/Name (ltxdockit)
+/Status /Updated 
+/Differences 5 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ltxdockit.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ltxdockit.bkz)
+/Name (ltxdockit)
+/Size 5635 
+/CRC 1995243655 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ltxdockit.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ltxdockit.doc.bkz)
+/Name (ltxdockit)
+/Size 716 
+/CRC 237985401 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

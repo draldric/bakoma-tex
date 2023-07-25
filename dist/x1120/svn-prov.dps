@@ -1,0 +1,72 @@
+% Unpacking components of module [svn-prov] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\svn-prov.tds.zip)
+/Name (svn-prov)
+/Size 261363 
+/CRC 1915993982 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\svn-prov.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\svn-prov.bkz)
+/Name (svn-prov)
+/Size 1561 
+/CRC -160099921 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\svn-prov.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\svn-prov\\svn-prov.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\svn-prov\\svn-prov.sty)
+/OldSize 4625 
+/NewSize 6852 
+/Line 28 
+/NewLine (\\def\\svnprov@version{v1.\\rev})
+/OldLine (\\def\\svnprov@version{v3.\\rev})
+>>
+<<
+/Type /Status 
+/Name (svn-prov)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\svn-prov.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\svn-prov.bkz)
+/Name (svn-prov)
+/Size 1942 
+/CRC 1779472075 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\svn-prov.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\svn-prov.doc.bkz)
+/Name (svn-prov)
+/Size 241826 
+/CRC -22863427 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\svn-prov.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\svn-prov.source.bkz)
+/Name (svn-prov)
+/Size 9704 
+/CRC 1039101789 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

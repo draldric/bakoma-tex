@@ -1,0 +1,14 @@
+:datetime.source:x1131:0.21504:117041240:28621:A620-591F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+datetime
+
+./source/latex/datetime:
+datetime.dtx
+datetime.ins

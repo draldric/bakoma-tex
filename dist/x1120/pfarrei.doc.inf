@@ -1,0 +1,13 @@
+:pfarrei.doc:x1120:0.50029:116110580:501645:44FB-94CC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pfarrei
+
+./doc/latex/pfarrei:
+pfarrei.pdf

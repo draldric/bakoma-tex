@@ -1,0 +1,13 @@
+:hardwrap:x1120:0.00881:116110580:2198:A5E7-32FE:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hardwrap
+
+./tex/latex/hardwrap:
+hardwrap.sty

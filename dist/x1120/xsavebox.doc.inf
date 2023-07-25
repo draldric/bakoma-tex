@@ -1,0 +1,15 @@
+:xsavebox.doc:x1120:0.279692:116110580:278431:625C-4D1E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xsavebox
+
+./doc/latex/xsavebox:
+ChangeLog
+README
+xsavebox.pdf

@@ -1,0 +1,37 @@
+
+[2016/02/23] 
+
+Problem:
+-------
+
+When using Windows fonts (Times, Arial, Courier, etc.)
+some international glyhs are disappear in exported 
+PDF, PostScript, and eventually SVG.
+
+The problem may be appeared under Windows VISTA/7/8/10
+
+Reason:
+------
+
+The reason is that configuration for standard fonts
+has been generated under Windows XP.
+
+Solution:
+--------
+
+One solution is adding to BaKoMa TeX TrueType fonts from Windows XP.
+
+Step by Step:
+
+1) Copy TrueType from Windows XP (C:\Windows\Fonts)
+   to BaKoMa TeX (C:\BaKoMa TeX\LOCAL\fonts\truetype\WinXP)
+
+   NOTE: There is copy of fonts:
+         http://www.bakoma-tex.com/dist/x1110/fix/WinXPfonts.zip
+         Just unpack archive into 'C:\BaKoMa TeX\LOCAL' folder.
+
+2) Rebuild ls-R 
+   Options / Common Settings -> Directories, select $TEXMFLOCAL, click [(Re)Build ls-R] button.
+
+3) Clear 'C:\Users\<UserName>\AppData\Local\BaKoMa VAR\fonts' folder.
+

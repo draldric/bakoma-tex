@@ -1,0 +1,13 @@
+:edfnotes:x1120:0.04165:116110580:13616:F734-3519:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+edfnotes
+
+./tex/latex/edfnotes:
+edfnotes.sty

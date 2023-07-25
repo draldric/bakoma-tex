@@ -1,0 +1,14 @@
+:gincltex.doc:x1120:0.168684:116110580:168652:E975-9FD2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gincltex
+
+./doc/latex/gincltex:
+gincltex.pdf
+README

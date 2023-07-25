@@ -1,0 +1,83 @@
+% Unpacking components of module [endfloat] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\endfloat.tds.zip)
+/Name (endfloat)
+/Size 214248 
+/CRC -286904750 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\endfloat.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\endfloat.bkz)
+/Name (endfloat)
+/Size 3185 
+/CRC -390311628 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\endfloat.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\endfloat\\efxmpl.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\endfloat\\efxmpl.cfg)
+/OldSize 3781 
+/NewSize 2244 
+/Line 11 
+/NewLine (%% by Jeff Goldberg \(j.goldberg@Cranfield.ac.uk\), who is writting this)
+/OldLine (%% by Jeff Goldberg \(jeffrey@goldmark.org\), who is writting this)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\endfloat\\endfloat.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\endfloat\\endfloat.sty)
+/OldSize 9754 
+/NewSize 14849 
+/Line 11 
+/NewLine (%% by Jeff Goldberg \(j.goldberg@Cranfield.ac.uk\), who is writting this)
+/OldLine (%% by Jeff Goldberg \(jeffrey@goldmark.org\), who is writting this)
+>>
+<<
+/Type /Status 
+/Name (endfloat)
+/Status /Updated 
+/Differences 2 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\endfloat.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\endfloat.bkz)
+/Name (endfloat)
+/Size 4214 
+/CRC 2088086888 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\endfloat.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\endfloat.doc.bkz)
+/Name (endfloat)
+/Size 176749 
+/CRC 342200792 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\endfloat.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\endfloat.source.bkz)
+/Name (endfloat)
+/Size 27379 
+/CRC 918592378 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

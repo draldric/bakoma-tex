@@ -1,0 +1,14 @@
+:realscripts.doc:x1120:0.108705:116110580:104272:3EAB-F4B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+realscripts
+
+./doc/latex/realscripts:
+README.md
+realscripts.pdf

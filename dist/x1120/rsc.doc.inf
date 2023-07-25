@@ -1,0 +1,15 @@
+:rsc.doc:x1120:0.188622:116110580:187760:D288-E91C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+rsc
+
+./doc/latex/rsc:
+LICENSE.md
+README.md
+rsc.pdf

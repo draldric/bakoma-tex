@@ -1,0 +1,13 @@
+:nowidow:x1120:0.001823:116110580:825:5609-1F1F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nowidow
+
+./tex/latex/nowidow:
+nowidow.sty

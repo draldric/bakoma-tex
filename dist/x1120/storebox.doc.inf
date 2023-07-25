@@ -1,0 +1,14 @@
+:storebox.doc:x1120:0.196132:116110580:194814:C305-16F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+storebox
+
+./doc/latex/storebox:
+README
+storebox.pdf

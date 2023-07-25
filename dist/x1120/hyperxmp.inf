@@ -1,0 +1,13 @@
+:hyperxmp:x1120:0.031407:116110580:6543:CF20-1AA9:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+hyperxmp
+
+./tex/latex/hyperxmp:
+hyperxmp.sty

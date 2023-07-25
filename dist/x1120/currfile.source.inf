@@ -1,0 +1,14 @@
+:currfile.source:x1120:0.046348:116110580:11170:83EF-D826:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+currfile
+
+./source/latex/currfile:
+currfile.dtx
+currfile.ins

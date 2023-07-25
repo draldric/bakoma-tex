@@ -1,0 +1,48 @@
+% Unpacking components of module [autonum] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\autonum.tds.zip)
+/Name (autonum)
+/Size 423458 
+/CRC -321120133 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (autonum)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\autonum.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\autonum.bkz)
+/Name (autonum)
+/Size 3050 
+/CRC -571846532 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\autonum.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\autonum.doc.bkz)
+/Name (autonum)
+/Size 401769 
+/CRC -1937987637 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\autonum.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\autonum.source.bkz)
+/Name (autonum)
+/Size 16884 
+/CRC 1283859713 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

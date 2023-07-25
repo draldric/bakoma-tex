@@ -1,0 +1,13 @@
+:substitutefont:x1121:0.01024:117013040:1141:77DA-3BA6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+substitutefont
+
+./tex/latex/substitutefont:
+substitutefont.sty

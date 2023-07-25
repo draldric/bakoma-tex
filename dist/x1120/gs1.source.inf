@@ -1,0 +1,16 @@
+:gs1.source:x1120:0.040133:116110580:9351:362F-FA52:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+GS1
+
+./source/latex/GS1:
+GS1.dtx
+GS1.ins
+README
+rule-D.dtx

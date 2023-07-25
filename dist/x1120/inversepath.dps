@@ -1,0 +1,36 @@
+% Unpacking components of module [inversepath] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\inversepath.tds.zip)
+/Name (inversepath)
+/Size 81728 
+/CRC -549194 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\inversepath.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\inversepath.bkz)
+/Name (inversepath)
+/Size 1016 
+/CRC 2040494544 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\inversepath.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\inversepath\\inversepath.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\inversepath\\inversepath.sty)
+/OldSize 2539 
+/NewSize 2539 
+>>
+<<
+/Type /Status 
+/Name (inversepath)
+/Status /Same 
+>> % distribution already includes this version

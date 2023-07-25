@@ -1,0 +1,14 @@
+:kantlipsum.doc:x1120:0.430403:116110580:427357:E593-5E55:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+kantlipsum
+
+./doc/latex/kantlipsum:
+kantlipsum.pdf
+README

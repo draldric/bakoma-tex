@@ -1,0 +1,117 @@
+% Unpacking components of module [euenc] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\euenc.tds.zip)
+/Name (euenc)
+/Size 161776 
+/CRC 1470281232 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\euenc.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\euenc.bkz)
+/Name (euenc)
+/Size 1520 
+/CRC -995124288 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\euenc.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu1enc.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu1lmdh.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu1lmr.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu1lmss.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu1lmssq.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu1lmtt.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu1lmvtt.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu2enc.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu2lmdh.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu2lmr.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu2lmss.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu2lmssq.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu2lmtt.fd)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\euenc\\eu2lmvtt.fd)
+>>
+<<
+/Type /Status 
+/Name (euenc)
+/Status /Updated 
+/Differences 14 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\euenc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\euenc.bkz)
+/Name (euenc)
+/Size 2443 
+/CRC -1131444940 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\euenc.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\euenc.doc.bkz)
+/Name (euenc)
+/Size 145972 
+/CRC -1913968494 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\euenc.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\euenc.source.bkz)
+/Name (euenc)
+/Size 6602 
+/CRC -473449932 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

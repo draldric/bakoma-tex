@@ -1,0 +1,13 @@
+:feynmp-auto:x1120:0.003618:116110580:1492:D727-78C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+feynmp-auto
+
+./tex/latex/feynmp-auto:
+feynmp-auto.sty

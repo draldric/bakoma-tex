@@ -1,0 +1,14 @@
+:sympytexpackage.source:x1120:0.056342:116110580:16846:8BD-8FBA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sympytexpackage
+
+./source/latex/sympytexpackage:
+sympytexpackage.dtx
+sympytexpackage.ins

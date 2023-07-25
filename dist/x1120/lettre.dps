@@ -1,0 +1,73 @@
+% Unpacking components of module [lettre] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\lettre.tds.zip)
+/Name (lettre)
+/Size 526552 
+/CRC -824992494 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\lettre.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\lettre.bkz)
+/Name (lettre)
+/Size 10562 
+/CRC 396349457 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\lettre.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lettre\\default.ins)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lettre\\default.ins)
+/OldSize 1455 
+/NewSize 1905 
+/Line 1 
+/NewLine (% This file is part of the "lettre" package.)
+/OldLine (% file name   : `default.ins'.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\lettre\\lettre.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\lettre\\lettre.cls)
+/OldSize 48875 
+/NewSize 42886 
+/Line 1 
+/NewLine (%  %NAME%    : Lettre)
+/OldLine (% file name   : `lettre.cls'.)
+>>
+<<
+/Type /Status 
+/Name (lettre)
+/Status /Updated 
+/Differences 2 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\lettre.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\lettre.bkz)
+/Name (lettre)
+/Size 8956 
+/CRC -2076294448 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\lettre.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\lettre.doc.bkz)
+/Name (lettre)
+/Size 466418 
+/CRC -425852516 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,15 @@
+:nicefilelist.doc:x1120:0.651143:116110580:598760:6182-5EDD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+nicefilelist
+
+./doc/latex/nicefilelist:
+nicefilelist.pdf
+README
+SrcFILEs.txt

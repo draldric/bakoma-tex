@@ -1,0 +1,14 @@
+:combine.doc:x1120:0.469877:116110580:463493:1E20-BDC1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+combine
+
+./doc/latex/combine:
+combine.pdf
+README

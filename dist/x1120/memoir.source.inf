@@ -1,0 +1,16 @@
+:memoir.source:x1120:1.24963:116110580:230731:694B-60BA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+memoir
+
+./source/latex/memoir:
+memoir.dtx
+memoir.ins
+mempatch.dtx
+mempatch.ins

@@ -1,0 +1,15 @@
+:animate.doc:x1120:3.75512:116110580:3132697:6564-1EF7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+animate
+
+./doc/latex/animate:
+animate.pdf
+ChangeLog
+README

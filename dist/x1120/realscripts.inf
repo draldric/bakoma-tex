@@ -1,0 +1,13 @@
+:realscripts:x1120:0.00461:116110580:1369:DA20-7713:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+realscripts
+
+./tex/latex/realscripts:
+realscripts.sty

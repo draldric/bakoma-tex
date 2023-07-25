@@ -1,0 +1,44 @@
+% Unpacking components of module [mlist] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\mlist.tds.zip)
+/Name (mlist)
+/Size 209300 
+/CRC -1383162735 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\mlist.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\mlist.bkz)
+/Name (mlist)
+/Size 2586 
+/CRC -1057251707 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\mlist.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\mlist\\mlist.cfg)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\mlist\\mlist.cfg)
+/OldSize 1506 
+/NewSize 1506 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\mlist\\mlist.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\mlist\\mlist.sty)
+/OldSize 8499 
+/NewSize 8499 
+>>
+<<
+/Type /Status 
+/Name (mlist)
+/Status /Same 
+>> % distribution already includes this version

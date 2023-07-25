@@ -1,0 +1,48 @@
+% Unpacking components of module [mathastext] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\mathastext.tds.zip)
+/Name (mathastext)
+/Size 606571 
+/CRC -1862325912 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (mathastext)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\mathastext.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mathastext.bkz)
+/Name (mathastext)
+/Size 14030 
+/CRC 1792991269 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mathastext.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mathastext.doc.bkz)
+/Name (mathastext)
+/Size 488416 
+/CRC 5161519 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mathastext.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mathastext.source.bkz)
+/Name (mathastext)
+/Size 85031 
+/CRC 1647025690 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

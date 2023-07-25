@@ -1,0 +1,13 @@
+:newverbs:x1120:0.007173:116110580:1991:3D2-15B1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+newverbs
+
+./tex/latex/newverbs:
+newverbs.sty

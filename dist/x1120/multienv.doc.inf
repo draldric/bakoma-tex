@@ -1,0 +1,14 @@
+:multienv.doc:x1120:0.208912:116110580:209152:56E5-EB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+multienv
+
+./doc/latex/multienv:
+multienv.pdf
+README

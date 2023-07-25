@@ -1,0 +1,13 @@
+:rcs-multi:x1120:0.009377:116110580:2538:5B7D-9046:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+rcs-multi
+
+./tex/latex/rcs-multi:
+rcs-multi.sty

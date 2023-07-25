@@ -1,0 +1,16 @@
+:cv4tw.doc:x1120:0.127437:116110580:98408:6B99-9BF0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+cv4tw
+
+./doc/latex/cv4tw:
+README
+sample-jules-verne-compact.pdf
+sample-jules-verne-sharp.pdf
+sample-jules-verne-simple.pdf

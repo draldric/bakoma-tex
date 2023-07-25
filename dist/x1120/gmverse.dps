@@ -1,0 +1,36 @@
+% Unpacking components of module [gmverse] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\gmverse.tds.zip)
+/Name (gmverse)
+/Size 121304 
+/CRC -777715480 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\gmverse.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\gmverse.bkz)
+/Name (gmverse)
+/Size 10369 
+/CRC -1371065666 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\gmverse.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\gmverse\\gmverse.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\gmverse\\gmverse.sty)
+/OldSize 30345 
+/NewSize 30345 
+>>
+<<
+/Type /Status 
+/Name (gmverse)
+/Status /Same 
+>> % distribution already includes this version

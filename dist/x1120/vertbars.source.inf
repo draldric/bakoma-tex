@@ -1,0 +1,14 @@
+:vertbars.source:x1120:0.006009:116110580:2422:72AB-8D0F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+vertbars
+
+./source/latex/vertbars:
+vertbars.ins
+vertbars.tex

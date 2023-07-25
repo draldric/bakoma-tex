@@ -1,0 +1,15 @@
+:pagecolor.source:x1120:0.052526:116110580:11712:8FEC-1FFF:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pagecolor
+
+./source/latex/pagecolor:
+pagecolor.drv
+pagecolor.dtx
+pagecolor.ins

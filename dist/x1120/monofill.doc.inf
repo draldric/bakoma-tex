@@ -1,0 +1,16 @@
+:monofill.doc:x1120:0.327172:116110580:290311:BB93-712D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+monofill
+
+./doc/latex/monofill:
+Announce.txt
+monofill.pdf
+README
+SrcFILEs.txt

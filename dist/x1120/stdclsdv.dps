@@ -1,0 +1,36 @@
+% Unpacking components of module [stdclsdv] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\stdclsdv.tds.zip)
+/Name (stdclsdv)
+/Size 137721 
+/CRC -1418184504 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\stdclsdv.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\stdclsdv.bkz)
+/Name (stdclsdv)
+/Size 1058 
+/CRC 1431585735 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\stdclsdv.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\stdclsdv\\stdclsdv.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\stdclsdv\\stdclsdv.sty)
+/OldSize 3025 
+/NewSize 3025 
+>>
+<<
+/Type /Status 
+/Name (stdclsdv)
+/Status /Same 
+>> % distribution already includes this version

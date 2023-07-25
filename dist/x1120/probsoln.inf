@@ -1,0 +1,13 @@
+:probsoln:x1120:0.03073:116110580:6366:84EF-9D63:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+probsoln
+
+./tex/latex/probsoln:
+probsoln.sty

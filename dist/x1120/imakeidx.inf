@@ -1,0 +1,13 @@
+:imakeidx:x1120:0.013171:116110580:3562:7457-D451:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+imakeidx
+
+./tex/latex/imakeidx:
+imakeidx.sty

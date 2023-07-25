@@ -1,0 +1,13 @@
+:matlab-prettifier:x1120:0.015154:116110580:3744:FA2B-FAEC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+matlab-prettifier
+
+./tex/latex/matlab-prettifier:
+matlab-prettifier.sty

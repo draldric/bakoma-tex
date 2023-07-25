@@ -1,0 +1,16 @@
+:morefloats.doc:x1120:0.564057:116110580:556622:7769-4F85:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+morefloats
+
+./doc/latex/morefloats:
+morefloats-example.pdf
+morefloats-example.tex
+morefloats.pdf
+README

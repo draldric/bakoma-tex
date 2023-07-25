@@ -1,0 +1,13 @@
+:ydoc.source:x1120:0.078629:116110580:17236:9FB5-9A8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ydoc
+
+./source/latex/ydoc:
+ydoc.dtx

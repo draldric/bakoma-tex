@@ -1,0 +1,72 @@
+% Unpacking components of module [pgfopts] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\pgfopts.tds.zip)
+/Name (pgfopts)
+/Size 183200 
+/CRC -287549298 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1010\pgfopts.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1010\\pgfopts.bkz)
+/Name (pgfopts)
+/Size 1474 
+/CRC -451377409 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1010\pgfopts.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pgfopts\\pgfopts.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\pgfopts\\pgfopts.sty)
+/OldSize 5709 
+/NewSize 5540 
+/Line 9 
+/NewLine (%% achemso --- LaTeX package options with pgfkeys)
+/OldLine (%% pgfopts --- LaTeX package options with pgfkeys)
+>>
+<<
+/Type /Status 
+/Name (pgfopts)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\pgfopts.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pgfopts.bkz)
+/Name (pgfopts)
+/Size 1466 
+/CRC -292119749 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pgfopts.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pgfopts.doc.bkz)
+/Name (pgfopts)
+/Size 175695 
+/CRC -169401699 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pgfopts.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pgfopts.source.bkz)
+/Name (pgfopts)
+/Size 5753 
+/CRC 399567109 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

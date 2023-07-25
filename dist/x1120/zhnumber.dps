@@ -1,0 +1,48 @@
+% Unpacking components of module [zhnumber] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\zhnumber.tds.zip)
+/Name (zhnumber)
+/Size 312121 
+/CRC -1396283005 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (zhnumber)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\zhnumber.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\zhnumber.bkz)
+/Name (zhnumber)
+/Size 7378 
+/CRC 1405970504 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\zhnumber.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\zhnumber.doc.bkz)
+/Name (zhnumber)
+/Size 285562 
+/CRC -2117947013 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\zhnumber.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\zhnumber.source.bkz)
+/Name (zhnumber)
+/Size 13114 
+/CRC 1868246623 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

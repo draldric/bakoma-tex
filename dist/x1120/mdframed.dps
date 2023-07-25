@@ -1,0 +1,112 @@
+% Unpacking components of module [mdframed] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\mdframed.tds.zip)
+/Name (mdframed)
+/Size 1898068 
+/CRC 2115447072 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1042\mdframed.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1042\\mdframed.bkz)
+/Name (mdframed)
+/Size 20901 
+/CRC -809344757 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1042\mdframed.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\mdframed\\ltxmdf.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\mdframed\\ltxmdf.cls)
+/OldSize 16334 
+/NewSize 16334 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\mdframed\\md-frame-0.mdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\mdframed\\md-frame-0.mdf)
+/OldSize 25692 
+/NewSize 24831 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\mdframed\\md-frame-1.mdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\mdframed\\md-frame-1.mdf)
+/OldSize 25335 
+/NewSize 24632 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\mdframed\\md-frame-2.mdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\mdframed\\md-frame-2.mdf)
+/OldSize 41994 
+/NewSize 40993 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\mdframed\\md-frame-3.mdf)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\mdframed\\md-frame-3.mdf)
+/OldSize 41994 
+/NewSize 40993 
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\mdframed\\mdframed.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\mdframed\\mdframed.sty)
+/OldSize 54957 
+/NewSize 53487 
+/Line 32 
+/NewLine (%% =================================================)
+/OldLine (%% )
+>>
+<<
+/Type /Status 
+/Name (mdframed)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\mdframed.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mdframed.bkz)
+/Name (mdframed)
+/Size 20793 
+/CRC -1318160299 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mdframed.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mdframed.doc.bkz)
+/Name (mdframed)
+/Size 1397718 
+/CRC 1700364496 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\mdframed.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\mdframed.source.bkz)
+/Name (mdframed)
+/Size 41372 
+/CRC 746391204 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

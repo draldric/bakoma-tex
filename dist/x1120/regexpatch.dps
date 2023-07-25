@@ -1,0 +1,72 @@
+% Unpacking components of module [regexpatch] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\regexpatch.tds.zip)
+/Name (regexpatch)
+/Size 557399 
+/CRC -469425270 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1040\regexpatch.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1040\\regexpatch.bkz)
+/Name (regexpatch)
+/Size 3135 
+/CRC 500324987 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1040\regexpatch.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\regexpatch\\regexpatch.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\regexpatch\\regexpatch.sty)
+/OldSize 26351 
+/NewSize 26353 
+/Line 12 
+/NewLine (%% File: regexpatch.dtx \(C\) Copyright 2012-2013 Enrico Gregorio)
+/OldLine (%% File: regexpatch.dtx \(C\) Copyright 2012-2016 Enrico Gregorio)
+>>
+<<
+/Type /Status 
+/Name (regexpatch)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\regexpatch.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\regexpatch.bkz)
+/Name (regexpatch)
+/Size 3136 
+/CRC -142869826 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\regexpatch.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\regexpatch.doc.bkz)
+/Name (regexpatch)
+/Size 543215 
+/CRC 1634874360 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\regexpatch.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\regexpatch.source.bkz)
+/Name (regexpatch)
+/Size 12118 
+/CRC 1251620481 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

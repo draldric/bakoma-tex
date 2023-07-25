@@ -1,0 +1,15 @@
+:siunitx.doc:x1120:0.625719:116110580:610962:3CBF-138C:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+siunitx
+
+./doc/latex/siunitx:
+LICENSE.md
+README.md
+siunitx.pdf

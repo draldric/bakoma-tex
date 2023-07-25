@@ -1,0 +1,14 @@
+:currfile.doc:x1120:0.170746:116110580:170806:45A9-7B1D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+currfile
+
+./doc/latex/currfile:
+currfile.pdf
+README

@@ -1,0 +1,14 @@
+:ocgx:x1120:0.00612:116110580:1550:DCCF-EC89:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ocgx
+
+./tex/latex/ocgx:
+ocgx.sty
+tikzlibraryocgx.code.tex

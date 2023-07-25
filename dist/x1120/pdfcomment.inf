@@ -1,0 +1,13 @@
+:pdfcomment:x1120:0.095146:116110580:10545:9AD2-B037:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pdfcomment
+
+./tex/latex/pdfcomment:
+pdfcomment.sty

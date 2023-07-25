@@ -1,0 +1,14 @@
+:abc.source:x1120:0.028919:116110580:9361:21BA-C70B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+abc
+
+./source/latex/abc:
+abc.dtx
+abc.ins

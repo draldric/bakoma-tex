@@ -1,0 +1,15 @@
+:newtxtt.doc:x1121:0.09216:117013040:80037:9B44-95EC:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+newtxtt
+
+./doc/fonts/newtxtt:
+newtxtt-doc.pdf
+newtxtt-doc.tex
+README

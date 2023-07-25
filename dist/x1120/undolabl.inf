@@ -1,0 +1,13 @@
+:undolabl:x1120:0.005182:116110580:2003:F358-AB91:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+undolabl
+
+./tex/latex/undolabl:
+undolabl.sty

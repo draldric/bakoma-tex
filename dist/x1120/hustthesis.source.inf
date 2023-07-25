@@ -1,0 +1,14 @@
+:hustthesis.source:x1120:0.113467:116110580:24273:65D4-D7E7:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+hustthesis
+
+./source/latex/hustthesis:
+hustthesis.dtx
+hustthesis.ins

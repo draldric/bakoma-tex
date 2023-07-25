@@ -1,0 +1,38 @@
+% Unpacking components of module [cv4tw] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\cv4tw.tds.zip)
+/Name (cv4tw)
+/Size 124630 
+/CRC -1517652912 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (cv4tw)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\cv4tw.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\cv4tw.bkz)
+/Name (cv4tw)
+/Size 4599 
+/CRC -339918549 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\cv4tw.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\cv4tw.doc.bkz)
+/Name (cv4tw)
+/Size 98408 
+/CRC 1805229040 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

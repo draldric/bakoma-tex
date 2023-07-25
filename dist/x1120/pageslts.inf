@@ -1,0 +1,13 @@
+:pageslts:x1120:0.048295:116110580:9290:EF1D-B06D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pageslts
+
+./tex/latex/pageslts:
+pageslts.sty

@@ -1,0 +1,13 @@
+:csvsimple:x1120:0.024919:116110580:5043:2C81-85C3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+csvsimple
+
+./tex/latex/csvsimple:
+csvsimple.sty

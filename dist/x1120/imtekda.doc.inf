@@ -1,0 +1,17 @@
+:imtekda.doc:x1120:1.10879:116110580:856235:2902-7204:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+IMTEKda
+
+./doc/latex/IMTEKda:
+diplarb.bib
+diplarb.pdf
+diplarb.tex
+IMTEKda.pdf
+README

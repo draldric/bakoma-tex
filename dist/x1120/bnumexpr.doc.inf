@@ -1,0 +1,14 @@
+:bnumexpr.doc:x1120:0.080702:116110580:76958:4823-E00B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+bnumexpr
+
+./doc/latex/bnumexpr:
+bnumexpr.pdf
+README

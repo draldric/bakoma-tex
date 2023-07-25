@@ -1,0 +1,13 @@
+:incgraph:x1120:0.015707:116110580:3678:A087-762B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+incgraph
+
+./tex/latex/incgraph:
+incgraph.sty

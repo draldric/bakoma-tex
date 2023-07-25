@@ -1,0 +1,14 @@
+:nicefilelist:x1120:0.016242:116110580:5901:1C09-EF81:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+nicefilelist
+
+./tex/latex/nicefilelist:
+nicefilelist.RLS
+nicefilelist.sty

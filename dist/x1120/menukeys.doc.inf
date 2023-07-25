@@ -1,0 +1,14 @@
+:menukeys.doc:x1120:0.569153:116110580:565524:2C4C-3A0F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+menukeys
+
+./doc/latex/menukeys:
+menukeys.pdf
+README

@@ -1,0 +1,13 @@
+:imakeidx.source:x1120:0.068586:116110580:19904:3E21-556B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+imakeidx
+
+./source/latex/imakeidx:
+imakeidx.dtx

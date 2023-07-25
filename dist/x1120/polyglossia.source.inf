@@ -1,0 +1,13 @@
+:polyglossia.source:x1120:0.338103:116110580:71830:F88-1203:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+polyglossia
+
+./source/latex/polyglossia:
+polyglossia.dtx

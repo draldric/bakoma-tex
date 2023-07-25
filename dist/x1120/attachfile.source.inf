@@ -1,0 +1,14 @@
+:attachfile.source:x1120:0.074914:116110580:19727:EDA8-A8AB:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+attachfile
+
+./source/latex/attachfile:
+attachfile.dtx
+attachfile.ins

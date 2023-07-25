@@ -1,0 +1,13 @@
+:fancytabs:x1120:0.00331:116110580:1235:6F80-4482:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fancytabs
+
+./tex/latex/fancytabs:
+fancytabs.sty

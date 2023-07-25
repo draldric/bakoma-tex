@@ -1,0 +1,38 @@
+% Unpacking components of module [ucbthesis] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ucbthesis.tds.zip)
+/Name (ucbthesis)
+/Size 177850 
+/CRC 403111729 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (ucbthesis)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ucbthesis.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ucbthesis.bkz)
+/Name (ucbthesis)
+/Size 6921 
+/CRC 1576091817 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ucbthesis.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ucbthesis.doc.bkz)
+/Name (ucbthesis)
+/Size 167695 
+/CRC -1720038324 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,14 @@
+:xcjk2uni.doc:x1120:0.144251:116110580:138687:E780-76E1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xcjk2uni
+
+./doc/latex/xcjk2uni:
+README.md
+xCJK2uni.pdf

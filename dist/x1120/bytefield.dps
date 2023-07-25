@@ -1,0 +1,72 @@
+% Unpacking components of module [bytefield] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\bytefield.tds.zip)
+/Name (bytefield)
+/Size 817180 
+/CRC 480158220 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\bytefield.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\bytefield.bkz)
+/Name (bytefield)
+/Size 2454 
+/CRC -609398641 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\bytefield.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\bytefield\\bytefield.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\bytefield\\bytefield.sty)
+/OldSize 9872 
+/NewSize 17846 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2008 by Scott Pakin <scott+bf@pakin.org>)
+/OldLine (%% Copyright \(C\) 2015 by Scott Pakin <scott+bf@pakin.org>)
+>>
+<<
+/Type /Status 
+/Name (bytefield)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\bytefield.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\bytefield.bkz)
+/Name (bytefield)
+/Size 4069 
+/CRC -1217934339 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\bytefield.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\bytefield.doc.bkz)
+/Name (bytefield)
+/Size 776008 
+/CRC -220637333 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\bytefield.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\bytefield.source.bkz)
+/Name (bytefield)
+/Size 27026 
+/CRC 1207288063 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

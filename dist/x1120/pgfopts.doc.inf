@@ -1,0 +1,15 @@
+:pgfopts.doc:x1120:0.177106:116110580:175695:F5E7-229D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pgfopts
+
+./doc/latex/pgfopts:
+LICENSE
+pgfopts.pdf
+README

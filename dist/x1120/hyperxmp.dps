@@ -1,0 +1,72 @@
+% Unpacking components of module [hyperxmp] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\hyperxmp.tds.zip)
+/Name (hyperxmp)
+/Size 660669 
+/CRC -1126895580 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\hyperxmp.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\hyperxmp.bkz)
+/Name (hyperxmp)
+/Size 3443 
+/CRC -667538960 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\hyperxmp.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\hyperxmp\\hyperxmp.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\hyperxmp\\hyperxmp.sty)
+/OldSize 13935 
+/NewSize 31361 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2006 by Scott Pakin <scott+dtx@pakin.org>)
+/OldLine (%% Copyright \(C\) 2016 by Scott Pakin <scott+hyxmp@pakin.org>)
+>>
+<<
+/Type /Status 
+/Name (hyperxmp)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\hyperxmp.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hyperxmp.bkz)
+/Name (hyperxmp)
+/Size 6543 
+/CRC -819979607 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\hyperxmp.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hyperxmp.doc.bkz)
+/Name (hyperxmp)
+/Size 539789 
+/CRC -1435043532 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\hyperxmp.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\hyperxmp.source.bkz)
+/Name (hyperxmp)
+/Size 104608 
+/CRC 1479889680 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,14 @@
+:minibox.source:x1120:0.007799:116110580:2773:6A20-EB2B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+minibox
+
+./source/latex/minibox:
+minibox.ins
+minibox.tex

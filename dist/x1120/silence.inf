@@ -1,0 +1,13 @@
+:silence:x1120:0.017584:116110748:3063:7FD9-7BF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+silence
+
+./tex/latex/silence:
+silence.sty

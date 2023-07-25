@@ -1,0 +1,91 @@
+% Unpacking components of module [savetrees] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\savetrees.tds.zip)
+/Name (savetrees)
+/Size 531498 
+/CRC -130164914 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\savetrees.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\savetrees.bkz)
+/Name (savetrees)
+/Size 6581 
+/CRC 612918629 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\savetrees.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\savetrees\\savetrees.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\savetrees\\savetrees.bst)
+/OldSize 25952 
+/NewSize 25951 
+/Line 7 
+/NewLine (%% savetrees.dtx  \(with options: `bibstyle'\))
+/OldLine (%% savetrees.dtx  \(with options: `bstfile'\))
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\savetrees\\savetrees.bbx)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\savetrees\\savetrees.cbx)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\savetrees\\savetrees.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\savetrees\\savetrees.sty)
+/OldSize 5534 
+/NewSize 11210 
+/Line 11 
+/NewLine (%% Copyright \(C\) 2007 by Scott Pakin <scott+st@pakin.org>)
+/OldLine (%% Copyright \(C\) 2016 by Scott Pakin <scott+st@pakin.org>)
+>>
+<<
+/Type /Status 
+/Name (savetrees)
+/Status /Updated 
+/Differences 4 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\savetrees.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\savetrees.bkz)
+/Name (savetrees)
+/Size 7973 
+/CRC -442960384 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\savetrees.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\savetrees.doc.bkz)
+/Name (savetrees)
+/Size 489543 
+/CRC -1240766274 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\savetrees.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\savetrees.source.bkz)
+/Name (savetrees)
+/Size 25583 
+/CRC 2109841384 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

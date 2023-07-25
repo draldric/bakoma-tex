@@ -1,0 +1,13 @@
+:modroman:x1120:0.007376:116110580:1864:710F-6694:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+modroman
+
+./tex/latex/modroman:
+modroman.sty

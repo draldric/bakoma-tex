@@ -1,0 +1,14 @@
+:mwe.source:x1120:0.03858:116110580:6869:478C-1AE3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+mwe
+
+./source/latex/mwe:
+mwe.dtx
+mwe.ins

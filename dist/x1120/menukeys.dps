@@ -1,0 +1,48 @@
+% Unpacking components of module [menukeys] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\menukeys.tds.zip)
+/Name (menukeys)
+/Size 586877 
+/CRC 1850755677 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (menukeys)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\menukeys.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\menukeys.bkz)
+/Name (menukeys)
+/Size 5141 
+/CRC -228960643 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\menukeys.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\menukeys.doc.bkz)
+/Name (menukeys)
+/Size 565524 
+/CRC 743193103 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\menukeys.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\menukeys.source.bkz)
+/Name (menukeys)
+/Size 17018 
+/CRC -570205735 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

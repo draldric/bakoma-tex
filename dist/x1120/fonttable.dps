@@ -1,0 +1,72 @@
+% Unpacking components of module [fonttable] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\fonttable.tds.zip)
+/Name (fonttable)
+/Size 330711 
+/CRC 1713694461 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\fonttable.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\fonttable.bkz)
+/Name (fonttable)
+/Size 4965 
+/CRC 2136203008 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\fonttable.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\fonttable\\fonttable.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\fonttable\\fonttable.sty)
+/OldSize 13312 
+/NewSize 13724 
+/Line 24 
+/NewLine (\\ProvidesPackage{fonttable}[2009/09/22 v1.5d displays a font])
+/OldLine (\\ProvidesPackage{fonttable})
+>>
+<<
+/Type /Status 
+/Name (fonttable)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\fonttable.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fonttable.bkz)
+/Name (fonttable)
+/Size 5129 
+/CRC -406750984 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fonttable.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fonttable.doc.bkz)
+/Name (fonttable)
+/Size 310833 
+/CRC 448572018 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\fonttable.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\fonttable.source.bkz)
+/Name (fonttable)
+/Size 14033 
+/CRC -612230023 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

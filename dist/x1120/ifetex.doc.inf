@@ -1,0 +1,14 @@
+:ifetex.doc:x1120:0.131207:116110580:131135:238F-F718:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+ifetex
+
+./doc/latex/ifetex:
+ifetex.pdf
+README

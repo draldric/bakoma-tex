@@ -1,0 +1,13 @@
+:gmverb:x1120:0.046762:116110580:15894:BFA9-3E01:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gmverb
+
+./tex/latex/gmverb:
+gmverb.sty

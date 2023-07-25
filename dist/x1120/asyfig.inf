@@ -1,0 +1,15 @@
+:asyfig:x1120:0.008032:116110580:2669:8410-6601:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+asyfig
+
+./tex/latex/asyfig:
+asyalign.sty
+asyfig.sty
+asyprocess.sty

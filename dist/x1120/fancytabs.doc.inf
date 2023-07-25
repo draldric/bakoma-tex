@@ -1,0 +1,14 @@
+:fancytabs.doc:x1120:0.184479:116110580:184354:A50F-FB97:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+fancytabs
+
+./doc/latex/fancytabs:
+fancytabs.pdf
+README

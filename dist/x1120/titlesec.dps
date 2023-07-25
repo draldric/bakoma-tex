@@ -1,0 +1,176 @@
+% Unpacking components of module [titlesec] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\titlesec.tds.zip)
+/Name (titlesec)
+/Size 384642 
+/CRC -370784254 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\titlesec.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\titlesec.bkz)
+/Name (titlesec)
+/Size 20895 
+/CRC 1840491550 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\titlesec.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\block.tss)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titlesec\\block.tss)
+/OldSize 1407 
+/NewSize 1410 
+/Line 5 
+/NewLine (% Copyright \(c\) 1998-2007 by Javier Bezos.)
+/OldLine (% Copyright \(c\) 1998-2016 by Javier Bezos.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\drop.tss)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titlesec\\drop.tss)
+/OldSize 2028 
+/NewSize 1995 
+/Line 5 
+/NewLine (% Copyright \(c\) 1998-2007 by Javier Bezos.)
+/OldLine (% Copyright \(c\) 1998-2016 by Javier Bezos.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\frame.tss)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titlesec\\frame.tss)
+/OldSize 2222 
+/NewSize 2225 
+/Line 5 
+/NewLine (% Copyright \(c\) 1998-2007 by Javier Bezos.)
+/OldLine (% Copyright \(c\) 1998-2016 by Javier Bezos.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\leftmargin.tss)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titlesec\\leftmargin.tss)
+/OldSize 1814 
+/NewSize 1817 
+/Line 5 
+/NewLine (% Copyright \(c\) 1998-2007 by Javier Bezos.)
+/OldLine (% Copyright \(c\) 1998-2016 by Javier Bezos.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\margin.tss)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titlesec\\margin.tss)
+/OldSize 1800 
+/NewSize 1802 
+/Line 5 
+/NewLine (% Copyright \(c\) 1998-2007 by Javier Bezos.)
+/OldLine (% Copyright \(c\) 1998-2016 by Javier Bezos.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\rightmargin.tss)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titlesec\\rightmargin.tss)
+/OldSize 1824 
+/NewSize 1827 
+/Line 5 
+/NewLine (% Copyright \(c\) 1998-2007 by Javier Bezos.)
+/OldLine (% Copyright \(c\) 1998-2016 by Javier Bezos.)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\titleps.sty)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\titlesec.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titlesec\\titlesec.sty)
+/OldSize 46098 
+/NewSize 37387 
+/Line 5 
+/NewLine (% Copyright \(c\) 1998-2007 by Javier Bezos.)
+/OldLine (% Copyright \(c\) 1998-2016 by Javier Bezos.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\titletoc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titlesec\\titletoc.sty)
+/OldSize 18358 
+/NewSize 18361 
+/Line 5 
+/NewLine (% Copyright \(c\) 1998-2007 by Javier Bezos.)
+/OldLine (% Copyright \(c\) 1998-2016 by Javier Bezos.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\ttlkeys.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titlesec\\ttlkeys.def)
+/OldSize 3473 
+/NewSize 3476 
+/Line 5 
+/NewLine (% Copyright \(c\) 1998-2007 by Javier Bezos.)
+/OldLine (% Copyright \(c\) 1998-2016 by Javier Bezos.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\ttlps.def)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titlesec\\ttlps.def)
+/OldSize 15615 
+/NewSize 21990 
+/Line 5 
+/NewLine (% Copyright \(c\) 1998-2007 by Javier Bezos.)
+/OldLine (% Copyright \(c\) 1998-2016 by Javier Bezos.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titlesec\\wrap.tss)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titlesec\\wrap.tss)
+/OldSize 2693 
+/NewSize 2737 
+/Line 5 
+/NewLine (% Copyright \(c\) 1998-2007 by Javier Bezos.)
+/OldLine (% Copyright \(c\) 1998-2016 by Javier Bezos.)
+>>
+<<
+/Type /Status 
+/Name (titlesec)
+/Status /Updated 
+/Differences 12 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\titlesec.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\titlesec.bkz)
+/Name (titlesec)
+/Size 20148 
+/CRC -1203456909 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\titlesec.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\titlesec.doc.bkz)
+/Name (titlesec)
+/Size 347312 
+/CRC 1104095793 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

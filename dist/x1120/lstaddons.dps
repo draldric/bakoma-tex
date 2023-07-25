@@ -1,0 +1,48 @@
+% Unpacking components of module [lstaddons] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\lstaddons.tds.zip)
+/Name (lstaddons)
+/Size 406018 
+/CRC -1801443404 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (lstaddons)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\lstaddons.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\lstaddons.bkz)
+/Name (lstaddons)
+/Size 1730 
+/CRC -1197560479 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\lstaddons.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\lstaddons.doc.bkz)
+/Name (lstaddons)
+/Size 366532 
+/CRC 1488982543 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\lstaddons.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\lstaddons.source.bkz)
+/Name (lstaddons)
+/Size 5294 
+/CRC 1283573935 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

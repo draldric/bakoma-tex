@@ -1,0 +1,13 @@
+:collcell.doc:x1120:0.274597:116110580:221299:4785-E4C3:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+collcell
+
+./doc/latex/collcell:
+collcell.pdf

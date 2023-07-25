@@ -1,0 +1,13 @@
+:uri:x1120:0.006898:116110580:2034:B6CD-8DD7:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+uri
+
+./tex/latex/uri:
+uri.sty

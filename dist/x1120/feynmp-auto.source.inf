@@ -1,0 +1,14 @@
+:feynmp-auto.source:x1120:0.013918:116110580:4514:3BEF-66DA:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+feynmp-auto
+
+./source/latex/feynmp-auto:
+feynmp-auto.dtx
+feynmp-auto.ins

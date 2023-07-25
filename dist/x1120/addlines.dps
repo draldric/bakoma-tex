@@ -1,0 +1,72 @@
+% Unpacking components of module [addlines] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\addlines.tds.zip)
+/Name (addlines)
+/Size 145260 
+/CRC 1496878888 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\addlines.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\addlines.bkz)
+/Name (addlines)
+/Size 898 
+/CRC -436705694 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\addlines.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\addlines\\addlines.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\addlines\\addlines.sty)
+/OldSize 1833 
+/NewSize 1829 
+/Line 15 
+/NewLine (  [2008/08/16 v0.2 Add/remove lines from a page])
+/OldLine (  [2015/07/08 v0.2a Add/remove lines from a page])
+>>
+<<
+/Type /Status 
+/Name (addlines)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\addlines.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\addlines.bkz)
+/Name (addlines)
+/Size 896 
+/CRC 1470004129 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\addlines.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\addlines.doc.bkz)
+/Name (addlines)
+/Size 138753 
+/CRC 1683857258 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\addlines.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\addlines.source.bkz)
+/Name (addlines)
+/Size 4076 
+/CRC 439957450 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

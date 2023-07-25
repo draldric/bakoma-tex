@@ -1,0 +1,15 @@
+:fileinfo:x1120:0.019182:116110580:6397:419-B081:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+fileinfo
+
+./tex/latex/fileinfo:
+fileinfo.RLS
+myfilist.sty
+readprov.sty

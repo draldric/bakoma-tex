@@ -1,0 +1,48 @@
+% Unpacking components of module [gincltex] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\gincltex.tds.zip)
+/Name (gincltex)
+/Size 175901 
+/CRC -545541601 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (gincltex)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\gincltex.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gincltex.bkz)
+/Name (gincltex)
+/Size 1330 
+/CRC 1524354624 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\gincltex.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gincltex.doc.bkz)
+/Name (gincltex)
+/Size 168652 
+/CRC -378167342 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\gincltex.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\gincltex.source.bkz)
+/Name (gincltex)
+/Size 4886 
+/CRC -1873768926 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

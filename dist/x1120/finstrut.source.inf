@@ -1,0 +1,15 @@
+:finstrut.source:x1120:0.005601:116110580:2444:A386-796C:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+finstrut
+
+./source/latex/finstrut:
+finstrut.tex
+fstrutst.tex
+srcfiles.tex

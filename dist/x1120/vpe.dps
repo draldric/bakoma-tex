@@ -1,0 +1,73 @@
+% Unpacking components of module [vpe] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\vpe.tds.zip)
+/Name (vpe)
+/Size 16307 
+/CRC -378861259 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\vpe.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\vpe.bkz)
+/Name (vpe)
+/Size 7440 
+/CRC 933446682 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\vpe.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\scripts\\vpe\\vpe.pl)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\scripts\\vpe\\vpe.pl)
+/OldSize 9479 
+/NewSize 9698 
+/Line 7 
+/NewLine (# Copyright \(C\) 2000 Heiko Oberdiek.)
+/OldLine (# Copyright \(C\) 2000, 2012 Heiko Oberdiek.)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\vpe\\vpe.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\vpe\\vpe.sty)
+/OldSize 18949 
+/NewSize 18986 
+/Line 3 
+/NewLine (% Version:     2000/09/15 v0.1)
+/OldLine (% Version:     2012/04/18 v0.2)
+>>
+<<
+/Type /Status 
+/Name (vpe)
+/Status /Updated 
+/Differences 2 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\vpe.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\vpe.bkz)
+/Name (vpe)
+/Size 7512 
+/CRC -713909521 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\vpe.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\vpe.doc.bkz)
+/Name (vpe)
+/Size 6478 
+/CRC 1422879334 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

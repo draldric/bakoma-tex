@@ -1,0 +1,14 @@
+:datetime2:x1120:0.062293:116110580:7851:D35A-421C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+datetime2
+
+./tex/latex/datetime2:
+datetime2-calc.sty
+datetime2.sty

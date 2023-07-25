@@ -1,0 +1,36 @@
+% Unpacking components of module [titling] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\titling.tds.zip)
+/Name (titling)
+/Size 196291 
+/CRC 2115820516 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\titling.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\titling.bkz)
+/Name (titling)
+/Size 2039 
+/CRC -1187929762 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\titling.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\titling\\titling.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\titling\\titling.sty)
+/OldSize 7358 
+/NewSize 7358 
+>>
+<<
+/Type /Status 
+/Name (titling)
+/Status /Same 
+>> % distribution already includes this version

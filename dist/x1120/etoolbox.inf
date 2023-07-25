@@ -1,0 +1,14 @@
+:etoolbox:x1120:0.044018:116110580:7406:6BEB-EC2D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+etoolbox
+
+./tex/latex/etoolbox:
+etoolbox.def
+etoolbox.sty

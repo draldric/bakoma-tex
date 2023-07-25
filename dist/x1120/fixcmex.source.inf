@@ -1,0 +1,14 @@
+:fixcmex.source:x1120:0.007086:116110580:2560:638A-F711:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+fixcmex
+
+./source/latex/fixcmex:
+fixcmex.dtx
+fixcmex.ins

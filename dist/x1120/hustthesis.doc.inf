@@ -1,0 +1,17 @@
+:hustthesis.doc:x1120:0.896915:116110580:757878:5BFA-37E8:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+hustthesis
+
+./doc/latex/hustthesis:
+fig-example.pdf
+hustthesis-en-example.pdf
+hustthesis-zh-example.pdf
+hustthesis.pdf
+README.md

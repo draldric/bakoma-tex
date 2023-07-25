@@ -1,0 +1,14 @@
+:silence.doc:x1120:0.467905:116110748:468895:4187-2BC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+silence
+
+./doc/latex/silence:
+README
+silence-doc.pdf

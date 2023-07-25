@@ -1,0 +1,72 @@
+% Unpacking components of module [needspace] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\needspace.tds.zip)
+/Name (needspace)
+/Size 161671 
+/CRC 1526579514 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\needspace.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\needspace.bkz)
+/Name (needspace)
+/Size 1194 
+/CRC -723339896 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\needspace.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\needspace\\needspace.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\needspace\\needspace.sty)
+/OldSize 2581 
+/NewSize 852 
+/Line 1 
+/NewLine (% needspace.sty)
+/OldLine ()
+>>
+<<
+/Type /Status 
+/Name (needspace)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\needspace.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\needspace.bkz)
+/Name (needspace)
+/Size 385 
+/CRC -670198964 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\needspace.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\needspace.doc.bkz)
+/Name (needspace)
+/Size 158690 
+/CRC -309974565 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\needspace.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\needspace.source.bkz)
+/Name (needspace)
+/Size 1857 
+/CRC -341522598 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

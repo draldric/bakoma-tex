@@ -1,0 +1,13 @@
+:xtab:x1120:0.020144:116110580:4273:CC8F-714C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xtab
+
+./tex/latex/xtab:
+xtab.sty

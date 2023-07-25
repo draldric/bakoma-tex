@@ -1,0 +1,15 @@
+:tqft.doc:x1120:0.468166:116110580:437507:9C42-83F1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+tqft
+
+./doc/latex/tqft:
+README
+tqft_doc.pdf
+tqft_doc.tex

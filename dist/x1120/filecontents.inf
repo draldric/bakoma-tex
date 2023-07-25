@@ -1,0 +1,13 @@
+:filecontents:x1120:0.003105:116110580:1256:C751-B12F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+filecontents
+
+./tex/latex/filecontents:
+filecontents.sty

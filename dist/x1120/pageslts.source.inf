@@ -1,0 +1,15 @@
+:pageslts.source:x1120:0.225219:116110580:40695:7676-66DD:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pageslts
+
+./source/latex/pageslts:
+pageslts.drv
+pageslts.dtx
+pageslts.ins

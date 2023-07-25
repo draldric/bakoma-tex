@@ -1,0 +1,16 @@
+:adjustbox.doc:x1120:0.764929:116110580:749848:33E6-4908:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+adjustbox
+
+./doc/latex/adjustbox:
+adjcalc.pdf
+adjustbox.pdf
+README
+trimclip.pdf

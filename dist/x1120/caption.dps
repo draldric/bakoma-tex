@@ -1,0 +1,142 @@
+% Unpacking components of module [caption] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\caption.tds.zip)
+/Name (caption)
+/Size 2168627 
+/CRC 1680244655 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1000\caption.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1000\\caption.bkz)
+/Name (caption)
+/Size 29849 
+/CRC 145075910 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1000\caption.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\caption\\bicaption.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\caption\\bicaption.sty)
+/OldSize 8012 
+/NewSize 9292 
+/Line 9 
+/NewLine (%% Copyright \(C\) 1994-2012 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+/OldLine (%% Copyright \(C\) 1994-2016 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\caption\\caption.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\caption\\caption.sty)
+/OldSize 64617 
+/NewSize 66233 
+/Line 9 
+/NewLine (%% Copyright \(C\) 1994-2012 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+/OldLine (%% Copyright \(C\) 1994-2016 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\caption\\caption2.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\caption\\caption2.sty)
+/OldSize 16352 
+/NewSize 16688 
+/Line 9 
+/NewLine (%% Copyright \(C\) 1994-2012 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+/OldLine (%% Copyright \(C\) 1994-2013 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\caption\\caption3.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\caption\\caption3.sty)
+/OldSize 59928 
+/NewSize 64866 
+/Line 9 
+/NewLine (%% Copyright \(C\) 1994-2012 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+/OldLine (%% Copyright \(C\) 1994-2016 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\caption\\ltcaption.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\caption\\ltcaption.sty)
+/OldSize 6462 
+/NewSize 7257 
+/Line 9 
+/NewLine (%% Copyright \(C\) 1994-2012 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+/OldLine (%% Copyright \(C\) 1994-2013 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\caption\\newfloat.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\caption\\newfloat.sty)
+/OldSize 21414 
+/NewSize 24165 
+/Line 9 
+/NewLine (%% Copyright \(C\) 1994-2012 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+/OldLine (%% Copyright \(C\) 1994-2015 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\caption\\subcaption.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\caption\\subcaption.sty)
+/OldSize 4225 
+/NewSize 5038 
+/Line 9 
+/NewLine (%% Copyright \(C\) 1994-2012 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+/OldLine (%% Copyright \(C\) 1994-2016 Axel Sommerfeldt \(axel.sommerfeldt@f-m.fm\))
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\caption\\totalcount.sty)
+>>
+<<
+/Type /Status 
+/Name (caption)
+/Status /Updated 
+/Differences 8 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\caption.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\caption.bkz)
+/Name (caption)
+/Size 32045 
+/CRC 779964776 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\caption.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\caption.doc.bkz)
+/Name (caption)
+/Size 1679173 
+/CRC -1809437618 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\caption.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\caption.source.bkz)
+/Name (caption)
+/Size 197077 
+/CRC -1479473423 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

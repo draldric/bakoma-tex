@@ -1,0 +1,31 @@
+This fix (2017/02/10) is based on code base of V 11.22,
+which fix TeX error messages 
+
+! Text line contains an invalid character.
+
+whose are appeared when use \usepackage[russian]{babel} with enabled TCX
+
+This pack includes BaKoMa\ProcSet\MakeTCX.pro
+
+It should work with any version.
+But, it is reasonable with version 10.50 and later (when babel was updated).
+
+------------------------------------------------------------------------------
+To apply the fix just unpack 
+http://www.bakoma-tex.com/dist/x1122/fix/tcx-fix170210.zip
+in BaKoMa TeX folder. 
+
+Check that the file "BaKoMa\ProcSet\MakeTCX.pro" have been replaced. 
+
+Then remove all already generated TCX files in the folder:
+
+C:\Users\$USERNAME\AppData\Local\BaKoMa VAR\web2c
+------------------------------------------------------------------------------
+
+NOTE: This fix will be included into version 11.23
+
+NOTE: This fix do not change created documents. It only removes messages.
+
+
+
+

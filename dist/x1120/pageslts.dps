@@ -1,0 +1,48 @@
+% Unpacking components of module [pageslts] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\pageslts.tds.zip)
+/Name (pageslts)
+/Size 991192 
+/CRC 233206605 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (pageslts)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\pageslts.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pageslts.bkz)
+/Name (pageslts)
+/Size 9290 
+/CRC -283266963 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pageslts.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pageslts.doc.bkz)
+/Name (pageslts)
+/Size 933285 
+/CRC 197159362 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pageslts.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pageslts.source.bkz)
+/Name (pageslts)
+/Size 40695 
+/CRC 1987471069 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

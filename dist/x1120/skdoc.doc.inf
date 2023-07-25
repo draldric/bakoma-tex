@@ -1,0 +1,14 @@
+:skdoc.doc:x1120:0.23366:116110580:231720:207D-FA1B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+skdoc
+
+./doc/latex/skdoc:
+README
+skdoc.pdf

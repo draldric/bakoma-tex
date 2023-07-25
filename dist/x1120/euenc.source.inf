@@ -1,0 +1,14 @@
+:euenc.source:x1120:0.021758:116110580:6602:E3C7-BA34:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+euenc
+
+./source/latex/euenc:
+euenc.dtx
+Makefile

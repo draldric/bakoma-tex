@@ -1,0 +1,14 @@
+:probsoln.source:x1120:0.131039:116110580:24908:FB1D-3164:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+probsoln
+
+./source/latex/probsoln:
+probsoln.dtx
+probsoln.ins

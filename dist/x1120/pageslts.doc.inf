@@ -1,0 +1,16 @@
+:pageslts.doc:x1120:0.993284:116110580:933285:BC0-69C2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pageslts
+
+./doc/latex/pageslts:
+pageslts-example.pdf
+pageslts-example.tex
+pageslts.pdf
+README

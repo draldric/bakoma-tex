@@ -1,0 +1,13 @@
+:autobreak:x1120:0.007026:116110580:1926:8705-A28E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+autobreak
+
+./tex/latex/autobreak:
+autobreak.sty

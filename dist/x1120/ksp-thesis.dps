@@ -1,0 +1,38 @@
+% Unpacking components of module [ksp-thesis] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ksp-thesis.tds.zip)
+/Name (ksp-thesis)
+/Size 171418 
+/CRC 117308607 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (ksp-thesis)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ksp-thesis.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ksp-thesis.bkz)
+/Name (ksp-thesis)
+/Size 3794 
+/CRC 1079395224 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ksp-thesis.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ksp-thesis.doc.bkz)
+/Name (ksp-thesis)
+/Size 146018 
+/CRC 1549030878 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

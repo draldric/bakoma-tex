@@ -1,0 +1,13 @@
+:skdoc:x1120:0.049771:116110580:9173:4D23-C8B3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+skdoc
+
+./tex/latex/skdoc:
+skdoc.cls

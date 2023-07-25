@@ -1,0 +1,17 @@
+:nonumonpart.doc:x1120:0.850162:116110580:784195:6F42-2F49:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+nonumonpart
+
+./doc/latex/nonumonpart:
+LISEZMOI
+nonumonpart-en.pdf
+nonumonpart-fr.pdf
+nonumonpart.pdf
+README

@@ -1,0 +1,14 @@
+:menukeys.source:x1120:0.077131:116110580:17018:DE03-59D9:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+menukeys
+
+./source/latex/menukeys:
+menukeys.dtx
+menukeys.ins

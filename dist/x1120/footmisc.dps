@@ -1,0 +1,72 @@
+% Unpacking components of module [footmisc] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\footmisc.tds.zip)
+/Name (footmisc)
+/Size 351067 
+/CRC -1525978962 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\footmisc.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\footmisc.bkz)
+/Name (footmisc)
+/Size 5146 
+/CRC -1158155098 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\footmisc.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\footmisc\\footmisc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\footmisc\\footmisc.sty)
+/OldSize 25774 
+/NewSize 25776 
+/Line 27 
+/NewLine (        [2009/09/15 v5.5a)
+/OldLine (        [2011/06/06 v5.5b)
+>>
+<<
+/Type /Status 
+/Name (footmisc)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\footmisc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\footmisc.bkz)
+/Name (footmisc)
+/Size 5141 
+/CRC 1864476588 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\footmisc.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\footmisc.doc.bkz)
+/Name (footmisc)
+/Size 325500 
+/CRC 1619222512 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\footmisc.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\footmisc.source.bkz)
+/Name (footmisc)
+/Size 19513 
+/CRC -319105288 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

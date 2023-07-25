@@ -1,0 +1,15 @@
+:addlines.doc:x1120:0.139897:116110580:138753:645D-9F6A:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+addlines
+
+./doc/latex/addlines:
+addlines-example.ltx
+addlines.pdf
+README

@@ -1,0 +1,13 @@
+:mattens:x1120:0.009839:116110580:2405:C543-3925:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+mattens
+
+./tex/latex/mattens:
+mattens.sty

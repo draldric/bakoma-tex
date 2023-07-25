@@ -1,0 +1,36 @@
+% Unpacking components of module [enumitem] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\enumitem.tds.zip)
+/Name (enumitem)
+/Size 425074 
+/CRC 584390498 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\x1021\enumitem.bkz]
+<<
+/Type /BKZ 
+/File (.\\x1021\\enumitem.bkz)
+/Name (enumitem)
+/Size 10865 
+/CRC 1487447646 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\x1021\enumitem.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\enumitem\\enumitem.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\enumitem\\enumitem.sty)
+/OldSize 42666 
+/NewSize 42666 
+>>
+<<
+/Type /Status 
+/Name (enumitem)
+/Status /Same 
+>> % distribution already includes this version

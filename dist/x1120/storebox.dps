@@ -1,0 +1,48 @@
+% Unpacking components of module [storebox] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\storebox.tds.zip)
+/Name (storebox)
+/Size 204538 
+/CRC 295614764 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (storebox)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\storebox.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\storebox.bkz)
+/Name (storebox)
+/Size 2435 
+/CRC 1708908716 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\storebox.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\storebox.doc.bkz)
+/Name (storebox)
+/Size 194814 
+/CRC -1023082129 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\storebox.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\storebox.source.bkz)
+/Name (storebox)
+/Size 5966 
+/CRC 1576752654 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

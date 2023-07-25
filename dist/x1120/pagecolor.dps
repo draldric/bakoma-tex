@@ -1,0 +1,48 @@
+% Unpacking components of module [pagecolor] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\pagecolor.tds.zip)
+/Name (pagecolor)
+/Size 424255 
+/CRC -126116261 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (pagecolor)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\pagecolor.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pagecolor.bkz)
+/Name (pagecolor)
+/Size 2705 
+/CRC -1310799311 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pagecolor.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pagecolor.doc.bkz)
+/Name (pagecolor)
+/Size 406917 
+/CRC 1249630522 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pagecolor.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pagecolor.source.bkz)
+/Name (pagecolor)
+/Size 11712 
+/CRC -1880350721 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

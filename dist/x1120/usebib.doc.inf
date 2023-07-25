@@ -1,0 +1,14 @@
+:usebib.doc:x1120:0.255686:116110580:254943:D152-7E95:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+usebib
+
+./doc/latex/usebib:
+README
+usebib.pdf

@@ -1,0 +1,44 @@
+% Unpacking components of module [changepage] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\changepage.tds.zip)
+/Name (changepage)
+/Size 291969 
+/CRC 1856199230 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\changepage.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\changepage.bkz)
+/Name (changepage)
+/Size 2062 
+/CRC -1616675977 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\changepage.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\changepage\\changepage.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\changepage\\changepage.sty)
+/OldSize 4523 
+/NewSize 4523 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\changepage\\chngpage.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\changepage\\chngpage.sty)
+/OldSize 4325 
+/NewSize 4325 
+>>
+<<
+/Type /Status 
+/Name (changepage)
+/Status /Same 
+>> % distribution already includes this version

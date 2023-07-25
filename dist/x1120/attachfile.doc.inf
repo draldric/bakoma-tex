@@ -1,0 +1,14 @@
+:attachfile.doc:x1120:0.36309:116110580:347129:F0CA-2CFA:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+attachfile
+
+./doc/latex/attachfile:
+attachfile.pdf
+README

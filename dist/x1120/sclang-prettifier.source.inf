@@ -1,0 +1,14 @@
+:sclang-prettifier.source:x1120:0.029975:116110580:9014:F7FB-45CC:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+sclang-prettifier
+
+./source/latex/sclang-prettifier:
+sclang-prettifier.dtx
+sclang-prettifier.ins

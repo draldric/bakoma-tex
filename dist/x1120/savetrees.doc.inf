@@ -1,0 +1,15 @@
+:savetrees.doc:x1120:0.529723:116110580:489543:B60B-68BE:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+savetrees
+
+./doc/latex/savetrees:
+README
+savetrees.pdf
+st-sample2e.pdf

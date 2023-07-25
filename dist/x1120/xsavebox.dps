@@ -1,0 +1,48 @@
+% Unpacking components of module [xsavebox] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\xsavebox.tds.zip)
+/Name (xsavebox)
+/Size 285799 
+/CRC -593460844 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (xsavebox)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\xsavebox.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xsavebox.bkz)
+/Name (xsavebox)
+/Size 2303 
+/CRC -317144477 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xsavebox.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xsavebox.doc.bkz)
+/Name (xsavebox)
+/Size 278431 
+/CRC 1650216222 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\xsavebox.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\xsavebox.source.bkz)
+/Name (xsavebox)
+/Size 4562 
+/CRC -1455023491 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

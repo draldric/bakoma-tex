@@ -1,0 +1,14 @@
+:inputtrc:x1120:0.005758:116110580:2271:E21-8235:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+inputtrc
+
+./tex/latex/inputtrc:
+inputtrc.RLS
+inputtrc.sty

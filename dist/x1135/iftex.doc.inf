@@ -1,0 +1,15 @@
+:iftex.doc:x1135:0.04096:117053072:30971:93F2-7714:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+iftex
+
+./doc/generic/iftex:
+iftex.pdf
+iftex.tex
+README

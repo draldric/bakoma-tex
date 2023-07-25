@@ -1,0 +1,48 @@
+% Unpacking components of module [jsclasses] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\jsclasses.tds.zip)
+/Name (jsclasses)
+/Size 1001697 
+/CRC 380635987 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (jsclasses)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\jsclasses.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\jsclasses.bkz)
+/Name (jsclasses)
+/Size 20506 
+/CRC -1531323757 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\jsclasses.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\jsclasses.doc.bkz)
+/Name (jsclasses)
+/Size 863858 
+/CRC 1307635102 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\jsclasses.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\jsclasses.source.bkz)
+/Name (jsclasses)
+/Size 51186 
+/CRC 499377371 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

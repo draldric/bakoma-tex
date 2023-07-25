@@ -1,0 +1,14 @@
+:sclang-prettifier.doc:x1120:0.513661:116110580:515747:6DE-D6AC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sclang-prettifier
+
+./doc/latex/sclang-prettifier:
+README
+sclang-prettifier.pdf

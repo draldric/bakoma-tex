@@ -1,0 +1,120 @@
+% Unpacking components of module [dlfltxb] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\dlfltxb.tds.zip)
+/Name (dlfltxb)
+/Size 740954 
+/CRC -1011218204 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\dlfltxb.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\dlfltxb.bkz)
+/Name (dlfltxb)
+/Size 13709 
+/CRC 324827779 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\dlfltxb.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\dlfltxb\\dlfltxbbibtex.bst)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dlfltxb\\dlfltxbcodetips.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dlfltxb\\dlfltxbcodetips.sty)
+/OldSize 13041 
+/NewSize 11300 
+/Line 1 
+/NewLine (\\ProvidesPackage{dlfltxbcodetips}[2008/08/05 v0.4 by Lars 'daleif' Madsen])
+/OldLine (\\ProvidesPackage{dlfltxbcodetips}[2010/03/04 v0.5 by Lars 'daleif' Madsen])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dlfltxb\\dlfltxbmarkup.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dlfltxb\\dlfltxbmarkup.sty)
+/OldSize 10231 
+/NewSize 10232 
+/Line 246 
+/NewLine (% være det samme som \\markup[macro,notxt]{...} )
+/OldLine (% vaere det samme som \\markup[macro,notxt]{...} )
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dlfltxb\\dlfltxbmarkupbookkeys.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dlfltxb\\dlfltxbmarkupbookkeys.sty)
+/OldSize 15991 
+/NewSize 19866 
+/Line 1 
+/NewLine (\\ProvidesPackage{dlfltxbmarkupbookkeys}[2008/10/30 by Lars madsen])
+/OldLine (\\ProvidesPackage{dlfltxbmarkupbookkeys}[20101/03/04 by Lars madsen])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dlfltxb\\dlfltxbmisc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dlfltxb\\dlfltxbmisc.sty)
+/OldSize 3828 
+/NewSize 4748 
+/Line 1 
+/NewLine (\\ProvidesPackage{dlfltxbmisc}[2008/01/01 v0.2 by Lars Madsen])
+/OldLine (\\ProvidesPackage{dlfltxbmisc}[2010/03/04 v0.3 by Lars Madsen])
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\dlfltxb\\dlfltxbtocconfig.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\dlfltxb\\dlfltxbtocconfig.sty)
+/OldSize 12449 
+/NewSize 19945 
+/Line 1 
+/NewLine (\\ProvidesPackage{dlfltxbtocconfig}[2008/08/05 v0.65 by Lars Madsen])
+/OldLine (\\ProvidesPackage{dlfltxbtocconfig}[2010/03/04 v0.7 by Lars Madsen])
+>>
+<<
+/Type /Status 
+/Name (dlfltxb)
+/Status /Updated 
+/Differences 6 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\dlfltxb.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dlfltxb.bkz)
+/Name (dlfltxb)
+/Size 20929 
+/CRC 1887290018 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\dlfltxb.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dlfltxb.doc.bkz)
+/Name (dlfltxb)
+/Size 693895 
+/CRC 1466166224 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\dlfltxb.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dlfltxb.source.bkz)
+/Name (dlfltxb)
+/Size 18 
+/CRC 1310317669 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

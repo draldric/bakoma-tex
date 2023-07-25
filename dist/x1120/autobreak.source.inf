@@ -1,0 +1,14 @@
+:autobreak.source:x1120:0.034721:116110580:8451:F610-8AD4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+autobreak
+
+./source/latex/autobreak:
+autobreak.dtx
+autobreak.ins

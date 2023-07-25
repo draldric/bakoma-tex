@@ -1,0 +1,48 @@
+% Unpacking components of module [matlab-prettifier] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\matlab-prettifier.tds.zip)
+/Name (matlab-prettifier)
+/Size 690439 
+/CRC -960632329 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (matlab-prettifier)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\matlab-prettifier.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\matlab-prettifier.bkz)
+/Name (matlab-prettifier)
+/Size 3744 
+/CRC -97781012 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\matlab-prettifier.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\matlab-prettifier.doc.bkz)
+/Name (matlab-prettifier)
+/Size 666682 
+/CRC -2008118241 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\matlab-prettifier.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\matlab-prettifier.source.bkz)
+/Name (matlab-prettifier)
+/Size 21426 
+/CRC 1632291316 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

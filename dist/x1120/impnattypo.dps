@@ -1,0 +1,48 @@
+% Unpacking components of module [impnattypo] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\impnattypo.tds.zip)
+/Name (impnattypo)
+/Size 172248 
+/CRC 491929747 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (impnattypo)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\impnattypo.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\impnattypo.bkz)
+/Name (impnattypo)
+/Size 3057 
+/CRC -1917514605 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\impnattypo.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\impnattypo.doc.bkz)
+/Name (impnattypo)
+/Size 144754 
+/CRC -381088701 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\impnattypo.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\impnattypo.source.bkz)
+/Name (impnattypo)
+/Size 8974 
+/CRC 2040352709 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

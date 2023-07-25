@@ -1,0 +1,15 @@
+:papermas.source:x1120:0.059435:116110580:13779:F12F-FAD8:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+papermas
+
+./source/latex/papermas:
+papermas.drv
+papermas.dtx
+papermas.ins

@@ -1,0 +1,14 @@
+:silence.source:x1120:0.06826:116110748:17481:A553-360F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+silence
+
+./source/latex/silence:
+silence-doc.dtx
+silence.ins

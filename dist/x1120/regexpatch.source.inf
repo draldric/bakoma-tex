@@ -1,0 +1,14 @@
+:regexpatch.source:x1120:0.059294:116110580:12118:4A9A-3681:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+regexpatch
+
+./source/latex/regexpatch:
+regexpatch.dtx
+regexpatch.ins

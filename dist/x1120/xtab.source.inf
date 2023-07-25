@@ -1,0 +1,14 @@
+:xtab.source:x1120:0.086136:116110580:19281:4124-6626:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xtab
+
+./source/latex/xtab:
+xtab.dtx
+xtab.ins

@@ -1,0 +1,14 @@
+:xtab.doc:x1120:0.365267:116110580:362857:E6C5-AF03:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xtab
+
+./doc/latex/xtab:
+README
+xtab.pdf

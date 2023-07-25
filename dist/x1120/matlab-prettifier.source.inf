@@ -1,0 +1,14 @@
+:matlab-prettifier.source:x1120:0.092029:116110580:21426:614A-C9F4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+matlab-prettifier
+
+./source/latex/matlab-prettifier:
+matlab-prettifier.dtx
+matlab-prettifier.ins

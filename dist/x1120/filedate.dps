@@ -1,0 +1,48 @@
+% Unpacking components of module [filedate] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\filedate.tds.zip)
+/Name (filedate)
+/Size 577400 
+/CRC -1323717459 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (filedate)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\filedate.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\filedate.bkz)
+/Name (filedate)
+/Size 6394 
+/CRC 996776994 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\filedate.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\filedate.doc.bkz)
+/Name (filedate)
+/Size 560962 
+/CRC 1954309625 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\filedate.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\filedate.source.bkz)
+/Name (filedate)
+/Size 3540 
+/CRC 1491660995 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,489 @@
+% Unpacking components of module [polyglossia] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\polyglossia.tds.zip)
+/Name (polyglossia)
+/Size 703740 
+/CRC 396227637 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\polyglossia.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\polyglossia.bkz)
+/Name (polyglossia)
+/Size 39244 
+/CRC -2054044039 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\polyglossia.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\arabicdigits.map)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\arabicdigits.map)
+/OldSize 256 
+/NewSize 256 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\arabicdigits.tec)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\arabicdigits.tec)
+/OldSize 181 
+/NewSize 181 
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\bengalidigits.map)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\bengalidigits.tec)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\devanagaridigits.map)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\devanagaridigits.tec)
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\farsidigits.map)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\farsidigits.map)
+/OldSize 255 
+/NewSize 255 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\farsidigits.tec)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\farsidigits.tec)
+/OldSize 183 
+/NewSize 183 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\thaidigits.map)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\thaidigits.map)
+/OldSize 254 
+/NewSize 254 
+>>
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\thaidigits.tec)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\fonts\\misc\\xetex\\fontmapping\\polyglossia\\thaidigits.tec)
+/OldSize 182 
+/NewSize 182 
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\arabicnumbers.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\babel-hebrewalph.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\babelsh.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\bengalidigits.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\cal-util.def)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\devanagaridigits.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\farsical.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-albanian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-amharic.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-arabic.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-armenian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-asturian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-bahasai.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-bahasam.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-basque.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-bengali.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-brazil.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-breton.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-bulgarian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-catalan.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-coptic.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-croatian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-czech.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-danish.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-divehi.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-dutch.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-english.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-esperanto.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-estonian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-farsi.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-finnish.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-french.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-friulan.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-galician.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-german.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-greek.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-hebrew.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-hindi.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-icelandic.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-interlingua.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-irish.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-italian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-kannada.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-khmer.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-korean.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-lao.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-latin.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-latvian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-lithuanian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-lsorbian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-magyar.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-malayalam.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-marathi.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-nko.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-norsk.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-nynorsk.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-occitan.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-piedmontese.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-polish.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-portuges.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-romanian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-romansh.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-russian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-samin.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-sanskrit.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-scottish.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-serbian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-slovak.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-slovenian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-spanish.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-swedish.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-syriac.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-tamil.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-telugu.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-thai.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-tibetan.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-turkish.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-turkmen.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-ukrainian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-urdu.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-usorbian.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-vietnamese.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\gloss-welsh.ldf)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\hebrewcal.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\hijrical.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\nkonumbers.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\polyglossia-frpt.lua)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\polyglossia-tibt.lua)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\polyglossia.lua)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\polyglossia.sty)
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\polyglossia\\xgreek-fixes.def)
+>>
+<<
+/Type /Status 
+/Name (polyglossia)
+/Status /Updated 
+/Differences 95 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\polyglossia.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\polyglossia.bkz)
+/Name (polyglossia)
+/Size 69489 
+/CRC -501094016 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\polyglossia.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\polyglossia.doc.bkz)
+/Name (polyglossia)
+/Size 476862 
+/CRC 902545146 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\polyglossia.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\polyglossia.source.bkz)
+/Name (polyglossia)
+/Size 71830 
+/CRC 260575747 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

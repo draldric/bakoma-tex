@@ -1,0 +1,14 @@
+:newunicodechar.doc:x1120:0.38889:116110580:389586:37BE-50B1:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+newunicodechar
+
+./doc/latex/newunicodechar:
+newunicodechar.pdf
+README

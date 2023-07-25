@@ -1,0 +1,13 @@
+:ifplatform:x1120:0.003897:116110580:1418:B638-5F09:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+ifplatform
+
+./tex/latex/ifplatform:
+ifplatform.sty

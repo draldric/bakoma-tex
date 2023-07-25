@@ -1,0 +1,14 @@
+:pressrelease.source:x1120:0.050127:116110580:10400:2806-ED5F:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+pressrelease
+
+./source/latex/pressrelease:
+pressrelease.dtx
+pressrelease.ins

@@ -1,0 +1,91 @@
+% Unpacking components of module [tufte-latex] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\tufte-latex.tds.zip)
+/Name (tufte-latex)
+/Size 1065698 
+/CRC -199312766 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\tufte-latex.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\tufte-latex.bkz)
+/Name (tufte-latex)
+/Size 12015 
+/CRC 477696065 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\tufte-latex.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tufte-latex\\tufte-book.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tufte-latex\\tufte-book.cls)
+/OldSize 2093 
+/NewSize 2120 
+/Line 3 
+/NewLine (\\ProvidesClass{tufte-book}[2009/05/17 v3.0.0 Tufte-book class])
+/OldLine (\\ProvidesClass{tufte-book}[2015/06/21 v3.5.2 Tufte-book class])
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tufte-latex\\tufte-common.def)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tufte-latex\\tufte-handout.cls)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\tufte-latex\\tufte-handout.cls)
+/OldSize 1207 
+/NewSize 928 
+/Line 3 
+/NewLine (\\ProvidesClass{tufte-handout}[2009/05/17 v3.0.0 Tufte-handout class])
+/OldLine (\\ProvidesClass{tufte-handout}[2015/06/21 v3.5.2 Tufte-handout class])
+>>
+<<
+/Type /NewFile 
+/File (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\tufte-latex\\tufte.bst)
+>>
+<<
+/Type /Status 
+/Name (tufte-latex)
+/Status /Updated 
+/Differences 4 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\tufte-latex.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tufte-latex.bkz)
+/Name (tufte-latex)
+/Size 21028 
+/CRC -757692363 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tufte-latex.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tufte-latex.doc.bkz)
+/Name (tufte-latex)
+/Size 453345 
+/CRC -1170225111 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\tufte-latex.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\tufte-latex.source.bkz)
+/Name (tufte-latex)
+/Size 382810 
+/CRC -668799085 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,14 @@
+:cpssp:x1120:0.028658:116110580:6047:D8AF-E389:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+cpssp
+
+./tex/latex/cpssp:
+cpssp
+cpssp.sty

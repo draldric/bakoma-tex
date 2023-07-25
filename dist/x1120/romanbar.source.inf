@@ -1,0 +1,15 @@
+:romanbar.source:x1120:0.038067:116110580:9331:C9A1-FBE3:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+romanbar
+
+./source/latex/romanbar:
+romanbar.drv
+romanbar.dtx
+romanbar.ins

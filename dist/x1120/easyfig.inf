@@ -1,0 +1,13 @@
+:easyfig:x1120:0.004161:116110580:1248:B71F-597D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+easyfig
+
+./tex/latex/easyfig:
+easyfig.sty

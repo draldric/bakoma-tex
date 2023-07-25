@@ -1,0 +1,14 @@
+:standalone.doc:x1120:0.268484:116110580:267513:D76B-7A5:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+standalone
+
+./doc/latex/standalone:
+README
+standalone.pdf

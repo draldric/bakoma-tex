@@ -1,0 +1,13 @@
+:sanitize-umlaut:x1120:0.003222:116110580:1014:B3DE-44C8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+sanitize-umlaut
+
+./tex/latex/sanitize-umlaut:
+sanitize-umlaut.sty

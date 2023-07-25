@@ -1,0 +1,14 @@
+:docmfp.doc:x1120:0.177058:116110580:147897:B916-82D0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+docmfp
+
+./doc/latex/docmfp:
+docmfp.pdf
+README

@@ -1,0 +1,48 @@
+% Unpacking components of module [thumbs] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\thumbs.tds.zip)
+/Name (thumbs)
+/Size 752162 
+/CRC -2002242525 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (thumbs)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\thumbs.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\thumbs.bkz)
+/Name (thumbs)
+/Size 10397 
+/CRC -2042359301 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\thumbs.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\thumbs.doc.bkz)
+/Name (thumbs)
+/Size 702389 
+/CRC 660826254 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\thumbs.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\thumbs.source.bkz)
+/Name (thumbs)
+/Size 33621 
+/CRC -971805890 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

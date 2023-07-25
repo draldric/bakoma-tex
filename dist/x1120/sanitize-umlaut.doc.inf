@@ -1,0 +1,17 @@
+:sanitize-umlaut.doc:x1120:0.429498:116110580:368410:F71D-64EC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+sanitize-umlaut
+
+./doc/latex/sanitize-umlaut:
+german.ist
+README
+sanitize-umlaut.doc.sty
+sanitize-umlaut.pdf
+sanitize-umlaut.tex

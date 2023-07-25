@@ -1,0 +1,14 @@
+:newverbs.doc:x1120:0.18245:116110580:181367:9D0A-4AB0:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+newverbs
+
+./doc/latex/newverbs:
+newverbs.pdf
+README

@@ -1,0 +1,36 @@
+% Unpacking components of module [pagenote] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\pagenote.tds.zip)
+/Name (pagenote)
+/Size 151471 
+/CRC -652685005 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\pagenote.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\pagenote.bkz)
+/Name (pagenote)
+/Size 1611 
+/CRC 146433671 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\pagenote.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff false 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\pagenote\\pagenote.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\pagenote\\pagenote.sty)
+/OldSize 4655 
+/NewSize 4655 
+>>
+<<
+/Type /Status 
+/Name (pagenote)
+/Status /Same 
+>> % distribution already includes this version

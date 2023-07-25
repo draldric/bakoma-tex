@@ -1,0 +1,14 @@
+:doipubmed.source:x1120:0.01155:116110580:3751:79D4-3248:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+doipubmed
+
+./source/latex/doipubmed:
+doipubmed.dtx
+doipubmed.ins

@@ -1,0 +1,48 @@
+% Unpacking components of module [dhua] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\dhua.tds.zip)
+/Name (dhua)
+/Size 336515 
+/CRC 229032105 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (dhua)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\dhua.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dhua.bkz)
+/Name (dhua)
+/Size 4055 
+/CRC 597757795 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\dhua.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dhua.doc.bkz)
+/Name (dhua)
+/Size 323269 
+/CRC -1317609450 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\dhua.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\dhua.source.bkz)
+/Name (dhua)
+/Size 2844 
+/CRC -565732208 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

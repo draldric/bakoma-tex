@@ -1,0 +1,13 @@
+:tocbibind:x1120:0.008975:116110580:2533:777C-5163:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tocbibind
+
+./tex/latex/tocbibind:
+tocbibind.sty

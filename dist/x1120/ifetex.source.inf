@@ -1,0 +1,14 @@
+:ifetex.source:x1120:0.006296:116110580:2553:16CF-891D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+ifetex
+
+./source/latex/ifetex:
+ifetex.dtx
+ifetex.ins

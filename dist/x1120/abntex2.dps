@@ -1,0 +1,38 @@
+% Unpacking components of module [abntex2] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\abntex2.tds.zip)
+/Name (abntex2)
+/Size 6806077 
+/CRC -1182149041 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (abntex2)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\abntex2.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\abntex2.bkz)
+/Name (abntex2)
+/Size 29105 
+/CRC 1402859185 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\abntex2.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\abntex2.doc.bkz)
+/Name (abntex2)
+/Size 4535498 
+/CRC 889478060 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,14 @@
+:needspace.doc:x1120:0.159387:116110580:158690:ED86-29DB:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+needspace
+
+./doc/latex/needspace:
+needspace.pdf
+README

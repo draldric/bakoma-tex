@@ -1,0 +1,48 @@
+% Unpacking components of module [pressrelease] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\pressrelease.tds.zip)
+/Name (pressrelease)
+/Size 1054773 
+/CRC -1656478337 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (pressrelease)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\pressrelease.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pressrelease.bkz)
+/Name (pressrelease)
+/Size 3656 
+/CRC -598474233 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pressrelease.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pressrelease.doc.bkz)
+/Name (pressrelease)
+/Size 618972 
+/CRC 1926287744 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\pressrelease.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\pressrelease.source.bkz)
+/Name (pressrelease)
+/Size 10400 
+/CRC 671542623 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

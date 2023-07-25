@@ -1,0 +1,17 @@
+:gitlog.doc:x1120:0.114807:116110580:99300:910D-768:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gitlog
+
+./doc/latex/gitlog:
+gitHeadLocal.gin
+gitlog.pdf
+gitlog.sample.bib
+gitlog.tex
+README.md

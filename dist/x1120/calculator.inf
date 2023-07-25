@@ -1,0 +1,14 @@
+:calculator:x1120:0.070671:116110580:9391:E50C-C8E8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+calculator
+
+./tex/latex/calculator:
+calculator.sty
+calculus.sty

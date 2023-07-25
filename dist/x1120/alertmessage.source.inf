@@ -1,0 +1,14 @@
+:alertmessage.source:x1120:0.007245:116110580:2184:22ED-DE14:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+alertmessage
+
+./source/latex/alertmessage:
+alertmessage.dtx
+alertmessage.ins

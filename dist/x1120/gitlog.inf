@@ -1,0 +1,15 @@
+:gitlog:x1120:0.004913:116110580:1808:8C0E-972B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gitlog
+
+./tex/latex/gitlog:
+gitlog.bbx
+gitlog.dbx
+gitlog.sty

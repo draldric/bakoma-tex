@@ -1,0 +1,72 @@
+% Unpacking components of module [minibox] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\minibox.tds.zip)
+/Name (minibox)
+/Size 285067 
+/CRC -1112665494 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\ctan\minibox.bkz]
+<<
+/Type /BKZ 
+/File (.\\ctan\\minibox.bkz)
+/Name (minibox)
+/Size 314 
+/CRC -588624623 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\ctan\minibox.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\minibox\\minibox.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\minibox\\minibox.sty)
+/OldSize 357 
+/NewSize 1597 
+/Line 1 
+/NewLine (%% LaTeX2e file `minibox.sty')
+/OldLine (%    \\begin{macrocode})
+>>
+<<
+/Type /Status 
+/Name (minibox)
+/Status /Updated 
+/Differences 1 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\minibox.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\minibox.bkz)
+/Name (minibox)
+/Size 577 
+/CRC -2082229861 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\minibox.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\minibox.doc.bkz)
+/Name (minibox)
+/Size 282273 
+/CRC 2105432642 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\minibox.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\minibox.source.bkz)
+/Name (minibox)
+/Size 2773 
+/CRC 1780542251 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

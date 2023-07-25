@@ -1,0 +1,14 @@
+:ifxetex.source:x1120:0.004847:116111680:2018:3049-423A:
+
+./:
+source
+
+./source:
+generic
+
+./source/generic:
+ifxetex
+
+./source/generic/ifxetex:
+ifxetex.ins
+ifxetex.tex

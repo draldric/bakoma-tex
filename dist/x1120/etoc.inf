@@ -1,0 +1,13 @@
+:etoc:x1120:0.048993:116110580:9247:C713-4EF1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+etoc
+
+./tex/latex/etoc:
+etoc.sty

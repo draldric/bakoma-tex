@@ -1,0 +1,15 @@
+:undolabl.source:x1120:0.048989:116110580:11580:620B-6C26:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+undolabl
+
+./source/latex/undolabl:
+undolabl.drv
+undolabl.dtx
+undolabl.ins

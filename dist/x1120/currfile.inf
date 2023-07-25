@@ -1,0 +1,14 @@
+:currfile:x1120:0.015785:116110580:3074:E40F-28E6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+currfile
+
+./tex/latex/currfile:
+currfile-abspath.sty
+currfile.sty

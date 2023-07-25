@@ -1,0 +1,16 @@
+:lastpage.doc:x1120:0.556581:116110580:547091:DCC3-DD5D:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+lastpage
+
+./doc/latex/lastpage:
+lastpage-example.pdf
+lastpage-example.tex
+lastpage.pdf
+README

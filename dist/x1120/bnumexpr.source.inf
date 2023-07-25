@@ -1,0 +1,14 @@
+:bnumexpr.source:x1120:0.049011:116110580:14928:122-3B16:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+bnumexpr
+
+./source/latex/bnumexpr:
+bnumexpr.dtx
+bnumexpr.ins

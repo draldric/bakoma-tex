@@ -1,0 +1,14 @@
+:cpssp.source:x1120:0.081178:116110580:15756:D2C1-7DF6:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+cpssp
+
+./source/latex/cpssp:
+cpssp.dtx
+cpssp.ins

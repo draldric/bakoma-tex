@@ -1,0 +1,48 @@
+% Unpacking components of module [skrapport] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\skrapport.tds.zip)
+/Name (skrapport)
+/Size 327828 
+/CRC -1690621560 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (skrapport)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\skrapport.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\skrapport.bkz)
+/Name (skrapport)
+/Size 12104 
+/CRC 1574554402 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\skrapport.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\skrapport.doc.bkz)
+/Name (skrapport)
+/Size 271191 
+/CRC 372155421 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\skrapport.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\skrapport.source.bkz)
+/Name (skrapport)
+/Size 30863 
+/CRC -1666050566 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

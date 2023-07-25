@@ -1,0 +1,16 @@
+:colorspace.doc:x1120:0.135368:116110580:116211:4188-6FE7:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+colorspace
+
+./doc/latex/colorspace:
+colorspace.pdf
+colorspace.tex
+colorspaceshade.png
+README

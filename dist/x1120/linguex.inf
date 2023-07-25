@@ -1,0 +1,15 @@
+:linguex:x1120:0.026253:116110580:6390:5E98-CD8D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+linguex
+
+./tex/latex/linguex:
+linguex.sty
+linguho.sty
+ps-trees.sty

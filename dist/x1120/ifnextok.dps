@@ -1,0 +1,48 @@
+% Unpacking components of module [ifnextok] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\ifnextok.tds.zip)
+/Name (ifnextok)
+/Size 237481 
+/CRC -1712244703 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (ifnextok)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\ifnextok.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifnextok.bkz)
+/Name (ifnextok)
+/Size 10233 
+/CRC -494493448 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ifnextok.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifnextok.doc.bkz)
+/Name (ifnextok)
+/Size 215186 
+/CRC 1705251961 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\ifnextok.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\ifnextok.source.bkz)
+/Name (ifnextok)
+/Size 2520 
+/CRC -561151002 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

@@ -1,0 +1,16 @@
+:csquotes.doc:x1120:0.41464:116110580:313697:100C-3D4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+csquotes
+
+./doc/latex/csquotes:
+csquotes.pdf
+csquotes.tex
+README.md
+RELEASE.md

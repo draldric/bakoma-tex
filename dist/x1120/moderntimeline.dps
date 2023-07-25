@@ -1,0 +1,48 @@
+% Unpacking components of module [moderntimeline] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\moderntimeline.tds.zip)
+/Name (moderntimeline)
+/Size 192402 
+/CRC -1903029396 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is []
+<<
+/Type /Status 
+/Name (moderntimeline)
+/Status /New 
+>> % This package is New for dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\moderntimeline.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\moderntimeline.bkz)
+/Name (moderntimeline)
+/Size 1847 
+/CRC -1658895070 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\moderntimeline.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\moderntimeline.doc.bkz)
+/Name (moderntimeline)
+/Size 183672 
+/CRC 1882852089 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\moderntimeline.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\moderntimeline.source.bkz)
+/Name (moderntimeline)
+/Size 5692 
+/CRC 2104055399 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

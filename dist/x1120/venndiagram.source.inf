@@ -1,0 +1,14 @@
+:venndiagram.source:x1120:0.08398:116110580:9289:4F27-EE5D:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+venndiagram
+
+./source/latex/venndiagram:
+venndiagram.dtx
+venndiagram.ins

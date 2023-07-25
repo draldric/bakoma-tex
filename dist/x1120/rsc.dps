@@ -1,0 +1,94 @@
+% Unpacking components of module [rsc] into temporary folder: E:\Site\www\dist\tmp\texmf
+<<
+/Type /TDS 
+/File (F:\\CTAN\\install\\macros\\latex\\contrib\\rsc.tds.zip)
+/Name (rsc)
+/Size 216478 
+/CRC 1169838838 
+>>
+
+% Searching previous version in distribution folder=E:\Site\www\dist
+% Previous module is [.\V903\rsc.bkz]
+<<
+/Type /BKZ 
+/File (.\\V903\\rsc.bkz)
+/Name (rsc)
+/Size 6468 
+/CRC -1186902075 
+/Base (E:\\Site\\www\\dist)
+>>
+% Unpacking Prev: .\V903\rsc.bkz
+% To: E:\Site\www\dist\tmp-prev
+
+% Compare folders: e:\site\www\dist\tmp and e:\site\www\dist\tmp-prev
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\rsc\\angew.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\rsc\\angew.bst)
+/OldSize 27280 
+/NewSize 27988 
+/Line 23 
+/NewLine (    ctrl-use-doi-all)
+/OldLine (    ctrl-link-doi)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\bibtex\\bst\\rsc\\rsc.bst)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\bibtex\\bst\\rsc\\rsc.bst)
+/OldSize 27177 
+/NewSize 27885 
+/Line 23 
+/NewLine (    ctrl-use-doi-all)
+/OldLine (    ctrl-link-doi)
+>>
+<<
+/Type /Diff 
+/Diff true 
+/NewFile (e:\\site\\www\\dist\\tmp\\texmf\\tex\\latex\\rsc\\rsc.sty)
+/OldFile (e:\\site\\www\\dist\\tmp-prev\\texmf\\tex\\latex\\rsc\\rsc.sty)
+/OldSize 3159 
+/NewSize 3380 
+/Line 18 
+/NewLine (  [2009/07/07 v3.1b Support for RSC and Wiley journals])
+/OldLine (  [2016/08/22 v31.f Support for RSC and Wiley journals])
+>>
+<<
+/Type /Status 
+/Name (rsc)
+/Status /Updated 
+/Differences 3 
+>> % There is newer version then in dist
+
+% Generating BKZ files into DestDir=x1120
+
+% Generating ..\x1120\rsc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\rsc.bkz)
+/Name (rsc)
+/Size 6632 
+/CRC -936672335 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\rsc.doc.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\rsc.doc.bkz)
+/Name (rsc)
+/Size 187760 
+/CRC -762779364 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>
+
+% Generating ..\x1120\rsc.source.bkz
+<<
+/Type /BKZ 
+/File (..\\x1120\\rsc.source.bkz)
+/Name (rsc)
+/Size 14474 
+/CRC 443700111 
+/Base (E:\\Site\\www\\dist\\tmp)
+>>

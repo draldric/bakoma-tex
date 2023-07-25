@@ -1,0 +1,14 @@
+:abc:x1120:0.007167:116110580:2090:278F-3A1C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+abc
+
+./tex/latex/abc:
+abc.sty
+mup.sty
