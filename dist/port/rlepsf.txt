@@ -1,0 +1,6 @@
+There is code too hard wired with DVIPS macros.
+
+So, they try to use/redefine macros 'a'.
+We change macros to redefine 'show' operator,
+which is present in all environments.
+

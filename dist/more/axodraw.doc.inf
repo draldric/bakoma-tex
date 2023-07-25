@@ -1,0 +1,17 @@
+:axodraw.doc:more:0.172868:109070288:29657:7DF0-67D5:
+
+./:
+doc
+
+./doc:
+feynman
+
+./doc/feynman:
+axodraw
+
+./doc/feynman/axodraw:
+axodraw.mk
+axodraw.org
+axoman.dvi
+axoman.tex
+readme.txt

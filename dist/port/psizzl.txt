@@ -1,0 +1,7 @@
+
+There is absent file verbatim.psizzl
+referred from psizzl.tex.
+
+I just comment it as following:
+
+% \input verbatim.\fmtext % verbatim scanning macros - BKM: They are absent.

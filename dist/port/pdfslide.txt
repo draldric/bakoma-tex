@@ -1,0 +1,30 @@
+pdfslide is hardwired for pdftex, what is not mandatory ...
+
+There are few obvious fixes:
+
+% BKM:\RequirePackage[pdftex]{graphicx}
+\RequirePackage{graphicx}
+
+\RequirePackage[%pdftex, % BKM
+             pdfpagemode=none,colorlinks,%
+             pdfmenubar=false,%
+             pdfhighlight=/I,%
+             pdftoolbar=false,%
+%             pdfpagemode=FullScreen,%
+             pdffitwindow=true,pdfcenterwindow=true,%
+             pdfwindowui=false,menucolor=menucolor,%
+             pdfview=Fit,pdfstartview=Fit]{hyperref}
+
+    \newdimen\pdfpagewidth      % BKM
+    \newdimen\pdfpageheight     % BKM
+
+
+\def\pagedissolve#1{%
+     \edef\@@processme{%
+     \pdfpageattr{%
+        /Trans << /S /#1\space >>%
+      }}%
+     \@@processme 
+    }%
+\def\pagedissolve#1{\hypersetup{pdfpagetransition=#1}} % BKM V 5.0
+

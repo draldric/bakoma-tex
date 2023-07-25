@@ -1,0 +1,4 @@
+ctan/manfnt do not include tfm file, which is placed in ctan/misc.bkz ...
+So, our standard procedure do not work.
+So, we already have own manfnt, so that we just use it.
+

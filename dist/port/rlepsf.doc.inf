@@ -1,0 +1,16 @@
+:rlepsf.doc:port:0.218595:109072824:63139:C4D2-D65A:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+rlepsf
+
+./doc/generic/rlepsf:
+labelfig.doc
+read.me
+rlepsdoc.ps
+rlepsf.diff

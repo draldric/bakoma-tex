@@ -1,0 +1,2 @@
+Our configuration uses both TTF and PFB fonts semulteniously.
+

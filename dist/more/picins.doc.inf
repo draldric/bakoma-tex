@@ -1,0 +1,17 @@
+:picins.doc:more:0.160822:109070288:44179:1B76-DFDD:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+picins
+
+./doc/latex/picins:
+lies.mich
+mpic.dvi
+picins.doc
+picins.txt
+readme.1st

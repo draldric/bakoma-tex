@@ -1,0 +1,13 @@
+:ruhyph:lang:0.027898:109081288:8784:74D5-DC48:
+
+./:
+tex
+
+./tex:
+generic
+
+./tex/generic:
+hyphen
+
+./tex/generic/hyphen:
+ruhyph.tex

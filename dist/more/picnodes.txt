@@ -1,0 +1,1 @@
+Small package which lets to add PSTricks nodes to imported EPS figure.

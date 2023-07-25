@@ -1,0 +1,15 @@
+:latexrefman.doc:guides:0.883356:109091080:545778:CFDB-38EA:
+
+./:
+doc
+
+./doc:
+=manuals=
+
+./doc/=manuals=:
+latexrefman
+
+./doc/=manuals=/latexrefman:
+download.txt
+latex reference manual - latexrefman.htm
+latex2e.pdf

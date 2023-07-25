@@ -1,0 +1,10 @@
+
+1) axodraw - drawing Feynman diagrams.
+   Author: Jos Vermaseren
+   CTAN: graphics/axodraw/
+   URL: http://www.nikhef.nl/~t68/axodraw/
+   Licence:
+	This system was made by Jos Vermaseren and can be used freely for
+	non commercial purposes only. Any commercial use needs the written 
+	approval of Jos Vermaseren.
+

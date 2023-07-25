@@ -1,0 +1,15 @@
+:picins:more:0.034684:109070288:4698:BF4B-3F83:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+picins
+
+./tex/latex/picins:
+extpic.sty
+picins.alt
+picins.sty

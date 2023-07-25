@@ -1,0 +1,6 @@
+
+In previous versiosn it was language/greek/rgrfonts.bkz
+Now it is renamed according CTAN name.
+
+It is included because our version include PS Type 3 fonts.
+

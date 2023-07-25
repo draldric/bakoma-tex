@@ -1,0 +1,40 @@
+There is collection of packages made from language package set.
+
+
+There are only russian modules now. (need to revision)
+
+----------- Other modules are moved or reused from ctan. ------------
+
+Following modules should be used from 'ctan'
+
+   -	allrunes.bkz	-> fonts (CTAN version has mismatched tfm names in FD)
+   *	arabi.bkz
+   *	arabtex.bkz
+	
+   *	kerkis.bkz
+   +	tipa.bkz
+   +	vntex.bkz
+	   urw.bkz is included into ctan/vntex.bkz
+	   vninput.bkz is already moved to formats.bkz
+   -	antykwa.bkz	(ctan/antt.bkz)
+
+So, after moving we must pass soem tests ...
+
+Following modules are absent in CTAN.
+(It is interesting that they are missed in MikTeX)
+
+   >	qfonts.bkz
+	   It looks such that it tex-gyre fonts.
+
+   >	rawfonts.bkz (was coming with cstex)
+	   It is possible that raw ps fonts are included anywhere...
+	   I get rptmr and find it at times.bkz.
+
+   >	rgrfonts.bkz	->  fonts/yannisgr
+	   They are ctan/yannisgr, however we include 
+	   Type3 fonts. So that we must place then under name 
+	   fonts/yannisgr
+
+They should be just moved to 'fonts' folder.
+
+-------------------------------------------------------------------------

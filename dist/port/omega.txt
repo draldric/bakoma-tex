@@ -1,0 +1,12 @@
+
+Optional action ...
+
+It may be more reasonable to improve xgzip to handle such situation.
+
+   >  PORT: omega.bkz has been fixed to make pfb files optimized.
+	It just make 't1disasm' then 't1asm -b'.
+	It may be reasonable to place it into 'port' directory.
+
+   >  NOTE: We must use our t1asm, because it is corrected for 
+	proper number of padded zeroes. 
+        MikTeX includes buggy version of t1asm.

@@ -1,0 +1,13 @@
+
+psfonts.bkz
+   removed files already included in ctan modules:
+	 psnfss, times, helvetic, courier, avantgar, bookman, ncntrsbk, palatino,
+	 symbol, zapfchan, zapfding, 
+
+   Also, we preserve previous font configuration.
+
+   Note, that all mentioned CTAn modules must be processed at once,
+   because in them fonts and MAp files are distributed between each other.
+
+NOTE: SymbolEncoding (symbol.enc) has been moved from Winfonts.bkz 
+	to psfonts.bkz

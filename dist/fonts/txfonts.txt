@@ -1,0 +1,10 @@
+Added 
+
+[TeXFonts]
+; TX Adobe Times
+rtxptmb=TeXBase1Encoding,Times-Bold,
+rtxptmbo=TeXBase1Encoding,Times-Bold,.167 SlantFont
+rtxptmbi=TeXBase1Encoding,Times-BoldItalic,
+rtxptmr=TeXBase1Encoding,Times-Roman,
+rtxptmro=TeXBase1Encoding,Times-Roman,.167 SlantFont
+rtxptmri=TeXBase1Encoding,Times-Italic,

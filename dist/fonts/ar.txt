@@ -1,0 +1,2 @@
+Added font in PostScript Type3 font format
+incoming from BaKoMa TeX 8.50.

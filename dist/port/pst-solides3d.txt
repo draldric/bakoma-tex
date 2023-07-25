@@ -1,0 +1,20 @@
+
+solides.pro 
+
+begin dictionary but do not end it.
+
+As I understand author's idea is 
+to keep dictionary open acros document,
+that isn't posible in many cases 
+such that BaKoMa TeX even do not allow it.
+
+Simple fix may be in removing '%SolidesDict begin'
+
+However, even after this fix PostScript hangs for extremly long time.
+
+Even drawn images (i.e. geode42_direct.tex ) 
+work so long that editing text (in TeXWord) with such 
+imaging isn't reasonable.
+
+RESUME: WE DO NOT RECOMEND TO USE THIS PACKAGE.
+

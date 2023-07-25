@@ -1,0 +1,30 @@
+BaKoMa TeX includes several packages 
+compound with Type3 fonts:
+
+public:
+
+ar		-> port
+barcodes	-> port
+clock		-> port
+esvect		-> ctan - Already coming with Type1 fonts in CTAN
+nicefram	-> more2
+oval		-> l209
+ulsy		-> port
+xypic
+yannis		-> fonts\yannisgr (was in language/greek)
+
+bakoma: (see fonzoo directory...)
+
+astrosym
+la
+lams
+latex
+loggates
+malvern
+moonphase
+script
+suetterl
+timing
+twcal
+va
+

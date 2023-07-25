@@ -1,0 +1,15 @@
+:gentle.doc:guides:0.74518:109072992:412997:9477-4638:
+
+./:
+doc
+
+./doc:
+=manuals=
+
+./doc/=manuals=:
+gentle
+
+./doc/=manuals=/gentle:
+gentle.pdf
+gentle.tex
+gentle.txt

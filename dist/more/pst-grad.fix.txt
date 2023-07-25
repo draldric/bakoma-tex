@@ -1,0 +1,26 @@
+pst-grad package has very inefficient gradient fill 
+procedure impelemented via 'for'.
+
+My code uses PostScript shfill, 
+which is good choose for TeXWord.
+
+However, for editing slides background cache may be used.
+
+Present versiosn of pst-grad.pro fix is not matched
+with modern versiosn of pst-grad package.
+So, it is moved from bakoma.bkz to this module.
+
+When this will be uptodate, we will add this module 
+to quicksetup.ini - also it will be more convenient to update 
+it later.
+
+In pricipal it may be better to use port directory and keep 
+entire package ...
+
+
+
+NOTE: 	Another advances are also required ...
+
+	hyperref.fix.bkz
+	Other modules su
+

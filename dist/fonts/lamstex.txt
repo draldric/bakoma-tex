@@ -1,0 +1,4 @@
+Ib V < 9.0 It was in F2/lams.bkz 
+It is renamed to be matched with MikTeX package name.
+It includes LAMS fonts in TYpe 3 font format.
+

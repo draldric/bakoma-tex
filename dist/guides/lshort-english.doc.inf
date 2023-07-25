@@ -1,0 +1,17 @@
+:lshort-english.doc:guides:2.79459:109072992:2005142:C51F-5EA9:
+
+./:
+doc
+
+./doc:
+=manuals=
+
+./doc/=manuals=:
+lshort-english
+
+./doc/=manuals=/lshort-english:
+changes
+lshort-4.26.src.tar.gz
+lshort.pdf
+lshort.txt
+readme

@@ -1,0 +1,10 @@
+Added 
+
+[TeXFonts]
+; PX Adobe Palatino
+rpxpplb=TeXBase1Encoding,Palatino-Bold,
+rpxpplbo=TeXBase1Encoding,Palatino-Bold,.167 SlantFont
+rpxpplbi=TeXBase1Encoding,Palatino-BoldItalic,
+rpxpplr=TeXBase1Encoding,Palatino-Roman,
+rpxpplro=TeXBase1Encoding,Palatino-Roman,.167 SlantFont
+rpxpplri=TeXBase1Encoding,Palatino-Italic,

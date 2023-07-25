@@ -1,0 +1,10 @@
+
+Old LaTeX 2.09
+
+In comparison with V 8.59 includes
+
+latex209/latex209.bkz
+latex209/amsltx11.bkz
+latex209/oval.bkz
+
+TODO: Add legacy russification stuffs.

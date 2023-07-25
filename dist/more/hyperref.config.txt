@@ -1,0 +1,21 @@
+
+This package includes files to configure HyperRef
+to work with BaKoMa TeX.
+
+NOTE: Most of configuration files are coming together with 
+      BaKoMa TeX Kernel. However, HyperRef is special package.
+      HyperRef configuration conventions are frequently changed.
+      In this reason, we must handle it in separate module
+      which may be updated without BaKoMa TeX Kernel.
+
+
+
+
+Standard bakoma configuration of HyperRef package 
+must define pdfmark operator like to made in dvips.def
+
+One problem which I have meet is related with movie15 package...
+
+moview15 check that pdfmark defined when pdf = false, otherwise
+alarm that HYperRef isn't loaded.
+

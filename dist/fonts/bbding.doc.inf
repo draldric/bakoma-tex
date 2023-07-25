@@ -1,0 +1,14 @@
+:bbding.doc:fonts:0.012768:109070288:5253:137D-76F9:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+bbding
+
+./doc/fonts/bbding:
+bbding.dvi
+readme

@@ -1,0 +1,15 @@
+:draftcopy:port:0.033675:109070824:4183:AC30-CBA3:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+draftcopy
+
+./tex/latex/draftcopy:
+draftcopy-org.sty
+draftcopy.cfg
+draftcopy.sty
