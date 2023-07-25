@@ -1,0 +1,16 @@
+:gridset.source:x1060:0.02731:114110856:6784:3582-8670:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+gridset
+
+./source/latex/gridset:
+gridset.dtx
+gridset.ins
+gridset.log
+gridset.tex

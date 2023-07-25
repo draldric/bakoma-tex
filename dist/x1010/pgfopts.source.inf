@@ -1,0 +1,11 @@
+:pgfopts.source:x1010:0.022246:113062760:5901:EB5C-B228:
+
+./:
+source
+
+./source:
+pgfopts
+
+./source/pgfopts:
+pgfopts.dtx
+pgfopts.ins

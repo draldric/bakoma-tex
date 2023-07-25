@@ -1,0 +1,14 @@
+:regexpatch.source:x1040:0.059089:114050540:12082:B725-70F9:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+regexpatch
+
+./source/latex/regexpatch:
+regexpatch.dtx
+regexpatch.ins

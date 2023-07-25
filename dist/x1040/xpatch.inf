@@ -1,0 +1,13 @@
+:xpatch:x1040:0.008364:114050540:1559:ECBE-B0C0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xpatch
+
+./tex/latex/xpatch:
+xpatch.sty

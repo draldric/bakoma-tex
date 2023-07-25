@@ -1,0 +1,13 @@
+:pxpgfmark:x1060:0.000641:114110856:339:6399-93D6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pxpgfmark
+
+./tex/latex/pxpgfmark:
+pxpgfmark.sty

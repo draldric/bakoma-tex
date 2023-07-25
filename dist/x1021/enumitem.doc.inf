@@ -1,0 +1,15 @@
+:enumitem.doc:x1021:0.385068:113112204:346090:66A6-3A2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+enumitem
+
+./doc/latex/enumitem:
+enumitem.pdf
+enumitem.tex
+README

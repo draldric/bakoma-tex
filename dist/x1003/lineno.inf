@@ -1,0 +1,17 @@
+:lineno:x1003:0.235151:113011556:61530:5E2D-138B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+lineno
+
+./tex/latex/lineno:
+ednmath0.sty
+edtable.sty
+fnlineno.sty
+lineno.sty
+vplref.sty

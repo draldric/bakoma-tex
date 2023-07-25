@@ -1,0 +1,13 @@
+:enumitem:x1021:0.042712:113112204:10865:58A8-A65E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+enumitem
+
+./tex/latex/enumitem:
+enumitem.sty

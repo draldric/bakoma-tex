@@ -1,0 +1,8 @@
+This fix is based on code base of V 10.51,
+which fixes buffer overflow in searchlibfile function.
+
+See test: (C:\Users\BaKoMa\Google Диск\support\mrlawfej\exppaperidea-fvi-auction-101514-vsn3.tex)
+
+This pack includes BaKoMa\Common\dvilib.ctr
+
+The fix is compatible with V 10.10 and later, and I hope with 10.0 too.

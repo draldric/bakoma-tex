@@ -1,0 +1,13 @@
+:uml:x1001:0.031747:112092340:6111:1FA0-73C0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+uml
+
+./tex/latex/uml:
+uml.sty

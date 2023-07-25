@@ -1,0 +1,14 @@
+:xpatch.doc:x1040:0.452167:114050540:451946:E70A-C825:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xpatch
+
+./doc/latex/xpatch:
+README
+xpatch.pdf

@@ -1,0 +1,28 @@
+Time Line 14-Jul-2014
+---------------------
+
+BaKoMa TeX 10.43: (not released)
+
+Basic task is updating LaTeX with basic packages (babel, graphics, tools)
+and also biblatex.bkz, logreq.bkz, pgf.bkz
+
+TODO:
+
+   - Graphicx package has new \nopagecolor command which must have proper definition in driver.
+     So, we must add this definition to driver file ...
+
+Revision 2014/06/10
+
+  Update of LaTeX 2e (Release of 2014/Apr)
+
+  + latex
+  + tools
+  + graphics
+  + babel (together with *.ldf files)
+
+ Update/Added more 
+
+  + biblatex 
+  + logreq (required by biblatex)
+  + pgf 3.0 
+

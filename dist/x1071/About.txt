@@ -1,0 +1,56 @@
+
+2015/03/08
+
+ 1. GeneratePS/GeneratePNG has been moved to BaKoMa/Common and use by both TeXWord and DVIEW
+
+ 2! BaKoMa/images/DVI2HTML restored (used by GenratePNG) - lost at 10.0
+
+ 3. GeneratePDF/GenerateSVG also extracted and moved to BaKoMa/Common and use by both TeXWord and DVIEW
+
+2015/03/10
+
+ 4. viewprefs.ctr also moved to BaKoMa/Common and use by both TeXWord and DVIEW
+
+ 5! Position mouse on page is also displayed in 'Measuring Tool Units'. (TeXView.cpp)
+
+ 6! &View>Show &Mouse Position from Bottom and &Options>&Measuring Tool Units
+    has been moved to Mouse tab of viewprefs.
+
+2015/03/11
+
+  7! Dialog page is done, but may require some proofreading, because of 5 lines of text.
+  8! Boolean '... Mouse Position from Bottom' has been changed to 
+     List 'Origin Point' with two values: [(Top Left Corner)(Bottom Left Corner)]
+     It looks more clear ...)
+
+2015/03/13
+
+  9! Extended limit for length of tfm/vf font name.
+
+2015/03/17
+
+ 10! Mac: Fixed openning Messages Window at errors of program (TeXWord, DVIEW, Centaur) 
+
+2015/03/18
+
+ 11! Added toolbar to "Messages Window", because using context menu is not so obvious as desired.
+
+2015/03/19
+
+ 12! Shift+Wheel scrolls horizontally under Windows (like to Mac approach)
+
+ 13! Reversed horizontal scroll of windows by using track pad gestures. 
+
+2015/03/21
+
+ 14! Keybinding for User Macros has has been completed.
+
+  NOTE: Attempt of adding user macros to toolbar involve unresolved break. 
+	Anyway, it have too bad estetic. However ...
+
+------------------------------------------------------------------------
+
+TODO: Proofreading of text on Mouse page of ViewPrefs dialog is required.
+
+TODO: Mac: discover in more deep problem with bad ls-R files appeared after auto downloading. 
+	Automatical rebuilding of ls-R files is one solution when no important files found.

@@ -1,0 +1,14 @@
+:pxpgfmark.doc:x1060:0.002384:114110856:1385:7BAC-2CC:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pxpgfmark
+
+./doc/latex/pxpgfmark:
+LICENSE
+README

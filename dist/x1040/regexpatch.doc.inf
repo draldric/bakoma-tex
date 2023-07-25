@@ -1,0 +1,14 @@
+:regexpatch.doc:x1040:0.533476:114050540:529480:CBC6-8C2B:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+regexpatch
+
+./doc/latex/regexpatch:
+README
+regexpatch.pdf

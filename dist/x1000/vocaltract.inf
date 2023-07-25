@@ -1,0 +1,13 @@
+:vocaltract:x1000:0.042257:112090152:8620:156B-164:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+vocaltract
+
+./tex/latex/vocaltract:
+VocalTract.sty

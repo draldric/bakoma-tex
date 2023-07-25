@@ -1,0 +1,17 @@
+:isodate.source:x1060:0.152905:114111420:22244:978C-345B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+isodate
+
+./source/latex/isodate:
+isodate.dtx
+isodate.ins
+isodate.log
+isodateo.dtx
+Makefile

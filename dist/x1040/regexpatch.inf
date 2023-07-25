@@ -1,0 +1,13 @@
+:regexpatch:x1040:0.026401:114050540:3135:1DD2-5A7B:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+regexpatch
+
+./tex/latex/regexpatch:
+regexpatch.sty

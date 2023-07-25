@@ -1,0 +1,14 @@
+There is Biber 1.9 
+compatible with BibLaTeX 2.9 
+coming with BaKoMa TeX beginning from V 10.50
+
+To install it 
+Donwload http://www.bakoma-tex.com/dist/x1110/fix/biber-MSWIN.zip 
+then unpack into C:\BaKoMa TeX\BIN\WIN32
+
+Clear biber temporary folder:
+
+C:\Users\<UserName>\AppData\Local\Temp\par-42614b6f4d61 
+
+or may be something near ...
+

@@ -1,0 +1,29 @@
+There is BaKoMa Type1 fonts whose are complete then AMS font set.
+
+Fix History:
+
+-------------------------------
+V905: 2011/04/19: Fixed error:
+
+Update/ams.ini:
+[PSFonts]
+; cmmib 5, 6, 7, 8, 9 (10 is in standard CM)
+< cmmib*=,TeXMIEncoding,ATMMIEncoding,BKM-cmmi*,Normal,0,2,cmmi*.pfb
+
+> cmmib*=,TeXMIEncoding,ATMMIEncoding,BKM-cmmib*,Normal,0,2,cmmi*.pfb
+
+-------------------------------
+V1051: 2014/10/31: Fixed error:
+
+Fix bug in msam5.pfb: (looks as truncating by int16)
+
+Comparing files MSAM5.asm-bug and MSAM5.ASM-FIXED
+***** MSAM5.asm-bug
+/squiggleleftright {
+        125 -32285 18 div
+        hsbw
+***** MSAM5.ASM-FIXED
+/squiggleleftright {
+        125 33250 18 div
+        hsbw
+*****

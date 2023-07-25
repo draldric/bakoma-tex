@@ -1,0 +1,13 @@
+:tabu:x1010:0.117556:113090412:22837:520D-22A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+tabu
+
+./tex/latex/tabu:
+tabu.sty

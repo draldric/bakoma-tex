@@ -1,0 +1,16 @@
+:animate.doc:x1000:3.74808:112090236:3150843:A7FF-5BF2:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+animate
+
+./doc/latex/animate:
+animate.pdf
+animate.tex
+ChangeLog
+README

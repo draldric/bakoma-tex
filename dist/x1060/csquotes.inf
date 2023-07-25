@@ -1,0 +1,16 @@
+:csquotes:x1060:0.08918:114110752:16739:CA2A-91EC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+csquotes
+
+./tex/latex/csquotes:
+csq-compat.def
+csquotes.cfg
+csquotes.def
+csquotes.sty

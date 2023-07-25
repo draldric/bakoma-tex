@@ -1,0 +1,13 @@
+:linegoal:x1060:0.003511:114110752:1441:3512-E05A:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+linegoal
+
+./tex/latex/linegoal:
+linegoal.sty

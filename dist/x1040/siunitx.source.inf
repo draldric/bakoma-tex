@@ -1,0 +1,14 @@
+:siunitx.source:x1040:0.611242:114050540:101509:5E91-3444:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+siunitx
+
+./source/latex/siunitx:
+siunitx.dtx
+siunitx.ins

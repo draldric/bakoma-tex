@@ -1,0 +1,13 @@
+
+BaKoMa TeX beginning from V 10.61 has buil-in PasteGra function,
+which is supported on all platforms.
+
+However, Pastegra.exe/Win32 has some extended features such as saving 
+clipboard in PostScript format when it is possible (WxWidgets can't touch it).
+
+So, V 10.61 has no PasteGra by default and use portable solution as on all other platforms.
+
+However, users whose need saving Postscript can install old PasteGra by unpacking this ZIP file.
+
+BaKoMa TeX checks existing external PasteGra, and launch it it is available.
+

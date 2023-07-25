@@ -1,0 +1,26 @@
+This fix (2015/05/08) is based on code base of V 10.81,
+which fixes auto reload of file changed by Sublime Text editor.
+
+This pack includes TeXWord.exe in both Win32 and Win64 builds
+
+It should work with version 10.80
+
+To apply the fix just unpack http://www.bakoma-tex.com/dist/x1080/fix/texword-sublime.zip 
+in BaKoMa TeX folder. 
+
+Check that the files 
+C:\BaKoMa TeX\BIN\Win32\TeXWord.exe
+C:\BaKoMa TeX\BIN\Win64\TeXWord.exe
+have been replaced. 
+
+Problem description:
+
+Sublime Text editor saves files in two steps: (1) clear file content (2) write file.
+As result TeXWord receives two events. In first event reloadable file is empty,
+but time/size stamp is eventually got from second event, that supress reload at second event.
+
+Problem solution:
+
+(1) synchroniztion of time/size stamp has been made more carefully.
+(2) suspend reloading of empty files.
+

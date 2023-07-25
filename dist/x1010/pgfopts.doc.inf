@@ -1,0 +1,14 @@
+:pgfopts.doc:x1010:0.124878:113062760:124085:A1D1-F1A4:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+pgfopts
+
+./doc/latex/pgfopts:
+pgfopts.pdf
+README

@@ -1,0 +1,13 @@
+:numericplots:x1000:0.040825:112090152:6690:3952-6CC6:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+numericplots
+
+./tex/latex/numericplots:
+NumericPlots.sty

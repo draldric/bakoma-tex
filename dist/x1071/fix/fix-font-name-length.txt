@@ -1,0 +1,20 @@
+This fix is based on code base of V 10.71,
+which extends limit for length of tfm/vf font name.
+
+This pack includes TeXWord.exe and DVIEW.exe in both Win32 and Win64 builds
+
+It should work with version 10.70
+It was also tested with version 10.65-150212
+It may work with previous versions but without warranty.
+V 10.71 and later already includes this fix.
+
+To apply the fix just unpack http://www.bakoma-tex.com/dist/x1071/fix/fix-font-name-length.zip 
+in BaKoMa TeX folder. 
+
+Check that the files 
+C:\BaKoMa TeX\BIN\Win32\TeXWord.exe
+C:\BaKoMa TeX\BIN\Win32\DVIEW.exe
+C:\BaKoMa TeX\BIN\Win64\TeXWord.exe
+C:\BaKoMa TeX\BIN\Win64\DVIEW.exe
+have been replaced. 
+

@@ -1,0 +1,14 @@
+:xpatch.source:x1040:0.030754:114050540:7199:5560-9C85:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xpatch
+
+./source/latex/xpatch:
+xpatch.dtx
+xpatch.ins

@@ -1,0 +1,11 @@
+:pst-pdgr.source:x1000:0.08186:112090152:16044:B45-6DCF:
+
+./:
+source
+
+./source:
+pst-pdgr
+
+./source/pst-pdgr:
+pst-pdgr.dtx
+pst-pdgr.ins

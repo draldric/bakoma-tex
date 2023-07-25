@@ -1,0 +1,13 @@
+:expl3.doc:x1040:8.1e-05:114050636:95:B048-4E01:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+expl3
+
+./doc/latex/expl3:
+readme.txt

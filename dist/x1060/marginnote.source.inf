@@ -1,0 +1,15 @@
+:marginnote.source:x1060:0.03685:114110856:9288:AFED-63A4:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+marginnote
+
+./source/latex/marginnote:
+marginnote.dtx
+marginnote.ins
+marginnote.log

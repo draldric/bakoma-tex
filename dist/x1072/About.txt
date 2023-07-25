@@ -1,0 +1,39 @@
+
+2015/03/24
+
+  1. Paint_Page/Paint_Zoom are incapsulated inside dviread.c
+    
+2015/03/25
+
+  2! Added /PageSize key to currentpagedevice 
+     Adobe Acrobat 10.1.13 uses following header:
+
+     ...
+     level2
+	{Adobe_AGM_Core/AGMCORE_Default_PageSize currentpagedevice/PageSize get put}if
+     ...	
+     Adobe_AGM_Core/AGMCORE_Default_PageSize get 0 get currentpagedevice/PageSize get 0 get eq and
+     Adobe_AGM_Core/AGMCORE_Default_PageSize get 1 get currentpagedevice/PageSize get 1 get eq and
+     ...
+
+     It is interesting that another keys are checked for existance, but /PageSize just got !!!
+
+     Anyway, adding the key solves the problem.    
+
+     In Changes history we can announce it as 'compatibility with PostScript saved by Acrobat 10'
+
+2015/03/27
+
+<li><b>[TODO]</b> [2015/03/27] Improved <b>TIKZ/PGF</b> compatibility.
+<br>Tech: Extended save limit from standard 15 to 255. Then reverted changing of save/restore to gsave/grestore. 
+<br>Problem history: TIKZ/PGF easielly overflow standard limit of 15 (taking into attention 
+2 extra saves for document and page). In this reason, we try to fix the problem 
+by replacement of save/restore to gsave/grestore, whose are less restrictive and faster !!!
+However, some bug reports has been appeared. So, that we extend the limit and revert fixes.
+See one: http://tex.stackexchange.com/questions/102979/uncover-parts-of-a-tree-in-tikz
+
+2015/03/30
+
+Handled imagemask with Pattern color space.
+I currently force using black color for it.
+

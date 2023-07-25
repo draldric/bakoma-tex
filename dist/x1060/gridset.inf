@@ -1,0 +1,13 @@
+:gridset:x1060:0.006401:114110856:1890:C094-9F3F:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+gridset
+
+./tex/latex/gridset:
+gridsetx.sty

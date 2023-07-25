@@ -1,0 +1,15 @@
+:pst-bspline.doc:x1000:0.214056:112090152:161329:34D7-928C:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+psr-bspline
+
+./doc/generic/psr-bspline:
+pst-bspline-doc.pdf
+pst-bspline-doc.tex
+README

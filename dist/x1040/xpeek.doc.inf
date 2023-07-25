@@ -1,0 +1,14 @@
+:xpeek.doc:x1040:0.608566:114050540:554005:E50B-CA46:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xpeek
+
+./doc/latex/xpeek:
+README
+xpeek.pdf

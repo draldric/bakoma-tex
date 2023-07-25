@@ -1,0 +1,11 @@
+:pst-optexp.source:x1000:0.624766:112090152:119035:81EF-D5F4:
+
+./:
+source
+
+./source:
+pst-optexp
+
+./source/pst-optexp:
+pst-optexp.dtx
+pst-optexp.ins

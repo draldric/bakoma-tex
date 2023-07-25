@@ -1,0 +1,13 @@
+:xpackages.doc:x1040:8.7e-05:114050636:91:2605-DA4F:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+xpackages
+
+./doc/latex/xpackages:
+readme.txt

@@ -1,0 +1,10 @@
+
+:dvips.all:x1060:0.028773:114111156:8730:58BE-8AB4:
+
+Fix following:
+
+1) Update\dvips.ini - new command supports spaces in file names (quotes added)
+
+2) texmf\misc\pdfmark.pro - avoids double cvn by checking type before 'cvn'
+   So, we avoid errors in attempt of converting generated PS into PDF by using Acrobat Distiller.
+

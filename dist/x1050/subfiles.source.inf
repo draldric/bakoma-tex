@@ -1,0 +1,15 @@
+:subfiles.source:x1050:0.015284:114090340:5061:A3A4-177B:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+subfiles
+
+./source/latex/subfiles:
+subfiles.dtx
+subfiles.ins
+subfiles.log

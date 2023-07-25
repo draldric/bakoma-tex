@@ -1,0 +1,16 @@
+:gridset.doc:x1060:0.127459:114110856:108193:B30-1A41:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+gridset
+
+./doc/latex/gridset:
+gridset.pdf
+gridsetexample.tex
+README
+VERSION

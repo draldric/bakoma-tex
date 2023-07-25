@@ -1,0 +1,24 @@
+Time Line 4-Aug-2014
+--------------------
+
+BaKoMa TeX 10.44:
+
+  *) Support of experimantal set of Win64
+
+     Most of user programs are linked with MSVC TDSearch-x86.dll (instead of TDSearch.dll)
+     Win64 programs are linked with TDSearch-x64.dll.
+
+  * PostLine/WIN32 is now recompiled by MSVC instead of BCC
+
+  * Recovering of not found PSKernel.VM - reset cache, then try again.
+
+  + Fix of template preview: approach of BKM:Buttons has been returned back
+    and dialog resources ("save document properties as defaults for another documents") 
+    now use BS_BUTTON with OWNERDRAW instead of BKM:Button.
+
+  + more robust check of installed perl (it is because *.PL may be associated with text editor)
+
+  - using/installing BIBER for biblatex ...
+    (Is it possible to keep it in main distribution ?)
+
+

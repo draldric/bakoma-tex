@@ -1,0 +1,13 @@
+:enumitem-zref:x1021:0.026128:113112204:6605:BB50-22B0:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+enumitem-zref
+
+./tex/latex/enumitem-zref:
+enumitem-zref.sty

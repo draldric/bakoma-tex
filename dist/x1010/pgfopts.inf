@@ -1,0 +1,13 @@
+:pgfopts:x1010:0.005753:113062760:1474:E518-86FF:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+pgfopts
+
+./tex/latex/pgfopts:
+pgfopts.sty

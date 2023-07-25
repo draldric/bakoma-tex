@@ -1,0 +1,57 @@
+
+As like as in previous version (9.81) :
+
+I have changed extensive use of save/restore
+to use gsave/grestore, which is more efficient.
+
+Looking source, I see that gsave/grestore is really needed.
+
+In advance:
+
+Also, I open use of pdfsavepos in DVIPS driver. 
+
+Fixes:
+
+./tex/generic/pgf/systemlayer
+
+Comparison of pgfsys-common-postscript.org-def and PGFSYS-COMMON-POSTSCRIPT.DEF
+***** pgfsys-common-postscript.org-def
+  101:  \def\pgfsys@beginscope{\pgfsysprotocol@literal{save}}
+  102:  \def\pgfsys@endscope{\pgfsysprotocol@literal{restore}}
+  103:  
+***** PGFSYS-COMMON-POSTSCRIPT.DEF
+  101:  \def\pgfsys@beginscope{\pgfsysprotocol@literal{gsave}}% BKM: was 'save'
+  102:  \def\pgfsys@endscope{\pgfsysprotocol@literal{grestore}}% BKM: was 'restore'
+  103:  
+*****
+
+Comparing files pgfsys-dvips.def-org and PGFSYS-DVIPS.DEF
+***** pgfsys-dvips.def-org
+   96:  %
+   97:  \ifx\pdftexversion\@undefined
+   98:  \else
+   99:    \ifnum\pdftexversion>139
+  100:  
+***** PGFSYS-DVIPS.DEF
+   96:  %
+   97:  %\ifx\pdftexversion\@undefined % BKM-
+   98:  %\else                         % BKM-
+   99:  %  \ifnum\pdftexversion>139    % BKM-
+  100:  
+  101:  \ifx\pdfsavepos\@undefined     % BKM: we check only feature, instead of software ...
+  102:  \else
+  103:  
+*****
+
+***** pgfsys-dvips.def-org
+  118:  
+  119:    \fi
+  120:  \fi
+***** PGFSYS-DVIPS.DEF
+  121:  
+  122:  %  \fi % BKM-
+  123:  \fi
+*****
+
+NOTE: We do not truncate folder names (unlike previous version) to fit them into 100 characters limit.
+      It may be so, that we have installer with extended buffers or new pgf have shorte dirs ...

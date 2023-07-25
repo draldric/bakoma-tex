@@ -1,0 +1,11 @@
+This fix is based on code base of V 10.51,
+which fixes buffer overflow in case of href value > 256.
+
+See test: (http://www.e-publications.org/ims/support/bj-instructions.html)
+
+This pack includes dview.exe, texword.exe, tdsearch-x86,dll and wxWidgets 3.0
+
+I think it also, will work with all version from 10.0 upto 10.20
+
+NOTE: V 10.30 ... 10.40 already have wxWidgets 3.0
+      V 10.50 assumes free upgrade to V 10.51

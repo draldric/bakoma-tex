@@ -1,0 +1,29 @@
+This fix is based on repository of V 10.51,
+which fixes bug in msam5 font description.
+
+This pack includes msam5.pfb
+
+It may be applied to any version before 10.51 (which already includes the fix)
+
+To apply the fix just unpack http://www.bakoma-tex.com/dist/x1051/fix/msam5-fix.zip
+in BaKoMa TeX folder. 
+
+Check that the file 
+C:\BaKoMa TeX\TEXMF\fonts\type1\BaKoMa\ams\msam5.pfb 
+has been replaced. 
+
+Restart program to check effect.
+
+--- Fix itself ---
+
+Comparing files MSAM5.asm-bug and MSAM5.ASM-FIXED
+***** MSAM5.asm-bug
+/squiggleleftright {
+        125 -32285 18 div
+        hsbw
+***** MSAM5.ASM-FIXED
+/squiggleleftright {
+        125 33250 18 div
+        hsbw
+*****
+

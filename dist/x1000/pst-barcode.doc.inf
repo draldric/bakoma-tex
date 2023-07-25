@@ -1,0 +1,12 @@
+:pst-barcode.doc:x1000:0.308456:112090152:188204:8E09-2101:
+
+./:
+doc
+
+./doc:
+Changes
+Makefile
+pst-barcode-doc.bib
+pst-barcode-doc.pdf
+pst-barcode-doc.tex
+README

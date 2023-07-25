@@ -1,0 +1,25 @@
+This fix is based on repository of V 10.51,
+which fixes bug of SaveAs in Centaur/TeXCode program
+[TAB is of renamed fiel is disappeared]
+
+This pack include teh file: BaKoMa\TeXCode\Centaur.ctr.
+
+It may be applied to version from 10.0 to before 10.50 (later versions already include the fix)
+
+To apply the fix just unpack http://www.bakoma-tex.com/dist/x1051/fix/texcode-saveas-fix.zip 
+in BaKoMa TeX folder. 
+
+Check that the file 
+C:\BaKoMa TeX\TEXMF\fonts\type1\BaKoMa\TeXCode\Centaur.ctr
+has been replaced. 
+
+Restart program to check effect.
+
+--- Fix itself ---
+
+/SaveAs...
+...
+	     % 2014/11/05 fix of disappearing TAB ...
+	     %detachview DefaultView attachview
+	     currentbuffer detachview $loadbuffer { DefaultView attachview } if 
+

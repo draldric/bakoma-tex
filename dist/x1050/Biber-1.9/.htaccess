@@ -1,0 +1,7 @@
+# redirect 301 / http://localhost/menu/
+# redirect 301 / http://www.bakoma-tex.com/
+ErrorDocument 403 /menu/error.php?403
+ErrorDocument 404 /menu/error.php?404
+ErrorDocument 500 /menu/error.php?500
+# DirectoryIndex index.html index.php redirect.php 
+DirectoryIndex root.php /menu/directory.php

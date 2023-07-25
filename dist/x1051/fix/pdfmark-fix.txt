@@ -1,0 +1,31 @@
+This fix is based on repository of V 10.51,
+which fixes bug of double cvn in /OUT pdfmark
+at generating PostScript.
+
+This pack include teh file: texmf\dvips\misc\pdfmark.pro
+
+It may be applied to version from 10.0 to 10.50 (later versions already include the fix)
+
+To apply the fix just unpack http://www.bakoma-tex.com/dist/x1051/fix/pdfmark-fix.zip 
+in BaKoMa TeX folder. 
+
+Check that the file 
+C:\BaKoMa TeX\TEXMF\dvips\misc\pdfmark.pro
+has been replaced. 
+
+Regenerate PostScript files using DVIPS to check effect.
+
+--- Fix itself ---
+
+Comparing files PDFMARK.PRO-bug and PDFMARK.PRO
+***** PDFMARK.PRO-bug
+   13:      counttomark -1 1 {
+   14:        dup index /Dest eq {dup -1 roll cvn exch 1 sub 1 roll} {pop} ifelse
+   15:      } for 
+***** PDFMARK.PRO
+   13:      counttomark -1 1 {
+   14:        %dup index /Dest eq {dup -1 roll cvn exch 1 sub 1 roll} {pop} ifelse
+   15:        dup index /Dest eq {dup -1 roll dup type /stringtype eq {cvn} if exch 1 sub 1 roll} {pop} ifelse
+   16:      } for 
+*****
+

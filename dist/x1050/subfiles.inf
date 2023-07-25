@@ -1,0 +1,14 @@
+:subfiles:x1050:0.003169:114090340:924:9182-D8AC:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+subfiles
+
+./tex/latex/subfiles:
+subfiles.cls
+subfiles.sty

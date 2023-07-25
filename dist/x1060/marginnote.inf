@@ -1,0 +1,13 @@
+:marginnote:x1060:0.013673:114110856:2994:2FE4-608E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+marginnote
+
+./tex/latex/marginnote:
+marginnote.sty

@@ -1,0 +1,13 @@
+:xpackages:x1040:8.7e-05:114050636:88:9FBC-73CD:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xpackages
+
+./tex/latex/xpackages:
+readme.txt

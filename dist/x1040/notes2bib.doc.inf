@@ -1,0 +1,14 @@
+:notes2bib.doc:x1040:0.199567:114050540:198872:B147-95BA:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+notes2bib
+
+./doc/latex/notes2bib:
+notes2bib.pdf
+README

@@ -1,0 +1,21 @@
+
+
+New version of PSTricks has option 'pdf' invoking auto-pst-pdf package.
+This option is unuseful under BaKoMa TeX as under any non-pdftex engines.
+Furthermore, this option conflicts with Prosper 'pdf' option !!!
+
+In this reason, we make small fix in pstricks.sty file:
+
+=======================================================
+Comparing files pstricks.org-sty and PSTRICKS.STY
+***** pstricks.org-sty
+   38:  \newif\ifpst@PDF\pst@PDFfalse
+   39:  \DeclareOption{pdf}{\global\pst@PDFtrue}
+   40:  %------------------------------------ PLAIN --------------------------------
+***** PSTRICKS.STY
+   38:  \newif\ifpst@PDF\pst@PDFfalse
+   39:  \DeclareOption{pdf}{\ifx\pdfoutput\undefined\else\global\pst@PDFtrue\fi} % BaKoMa
+   40:  %------------------------------------ PLAIN --------------------------------
+*****
+=======================================================
+

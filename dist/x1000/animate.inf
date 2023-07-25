@@ -1,0 +1,16 @@
+:animate:x1000:0.247429:112090236:21470:1B85-90A1:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+animate
+
+./tex/latex/animate:
+animate.diff
+animate.org-sty
+animate.sty
+animfp.sty

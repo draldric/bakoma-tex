@@ -1,0 +1,43 @@
+
+TODO:
+
+   postwin.exe must be done with VS2010 and tested.
+   ttf2ps.exe build with vs2010 should be tested.
+
+V 10.65: ...
+
+   In addition to visible changes
+
+   Source has been refactorized, moving some globals into TeXView members.
+   These changes are logical and may be suitable for future when several TeXView's 
+   may be launched ...
+
+   However, these changes must be tested well...
+
+V 10.62: Commonly this version is intended for Mac ...
+
+2014/11/26:
+
+   afminfo.exe has been recompiled using VS2010 for Win32 and Win64
+
+   Shift+Page[Up/Down] is added to Centaur and TeXWord Source Files window (was requested).
+
+2014/12/18: 
+
+  BibEdit has been refined for handling empty BIB-files ...  
+
+2014/12/21:
+
+  Centaur: File/New from Template - fixed that tab has been switched back after dialog closing ...
+  It is probably because at dialog closign focus has been returned back when dialog openning.
+  Such that any focus changes inside dialog are locked. 
+
+  It is real dilema ...
+
+  Currently we fix Template chooser such that it restores currently creating fiel
+  after such perturbations ...
+
+  Most crucial question will extra call to findfile destroy TeXWord ?
+  It looks such that TeXWord eats extra findfile without noticeable problems ...
+
+  TEST IT MORE !!!

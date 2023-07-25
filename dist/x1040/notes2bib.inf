@@ -1,0 +1,13 @@
+:notes2bib:x1040:0.019926:114050540:3654:CE20-2F8D:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+notes2bib
+
+./tex/latex/notes2bib:
+notes2bib.sty

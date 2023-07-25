@@ -1,0 +1,16 @@
+:csquotes.doc:x1060:0.373114:114110752:272671:3292-13E:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+csquotes
+
+./doc/latex/csquotes:
+csquotes.pdf
+csquotes.tex
+README
+RELEASE

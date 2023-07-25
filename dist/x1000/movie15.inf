@@ -1,0 +1,13 @@
+:movie15:x1000:0.158194:112071636:23081:70E6-5C6C:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+movie15
+
+./tex/latex/movie15:
+movie15.sty

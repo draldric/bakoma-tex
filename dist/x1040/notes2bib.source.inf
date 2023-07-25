@@ -1,0 +1,13 @@
+:notes2bib.source:x1040:0.057802:114050540:14062:4CBA-A38A:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+notes2bib
+
+./source/latex/notes2bib:
+notes2bib.dtx

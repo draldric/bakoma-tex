@@ -1,0 +1,46 @@
+
+Changes ...
+
+1) Updated TeX and eTeX
+2) e-TeX extension - pdfsavepos
+4) Handling space in filename via masking it to HARD SPACE (160)
+
+Updated packages:
+
+1) csquotes - just update (used by biblatex)
+2) ams.bkz - fixed with in msam5.pfb 
+
+pdfsavepos is used by set of packages:
+--------------------------------------
+
+Updated packages:
+
++1) pgf - last recent version, 
+    Fixes: (a) save -> gsave (like previous) 
+ 	   (b) using pdfsavepos in DVIPS driver.
+
++2) linegoal - works well, it also get zref-savepos
+
+?3) pxpgfmark - forces PGF/DVIPDFM driver to use pdfsavepos (should be supported if used)
+
+?4) bezos/soulpos.sty, 
+
+?5) gridset, 
+
+?6) marginnote - it also will work without pdfmode ...
+
+?   fancytooltips, 
+
+?   koma-script/scrlayer-notecolumn.sty, 
+
+Already included upto date packages:
+
+?1) (10.0) oberdiek/tabularht.sty/zref-dotfill.sty/zref-savepos.sty, (A new reference scheme for LaTeX).
+=2) (9.0) t-angles - pdftex is one of drivers, others TPIC, EMTEX should work without problem.
+?3) (9.0) changebar  - uses DVIPS driver by default, such that using pdfsavepos is avoided.
+
+Some packages are out interest:
+
+- pdfsync - has no sense with BaKoMa (BaKoMa Sync work much better and transparently)
+- unravel - testing software .
+

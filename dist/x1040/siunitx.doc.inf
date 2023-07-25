@@ -1,0 +1,14 @@
+:siunitx.doc:x1040:0.582095:114050540:570462:54F4-2223:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+siunitx
+
+./doc/latex/siunitx:
+README
+siunitx.pdf

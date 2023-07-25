@@ -1,0 +1,14 @@
+:logreq:x1050:0.007891:114090340:2484:E60F-84C8:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+logreq
+
+./tex/latex/logreq:
+logreq.def
+logreq.sty

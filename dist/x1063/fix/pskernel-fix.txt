@@ -1,0 +1,19 @@
+This fix is based on code base of V 10.63,
+which fixes error in expansion of single '$'.
+
+This pack includes BaKoMa\pskernel.vm
+
+It si intended for V 10.60, 10.61, 10.62 only.
+
+To apply the fix just unpack http://www.bakoma-tex.com/dist/x1063/fix/pskernel-fix.zip 
+in BaKoMa TeX folder. 
+
+Check that the file 
+C:\BaKoMa TeX\BaKoMa\pskernel.vm 
+has been replaced. 
+
+try to reuse the function to check effect.
+
+--- Fix itself ---
+
+Single '$' just passed to output.

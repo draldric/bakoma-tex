@@ -1,0 +1,13 @@
+:xpeek:x1040:0.002348:114050540:949:7323-37E:
+
+./:
+tex
+
+./tex:
+latex
+
+./tex/latex:
+xpeek
+
+./tex/latex/xpeek:
+xpeek.sty

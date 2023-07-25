@@ -1,0 +1,13 @@
+:xpeek.source:x1040:0.022139:114050540:6799:9C7C-CA77:
+
+./:
+source
+
+./source:
+latex
+
+./source/latex:
+xpeek
+
+./source/latex/xpeek:
+xpeek.dtx

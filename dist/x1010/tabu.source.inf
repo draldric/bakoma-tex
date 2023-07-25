@@ -1,0 +1,11 @@
+:tabu.source:x1010:0.356659:113090412:76392:2273-1495:
+
+./:
+source
+
+./source:
+tabu
+
+./source/tabu:
+tabu.dtx
+tabu.ins

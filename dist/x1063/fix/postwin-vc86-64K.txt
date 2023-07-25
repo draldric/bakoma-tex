@@ -1,0 +1,20 @@
+This fix is based on code base of V 10.63,
+which fixes buffer name pool overflow in PostWin.
+
+This pack includes postwin.exe, tdsearch-x86.dll
+
+I think it will work with all versions from 10.0 upto 10.20
+
+To apply the fix just unpack http://www.bakoma-tex.com/dist/x1063/fix/postwin-vc86-64K.zip
+in BaKoMa TeX folder. 
+
+Check that the file 
+C:\BaKoMa TeX\BIN\Win32\PostWin.exe
+has been replaced. 
+
+try to reuse the function to check effect.
+
+--- Fix itself ---
+
+1) Pool Name has been extended from 32K to 64K
+2) PostWin has been rebuild by using VS 2010 instead of BC 5.0

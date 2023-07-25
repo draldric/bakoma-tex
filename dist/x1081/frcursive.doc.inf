@@ -1,0 +1,15 @@
+:frcursive.doc:x1081:0.333418:115060356:324092:D8A0-AEC:
+
+./:
+doc
+
+./doc:
+fonts
+
+./doc/fonts:
+frcursive
+
+./doc/fonts/frcursive:
+COPYING
+frcursive.pdf
+README

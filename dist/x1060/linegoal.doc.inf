@@ -1,0 +1,12 @@
+:linegoal.doc:x1060:0.193953:114110752:138077:1789-5B1D:
+
+./:
+doc
+
+./doc:
+linegoal
+
+./doc/linegoal:
+linegoal.pdf
+README
+test.tex

@@ -1,0 +1,14 @@
+:subfiles.doc:x1045:0.05504:114082492:53430:6B-3B54:
+
+./:
+doc
+
+./doc:
+latex
+
+./doc/latex:
+subfiles
+
+./doc/latex/subfiles:
+README
+subfiles.pdf

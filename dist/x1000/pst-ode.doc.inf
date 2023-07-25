@@ -1,0 +1,17 @@
+:pst-ode.doc:x1000:0.142772:112090152:106624:8158-670A:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+pst-ode
+
+./doc/generic/pst-ode:
+lorenz.tex
+ode.tex
+particle.tex
+pst-ode-doc.pdf
+pst-ode-doc.tex

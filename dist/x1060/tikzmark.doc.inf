@@ -1,0 +1,15 @@
+:tikzmark.doc:x1060:0.439975:114111064:415828:CEF3-1A71:
+
+./:
+doc
+
+./doc:
+generic
+
+./doc/generic:
+tikzmark
+
+./doc/generic/tikzmark:
+README
+tikzmark.dtx
+tikzmark.pdf
