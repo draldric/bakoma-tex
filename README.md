@@ -1,3 +1,7 @@
+Website: https://bakoma-tex.daniel-aldrich.ca/
+
+Discord Support Server: https://discord.gg/kY4WSmuzx8
+
 ## HOW TO FIX PACKAGE UPDATE
 
 1. Navigate to: **C:\BaKoMa.TeX\Update**
